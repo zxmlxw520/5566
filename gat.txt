@@ -4194,7 +4194,6 @@ Runningman,http://113.45.240.129:35455/douyu/131977
 勿相信任何广告,https://us-xpc11.xpccdn.com/be8aea8f-295a-4d97-a3af-ce07603e22ef.mp4$防诈骗
 勿相信任何广告,https://us-xpc11.xpccdn.com/be8aea8f-295a-4d97-a3af-ce07603e22ef.mp4$防诈骗
 哪吒2闹海超清,https://vip.dytt-kan.com/20250802/3080_a9986cb0/index.m3u8
-好朋友电影之1,#genre#
 动作片-打黑,https://hd.ijycnd.com/play/Xe062L5b/index.m3u8
 动作片-尼斯警花,https://hd.ijycnd.com/play/YaOrZ4Le/index.m3u8
 动作片-钻石女王,https://hd.ijycnd.com/play/9aA51nPa/index.m3u8
@@ -4695,7 +4694,7 @@ Runningman,http://113.45.240.129:35455/douyu/131977
 动作片-警醒（粤语版）,https://hd.ijycnd.com/play/BeXnV4Wb/index.m3u8
 动作片-狙击职业杀手（粤语版）,https://hd.ijycnd.com/play/Xe0O3Qvd/index.m3u8
 动作片-巨齿鲨（粤语版）,https://hd.ijycnd.com/play/nelD6r5e/index.m3u8
-好朋友电影之2,#genre#
+
 动作片-狂暴巨兽（粤语版）,https://hd.ijycnd.com/play/1aMoB33d/index.m3u8
 动作片-狂野之河（粤语版）,https://hd.ijycnd.com/play/qaQvL9Yb/index.m3u8
 动作片-猎神：冬日之战（粤语版）,https://hd.ijycnd.com/play/nelD6q6e/index.m3u8
@@ -5025,12 +5024,12 @@ Runningman,http://113.45.240.129:35455/douyu/131977
 动画片-龙战,https://hd.ijycnd.com/play/vbmwGlGe/index.m3u8
 动画片-续·终物语 続・終物語,https://hd.ijycnd.com/play/vbmwGO0e/index.m3u8
 
-剧情片-F1：狂飙飞车,https://hd.ijycnd.com/play/RdGDqmLe/index.m3u8
-动作片-脱离罪恶,https://hd.ijycnd.com/play/5eVYM3Md/index.m3u8
-恐怖片-兽性,https://hd.ijycnd.com/play/lejx4xzb/index.m3u8
-喜剧片-科琳娜,https://hd.ijycnd.com/play/RdGDqGQe/index.m3u8
-记录片-鲨语者,https://hd.ijycnd.com/play/QeZ3MGJa/index.m3u8
-动作片-黑手党战争,https://hd.ijycnd.com/play/DdwOL7Md/index.m3u8
+F1：狂飙飞车,https://hd.ijycnd.com/play/RdGDqmLe/index.m3u8
+-脱离罪恶,https://hd.ijycnd.com/play/5eVYM3Md/index.m3u8
+-兽性,https://hd.ijycnd.com/play/lejx4xzb/index.m3u8
+科琳娜,https://hd.ijycnd.com/play/RdGDqGQe/index.m3u8
+-鲨语者,https://hd.ijycnd.com/play/QeZ3MGJa/index.m3u8
+黑手党战争,https://hd.ijycnd.com/play/DdwOL7Md/index.m3u8
 南京照相馆,https://cdn.yzzy29-play.com/20250728/431_66368270/index.m3u8
 驯龙高手,https://m3u8.vhmzy.com/videos/202507/16/687736e26de0eb431f591238/505ae8/index.m3u8
 超人,https://hn.bfvvs.com/play/0dNNN5Nd/index.m3u8
