@@ -680,57 +680,7 @@ CCTV17,http://116.232.150.101:6000/tsfile/live/0001_16.m3u8?key=txiptv&playlive=
 第一财经,http://116.232.150.101:6000/tsfile/live/0001_49.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 
 CCTV1,http://153.3.11.138:9003/hls/1/index.m3u8$江苏南京联通优质
-CCTV2,http://153.3.11.138:9003/hls/2/index.m3u8$江苏南京联通
-CCTV3,http://153.3.11.138:9003/hls/3/index.m3u8$江苏南京联通
-CCTV4,http://153.3.11.138:9003/hls/4/index.m3u8$江苏南京联通
-CCTV5,http://153.3.11.138:9003/hls/5/index.m3u8$江苏南京联通
-CCTV6,http://153.3.11.138:9003/hls/6/index.m3u8$江苏南京联通
-CCTV7,http://153.3.11.138:9003/hls/7/index.m3u8$江苏南京联通
-CCTV8,http://153.3.11.138:9003/hls/8/index.m3u8$江苏南京联通
-CCTV9,http://153.3.11.138:9003/hls/9/index.m3u8$江苏南京联通
-CCTV10,http://153.3.11.138:9003/hls/10/index.m3u8$江苏南京联通
-CCTV11,http://153.3.11.138:9003/hls/11/index.m3u8$江苏南京联通
-CCTV12,http://153.3.11.138:9003/hls/12/index.m3u8$江苏南京联通
-CCTV13,http://153.3.11.138:9003/hls/13/index.m3u8$江苏南京联通
-CCTV14,http://153.3.11.138:9003/hls/14/index.m3u8$江苏南京联通
-CCTV15,http://153.3.11.138:9003/hls/15/index.m3u8$江苏南京联通
-江苏卫视,http://153.3.11.138:9003/hls/16/index.m3u8$江苏南京联通
-江苏城市,http://153.3.11.138:9003/hls/17/index.m3u8$江苏南京联通
-江苏综艺,http://153.3.11.138:9003/hls/18/index.m3u8$江苏南京联通
-江苏体育,http://153.3.11.138:9003/hls/19/index.m3u8$江苏南京联通
-江苏影视,http://153.3.11.138:9003/hls/20/index.m3u8$江苏南京联通
-江苏公共新闻,http://153.3.11.138:9003/hls/21/index.m3u8$江苏南京联通
-江苏国际,http://153.3.11.138:9003/hls/22/index.m3u8$江苏南京联通
-东方卫视,http://153.3.11.138:9003/hls/23/index.m3u8$江苏南京联通
-北京卫视,http://153.3.11.138:9003/hls/24/index.m3u8$江苏南京联通
-浙江卫视,http://153.3.11.138:9003/hls/25/index.m3u8$江苏南京联通
-辽宁卫视,http://153.3.11.138:9003/hls/26/index.m3u8$江苏南京联通
-安徽卫视,http://153.3.11.138:9003/hls/27/index.m3u8$江苏南京联通
-山东卫视,http://153.3.11.138:9003/hls/28/index.m3u8$江苏南京联通
-湖南卫视,http://153.3.11.138:9003/hls/29/index.m3u8$江苏南京联通
-广东卫视,http://153.3.11.138:9003/hls/30/index.m3u8$江苏南京联通
-广西卫视,http://153.3.11.138:9003/hls/31/index.m3u8$江苏南京联通
-海南卫视,http://153.3.11.138:9003/hls/32/index.m3u8$江苏南京联通
-重庆卫视,http://153.3.11.138:9003/hls/33/index.m3u8$江苏南京联通
-四川卫视,http://153.3.11.138:9003/hls/34/index.m3u8$江苏南京联通
-河南卫视,http://153.3.11.138:9003/hls/35/index.m3u8$江苏南京联通
-东南卫视,http://153.3.11.138:9003/hls/36/index.m3u8$江苏南京联通
-天津卫视,http://153.3.11.138:9003/hls/37/index.m3u8$江苏南京联通
-江西卫视,http://153.3.11.138:9003/hls/38/index.m3u8$江苏南京联通
-湖北卫视,http://153.3.11.138:9003/hls/39/index.m3u8$江苏南京联通
-吉林卫视,http://153.3.11.138:9003/hls/40/index.m3u8$江苏南京联通
-黑龙江卫视,http://153.3.11.138:9003/hls/41/index.m3u8$江苏南京联通
-山西卫视,http://153.3.11.138:9003/hls/42/index.m3u8$江苏南京联通
-贵州卫视,http://153.3.11.138:9003/hls/43/index.m3u8$江苏南京联通
-青海卫视,http://153.3.11.138:9003/hls/44/index.m3u8$江苏南京联通
-深圳卫视,http://153.3.11.138:9003/hls/45/index.m3u8$江苏南京联通
-云南卫视,http://153.3.11.138:9003/hls/46/index.m3u8$江苏南京联通
-河北卫视,http://153.3.11.138:9003/hls/47/index.m3u8$江苏南京联通
-宁夏卫视,http://153.3.11.138:9003/hls/48/index.m3u8$江苏南京联通
-甘肃卫视,http://153.3.11.138:9003/hls/49/index.m3u8$江苏南京联通
-新疆卫视,http://153.3.11.138:9003/hls/50/index.m3u8$江苏南京联通
-内蒙古卫视,http://153.3.11.138:9003/hls/51/index.m3u8$江苏南京联通
-优漫卡通,http://153.3.11.138:9003/hls/60/index.m3u8$江苏南京联通
+
 
 CCTV1,http://123.113.70.190:2321/rtp/239.3.1.129:8008$北京联通
 CCTV2,http://123.113.70.190:2321/rtp/239.3.1.60:8084$北京联通
@@ -1496,197 +1446,115 @@ CCTV17,http://118.81.194.174:9003/hls/18/index.m3u8
 CQTV移动,http://124.162.85.150:4022/udp/225.0.4.215:7980
 
 📺电信4K,#genre#
-广东卫视4K,http://124.116.170.138:8081/rtp/239.111.205.103:5140?$3840x2160 
-深圳卫视4K,http://124.116.170.138:8081/rtp/239.111.205.104:5140?$3840x2160
-北京卫视4K,http://124.116.170.138:8081/rtp/239.111.205.51:5140?$3840x2160
-湖南卫视4K,http://124.116.170.138:8081/rtp/239.111.205.63:5140?$3840x2160
-浙江卫视4K,http://124.116.170.138:8081/rtp/239.111.205.65:5140?$3840x2160
-江苏卫视4K,http://124.116.170.138:8081/rtp/239.111.205.64:5140?$3840x2160
-东方卫视4K,http://124.116.170.138:8081/rtp/239.111.205.67:5140?$3840x2160
-广东卫视4K,http://124.116.170.138:8081/rtp/239.111.205.103:5140?$3840x2160
-深圳卫视4K,http://124.116.170.138:8081/rtp/239.111.205.104:5140?$3840x2160
-四川卫视4K,http://124.116.170.138:8081/rtp/239.111.205.62:5140?$3840x2160
-山东卫视4K,http://124.116.170.138:8081/rtp/239.111.205.66:5140?$3840x2160
+湖南卫视4K,http://124.116.170.138:8081/rtp/239.111.205.63:5140?$陕西/咸阳/电信
+浙江卫视4K,http://124.116.170.138:8081/rtp/239.111.205.65:5140?$陕西/咸阳/电信
+江苏卫视4K,http://124.116.170.138:8081/rtp/239.111.205.64:5140?$陕西/咸阳/电信
+东方卫视4K,http://124.116.170.138:8081/rtp/239.111.205.67:5140?$陕西/咸阳/电信
+广东卫视4K,http://124.116.170.138:8081/rtp/239.111.205.103:5140?$陕西/咸阳/电信 
+深圳卫视4K,http://124.116.170.138:8081/rtp/239.111.205.104:5140?$陕西/咸阳/电信
+北京卫视4K,http://124.116.170.138:8081/rtp/239.111.205.51:5140?$陕西/咸阳/电信
+广东卫视4K,http://124.116.170.138:8081/rtp/239.111.205.103:5140?$陕西/咸阳/电信
+深圳卫视4K,http://124.116.170.138:8081/rtp/239.111.205.104:5140?$陕西/咸阳/电信
+四川卫视4K,http://124.116.170.138:8081/rtp/239.111.205.62:5140?$陕西/咸阳/电信
+山东卫视4K,http://124.116.170.138:8081/rtp/239.111.205.66:5140?$陕西/咸阳/电信
 
 🚀港澳台,#genre#
-凤凰卫视中文台,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
-凤凰卫视资讯台,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
-凤凰卫视香港台,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
-翡翠台,http://t.061899.xyz/tl/js/js.php?id=tvbfct
-无线新闻台,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
-明珠台,http://t.061899.xyz/tl/js/js.php?id=tvbmzt
+凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
+凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
+凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
+TVB翡翠,http://t.061899.xyz/tl/js/js.php?id=tvbfct
+无线新闻,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
+TVB明珠,http://t.061899.xyz/tl/js/js.php?id=tvbmzt
 
-凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=60
-凤凰资讯,http://iptv.4666888.xyz/iptv2A.php?id=61
-凤凰香港,http://iptv.4666888.xyz/iptv2A.php?id=62
-TVB翡翠,http://iptv.4666888.xyz/iptv2A.php?id=63
-TVB_PULS,http://iptv.4666888.xyz/iptv2A.php?id=64
-TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=66
-TVB无线新闻,http://iptv.4666888.xyz/iptv2A.php?id=65
-TVB生活,http://iptv.4666888.xyz/iptv2A.php?id=67
-TVB星河(粤),http://iptv.4666888.xyz/iptv2A.php?id=68
-TVB星河(国),http://iptv.4666888.xyz/iptv2A.php?id=69
-TVB武侠粤,http://iptv.4666888.xyz/iptv2A.php?id=9
-TVB武侠国,http://iptv.4666888.xyz/iptv2A.php?id=10
-TVB1,http://iptv.4666888.xyz/iptv2A.php?id=70
-TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=71
-TVBE,http://iptv.4666888.xyz/iptv2A.php?id=75
-TVB翡翠剧集,http://iptv.4666888.xyz/iptv2A.php?id=72
-TVB明珠剧集,http://iptv.4666888.xyz/iptv2A.php?id=73
-TVB新闻娱乐,http://iptv.4666888.xyz/iptv2A.php?id=74
-TVB千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=76
-TVB黄金华剧,http://iptv.4666888.xyz/iptv2A.php?id=80
-Now新闻,http://iptv.4666888.xyz/iptv2A.php?id=81
-Now财经,http://iptv.4666888.xyz/iptv2A.php?id=82
-Now财经,http://iptv.4666888.xyz/iptv2A.php?id=83
-Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
-VIU剧集,http://iptv.4666888.xyz/iptv2A.php?id=85
-Now爆谷,http://iptv.4666888.xyz/iptv2A.php?id=6
-Now星影,http://iptv.4666888.xyz/iptv2A.php?id=7
-HOY76,http://iptv.4666888.xyz/iptv2A.php?id=87
-HOY77,http://iptv.4666888.xyz/iptv2A.php?id=88
-HOY78,http://iptv.4666888.xyz/iptv2A.php?id=89
-VIUTV,http://iptv.4666888.xyz/iptv2A.php?id=90
-viutv6,http://iptv.4666888.xyz/iptv2A.php?id=91
-RHK31,http://iptv.4666888.xyz/iptv2A.php?id=92
-RHK32,http://iptv.4666888.xyz/iptv2A.php?id=93
-mytvsuper亚洲剧,http://iptv.4666888.xyz/iptv2A.php?id=94
-mytvsuper黄金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=95
-mytvsuper黄金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=96
-mytvsuper经典,http://iptv.4666888.xyz/iptv2A.php?id=97
-mytvsuper华剧,http://iptv.4666888.xyz/iptv2A.php?id=98
-mytvsuper少儿,http://iptv.4666888.xyz/iptv2A.php?id=99
-mytvsuper戏典,http://iptv.4666888.xyz/iptv2A.php?id=100
-mytvsuper粤语片,http://iptv.4666888.xyz/iptv2A.php?id=101
-mytvsuper华剧,http://iptv.4666888.xyz/iptv2A.php?id=102
-天映经典,http://iptv.4666888.xyz/iptv2A.php?id=77
-天映经典,http://iptv.4666888.xyz/iptv2A.php?id=78
-PopC,http://iptv.4666888.xyz/iptv2A.php?id=5
-美亚电影国,http://iptv.4666888.xyz/iptv2A.php?id=11
-美亚电影粤,http://iptv.4666888.xyz/iptv2A.php?id=12
-中国电影,http://iptv.4666888.xyz/iptv2A.php?id=13
-有线18,http://iptv.4666888.xyz/iptv2A.php?id=29
-无线18,http://iptv.4666888.xyz/iptv2A.php?id=37
-88赛马,http://iptv.4666888.xyz/iptv2A.php?id=38
-astro aod,http://iptv.4666888.xyz/iptv2A.php?id=174
-astro欢喜,http://iptv.4666888.xyz/iptv2A.php?id=175
-HUB娱家,http://iptv.4666888.xyz/iptv2A.php?id=176
-HUB都会,http://iptv.4666888.xyz/iptv2A.php?id=177
-新时代1,http://iptv.4666888.xyz/iptv2A.php?id=178
-新时代2,http://iptv.4666888.xyz/iptv2A.php?id=179
+凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文
+凤凰资讯,http://iptv.4666888.xyz/iptv2A.php?id=凤凰资讯
+凤凰香港,http://iptv.4666888.xyz/iptv2A.php?id=凤凰香港
+TVB翡翠,http://iptv.4666888.xyz/iptv2A.php?id=TVB翡翠
+TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=TVB明珠
+TVBPLUS,http://iptv.4666888.xyz/iptv2A.php?id=TVBPLUS
+NOW新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
+VIUTV,http://iptv.4666888.xyz/iptv2A.php?id=VIUTV
+TVB千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=TVB千禧经典
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=TVB1
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=TVBJ1
+中天新闻,http://iptv.4666888.xyz/iptv2A.php?id=中天新闻
+星空卫视,http://iptv.4666888.xyz/iptv2A.php?id=星空卫视
+重温经典,http://iptv.4666888.xyz/iptv2A.php?id=重温经典
+八度空间,http://iptv.4666888.xyz/iptv2A.php?id=八度空间
+综艺玩很大,http://iptv.4666888.xyz/iptv2A.php?id=综艺玩很大
+爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=爱奇艺
+TVBS台剧,http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
+纬来戏剧,http://iptv.4666888.xyz/iptv2A.php?id=纬来戏剧
 
-台湾频道 #genre#
-TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=145
-中天新闻,http://iptv.4666888.xyz/iptv2A.php?id=141
-非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=122
-寰宇新闻,http://iptv.4666888.xyz/iptv2A.php?id=123
-华视新闻,http://iptv.4666888.xyz/iptv2A.php?id=117
-民视新闻,http://iptv.4666888.xyz/iptv2A.php?id=109
-公视,http://iptv.4666888.xyz/iptv2A.php?id=107
-民视,http://iptv.4666888.xyz/iptv2A.php?id=108
-台视,http://iptv.4666888.xyz/iptv2A.php?id=113
-华艺中文,http://iptv.4666888.xyz/iptv2A.php?id=156
-八八第一,http://iptv.4666888.xyz/iptv2A.php?id=143
-八大精彩,http://iptv.4666888.xyz/iptv2A.php?id=144
-TVBS精彩,http://iptv.4666888.xyz/iptv2A.php?id=146
-TVBS欢乐,http://iptv.4666888.xyz/iptv2A.php?id=147
-中视经典,http://iptv.4666888.xyz/iptv2A.php?id=103
-民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=110
-民视旅游,http://iptv.4666888.xyz/iptv2A.php?id=111
-民视综艺,http://iptv.4666888.xyz/iptv2A.php?id=112
-台视综合,http://iptv.4666888.xyz/iptv2A.php?id=114
-台视财经,http://iptv.4666888.xyz/iptv2A.php?id=115
-年代MUCH,http://iptv.4666888.xyz/iptv2A.php?id=121
-东森LIVE,http://iptv.4666888.xyz/iptv2A.php?id=140
-东森超视34.5,http://iptv.4666888.xyz/iptv2A.php?id=125
-东森美洲,http://iptv.4666888.xyz/iptv2A.php?id=126
-东森超视,http://iptv.4666888.xyz/iptv2A.php?id=128
-momo亲子,http://iptv.4666888.xyz/iptv2A.php?id=129
-国兴卫视,http://iptv.4666888.xyz/iptv2A.php?id=130
-公视戏剧,http://iptv.4666888.xyz/iptv2A.php?id=106
-壹电影,http://iptv.4666888.xyz/iptv2A.php?id=120
-龙华日韩,http://iptv.4666888.xyz/iptv2A.php?id=131
-龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=132
-龙华戏剧,http://iptv.4666888.xyz/iptv2A.php?id=133
-龙华卡通,http://iptv.4666888.xyz/iptv2A.php?id=135
-龙华经典,http://iptv.4666888.xyz/iptv2A.php?id=136
-台湾戏剧,http://iptv.4666888.xyz/iptv2A.php?id=116
-台湾霹雳,http://iptv.4666888.xyz/iptv2A.php?id=118
-东森电影,http://iptv.4666888.xyz/iptv2A.php?id=15
-东森洋片,http://iptv.4666888.xyz/iptv2A.php?id=16
-三立都会,http://iptv.4666888.xyz/iptv2A.php?id=137
-三立综合,http://iptv.4666888.xyz/iptv2A.php?id=138
-三立国际,http://iptv.4666888.xyz/iptv2A.php?id=139
-靖天综合,http://iptv.4666888.xyz/iptv2A.php?id=148
-靖天日本,http://iptv.4666888.xyz/iptv2A.php?id=149
-靖天卡通,http://iptv.4666888.xyz/iptv2A.php?id=150
-靖洋卡通,http://iptv.4666888.xyz/iptv2A.php?id=151
-靖天国际,http://iptv.4666888.xyz/iptv2A.php?id=152
-靖天育乐,http://iptv.4666888.xyz/iptv2A.php?id=153
-靖天映画,http://iptv.4666888.xyz/iptv2A.php?id=154
-靖天欢乐,http://iptv.4666888.xyz/iptv2A.php?id=155
-采昌影剧,http://iptv.4666888.xyz/iptv2A.php?id=168
-HakkATV客家电视,http://iptv.4666888.xyz/iptv2A.php?id=169
-TITV原住民,http://iptv.4666888.xyz/iptv2A.php?id=170
-MTV live,http://iptv.4666888.xyz/iptv2A.php?id=171
-猪哥亮哥厅秀,http://iptv.4666888.xyz/iptv2A.php?id=173
-亚洲旅游,http://iptv.4666888.xyz/iptv2A.php?id=158
-EYETV旅游,http://iptv.4666888.xyz/iptv2A.php?id=160
-EYETV戏剧,http://iptv.4666888.xyz/iptv2A.php?id=161
-爱尔达日韩,http://iptv.4666888.xyz/iptv2A.php?id=162
-爱尔达影剧,http://iptv.4666888.xyz/iptv2A.php?id=163
-爱尔达综合,http://iptv.4666888.xyz/iptv2A.php?id=164
-爱尔达娱乐,http://iptv.4666888.xyz/iptv2A.php?id=165
-爱尔达生活旅游,http://iptv.4666888.xyz/iptv2A.php?id=166
-小公视,http://iptv.4666888.xyz/iptv2A.php?id=105
-MytvZooMoo,http://iptv.4666888.xyz/iptv2A.php?id=1
-Nickeledeon,http://iptv.4666888.xyz/iptv2A.php?id=2
-MytvNickJr,http://iptv.4666888.xyz/iptv2A.php?id=3
-ifunanime,http://iptv.4666888.xyz/iptv2A.php?id=4
-TVN,http://iptv.4666888.xyz/iptv2A.php?id=17
-KIX,http://iptv.4666888.xyz/iptv2A.php?id=18
-RockAction,http://iptv.4666888.xyz/iptv2A.php?id=19
-RockEntertainment,http://iptv.4666888.xyz/iptv2A.php?id=20
-AXN,http://iptv.4666888.xyz/iptv2A.php?id=21
-AnimaxC,http://iptv.4666888.xyz/iptv2A.php?id=22
-warnertv华纳,http://iptv.4666888.xyz/iptv2A.php?id=23
-cinemaxwj,http://iptv.4666888.xyz/iptv2A.php?id=24
-HBOHD,http://iptv.4666888.xyz/iptv2A.php?id=25
-amcmovies,http://iptv.4666888.xyz/iptv2A.php?id=27
-Thrill,http://iptv.4666888.xyz/iptv2A.php?id=183
-taiwan+,http://iptv.4666888.xyz/iptv2A.php?id=159
+🚀特闽专区,#genre#
+Now新闻,P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts
+无线新闻,P2p://starvod.xyz:19806/557d5098116e4e1f9b14008ed764cc71.ts
+无线生活,P2p://starvod.xyz:19806/f4650e7cb54645f79ea52469b84ef3c4.ts
+无线娱乐,P2p://starvod.xyz:19806/c6994957df9e4488bfb1c462db442f61.ts
+无线星河,P2p://starvod.xyz:19806/52d013423e304854a4980bd64c0015ae.ts
+无线千禧,P2p://starvod.xyz:19806/8cf149d3490640d298e3bce48cd0e8ae.ts
+无线功夫,P2p://starvod.xyz:19806/6043814031384523bc272f4f87aeb298.ts
+无线粤片,P2p://starvod.xyz:19806/04fd1cf947634341813b484f497ecbbc.ts
+无线戏曲,P2p://starvod.xyz:19806/38b743244a7b4812a4e54b0d32910647.ts
+无线亚剧,P2p://starvod.xyz:19806/4eab17c6f15b475696bcb51b61233345.ts
+无线少儿,P2p://starvod.xyz:19806/631732f5fa894772aec8ee750359e455.ts
+黄金翡翠,P2p://starvod.xyz:19806/d6964956395e43d1a62e6166706f7fcf.ts
+无线赛马,P2p://starvod.xyz:19806/ad27c96a4bca4e61be7b4b2ba07368fc.ts
+有线赛马,P2p://starvod.xyz:19806/72740144b3744949b05bd0220bd4c231.ts
+澳门莲花,P2p://starvod.xyz:19806/68679bdf00060084a4fd42af6a261d1a.ts
+星空卫视,P2p://starvod.xyz:19806/913e258484624493a5a6d960500b30cc.ts
+天映经典,P2p://starvod.xyz:19806/4eebafee9ada46c9b959fe48a6baf682.ts
+pₒₚc电影,P2p://starvod.xyz:19806/688bba7c000da6943214e2280ad91465.ts
+美亚电影,P2p://starvod.xyz:19806/f9cdad09f3cc47bc83ba1d94167ebe64.ts
+龙华电影,P2p://starvod.xyz:19806/574ee66b78d44e6e81450ae523041523.ts
+私人影院,P2p://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
+爱奇艺综,P2p://starvod.xyz:19806/1cd1505d309948e596459856926cda41.ts
+八度空间,P2p://starvod.xyz:19806/ae2ec19c582f4a07baa35b40f91b4239.ts
+Ftv_城市,P2p://starvod.xyz:19806/2b3efa01d8bf4c7fbbef69911802df3f.ts
+Ftv1时代东晴,P2p://starvod.xyz:19806/e485c2b5af154a638d9d54d10dcb73d9.ts
+Ftv1时代西晴,P2p://starvod.xyz:19806/2c381681bcfd4ecdb2e52ece5014d6e8.ts
+Ftv2时代,P2p://starvod.xyz:19806/dd3cb3133b9d4ab38fb4b2c321a727a2.ts
+thrill电影,P2p://starvod.xyz:19806/68679be10008a36ea4fd4b2b3b26291d.ts
+壹电影视,P2p://starvod.xyz:19806/599f2aabecde4ed4b5fff257c229f986.ts
+数位电影,P2p://starvod.xyz:19806/37350129294343bcb28f6494c7ce4c07.ts
+靖天电影,P2p://starvod.xyz:19806/7a72ea8d27d64fb9aae835c30af3b1cc.ts
+靖天映画,P2p://starvod.xyz:19806/9c504d3521e4481088a8a6c54fbac3d3.ts
+采昌影剧,P2p://starvod.xyz:19806/33264996f0c14a369140623dca66da43.ts
+三立戏剧,P2p://starvod.xyz:19806/eb30a7e16f1841c6900b45c8be342071.ts
 
-
- 
 🔥港台电影,#genre#
-东森电影,http://iptv.4666888.xyz/iptv2A.php?id=15
-东森洋片,http://iptv.4666888.xyz/iptv2A.php?id=16
-Now爆谷,http://iptv.4666888.xyz/iptv2A.php?id=6
-Now星影,http://iptv.4666888.xyz/iptv2A.php?id=7
-PopC,http://iptv.4666888.xyz/iptv2A.php?id=5
-天映经典,http://iptv.4666888.xyz/iptv2A.php?id=77
-天映频道,http://free.cnlive.club/channel/n7e466c41/index.m3u8  
-天映经典,http://free.cnlive.club/channel/n7e49c99a/index.m3u8
-美亚电影国,http://iptv.4666888.xyz/iptv2A.php?id=11
-美亚电影粤,http://iptv.4666888.xyz/iptv2A.php?id=12
-中国电影频道,http://iptv.4666888.xyz/iptv2A.php?id=13
-壹电影,http://iptv.4666888.xyz/iptv2A.php?id=120
-龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=132
-台湾戏剧,http://iptv.4666888.xyz/iptv2A.php?id=116
-台湾霹雳,http://iptv.4666888.xyz/iptv2A.php?id=118
-星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+东森电影 
+东森洋片 
+Now爆谷 
+Now星影
+天映频道,https://cdn9.163189.xyz/smt1.1.php?id=Celestial
+天映经典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
+影迷数位电影,http://152.32.229.52:5050/4gtv-4gtv011/index.m3u8?proxy=true
+天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
+PopC,http://tl.061833.xyz/tl/popc
+美亚电影(港),http://tl.061833.xyz/tl/null-5
+美亚电影(台),http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+亞洲劇台,http://tl.061833.xyz/tl/null-13
+千禧經典,http://tl.061833.xyz/tl/null-3
+
+美亚电影(台),http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+龙祥时代 
+纬来电影 
+美亚电影  
+好莱坞电影 
+amc电影,http://152.32.229.52:5050/4gtv-4gtv017/index.m3u8?proxy=true
+中国电影频道,http://tl.061833.xyz/tl/null-6
+壹电影 
+台湾戏剧 
+台湾霹雳 
+星空卫视 
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
-龙祥时代,http://free.cnlive.club/channel/67548a4f/index.m3u8
-纬来电影,http://free.cnlive.club/channel/581b458b/index.m3u8
-美亚电影(台),http://free.cnlive.club/channel/5824ef5e/index.m3u8 
-好莱坞电影,http://free.cnlive.club/channel/n2db95de5/index.m3u8 
-好莱坞电影,http://free.cnlive.club/channel/117d8eeb/index.m3u8
-CINEMAX,http://free.cnlive.club/channel/7c7a1311/index.m3u8
-AXN Taiwan,http://free.cnlive.club/channel/n4e27c899/index.m3u8
+CINEMAX 
+AXN Taiwan 
 1900影剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=7796193
 爱星影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=9476806
-靖天映画,http://iptv.4666888.xyz/iptv2A.php?id=154
+
 龙祥时代,https://tv543.cc/Smart.php?id=lungxiangtime_twn
 好莱坞电影,https://tv543.cc/Smart.php?id=hollywoodmovies_twn
 Star Movies,https://tv543.cc/Smart.php?id=starmovies_raj
@@ -1699,34 +1567,23 @@ One,https://tv543.cc/Smart.php?id=One
 tvN Movie,https://tv543.cc/Smart.php?id=Tvnmovie
 Axn HD,https://tv543.cc/Smart.php?id=Axn
 Astrol Kplus,https://tv543.cc/Smart.php?id=Kplus
-
- 
-
+私人影院,P2p://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
+环球经典,http://8.138.7.223/tv/1905.php?id=LIVE8J4LTCXPI7QJ5
 搜狐剧场,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8$官网
-天映经典,http://117.141.162.238:8181/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0$广西/玉林/移动
-中国电影,http://117.141.162.238:8181/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0$广西/玉林/移动
-私人影院,http://117.141.162.238:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0$广西/玉林/移动
-凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$浙江/绍兴/电信
 峨眉电影,http://117.174.25.254:8188/rtp/239.0.0.9:5140$四川移动
-峨眉电影,http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 峨眉电影,http://183.220.20.17:4321/udp/239.11.0.11:5140$四川移动
 
  
 🇭🇰香港,#genre#
-凤凰中文,http://stream-ali1.csslcloud.net/live/gwS5kbEwNmWObygXxkddGlm43Yr0rZAqkFgLZRwPewJMVnfHy8.flv 
-凤凰资讯,http://stream-ali1.csslcloud.net/live/7KUcGQoK7Glm43K0vAuRVWGZSscrMD5x2eSGbg4y8YFVh6dd2S.flv
-凤凰香港,http://stream-ali1.csslcloud.net/live/uEACKo2YT4ZTiHBMNM2g49d00j924NASwca4Glm436hsAvKE1L.flv
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
-TVB翡翠(新加坡),http://stream-ali1.csslcloud.net/live/bNUJfDlj5xtSJFSf660kDlGGlm43aNX0tUks0kHM00gDkHukNW.flv
-TVB翡翠(马来),http://stream-ali1.csslcloud.net/live/QbsxHsZLNj2ktYGlm43ZTZUHJTlZVjSZpxY5sl6vOrZ3E7ZGep.flv 
 翡翠台,http://t.061899.xyz/tl/js/js.php?id=tvbfct
 无线新闻,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
 明珠台,http://t.061899.xyz/tl/js/js.php?id=tvbmzt
-娱乐新闻,http://stream-ali1.csslcloud.net/live/SE7CQoYzqeFgE2XWIdGn5xhydKz9KCZQE8eqDZKvGlm430LemY.flv
-
+娱乐新闻
 凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
 凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
 凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
@@ -1749,6 +1606,14 @@ TVB星河,http://r.jdshipin.com/sXuuD
 华丽翡翠台,http://r.jdshipin.com/thuYX
 ViuTV,http://r.jdshipin.com/vSJvl
 澳视澳门,http://r.jdshipin.com/n2YZI
+
+戲曲台,http://tl.061833.xyz/tl/null-15
+明珠台,http://tl.061833.xyz/tl/null-12
+粵語片台,http://tl.061833.xyz/tl/null-10
+華語劇台,http://tl.061833.xyz/tl/null-4
+黄金翡翠台,http://tl.061833.xyz/tl/null-2
+黄金华剧台,http://tl.061833.xyz/tl/null-9
+娛樂新聞台,http://tl.061833.xyz/tl/null-14
 
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
@@ -1802,6 +1667,7 @@ RTHK 33,https://cdn6.101.qzz.io/163189/cctv1
 澳视资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
 澳视综艺,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
 澳门Macau,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
+
 马来西亚|Sony HD,https://tv543.cc/Smart.php?id=SetOne
 马来西亚|TvN,https://tv543.cc/Smart.php?id=TVN
 马来西亚|AEC,https://tv543.cc/Smart.php?id=AEC
@@ -1818,47 +1684,141 @@ RTHK 33,https://cdn6.101.qzz.io/163189/cctv1
 马来西亚|Celestial Movies HD,https://tv543.cc/Smart.php?id=Celestial
 
 🇹🇼台湾,#genre#
-温馨提醒:设置超时30秒最佳,https://i.uik.cc/view.php/8caad869728113dfca6f8f1e99d54379.mp4
-TVBS新闻,http://stream-ali1.csslcloud.net/live/AocNA7nvWaoTEOU1kWJnR67lprbfd2y0CHqgjYOaOYV5JSmoP2.flv
-TVBSNew,http://stream-ali1.csslcloud.net/live/mFnbfd2y3Lo4g1Pt35lhMhdcsX9bi31YUL3qEyco7R2En3zrSk.flv
-LIVE三立,http://stream-ali1.csslcloud.net/live/GDGMQBLKWMPhyKJYSPPR6dnb2lS3FvykpFuj8AZf19Mbfd2yjx.flv
-三立iNEWS,http://stream-ali1.csslcloud.net/live/s1MnZyvakgihRsIVdMDeWvkbf3Da2Krbfd2yT1fV3lo74wZSW0.flv
-中视新闻,http://stream-ali1.csslcloud.net/live/hNsy4N2Ykbfd2ywCSlOqFQ1aSenAhZLYUenP1IoaAltR3IXYOp.flv
-台视新闻,http://stream-ali1.csslcloud.net/live/ofFqVir8hEYxZDb6y677FJxn0xrbfd2yPfOT6XuHngNXajvBUY.flv
-中天新闻,http://stream-ali1.csslcloud.net/live/ogVoQHdbfd2ydsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
-东森新闻,http://stream-ali1.csslcloud.net/live/IfhEdN30gjBbSbfd2ySSKGFHHl6JFBwhgtYpQxoGIKytCfl1hl.flv
-东森新闻(美),http://stream-ali1.csslcloud.net/live/Q6dIFsHxR2r9pqtq3qj8UT4oiUNO4ShbiuR7tArX4srbittNex.flv
-寰宇新闻,http://stream-ali1.csslcloud.net/live/3cDvCNnbfd2yBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv
-寰宇新闻台湾,http://stream-ali1.csslcloud.net/live/kPx2bfd2y6L0ZwU3ASjlguHsNdwwRnvIENF5nNnrXPp4hNwoIi.flv
-民视新闻,http://stream-ali1.csslcloud.net/live/5CkUiYhpTaUWibfd2yVPulg2rBioJ6XgbbmxF2hWNQyygV2U12.flv
-公视新闻,http://stream-ali1.csslcloud.net/live/Ubmbfd2yeiurTa7IAZwc9yg3WHBILRp5ueNjYcnKl8MRCOrVoC.flv
-华视新闻,http://stream-ali1.csslcloud.net/live/AzACuucKCaz8bfd2yxWeXFD8Mjjpf4AcLtEPKWdD9rvwlDDE5s.flv
-年代新闻,http://stream-ali1.csslcloud.net/live/ruqTd9DCQm8ZG3MvLBN6uqJ6DB6owtf4srbivitv9fNrV82Z1V.flv
-非凡新闻,http://stream-ali1.csslcloud.net/live/7J22AJV6h8f24jkmoa5ahSzuCYjE5fVpCYYMEt9bfd2yHn4XG7.flv
-镜新闻,http://stream-ali1.csslcloud.net/live/4ef3bV1oG7KBJy3bfd2ybfSDto8eDzUvR0mWv5oKB6nemLkT4c.flv
-中天CTI+,http://stream-ali1.csslcloud.net/live/bfd2yczrTFqK7nEAJybacKGcrnLdslNp5YcphockmQnscq2S1p.flv
-民视,http://stream-ali1.csslcloud.net/live/ERadomiHh4srbiVLuQH0M1KoLqTYrGUZBRAAxPowEwb8JN2Yf0.flv
-中视,http://stream-ali1.csslcloud.net/live/ShLJKgSj71R4wf0v8TfYoSUE68hUT0uREP4srbiGe0pgDFxpIw.flv
-华视,http://stream-ali1.csslcloud.net/live/pI4srbi6geqWLAzPjvY5TD8d8eGRkdFBAZn8IfdKPAA57savCh.flv
-公视,http://stream-ali1.csslcloud.net/live/laQyY4srbiNEOiwM1uacLEYJs0zLZR34rbw69ivdrfQqrDqndY.flv
-台视,http://stream-ali1.csslcloud.net/live/pUYRwiaacRh4uyd74srbiOPIPg4zbh5a9Pf7IFqlGzjcIPsKG9.flv
+温馨提醒:设置超时30秒最佳,https://i.uik.cc/view.php/f8576ff37fa8b87696b6a0db283fd201.mp4
+中天新闻,rtmp://hc.siqianginfo.com/live/yifatv-ztxw01 
+中天新闻CTI+,rtmp://hc.siqianginfo.com/live/yifatv-ztxw02
+中天新闻,http://114.34.40.48:50008/of-4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
-TVBS HD,http://stream-ali1.csslcloud.net/live/XhyG6NWlXFUuLxA75JShFUJC6ZK7Wl7b9ohSUJ8ZFuo4srbiMv.flv 
-TVBS欢乐,http://stream-ali1.csslcloud.net/live/FaZ3V4srbiKU2bz3b7Iy6f4evzUPNgMY6vKKkn7McVbTD5AXZW.flv
-TVBS亚洲,http://stream-ali1.csslcloud.net/live/mL1ArDDl4Wlhsdv2vApi0OyUYRtdBJ4srbiEYlEoAcwIN0c4bX.flv
-TVBS精采,http://applivewatermark.imfc.cn/live/96e1166b3acfd60e13a44379c1bdffb1.flv
-TVBS综艺,http://stream-ali1.csslcloud.net/live/A3NYezRcJMFiHfNU7m2qoJGo9QeaLF92qXfh4ZG74srbie5gXW.flv 
-TVBS台剧,http://stream-ali1.csslcloud.net/live/DMBDr5IM14srbiYTrRtv2GOHF7WpbaYWfblCoaPKBCnroeRU1I.flv  
+寰宇新闻,http://152.32.229.52:5050/litv-longturn14/index.m3u8?proxy=true
+东森新闻,http://152.32.229.52:5050/4gtv-4gtv152/index.m3u8?proxy=true$4gtv
+TVBSHD,http://152.32.229.52:5050/4gtv-4gtv073/index.m3u8?proxy=true$4gtv
+TVBS新闻,http://152.32.229.52:5050/4gtv-4gtv072/index.m3u8?proxy=true$4gtv
+华视新闻,http://152.32.229.52:5050/4gtv-4gtv052/index.m3u8?proxy=true$4gtv
+中视新闻,http://152.32.229.52:5050/4gtv-4gtv074/index.m3u8?proxy=true$4gtv
+Bloomberg TV,http://152.32.229.52:5050/4gtv-live059/index.m3u8?proxy=true$4gtv
+台视新闻,http://152.32.229.52:5050/4gtv-4gtv051/index.m3u8?proxy=true$4gtv
+镜新闻,http://152.32.229.52:5050/4gtv-4gtv075/index.m3u8?proxy=true$4gtv
+新唐人,http://152.32.229.52:5050/4gtv-live050/index.m3u8?proxy=true$4gtv
+东森财经,http://152.32.229.52:5050/4gtv-4gtv153/index.m3u8?proxy=true$4gtv
+三立iNEWS,http://152.32.229.52:5050/4gtv-live089/index.m3u8?proxy=true$4gtv
+靖天国际,http://152.32.229.52:5050/4gtv-4gtv063/index.m3u8?proxy=true$4gtv
+TVBS亚洲,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19474.ts$40gbp
+TVBS新闻,https://stream1.freetv.fun/b9008aeb80dd41cc97f7006561fd5af645903c8fe9f44cb2e1e866c841842054.ctv
+ 
+Love Nature（汉）,http://152.32.229.52:5050/4gtv-live208/index.m3u8?proxy=true
+ 
+民视台湾,http://152.32.229.52:5050/4gtv-4gtv001/index.m3u8?proxy=true
+民视,http://152.32.229.52:5050/4gtv-4gtv002/index.m3u8?proxy=true
+民视第一,http://152.32.229.52:5050/4gtv-4gtv003/index.m3u8?proxy=true
+民视综艺,http://152.32.229.52:5050/4gtv-4gtv004/index.m3u8?proxy=true
+猪歌亮经典秀,http://152.32.229.52:5050/4gtv-4gtv006/index.m3u8?proxy=true
+中天新闻,http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true
+非凡新闻,http://152.32.229.52:5050/4gtv-4gtv010/index.m3u8?proxy=true
+影迷数位电影,http://152.32.229.52:5050/4gtv-4gtv011/index.m3u8?proxy=true
+CNEX纪录片,http://152.32.229.52:5050/4gtv-4gtv013/index.m3u8?proxy=true
+时尚运动,http://152.32.229.52:5050/4gtv-4gtv014/index.m3u8?proxy=true
+韩国娱乐,http://152.32.229.52:5050/4gtv-4gtv016/index.m3u8?proxy=true
+amc电影,http://152.32.229.52:5050/4gtv-4gtv017/index.m3u8?proxy=true
+Da Vinci,http://152.32.229.52:5050/4gtv-4gtv018/index.m3u8?proxy=true
+八大精彩,http://152.32.229.52:5050/4gtv-4gtv034/index.m3u8?proxy=true
+八大综合,http://152.32.229.52:5050/4gtv-4gtv039/index.m3u8?proxy=true
+中视,http://152.32.229.52:5050/4gtv-4gtv040/index.m3u8?proxy=true
+华视新闻,http://152.32.229.52:5050/4gtv-4gtv041/index.m3u8?proxy=true
+公视戏剧,http://152.32.229.52:5050/4gtv-4gtv042/index.m3u8?proxy=true
+Hakka TV,http://152.32.229.52:5050/4gtv-4gtv043/index.m3u8?proxy=true
+靖天卡通,http://152.32.229.52:5050/4gtv-4gtv044/index.m3u8?proxy=true
+靖洋戏剧,http://152.32.229.52:5050/4gtv-4gtv045/index.m3u8?proxy=true
+靖天综合,http://152.32.229.52:5050/4gtv-4gtv046/index.m3u8?proxy=true
+靖天日本,http://152.32.229.52:5050/4gtv-4gtv047/index.m3u8?proxy=true
+非凡商业,http://152.32.229.52:5050/4gtv-4gtv048/index.m3u8?proxy=true
+采昌影剧,http://152.32.229.52:5050/4gtv-4gtv049/index.m3u8?proxy=true
+台视新闻,http://152.32.229.52:5050/4gtv-4gtv051/index.m3u8?proxy=true
+华视新闻,http://152.32.229.52:5050/4gtv-4gtv052/index.m3u8?proxy=true
+Gio tv,http://152.32.229.52:5050/4gtv-4gtv053/index.m3u8?proxy=true
+靖天欢乐,http://152.32.229.52:5050/4gtv-4gtv054/index.m3u8?proxy=true
+靖天映画,http://152.32.229.52:5050/4gtv-4gtv055/index.m3u8?proxy=true
+台视财经,http://152.32.229.52:5050/4gtv-4gtv056/index.m3u8?proxy=true
+靖洋卡通,http://152.32.229.52:5050/4gtv-4gtv057/index.m3u8?proxy=true
+靖天戏剧,http://152.32.229.52:5050/4gtv-4gtv058/index.m3u8?proxy=true
+古典音乐,http://152.32.229.52:5050/4gtv-4gtv059/index.m3u8?proxy=true
+靖天育乐,http://152.32.229.52:5050/4gtv-4gtv062/index.m3u8?proxy=true
+靖天国际,http://152.32.229.52:5050/4gtv-4gtv063/index.m3u8?proxy=true
+中视菁采,http://152.32.229.52:5050/4gtv-4gtv064/index.m3u8?proxy=true
+靖天资讯,http://152.32.229.52:5050/4gtv-4gtv065/index.m3u8?proxy=true
+台视,http://152.32.229.52:5050/4gtv-4gtv066/index.m3u8?proxy=true
+TVBS精采,http://152.32.229.52:5050/4gtv-4gtv067/index.m3u8?proxy=true
+TVBS欢乐,http://152.32.229.52:5050/4gtv-4gtv068/index.m3u8?proxy=true
+ELTA娱乐,http://152.32.229.52:5050/4gtv-4gtv070/index.m3u8?proxy=true
+TVBS新闻,http://152.32.229.52:5050/4gtv-4gtv072/index.m3u8?proxy=true
+TVBS,http://152.32.229.52:5050/4gtv-4gtv073/index.m3u8?proxy=true
+中视新闻,http://152.32.229.52:5050/4gtv-4gtv074/index.m3u8?proxy=true
+镜新闻,http://152.32.229.52:5050/4gtv-4gtv075/index.m3u8?proxy=true
+亚洲旅游,http://152.32.229.52:5050/4gtv-4gtv076/index.m3u8?proxy=true
+trace sport,http://152.32.229.52:5050/4gtv-4gtv077/index.m3u8?proxy=true
+arirang lorea,http://152.32.229.52:5050/4gtv-4gtv079/index.m3u8?proxy=true
+中视经典,http://152.32.229.52:5050/4gtv-4gtv080/index.m3u8?proxy=true
+turban音乐,http://152.32.229.52:5050/4gtv-4gtv082/index.m3u8?proxy=true
+mezzo live,http://152.32.229.52:5050/4gtv-4gtv083/index.m3u8?proxy=true
+国会频道1,http://152.32.229.52:5050/4gtv-4gtv084/index.m3u8?proxy=true
+国会频道2,http://152.32.229.52:5050/4gtv-4gtv085/index.m3u8?proxy=true
+智林体育,http://152.32.229.52:5050/4gtv-4gtv101/index.m3u8?proxy=true
+戏剧 litv,http://152.32.229.52:5050/4gtv-4gtv104/index.m3u8?proxy=true
+中天亚洲,http://152.32.229.52:5050/4gtv-4gtv109/index.m3u8?proxy=true
+东森新闻,http://152.32.229.52:5050/4gtv-4gtv152/index.m3u8?proxy=true
+东森财经新闻,http://152.32.229.52:5050/4gtv-4gtv153/index.m3u8?proxy=true
+民视,http://152.32.229.52:5050/4gtv-4gtv155/index.m3u8?proxy=true
+寰宇新闻台湾,http://152.32.229.52:5050/4gtv-4gtv156/index.m3u8?proxy=true
+ 
+ 大爱一台,http://152.32.229.52:5050/4gtv-live007/index.m3u8?proxy=true
+人间卫视,http://152.32.229.52:5050/4gtv-live008/index.m3u8?proxy=true
+台剧,http://152.32.229.52:5050/4gtv-live010/index.m3u8?proxy=true
+festival 4K,http://152.32.229.52:5050/4gtv-live011/index.m3u8?proxy=true
+rollor,http://152.32.229.52:5050/4gtv-live012/index.m3u8?proxy=true
+TITV,http://152.32.229.52:5050/4gtv-live014/index.m3u8?proxy=true
+梦工厂,http://152.32.229.52:5050/4gtv-live017/index.m3u8?proxy=true
+欧美电影,http://152.32.229.52:5050/4gtv-live021/index.m3u8?proxy=true
+动画1,http://152.32.229.52:5050/4gtv-live022/index.m3u8?proxy=true
+动画2,http://152.32.229.52:5050/4gtv-live024/index.m3u8?proxy=true
+MTV live,http://152.32.229.52:5050/4gtv-live025/index.m3u8?proxy=true
+history,http://152.32.229.52:5050/4gtv-live026/index.m3u8?proxy=true
+犯罪记录,http://152.32.229.52:5050/4gtv-live027/index.m3u8?proxy=true
+BBC lifetime,http://152.32.229.52:5050/4gtv-live029/index.m3u8?proxy=true
+互动英语,http://152.32.229.52:5050/4gtv-live030/index.m3u8?proxy=true
+C音乐,http://152.32.229.52:5050/4gtv-live031/index.m3u8?proxy=true
+nivk jr,http://152.32.229.52:5050/4gtv-live032/index.m3u8?proxy=true
+新唐人,http://152.32.229.52:5050/4gtv-live050/index.m3u8?proxy=true
+全球财经,http://152.32.229.52:5050/4gtv-live060/index.m3u8?proxy=true
+Cinema world,http://152.32.229.52:5050/4gtv-live069/index.m3u8?proxy=true
+DW,http://152.32.229.52:5050/4gtv-live071/index.m3u8?proxy=true
+rock娱乐,http://152.32.229.52:5050/4gtv-live080/index.m3u8?proxy=true
+TVBS综艺,http://152.32.229.52:5050/4gtv-live087/index.m3u8?proxy=true
+TVBS台剧,http://152.32.229.52:5050/4gtv-live088/index.m3u8?proxy=true
+三立新闻,http://152.32.229.52:5050/4gtv-live089/index.m3u8?proxy=true
+inultra,http://152.32.229.52:5050/4gtv-live096/index.m3u8?proxy=true
+nickelodeon,http://152.32.229.52:5050/4gtv-live105/index.m3u8?proxy=true
+大爱二,http://152.32.229.52:5050/4gtv-live106/index.m3u8?proxy=true
+momo,http://152.32.229.52:5050/4gtv-live107/index.m3u8?proxy=true
+global trekker,http://152.32.229.52:5050/4gtv-live112/index.m3u8?proxy=true
+ELTA生活旅游,http://152.32.229.52:5050/4gtv-live120/index.m3u8?proxy=true
+LUXE tv,http://152.32.229.52:5050/4gtv-live121/index.m3u8?proxy=true
+TVS monde,http://152.32.229.52:5050/4gtv-live122/index.m3u8?proxy=true
+magellan tv,http://152.32.229.52:5050/4gtv-live123/index.m3u8?proxy=true
+rock action,http://152.32.229.52:5050/4gtv-live138/index.m3u8?proxy=true
+霹雳戏剧,http://152.32.229.52:5050/4gtv-live144/index.m3u8?proxy=true
+霹雳台,http://152.32.229.52:5050/4gtv-live145/index.m3u8?proxy=true
+M+体育,http://152.32.229.52:5050/4gtv-live201/index.m3u8?proxy=true
+幸福空间居家,http://152.32.229.52:5050/4gtv-live206/index.m3u8?proxy=true
+三立综合,http://152.32.229.52:5050/4gtv-live207/index.m3u8?proxy=true
+Love natural,http://152.32.229.52:5050/4gtv-live208/index.m3u8?proxy=true
+ 
  
 中视,rtmp://f13h.mine.nu/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111
 台视,rtmp://f13h.mine.nu/sat/tv071
 民视,rtmp://f13h.mine.nu/sat/tv051
 新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
-
-
-动物星球,http://stream-ali1.csslcloud.net/live/g46UG6stseWUHmKG9Abi152mY9av9qxVJZYp79cmVD2E4glTg3.flv 
-BBC_Earth,http://stream-ali1.csslcloud.net/live/RTGbfYkvdn3MPIj79qxVJP7g3bETISm6Z4De6iN8TJ9RRTVHjV.flv
+动物星球 
+BBC_Earth 
 
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
@@ -1866,11 +1826,13 @@ BBC_Earth,http://stream-ali1.csslcloud.net/live/RTGbfYkvdn3MPIj79qxVJP7g3bETISm6
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+
 动物星球,,https://tv543.cc/Smart.php?id=animalplanet_twn
 Discovery Asia,https://tv543.cc/Smart.php?id=discoverytwn_twn
 BBC_Earth,https://tv543.cc/Smart.php?id=bbcearth_twn
 NatGeo Wild HD,https://tv543.cc/Smart.php?id=Natgeowild
 纪录频道|CI,https://tv543.cc/Smart.php?id=ci_twn
+
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
@@ -1895,221 +1857,6 @@ momoTV,rtmp://f13h.mine.nu/sat/tv761
 GOOD  TV,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 GOOD2 TV,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
 
-🇻🇳越南,#genre#
-Arirang,http://42.117.12.25:1111/udp/225.1.1.201:30120
-Asian Food Channel HD,http://42.117.12.25:1111/udp/225.1.1.198:30120
-Australia Plus,http://42.117.12.25:1111/udp/225.1.2.21:30120
-AXN,http://42.117.12.25:1111/udp/225.1.1.237:30120
-AXN HD,http://42.117.12.25:1111/udp/225.1.2.224:30120
-AXN HD,http://42.117.12.25:1111/udp/225.1.2.225:30120
-BBC Earth,http://42.117.12.25:1111/udp/225.1.2.24:30120
-BBC World News,http://42.117.12.25:1111/udp/225.1.2.74:30120
-Cartoon Network,http://42.117.12.25:1111/udp/225.1.1.240:30120
-Cartoon Network HD,http://42.117.12.25:1111/udp/225.1.2.230:30120
-Channel News Asia,http://42.117.12.25:1111/udp/225.1.1.202:30120
-Channel [V],http://42.117.12.25:1111/udp/225.1.1.243:30120
-Channel [V] HD,http://42.117.12.25:1111/udp/225.1.1.187:30120
-Channel [V] HD,http://42.117.12.25:1111/udp/225.1.1.188:30120
-CNBC,http://42.117.12.25:1111/udp/225.1.1.227:30120
-CNN,http://42.117.12.25:1111/udp/225.1.1.242:30120
-The Mira Hotel,http://42.117.12.25:1111/udp/225.1.1.123:30120
-FPT Mở Két,http://42.117.12.25:1111/udp/225.1.1.97:30120
-FPT PIP 2,http://42.117.12.25:1111/udp/225.1.2.49:30120
-FPT PIP 3,http://42.117.12.25:1111/udp/225.1.2.72:30120
-Ca Nhạc,http://42.117.12.25:1111/udp/225.1.1.9:30120
-Ca Nhạc 2,http://42.117.12.25:1111/udp/225.1.1.8:30120
-FPT thử nghiệm 4K,http://42.117.12.25:1111/udp/225.1.2.2:30120
-K+NS HD,http://42.117.12.25:1111/udp/225.1.1.80:30120
-K+PM HD,http://42.117.12.25:1111/udp/225.1.1.73:30120
-K+PM HD,http://42.117.12.25:1111/udp/225.1.1.81:30120
-K+PC HD,http://42.117.12.25:1111/udp/225.1.1.77:30120
-K+PC HD,http://42.117.12.25:1111/udp/225.1.1.82:30120
-VTV1 HD,http://42.117.12.25:1111/udp/225.1.2.249:30120
-VTV3,http://42.117.12.25:1111/udp/225.1.2.167:30120
-VTV3 HD,http://42.117.12.25:1111/udp/225.1.2.246:30120
-VTV3 HD,http://42.117.12.25:1111/udp/225.1.2.247:30120
-VTV4,http://42.117.12.25:1111/udp/225.1.1.248:30120
-VTV4 HD,http://42.117.12.25:1111/udp/225.1.2.20:30120
-VTV5 HD,http://42.117.12.25:1111/udp/225.1.1.131:30120
-VTV6,http://42.117.12.25:1111/udp/225.1.1.246:30120
-VTV6 HD,http://42.117.12.25:1111/udp/225.1.2.244:30120
-VTV6 HD,http://42.117.12.25:1111/udp/225.1.2.245:30120
-VTV7 HD,http://42.117.12.25:1111/udp/225.1.2.96:30120
-VTV7 HD,http://42.117.12.25:1111/udp/225.1.2.97:30120
-VTV9,http://42.117.12.25:1111/udp/225.1.1.153:30120
-VTV9 HD,http://42.117.12.25:1111/udp/225.1.1.126:30120
-VTV9 HD,http://42.117.12.25:1111/udp/225.1.1.128:30120
-VTVCab1 - Giải Trí TV,http://42.117.12.25:1111/udp/225.1.2.150:30120
-VTVCab2 - Phim Việt,http://42.117.12.25:1111/udp/225.1.2.159:30120
-VTVCab3 - Thể Thao TV HD,http://42.117.12.25:1111/udp/225.1.2.240:30120
-VTVCab3 - Thể Thao TV HD,http://42.117.12.25:1111/udp/225.1.2.241:30120
-VTVCab4 - Văn Hóa,http://42.117.12.25:1111/udp/225.1.2.153:30120
-VTVCab7 - D Dramas,http://42.117.12.25:1111/udp/225.1.2.157:30120
-VTVCab8 - Bibi,http://42.117.12.25:1111/udp/225.1.2.161:30120
-VTVCab9 - Info TV,http://42.117.12.25:1111/udp/225.1.2.154:30120
-VTVCab10 - O2TV,http://42.117.12.25:1111/udp/225.1.2.152:30120
-VTVCab11 - VGS Shop,http://42.117.12.25:1111/udp/225.1.1.252:30120
-VTVCab14 - Lotte Datviet Homeshopping,http://42.117.12.25:1111/udp/225.1.1.253:30120
-VTVCab15 - M Channel,http://42.117.12.25:1111/udp/225.1.1.251:30120
-VTVCab16 - Bóng Đá TV HD,http://42.117.12.25:1111/udp/225.1.2.242:30120
-VTVCab16 - Bóng Đá TV HD,http://42.117.12.25:1111/udp/225.1.2.243:30120
-VTVCab17 - Yeah1 !TV,http://42.117.12.25:1111/udp/225.1.2.151:30120
-VTVCab19 - Film TV,http://42.117.12.25:1111/udp/225.1.2.207:30120
-VTVCab21 - SaoTV Bibi+ HD,http://42.117.12.25:1111/udp/225.1.2.103:30120
-VOV,http://42.117.12.25:1111/udp/225.1.2.171:30120
-Thông Tấn Xã Việt Nam HD,http://42.117.12.25:1111/udp/225.1.1.43:30120
-An Ninh TV HD,http://42.117.12.25:1111/udp/225.1.2.169:30120
-An Ninh Thế Giới HD,http://42.117.12.25:1111/udp/225.1.1.208:30120
-Nhân Dân HD,http://42.117.12.25:1111/udp/225.1.1.91:30120
-Quốc Hội HD,http://42.117.12.25:1111/udp/225.1.2.148:30120
-Quốc Hội HD,http://42.117.12.25:1111/udp/225.1.2.149:30120
-Quốc Phòng Việt Nam HD,http://42.117.12.25:1111/udp/225.1.2.216:30120
-Quốc Phòng Việt Nam HD,http://42.117.12.25:1111/udp/225.1.2.217:30120
-HTV1,http://42.117.12.25:1111/udp/225.1.1.1:30120
-HTV2,http://42.117.12.25:1111/udp/225.1.1.179:30120
-HTV2 HD,http://42.117.12.25:1111/udp/225.1.1.193:30120
-HTV3,http://42.117.12.25:1111/udp/225.1.1.178:30120
-HTV4,http://42.117.12.25:1111/udp/225.1.1.177:30120
-HTV7,http://42.117.12.25:1111/udp/225.1.1.176:30120
-HTV7 HD,http://42.117.12.25:1111/udp/225.1.1.192:30120
-HTV9,http://42.117.12.25:1111/udp/225.1.1.175:30120
-HTV9 HD,http://42.117.12.25:1111/udp/225.1.1.189:30120
-HTV9 HD,http://42.117.12.25:1111/udp/225.1.1.190:30120
-HTV Thể Thao,http://42.117.12.25:1111/udp/225.1.1.165:30120
-HTVC Du Lịch và Cuộc Sống,http://42.117.12.25:1111/udp/225.1.1.166:30120
-HTVC FBNC,http://42.117.12.25:1111/udp/225.1.1.169:30120
-HTVC Gia Đình,http://42.117.12.25:1111/udp/225.1.1.170:30120
-HTVC Phim - Paramount Channel,http://42.117.12.25:1111/udp/225.1.1.173:30120
-HTVC Phim - Paramount Channel HD,http://42.117.12.25:1111/udp/225.1.1.183:30120
-HTVC Phim - Paramount Channel HD,http://42.117.12.25:1111/udp/225.1.1.184:30120
-HTVC Phụ Nữ,http://42.117.12.25:1111/udp/225.1.1.171:30120
-HTVC Shopping - VGS Shop,http://42.117.12.25:1111/udp/225.1.1.172:30120
-HTVC Thuần Việt,http://42.117.12.25:1111/udp/225.1.1.174:30120
-VTC1,http://42.117.12.25:1111/udp/225.1.2.203:30120
-VTC1 HD,http://42.117.12.25:1111/udp/225.1.2.254:30120
-#Kênh2,http://42.117.12.25:1111/udp/225.1.2.202:30120
-VTC3,http://42.117.12.25:1111/udp/225.1.2.201:30120
-VTC3 HD,http://42.117.12.25:1111/udp/225.1.2.251:30120
-Yeah1 !Family - VTC4 HD,http://42.117.12.25:1111/udp/225.1.2.200:30120
-tvBlue - VTC5,http://42.117.12.25:1111/udp/225.1.2.199:30120
-VTC6,http://42.117.12.25:1111/udp/225.1.2.198:30120
-Today TV - VTC7,http://42.117.12.25:1111/udp/225.1.2.197:30120
-Nét Việt - VTC10,http://42.117.12.25:1111/udp/225.1.2.194:30120
-Kids & Family TV - VTC11,http://42.117.12.25:1111/udp/225.1.2.193:30120
-VTC12,http://42.117.12.25:1111/udp/225.1.2.192:30120
-VTC13,http://42.117.12.25:1111/udp/225.1.2.189:30120
-3NTV - VTC16,http://42.117.12.25:1111/udp/225.1.2.190:30120
-SaoNamShopping-SCTV10,http://42.117.12.25:1111/udp/225.1.2.205:30120
-NCM - BTV10,http://42.117.12.25:1111/udp/225.1.1.225:30120
-SAM - BTV11,http://42.117.12.25:1111/udp/225.1.1.224:30120
-Phim Hay,http://42.117.12.25:1111/udp/225.1.1.222:30120
-Miền Tây - THDT2,http://42.117.12.25:1111/udp/225.1.1.221:30120
-Hà Nội 1 HD,http://42.117.12.25:1111/udp/225.1.2.186:30120
-Hà Nội 2 HD,http://42.117.12.25:1111/udp/225.1.1.125:30120
-HiTV - Hanoicab1,http://42.117.12.25:1111/udp/225.1.1.209:30120
-You!TV - Hanoicab2,http://42.117.12.25:1111/udp/225.1.1.207:30120
-Việt Nam Nét,http://42.117.12.25:1111/udp/225.1.1.194:30120
-An Giang 1,http://42.117.12.25:1111/udp/225.1.2.173:30120
-Bà Rịa Vũng Tàu,http://42.117.12.25:1111/udp/225.1.2.175:30120
-Bạc Liêu,http://42.117.12.25:1111/udp/225.1.1.61:30120
-Bắc Giang,http://42.117.12.25:1111/udp/225.1.1.164:30120
-Bắc Ninh,http://42.117.12.25:1111/udp/225.1.1.40:30120
-Bến Tre,http://42.117.12.25:1111/udp/225.1.1.156:30120
-Bình Dương 2 HD,http://42.117.12.25:1111/udp/225.1.1.149:30120
-iMOVIE TV HD - BTV4 HD,http://42.117.12.25:1111/udp/225.1.1.29:30120
-iMOVIE TV HD - BTV4 HD,http://42.117.12.25:1111/udp/225.1.1.30:30120
-Bình Định,http://42.117.12.25:1111/udp/225.1.1.145:30120
-Bình Phước 1,http://42.117.12.25:1111/udp/225.1.2.23:30120
-BPTV2 - HOMETV,http://42.117.12.25:1111/udp/225.1.2.38:30120
-Bình Thuận,http://42.117.12.25:1111/udp/225.1.1.124:30120
-Cà Mau,http://42.117.12.25:1111/udp/225.1.1.104:30120
-Cao Bằng,http://42.117.12.25:1111/udp/225.1.1.102:30120
-Cần Thơ,http://42.117.12.25:1111/udp/225.1.1.132:30120
-Đà Nẵng 1,http://42.117.12.25:1111/udp/225.1.1.147:30120
-Đắk Lắk,http://42.117.12.25:1111/udp/225.1.1.64:30120
-Điện Biên,http://42.117.12.25:1111/udp/225.1.1.74:30120
-Đồng Nai 1,http://42.117.12.25:1111/udp/225.1.1.152:30120
-Đồng Nai 2,http://42.117.12.25:1111/udp/225.1.1.151:30120
-AZSHOP - DN9,http://42.117.12.25:1111/udp/225.1.1.134:30120
-Đồng Tháp 1,http://42.117.12.25:1111/udp/225.1.1.163:30120
-Gia Lai,http://42.117.12.25:1111/udp/225.1.2.176:30120
-Hà Tĩnh,http://42.117.12.25:1111/udp/225.1.1.75:30120
-Hải Dương,http://42.117.12.25:1111/udp/225.1.1.158:30120
-Hải Phòng HD,http://42.117.12.25:1111/udp/225.1.1.44:30120
-Hậu Giang,http://42.117.12.25:1111/udp/225.1.1.157:30120
-Hưng Yên,http://42.117.12.25:1111/udp/225.1.1.118:30120
-Khánh Hòa,http://42.117.12.25:1111/udp/225.1.1.133:30120
-Kiên Giang,http://42.117.12.25:1111/udp/225.1.2.182:30120
-Kon Tum,http://42.117.12.25:1111/udp/225.1.1.36:30120
-Lào Cai,http://42.117.12.25:1111/udp/225.1.1.119:30120
-Lâm Đồng,http://42.117.12.25:1111/udp/225.1.2.177:30120
-Long An 34,http://42.117.12.25:1111/udp/225.1.1.162:30120
-Nam Định,http://42.117.12.25:1111/udp/225.1.1.120:30120
-Nghệ An,http://42.117.12.25:1111/udp/225.1.2.183:30120
-Ninh Thuận,http://42.117.12.25:1111/udp/225.1.2.178:30120
-Phú Thọ,http://42.117.12.25:1111/udp/225.1.2.165:30120
-Phú Yên,http://42.117.12.25:1111/udp/225.1.2.58:30120
-Quảng Bình,http://42.117.12.25:1111/udp/225.1.2.164:30120
-Quảng Nam,http://42.117.12.25:1111/udp/225.1.2.50:30120
-Quảng Ngãi,http://42.117.12.25:1111/udp/225.1.2.174:30120
-Quảng Ninh 1,http://42.117.12.25:1111/udp/225.1.2.181:30120
-Quảng Ninh 3,http://42.117.12.25:1111/udp/225.1.2.180:30120
-Quảng Trị,http://42.117.12.25:1111/udp/225.1.1.117:30120
-Sóc Trăng 1,http://42.117.12.25:1111/udp/225.1.1.159:30120
-Sơn La,http://42.117.12.25:1111/udp/225.1.1.98:30120
-Tây Ninh 11,http://42.117.12.25:1111/udp/225.1.1.130:30120
-Thái Bình,http://42.117.12.25:1111/udp/225.1.1.99:30120
-Thừa Thiên Huế,http://42.117.12.25:1111/udp/225.1.1.161:30120
-Tuyên Quang,http://42.117.12.25:1111/udp/225.1.2.188:30120
-Vĩnh Long 1,http://42.117.12.25:1111/udp/225.1.1.155:30120
-Vĩnh Long 2,http://42.117.12.25:1111/udp/225.1.1.154:30120
-Vĩnh Phúc,http://42.117.12.25:1111/udp/225.1.2.99:30120
-Yên Bái,http://42.117.12.25:1111/udp/225.1.1.39:30120
-Da Vinci Learning HD,http://42.117.12.25:1111/udp/225.1.2.253:30120
-Discovery Asia HD,http://42.117.12.25:1111/udp/225.1.2.222:30120
-Discovery Asia HD,http://42.117.12.25:1111/udp/225.1.2.223:30120
-Discovery Channel,http://42.117.12.25:1111/udp/225.1.1.238:30120
-Disney Channel,http://42.117.12.25:1111/udp/225.1.1.232:30120
-Disney Channel HD,http://42.117.12.25:1111/udp/225.1.2.158:30120
-Disney Channel HD,http://42.117.12.25:1111/udp/225.1.2.160:30120
-Fashion TV HD,http://42.117.12.25:1111/udp/225.1.2.226:30120
-Fox Sports 2,http://42.117.12.25:1111/udp/225.1.1.241:30120
-Fox Sports 2 HD,http://42.117.12.25:1111/udp/225.1.1.108:30120
-Fox Sports 2 HD,http://42.117.12.25:1111/udp/225.1.1.141:30120
-France 24,http://42.117.12.25:1111/udp/225.1.2.211:30120
-GEM HD,http://42.117.12.25:1111/udp/225.1.1.17:30120
-GEM HD,http://42.117.12.25:1111/udp/225.1.1.60:30120
-HBO HD,http://42.117.12.25:1111/udp/225.1.2.232:30120
-HBO HD,http://42.117.12.25:1111/udp/225.1.2.233:30120
-MAX by HBO,http://42.117.12.25:1111/udp/225.1.1.230:30120
-MAX by HBO HD,http://42.117.12.25:1111/udp/225.1.2.86:30120
-National Geographic HD,http://42.117.12.25:1111/udp/225.1.2.235:30120
-NHK World,http://42.117.12.25:1111/udp/225.1.1.196:30120
-NHK World HD,http://42.117.12.25:1111/udp/225.1.1.47:30120
-Outdoor Channel HD,http://42.117.12.25:1111/udp/225.1.2.214:30120
-Outdoor Channel HD,http://42.117.12.25:1111/udp/225.1.2.215:30120
-Star Movies,http://42.117.12.25:1111/udp/225.1.1.205:30120
-Star Movies HD,http://42.117.12.25:1111/udp/225.1.2.238:30120
-Star Movies HD,http://42.117.12.25:1111/udp/225.1.2.239:30120
-Fox Life HD,http://42.117.12.25:1111/udp/225.1.2.237:30120
-TLC,http://42.117.12.25:1111/udp/225.1.1.236:30120
-Toonami HD,http://42.117.12.25:1111/udp/225.1.2.163:30120
-Toonami HD,http://42.117.12.25:1111/udp/225.1.2.220:30120
-TV5Monde Asia,http://42.117.12.25:1111/udp/225.1.1.200:30120
-Warner Bros TV,http://42.117.12.25:1111/udp/225.1.1.139:30120
-Quang cao the thao FPT,http://42.117.12.25:1111/udp/225.1.2.252:30120
-FOX HD,http://42.117.12.25:1111/udp/225.1.1.51:30120
-FOX HD,http://42.117.12.25:1111/udp/225.1.1.52:30120
-Kenh truc tiep,http://42.117.12.25:1111/udp/225.1.1.13:30120
-Babytv,http://42.117.12.25:1111/udp/225.1.2.146:30120
-Babytv,http://42.117.12.25:1111/udp/225.1.2.147:30120
-G Channel - SCTV4,http://42.117.12.25:1111/udp/225.1.2.187:30120
-N/A,http://42.117.12.25:1111/udp/225.1.2.100:30120
-KIX HD,http://42.117.12.25:1111/udp/225.1.2.144:30120
-KIX HD,http://42.117.12.25:1111/udp/225.1.2.145:30120
-VITV,http://42.117.12.25:1111/udp/225.1.2.143:30120
-BBC Earth HD,http://42.117.12.25:1111/udp/225.1.2.25:30120
-Warner Bros TV HD,http://42.117.12.25:1111/udp/225.1.1.140:30120
 
 🗽smart,#genre#
 观看说明:此分组需香港IP可稳定观看,https://cccimg.com/view.php/f8576ff37fa8b87696b6a0db283fd201.mp4
@@ -3377,7 +3124,15 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 🐬动画,#genre#
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 内蒙少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
- 
+尼克儿童,http://152.32.229.52:5050/4gtv-live105/index.m3u8?proxy=true$4gtv
+NickJr,http://152.32.229.52:5050/4gtv-live032/index.m3u8?proxy=true$4gtv
+梦工厂动画,http://152.32.229.52:5050/4gtv-live017/index.m3u8?proxy=true$4gtv
+经典卡通,http://152.32.229.52:5050/4gtv-live022/index.m3u8?proxy=true$4gtv
+精选动漫,http://152.32.229.52:5050/4gtv-live024/index.m3u8?proxy=true$4gtv
+忍者乱太郎,http://152.32.229.52:5050/ofiii182/index.m3u8?proxy=true$4gtv
+哆啦A梦,http://152.32.229.52:5050/ofiii22/index.m3u8?proxy=true$4gtv
+新哆啦A梦,http://152.32.229.52:5050/ofiii23/index.m3u8?proxy=true$4gtv
+蜡笔小新,http://152.32.229.52:5050/ofiii165/index.m3u8?proxy=true$4gtv
  
  
 
@@ -4659,6 +4414,13 @@ F1：狂飙飞车,https://cdn.yzzy29-play.com/20250629/184_6cdd60ea/2000k/hls/mi
 甄嬛传,https://cdn3.ryplay3.com/20240801/81_fade8a3e/index.m3u8$第74集
 甄嬛传,https://cdn3.ryplay3.com/20240801/83_25d48c98/index.m3u8$第75集
 甄嬛传,https://cdn3.ryplay3.com/20240801/82_51a06a04/index.m3u8$第76集
+
+
+
+
+
+
+
 
 
 
