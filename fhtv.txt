@@ -2581,7 +2581,7 @@ TSN4,http://212.102.60.231/TSN_4/index.m3u8
 TSN5,http://212.102.60.231/TSN_5/index.m3u8
 vivid-red,https://oklivetv.com/xplay/m3u8/N1VQM0VBOUNWbVZwQzZOZUpSR3JVZz09.m3u8
  
-🇺🇸美国,#genre# 
+🗽其他频道,#genre# 
 News max,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 CNN,https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 ABC_EAST,https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
@@ -2625,159 +2625,7 @@ movie sphere,https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/ts-eu-w1-
 
 
 
-🇯🇵日本,#genre# 
-NHK,https://nhk4.mov3.co/hls/nhk.m3u8
-NTV,https://ntv4.mov3.co/hls/ntv.m3u8
-fujitv4,https://fujitv4.mov3.co/hls/fujitv.m3u8
-neco,https://stream1.freetv.fun/neco-channel-1.m3u8
 
-🇰🇷韩国,#genre#
-ABN TV (720p),https://vod2.abn.co.kr/IPHONE/abn.m3u8
-Arirang Radio (720p),http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
- BBS Buddhist Broadcasting (1080p),http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-CGNTV South Korea (1080p),https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
-CJ OnStyle (540p),https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
-EWTN Africa Asia (720p),https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
-EWTN Asia-Pacific (720p) [Not 24/7],https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
-GCN24 Korean (720p),http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
-GoodTV (1080p),http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
-Gugbang TV (1080p) [Not 24/7],http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-Home & Shopping (720p),https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
-KBS 1TV [Not 24/7],http://mytv.dothome.co.kr/ch/public/1.php
-KBS 2TV [Not 24/7],http://mytv.dothome.co.kr/ch/public/3.php
-KBS Drama (480p),http://mytv.dothome.co.kr/ch/catv/2.php
-KBS Life (480p),http://mytv.dothome.co.kr/ch/catv/5.php
-KBS LiveCam DokDo (540p),http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-KCTV 광주 CH05 (720p) [Not 24/7],http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
-Korean Song Channel (720p),http://live.kytv.co.kr:8080/hls/stream.m3u8 挂
-Lotte OneTV (720p),https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
-MBC Andong (안동 MBC) (360p) [Not 24/7],http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
-MBC Chuncheon (춘천 MBC) (480p) [Not 24/7],https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-MBC Jeju (제주 MBC) (352p) [Not 24/7],https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-MBC Mokpo (목포 MBC) (720p) [Not 24/7],http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-MBC Yeosu (여수 MBC) (1080p) [Not 24/7],https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-NHTV (720p),http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
-SBS CJB (540p) [Not 24/7],http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-SBS JTV (406p) [Not 24/7],http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
-SBS KNN (1080p) [Not 24/7],https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
-Shopping NT (720p),https://live.shoppingntmall.com/live/10011.m3u8
-tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-tvchosun,http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
-TVE Internacional Europe-Asia [Geo-blocked],https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
-BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
-EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-EBS1,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
-EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
-EBSi,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-EBS+2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-EBSe,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
-tvN1,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
-tvN2,https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
-tvN3,https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8?
-tvN5,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?tvN Movies
-KBS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
-Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?
-JTV,http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-C,http://112.175.51.214:1935/live/myStream/playlist.m3u8
-TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-TV1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-TV3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
-TV4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=644
-14,https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
-EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-韩国EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
-韩国EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
-Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u
-声优广播,http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
-CJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
-BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
-Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
-ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-Arirang Radio,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-BTN,http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
-CPBC,http://onair1.cpbc.co.kr:1935/tv/smil:live.smil/playlist.m3u8
-EBS-KIDS,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
-GCN教会,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
-MBN,http://mytv.dothome.co.kr/ch/catv/54.php
-NewKID2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=878
-NewKID4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
-NewKID4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=872
-韩国音乐,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-韩剧,https://stream.ads.ottera.tv/playlist.m3u8?network_id=622 挂
-RNA,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
-
-🇷🇺俄罗斯,#genre#
-Большая Азия,http://178.163.117.7:4022/udp/234.0.0.10:2000
-супер,http://178.163.117.7:4022/udp/234.0.0.100:2000
-ТНВ Планета,http://178.163.117.7:4022/udp/234.0.0.2:2000
-Калейдоскоп ТВ,http://178.163.117.7:4022/udp/234.0.0.1:2000
-Губерния,http://178.163.117.7:4022/udp/234.0.0.7:2000
-360 Подмосковье,http://178.163.117.7:4022/udp/234.0.0.8:2000
-ТНТ +4,http://178.163.117.7:4022/udp/234.0.0.9:2000
-Оружие,http://178.163.117.7:4022/udp/234.0.0.97:2000
-Юмор,http://178.163.117.7:4022/udp/234.0.0.101:2000
-Твой Дом,http://178.163.117.7:4022/udp/234.0.0.106:2000
-Galaxy,http://178.163.117.7:4022/udp/234.0.0.111:2000
-Тольятти 24,http://178.163.117.7:4022/udp/234.0.0.112:2000
-Ваш Успех,http://178.163.117.7:4022/udp/234.0.0.117:2000
-TB3,http://178.163.117.7:4022/udp/234.0.0.171:2000
-Russian Extreme,http://178.163.117.7:4022/udp/234.0.0.173:2000
-ENGLISH CLUB TV,http://178.163.117.7:4022/udp/234.0.0.174:2000
-viр-tv.org.uа,http://178.163.117.7:4022/udp/234.0.0.234:2000
-ТНТ4,http://178.163.117.7:4022/udp/234.0.0.181:2000
-FOX,http://178.163.117.7:4022/udp/234.0.0.184:2000
-СовСек,http://178.163.117.7:4022/udp/234.0.0.185:2000
-CKAT THT,http://178.163.117.7:4022/udp/234.0.0.186:2000
-Ностальгия,http://178.163.117.7:4022/udp/234.0.0.190:2000
-Домашний,http://178.163.117.7:4022/udp/234.0.0.191:2000
-ТВЦ,http://178.163.117.7:4022/udp/234.0.0.192:2000
-Союз,http://178.163.117.7:4022/udp/234.0.0.196:2000
-МИР,http://178.163.117.7:4022/udp/234.0.0.197:2000
-Канал Disney,http://178.163.117.7:4022/udp/234.0.0.198:2000
-Беларусь 24,http://178.163.117.7:4022/udp/234.0.0.199:2000
-Первый канал,http://178.163.117.7:4022/udp/234.0.0.200:2000
-Россия 1,http://178.163.117.7:4022/udp/234.0.0.201:2000
-Россия К,http://178.163.117.7:4022/udp/234.0.0.202:2000
-Карусель +0,http://178.163.117.7:4022/udp/234.0.0.203:2000
-Матч!,http://178.163.117.7:4022/udp/234.0.0.204:2000
-Пятый,http://178.163.117.7:4022/udp/234.0.0.205:2000
-НТВ,http://178.163.117.7:4022/udp/234.0.0.206:2000
-Мультимания,http://178.163.117.7:4022/udp/234.0.0.210:2000
-Бокс,http://178.163.117.7:4022/udp/234.0.0.211:2000
-Fashion,http://178.163.117.7:4022/udp/234.0.0.214:2000
-Спас,http://178.163.117.7:4022/udp/234.0.0.215:2000
-Zoo,http://178.163.117.7:4022/udp/234.0.0.216:2000
-Детский,http://178.163.117.7:4022/udp/234.0.0.217:2000
-Че,http://178.163.117.7:4022/udp/234.0.0.218:2000
-Усадьба,http://178.163.117.7:4022/udp/234.0.0.220:2000
-Здоровое ТВ,http://178.163.117.7:4022/udp/234.0.0.221:2000
-Драйф,http://178.163.117.7:4022/udp/234.0.0.245:2000
-Сарафан,http://178.163.117.7:4022/udp/234.0.0.246:2000
-24 Техно,http://178.163.117.7:4022/udp/234.0.0.247:2000
-Телекафе,http://178.163.117.7:4022/udp/234.0.0.249:2000
-ТРО,http://178.163.117.7:4022/udp/234.0.0.251:2000
-TiJi,http://178.163.117.7:4022/udp/234.0.0.252:2000
-Extreme Sport,http://178.163.117.7:4022/udp/234.0.0.150:2000
-JimJam,http://178.163.117.7:4022/udp/234.0.0.152:2000
-Nickelodeon,http://178.163.117.7:4022/udp/234.0.0.153:2000
-КХЛ,http://178.163.117.7:4022/udp/234.0.0.208:2000
-Время,http://178.163.117.7:4022/udp/234.0.0.225:2000
-Наука 2.0,http://178.163.117.7:4022/udp/234.0.0.226:2000
-Авто 24,http://178.163.117.7:4022/udp/234.0.0.227:2000
-Моя Планета,http://178.163.117.7:4022/udp/234.0.0.228:2000
-Ю,http://178.163.117.7:4022/udp/234.0.0.229:2000
 📺官方直播,#genre#
 █████████████████████████████████████████████
 苍南新闻综合,https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
@@ -7929,3 +7777,4 @@ Alin精选16首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v03
 小哥哥没人看,https://api.e1e1.top/xgg/g.php 
 ❥打赏留言,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥增加更多,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+
