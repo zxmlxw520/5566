@@ -73,9 +73,9 @@
 公益助农,https://i.uik.cc/view.php/d4e178b9f138957218755190bd2d188a.mp4
 ‼️必看说明,https://cccimg.com/view.php/7b6219260a9ec0036d8f7f28e09c4281.mp4
 凤凰按两次OK刷新,https://i.uik.cc/view.php/7b6219260a9ec0036d8f7f28e09c4281.mp4
-凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
-凤凰咨询,http://bxtv.3a.ink/api.php?id=fhzx
-凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
+凤凰中文1,http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文
+凤凰资讯1,http://iptv.4666888.xyz/iptv2A.php?id=凤凰资讯
+凤凰香港1,http://iptv.4666888.xyz/iptv2A.php?id=凤凰香港
 翡翠台,http://bxtv.3a.ink/api.php?id=fct
 TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 明珠台,http://bxtv.3a.ink/api.php?id=mz
@@ -92,6 +92,31 @@ NOW新闻,http://bxtv.3a.ink/api.php?id=now
 中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
+TVB翡翠,http://iptv.4666888.xyz/iptv2A.php?id=TVB翡翠
+TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=TVB明珠
+TVBPLUS,http://iptv.4666888.xyz/iptv2A.php?id=TVBPLUS
+NOW新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
+VIUTV,http://iptv.4666888.xyz/iptv2A.php?id=VIUTV
+TVB千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=TVB千禧经典
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=TVB1
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=TVBJ1
+中天新闻,http://iptv.4666888.xyz/iptv2A.php?id=中天新闻
+星空卫视,http://iptv.4666888.xyz/iptv2A.php?id=星空卫视
+重温经典,http://iptv.4666888.xyz/iptv2A.php?id=重温经典
+八度空间,http://iptv.4666888.xyz/iptv2A.php?id=八度空间
+综艺玩很大,http://iptv.4666888.xyz/iptv2A.php?id=综艺玩很大
+爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=爱奇艺
+TVBS台剧,http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
+纬来戏剧,http://iptv.4666888.xyz/iptv2A.php?id=纬来戏剧
+中天新闻,rtmp://hc.siqianginfo.com/live/yifatv-ztxw01 
+中天新闻CTI+,rtmp://hc.siqianginfo.com/live/yifatv-ztxw02
+中天新闻,http://114.34.40.48:50008/of-4gtv-4gtv009/index.m3u8?proxy=true
+中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
+
+凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
+凤凰咨询,http://bxtv.3a.ink/api.php?id=fhzx
+凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
+
  
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
  
@@ -7330,3 +7355,4 @@ Alin精选16首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v03
 小哥哥没人看,https://api.e1e1.top/xgg/g.php 
 ❥打赏留言,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥增加更多,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+
