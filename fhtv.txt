@@ -2622,28 +2622,9 @@ movie sphere,https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/ts-eu-w1-
 ❥打赏长久使用,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥感谢各位支持,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
  
-家庭剧场,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_877_720P_t10/c54_fast_877_720P_t10.m3u8?d
-都市生活,http://bscloudcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_878_720P_t10/c56_fast_878_720P_t10.m3u8?d
 传奇剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_1052_720P_t10/c54_fast_1052_720P_t10.m3u8?d
-警匪悬疑,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c58_fast_880_720P_t10/c58_fast_880_720P_t10.m3u8?d
-古装剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c55_fast_879_720P_t10/c55_fast_879_720P_t10.m3u8?d
-抗战剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_884_720P_t10/c54_fast_884_720P_t10.m3u8?d
-谍战剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_882_720P_t10/c57_fast_882_720P_t10.m3u8?d
 欢乐剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_951_720P_t10/c56_fast_951_720P_t10.m3u8?d
 经典老剧,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c55_fast_1051_720P_t10/c55_fast_1051_720P_t10.m3u8?d
-新片速递,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_1143_1080P_t10/c55_fast_1143_1080P_t10.m3u8?d
-电影频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c57_fast_738_1080P_t10/c57_fast_738_1080P_t10.m3u8?d
-爱情频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
-剧场频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
-欢乐频道,http://lvbdcdncmn.inter.ptqy.gitv.tv/tslive/c56_fast_951_1080P_t10/c56_fast_951_1080P_t10.m3u8?d
-青春频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_986_1080P_t10/c58_fast_986_1080P_t10.m3u8?d
-传奇频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_1052_1080P_t10/c54_fast_1052_1080P_t10.m3u8?d
-搞笑频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_953_1080P_t10/c58_fast_953_1080P_t10.m3u8?d
-家庭频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
-泰语频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?d
-红色频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1049_1080P_t10/c60_fast_1049_1080P_t10.m3u8?d
-军旅频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_700_1080P_t10/c54_fast_700_1080P_t10.m3u8?d
-现代频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
 乡村剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1050_720P_t10/c59_fast_1050_720P_t10.m3u8?d
 电影大片,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_738_720P_t10/c57_fast_738_720P_t10.m3u8?d
 爆笑综艺,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_954_720P_t10/c57_fast_954_720P_t10.m3u8?d
@@ -2656,62 +2637,185 @@ movie sphere,https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/ts-eu-w1-
 纪实档案,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1034_720P_t10/c60_fast_1034_720P_t10.m3u8?d
 第三调解室,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1033_720P_t10/c60_fast_1033_720P_t10.m3u8?d
 金牌调解,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1039_720P_t10/c59_fast_1039_720P_t10.m3u8?d
-经典北京,http://aikuai2.xuran1983.cn:2008/udp/225.1.8.39:8002
-经典刑侦,http://211.101.246.236:35455/yy/1382671124
-经典乡村,http://211.101.246.236:35455/huya/30080255
+电视剧一频道,http://cfss.cc/cdn/hy/29465862.m3u8 
+电视剧二频道,http://cfss.cc/cdn/hy/11336591.m3u8 
+电视剧三频道,http://cfss.cc/cdn/hy/21059563.m3u8 
+电视剧四频道,http://cfss.cc/cdn/hy/26355783.m3u8 
+电视剧五频道,http://cfss.cc/cdn/hy/11352912.m3u8 
+电视剧六频道,http://cfss.cc/cdn/hy/11352936.m3u8 
+电视剧七频道,http://cfss.cc/cdn/hy/21059630.m3u8 
+电视剧八频道,http://cfss.cc/cdn/hy/26355775.m3u8 
+电视剧九频道,http://cfss.cc/cdn/hy/21059594.m3u8 
+电视剧十频道,http://cfss.cc/cdn/hy/11336592.m3u8
+电视剧十一道,http://cfss.cc/cdn/hy/11602088.m3u8 
+放映厅播频道,http://cfss.cc/cdn/hy/11602077.m3u8 
+刘德华播频道,http://cfss.cc/cdn/hy/11342424.m3u8 
+许冠英播频道,http://cfss.cc/cdn/hy/11601972.m3u8 
+李连杰播频道,http://cfss.cc/cdn/hy/11342390.m3u8 
+甄子丹播频道,http://cfss.cc/cdn/hy/11352935.m3u8
+ 周润发播频道,http://cfss.cc/cdn/hy/11342387.m3u8 
+周星星播频道,http://cfss.cc/cdn/hy/11336587.m3u8 
+洪金宝播频道,http://cfss.cc/cdn/hy/11279251.m3u8 
+梁家辉播频道,http://cfss.cc/cdn/hy/11342429.m3u8 
+洪金宝播频道,http://cfss.cc/cdn/hy/11279251.m3u8 
+五福星播频道,http://cfss.cc/cdn/hy/11282233.m3u8 
+古天乐播频道,http://cfss.cc/cdn/hy/11602041.m3u8 
+邱淑贞播频道,http://cfss.cc/cdn/hy/11352949.m3u8 
+周海媚播频道,http://cfss.cc/cdn/hy/11279247.m3u8 
+星爷虎牙频道,http://cfss.cc/cdn/hy/11342412.m3u8 
+英叔虎牙频道,http://cfss.cc/cdn/hy/11342421.m3u8 
+成龙虎牙频道,http://cfss.cc/cdn/hy/11342386.m3u8 
+王晶虎牙频道,http://cfss.cc/cdn/hy/11602058.m3u8 
+沈腾虎牙频道,http://cfss.cc/cdn/hy/11601968.m3u8 
+黄渤虎牙频道,http://cfss.cc/cdn/hy/11352876.m3u8 
+吴京虎牙频道,http://cfss.cc/cdn/hy/11602041.m3u8 
+强森虎牙频道,http://cfss.cc/cdn/hy/21059581.m3u8 
+玄幻虎牙频道,http://cfss.cc/cdn/hy/11342414.m3u8 
+喜剧虎牙频道,http://cfss.cc/cdn/hy/11352877.m3u8 
+港片虎牙频道,http://cfss.cc/cdn/hy/11602043.m3u8 
+国产虎牙频道,http://cfss.cc/cdn/hy/11352973.m3u8 
+漫威虎牙频道,http://cfss.cc/cdn/hy/11602034.m3u8 
+宇宙虎牙频道,http://cfss.cc/cdn/hy/11342428.m3u8 
+怪兽虎牙频道,http://cfss.cc/cdn/hy/21059577.m3u8 
+武侠虎牙频道,http://cfss.cc/cdn/hy/11342427.m3u8 
+警匪虎牙频道,http://cfss.cc/cdn/hy/11352886.m3u8 
+罪犯虎牙频道,http://cfss.cc/cdn/hy/11352962.m3u8 
+枪战虎牙频道,http://cfss.cc/cdn/hy/21059579.m3u8 
+盗墓虎牙频道,http://cfss.cc/cdn/hy/21059552.m3u8 
+海盗虎牙频道,http://cfss.cc/cdn/hy/21059595.m3u8 
+推荐虎牙频道,http://cfss.cc/cdn/hy/11602041.m3u8 
+救援虎牙频道,http://cfss.cc/cdn/hy/21059594.m3u8 
+热血虎牙频道,http://cfss.cc/cdn/hy/11352934.m3u8 
+谍战虎牙频道,http://cfss.cc/cdn/hy/21059585.m3u8 
+战争虎牙频道,http://cfss.cc/cdn/hy/21059592.m3u8 
+小鬼头播频道,http://cfss.cc/cdn/hy/11352963.m3u8 
+陈翔六点频道,http://cfss.cc/cdn/hy/11274154.m3u8 
+喜剧专场频道,http://cfss.cc/cdn/hy/11602044.m3u8 
+高分动作频道,http://cfss.cc/cdn/hy/11352884.m3u8 
+不挤影院频道,http://cfss.cc/cdn/hy/11352897.m3u8 
+黑帮斗争频道,http://cfss.cc/cdn/hy/11342419.m3u8 
+嫣然影厅频道,http://cfss.cc/cdn/hy/11601977.m3u8 
+女神系列频道,http://cfss.cc/cdn/hy/11336571.m3u8 
+经典女神频道,http://cfss.cc/cdn/hy/11352909.m3u8 
+许氏三杰频道,http://cfss.cc/cdn/hy/11602033.m3u8 
+经典港片频道,http://cfss.cc/cdn/hy/11352965.m3u8 
+镖行天下频道,http://cfss.cc/cdn/hy/11352969.m3u8 
+蘑菇影厅频道,http://cfss.cc/cdn/hy/11601981.m3u8 
+搞笑恐怖频道,http://cfss.cc/cdn/hy/11601960.m3u8 
+死神来了频道,http://cfss.cc/cdn/hy/11352903.m3u8 
+超异能族频道,http://cfss.cc/cdn/hy/21059586.m3u8 
+古墓系列频道,http://cfss.cc/cdn/hy/11352913.m3u8 
+动作电影频道,http://cfss.cc/cdn/hy/11602077.m3u8 
+搞笑喜剧频道,http://cfss.cc/cdn/hy/11342423.m3u8 
+欢笑影院频道,http://cfss.cc/cdn/hy/11352894.m3u8 
+国产悬疑频道,http://cfss.cc/cdn/hy/11342395.m3u8 
+快意江湖频道,http://cfss.cc/cdn/hy/11342435.m3u8 
+喜乐影院频道,http://cfss.cc/cdn/hy/21059580.m3u8 
+怪兽系列频道,http://cfss.cc/cdn/hy/21059554.m3u8 
+杰森斯坦频道,http://cfss.cc/cdn/hy/21059588.m3u8 
+寻秦记播频道,http://cfss.cc/cdn/hy/29465848.m3u8 
+寻秦记播频道,http://cfss.cc/cdn/hy/29633850.m3u8 
+西游记播频道,http://cfss.cc/cdn/hy/29465859.m3u8 
+扫黄先锋频道,http://cfss.cc/cdn/hy/29465855.m3u8 
+楚汉骄雄频道,http://cfss.cc/cdn/hy/29465854.m3u8 
+陀枪师姐频道,http://cfss.cc/cdn/hy/29465857.m3u8
+ 法证先锋频道,http://cfss.cc/cdn/hy/29465861.m3u8 
+刑事侦缉频道,http://cfss.cc/cdn/hy/29465856.m3u8 
+笑看风云频道,http://cfss.cc/cdn/hy/29465858.m3u8 
+大唐双龙频道,http://cfss.cc/cdn/hy/29465850.m3u8 
+洗冤录播频道,http://cfss.cc/cdn/hy/29465851.m3u8 
+金枝欲孽频道,http://cfss.cc/cdn/hy/29465847.m3u8 
+野蛮奶奶频道,http://cfss.cc/cdn/hy/23863796.m3u8 
+创世纪播频道,http://cfss.cc/cdn/hy/29465852.m3u8 
+封神榜播频道,http://cfss.cc/cdn/hy/29465849.m3u8 
+神雕侠侣频道,http://cfss.cc/cdn/hy/30454429.m3u8 
+妙手仁心频道,http://cfss.cc/cdn/hy/29465853.m3u8 
+活佛济公频道,http://cfss.cc/cdn/hy/23903123.m3u8 
+倚天屠龙频道,http://cfss.cc/cdn/hy/27834853.m3u8 
+鹿鼎记98频道,http://cfss.cc/cdn/hy/26355806.m3u8
+ 小李飞刀频道,http://cfss.cc/cdn/hy/11342417.m3u8 
+水月洞天频道,http://cfss.cc/cdn/hy/21059567.m3u8 
+绝代双娇频道,http://cfss.cc/cdn/hy/29465867.m3u8 
+风云雄霸频道,http://cfss.cc/cdn/hy/21059612.m3u8 
+如懿传播频道,http://cfss.cc/cdn/hy/29465868.m3u8 
+芈月传播频道,http://cfss.cc/cdn/hy/11352975.m3u8 
+延禧攻略频道,http://cfss.cc/cdn/hy/26355864.m3u8 
+王子青蛙频道,http://cfss.cc/cdn/hy/11601964.m3u8 
+永夜星河频道,http://cfss.cc/cdn/hy/23734169.m3u8 
+玫瑰故事频道,http://cfss.cc/cdn/hy/23865142.m3u8
+ 漫长季节频道,http://cfss.cc/cdn/hy/11342393.m3u8
+ 梦华录播频道,http://cfss.cc/cdn/hy/11336590.m3u8 
+乌龙院闯频道,http://cfss.cc/cdn/hy/26355767.m3u8 
+新楚留香频道,http://cfss.cc/cdn/hy/26355848.m3u8 
+新楚留香频道,http://cfss.cc/cdn/hy/23863804.m3u8 
+无心法师频道,http://cfss.cc/cdn/hy/30080233.m3u8 
+征服虎牙频道,http://cfss.cc/cdn/hy/30311494.m3u8 
+蜡笔小新频道,http://cfss.cc/cdn/hy/30299353.m3u8
+ 海绵宝宝频道,http://cfss.cc/cdn/hy/11352919.m3u8 
+龙珠虎牙频道,http://cfss.cc/cdn/hy/10279885.m3u8 
+叮当全集频道,http://cfss.cc/cdn/hy/11601963.m3u8 
+樱桃小丸频道,http://cfss.cc/cdn/hy/11342394.m3u8 
+猫和老鼠频道,http://cfss.cc/cdn/hy/11352879.m3u8 
+精绝古城频道,http://cfss.cc/cdn/hy/11352871.m3u8 
+怒晴湘西频道,http://cfss.cc/cdn/hy/11602075.m3u8 
+龙岭迷窟频道,http://cfss.cc/cdn/hy/29465863.m3u8 
+云南虫谷频道,http://cfss.cc/cdn/hy/11352898.m3u8 
+JJ斗地主频道,http://cfss.cc/cdn/hy/14079954.m3u8 
+亮剑虎牙频道,http://cfss.cc/cdn/hy/30080238.m3u8 
+民兵葛二频道,http://cfss.cc/cdn/hy/11602072.m3u8 
+我的团长频道,http://cfss.cc/cdn/hy/11352910.m3u8 
+铁道游击频道,http://cfss.cc/cdn/hy/11352936.m3u8
+ 铁梨花播频道,http://cfss.cc/cdn/hy/11352912.m3u8 
+康熙微服频道,http://cfss.cc/cdn/hy/11342418.m3u8 
+御赐仵作频道,http://cfss.cc/cdn/hy/11352948.m3u8
+ 新水浒传频道,http://cfss.cc/cdn/hy/11342384.m3u8
+ 开端虎牙频道,http://cfss.cc/cdn/hy/11342397.m3u8 
+神探狄仁频道,http://cfss.cc/cdn/hy/11352958.m3u8 
+三国演义频道,http://cfss.cc/cdn/hy/11602081.m3u8 
+新三国演频道,http://cfss.cc/cdn/hy/11352944.m3u8
+ 问心虎牙频道,http://cfss.cc/cdn/hy/11352890.m3u8 
+家有儿女频道,http://cfss.cc/cdn/hy/29774370.m3u8 
+全职高手频道,http://cfss.cc/cdn/hy/11352901.m3u8 
+炊事班的频道,http://cfss.cc/cdn/hy/19524135.m3u8 
+医馆笑传频道,http://cfss.cc/cdn/hy/11352891.m3u8 
+杨光生活频道,http://cfss.cc/cdn/hy/11602085.m3u8
+ 陈情令播频道,http://cfss.cc/cdn/hy/29465862.m3u8 
+神医喜来频道,http://cfss.cc/cdn/hy/11601978.m3u8 
+大宋提刑频道,http://cfss.cc/cdn/hy/26355856.m3u8 
+鹊刀门传频道,http://cfss.cc/cdn/hy/29805872.m3u8 
+白鹿原播频道,http://cfss.cc/cdn/hy/11342416.m3u8 
+长相思播频道,http://cfss.cc/cdn/hy/11336593.m3u8 
+你是我的频道,http://cfss.cc/cdn/hy/11352920.m3u8 
+一代枭雄频道,http://cfss.cc/cdn/hy/11342398.m3u8 
+庆余年播频道,http://cfss.cc/cdn/hy/11352960.m3u8 
+铁齿铜牙频道,http://cfss.cc/cdn/hy/11342396.m3u8 
+镖行天下频道,http://cfss.cc/cdn/hy/11352969.m3u8 
+雪中悍刀频道,http://cfss.cc/cdn/hy/11336592.m3u8 
+星汉灿烂频道,http://cfss.cc/cdn/hy/11336591.m3u8 
+将夜虎牙频道,http://cfss.cc/cdn/hy/11352885.m3u8 
+父母爱情频道,http://cfss.cc/cdn/hy/11602071.m3u8 
+大染坊播频道,http://cfss.cc/cdn/hy/11602086.m3u8 
+地下交通频道,http://cfss.cc/cdn/hy/11342433.m3u8 
+邻里一家频道,http://cfss.cc/cdn/hy/11342426.m3u8 
+雍正王朝频道,http://cfss.cc/cdn/hy/11342439.m3u8 
+士兵突击频道,http://cfss.cc/cdn/hy/11342430.m3u8
+爱情公寓频道,http://cfss.cc/cdn/hy/11336726.m3u8 
+
+家庭剧场,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_877_720P_t10/c54_fast_877_720P_t10.m3u8?d
+都市生活,http://bscloudcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_878_720P_t10/c56_fast_878_720P_t10.m3u8?d
+警匪悬疑,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c58_fast_880_720P_t10/c58_fast_880_720P_t10.m3u8?d
+古装剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c55_fast_879_720P_t10/c55_fast_879_720P_t10.m3u8?d
+抗战剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_884_720P_t10/c54_fast_884_720P_t10.m3u8?d
+谍战剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_882_720P_t10/c57_fast_882_720P_t10.m3u8?d
 经典七仙女,http://iptv.jxpan.vip:18888/aio/yy/1382735553
-
-经典喜剧片,http://211.101.246.236:35455/huya/11352894
-经典僵尸片,http://211.101.246.236:35455/yy/1354143966
-经典宫庭片,http://211.101.246.236:35455/yy/1354932429
-经典谍战片,http://211.101.246.236:35455/huya/21059585
 经典电视剧,http://103.193.151.146/douyu1.php?id=5261342
-
-少年包青天,http://211.101.246.236:35455/bilibili/27554961
-武侠功夫,http://211.101.246.236:35455/yy/74613175
-怀旧台,http://211.101.246.236:35455/yy/1382736838
-功夫电影,http://211.101.246.236:35455/yy/1351814644
-看影剧台,http://211.101.246.236:35455/yy/1355480591
-星河剧场,http://211.101.246.236:35455/bilibili/14262592
-爱影剧台,http://211.101.246.236:35455/yy/1455988450
-爱经典台,http://211.101.246.236:35455/yy/1351537467
-爱玄幻台,http://211.101.246.236:35455/yy/34229877
-爱电影台,http://211.101.246.236:35455/yy/1355112116
-爱武侠台,http://211.101.246.236:35455/yy/1382736902
-爱功夫台,http://211.101.246.236:35455/yy/1461889059
-爱怀旧台,http://211.101.246.236:35455/yy/24407222
-
-爱看荷花台,http://211.101.246.236:35455/yy/1382851576
-爱看菊花台,http://211.101.246.236:35455/yy/1353518742
-爱看牡丹台,http://211.101.246.236:35455/yy/1382749895
-爱看梅花台,http://211.101.246.236:35455/yy/1382735542
-爱看雪花台,http://211.101.246.236:35455/yy/1382749917
-爱看古装剧台,http://211.101.246.236:35455/yy/1354936134
-爱看军旅剧台,http://211.101.246.236:35455/yy/1356306672
-爱看喜剧台,http://211.101.246.236:35455/yy/1382736886
-爱看乡村台,http://211.101.246.236:35455/yy/1382741638
-爱看综艺台,http://211.101.246.236:35455/yy/1382736720
-爱家影院台,http://211.101.246.236:35455/yy/1382736883
-爱家合家欢台,http://211.101.246.236:35455/yy/1354936238
-爱家喜剧台,http://211.101.246.236:35455/yy/1382735584
-
 星河邵氏1,http://php.jdshipin.com/smt.php?id=Celestial2
 星河邵氏2,http://php.jdshipin.com/smt.php?id=Qiyi
 星河高清剧场,http://131.186.40.172:15002/huya/11342412
 星河华剧台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
-星河功夫台,http://211.101.246.236:35455/bilibili/2506186
-星河影剧台,http://211.101.246.236:35455/bilibili/27719619
-星河武侠台,http://211.101.246.236:35455/bilibili/24116013
-星空电视剧台,http://211.101.246.236:35455/yy/1354952229
-
-星河精彩影视,http://110.72.68.253:8181/tsfile/live/1015_1.m3u8
-星河高清电影,http://61.150.115.189:7777/huya/23829543#http://61.150.115.189:7777/huya/23829543
-星河功夫2,http://61.150.115.189:7777/huya/11352941
-星河港剧台,http://61.150.115.189:7777/huya/11602082
 星河电影2,http://131.186.40.172:15002/huya/21059615
 星河电影3,http://131.186.40.172:15002/huya/11342432
 星河功夫3,http://131.186.40.172:15002/huya/11342435
-星河电影5,http://211.101.246.236:35455/bilibili/1787123111
 星河高清电影3,http://131.186.40.172:15002/huya/11602031
 星河高清电影4,http://131.186.40.172:15002/huya/11602075
 星河高清电影5,http://131.186.40.172:15002/huya/11342399
@@ -2721,7 +2825,6 @@ movie sphere,https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/ts-eu-w1-
 星河高清电影8,http://61.150.115.189:7777/huya/11342399
 星河高清电影9,http://131.186.40.172:15002/huya/11336571
 星河高清电影10,http://131.186.40.172:15002/huya/11601955
-
 星河剧集1,http://131.186.40.172:15002/huya/23903123
 星河剧集2 http://131.186.40.172:15002/huya/23863804
 星河剧集3,http://131.186.40.172:15002/huya/23865171
@@ -2745,76 +2848,11 @@ movie sphere,https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/ts-eu-w1-
 星河剧集21,http://131.186.40.172:15002/huya/11602067
 星河剧集22,https://live.ottiptv.cc/douyu/9388938
 星河剧集23,https://live.ottiptv.cc/huya/30957454
-星河剧集24,http://211.101.246.236:35455/bilibili/22582042
-
-
 星空经典台http://222.186.39.21:35466/douyu/6863367
 星河音乐台 ,http://198.23.236.148:35455/douyu/3186217
 星河怀旧台,http://198.23.236.148:35455/douyu/5522351
 星河经典2,http://61.150.115.189:7777/huya/11352909
 星河重现台,http://222.186.39.21:35466/douyu/6863367
-星河电视剧台,http://211.101.246.236:35455/yy/1354952229
-星河神话台,http://211.101.246.236:35455/yy/1463783198
-星河戏剧台,http://211.101.246.236:35455/yy/1382736807
-星河玄幻台,http://211.101.246.236:35455/yy/34229877
-
-
-
-
-彩虹太阳台,http://211.101.246.236:35455/huya/11602041
-彩虹合家欢台,http://211.101.246.236:35455/huya/1087113
-彩虹精选台,http://211.101.246.236:35455/yy/1382627144
-彩虹影迷台,http://211.101.246.236:35455/yy/1461579859
-彩虹功夫台,http://211.101.246.236:35455/yy/1461889059
-彩虹经典,http://103.193.151.146/douyu1.php?id=9388938
-
-彩虹私人影院,P2p://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
-彩虹动作影院,http://114.241.254.251:4022/rtp/239.3.1.92:4120
-彩虹怀旧http://211.101.246.236:35455/huya/21967180
-
-彩虹月亮台,http://211.101.246.236:35455/yy/1382736975
-彩虹华剧台,http://211.101.246.236:35455/yy/1455988450
-彩虹剧场台,http://211.101.246.236:35455/yy/1382736891
-彩虹桂花台,http://211.101.246.236:35455/yy/1382749944
-彩虹樱花台,http://211.101.246.236:35455/yy/1354926622
-彩虹兰花台,http://211.101.246.236:35455/yy/1354931495
-彩虹玫瑰台,http://211.101.246.236:35455/yy/1382749903
-彩虹莲花台,http://211.101.246.236:35455/huya/30695684
-彩虹桃花台,http://211.101.246.236:35455/huya/30595074
-彩虹音乐台,http://huanqiuzhibo.cn/manifest/douyu.php?id=9588891/
-彩虹综艺台,http://211.101.246.236:35455/yy/1382741642
-
-星空邵氏台,http://iptv.4666888.xyz/iptvGO.php?id=33
-星空中国电影台,http://iptv.4666888.xyz/iptvGO.php?id=35
-星空POPC台,http://iptv.4666888.xyz/iptvGO.php?id=41
-星空娱家台,http://211.101.246.236:35455/yy/1450556636
-
-星空古典台,http://211.101.246.236:35455/yy/1354932390
-
-
-
-星空玄幻台,http://211.101.246.236:35455/yy/1354936231
-星空经典台,http://211.101.246.236:35455/yy/1353518742
-星空怀旧台,http://211.101.246.236:35455/yy/1382736858
-星空军旅台,http://211.101.246.236:35455/yy/22089862
-星空电影台,http://211.101.246.236:35455/yy/1382736801
-星空生活台,http://211.101.246.236:35455/yy/1382749917
-
-星空影视台,http://211.101.246.236:35455/yy/1354930926
-星空剧场台,http://211.101.246.236:35455/yy/53320802
-星空阳光台,http://211.101.246.236:35455/yy/1383549704
-星空戏剧台,http://211.101.246.236:35455/yy/23512910
-星空功夫台,http://211.101.246.236:35455/yy/1456829119
-星空菠萝台,http://211.101.246.236:35455/yy/1354888726
-
-星空苹果台,http://211.101.246.236:35455/yy/1382736802
-星空草莓台,http://211.101.246.236:35455/yy/1355532933
-星空香蕉台,http://211.101.246.236:35455/yy/1382736890
-星空荔枝台,http://211.101.246.236:35455/yy/1382736843
-
-
-
-
 风云古装台,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
 风云星空台,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_879_1080P_t10/c55_fast_879_1080P_t10.m3u8?d
 风云乡村家庭台,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1050_1080P_t10/c59_fast_1050_1080P_t10.m3u8?d
@@ -2830,142 +2868,45 @@ movie sphere,https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/ts-eu-w1-
 风云青春台,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_986_1080P_t10/c58_fast_986_1080P_t10.m3u8?d
 风云乐乐台,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_877_1080P_t10/c54_fast_877_1080P_t10.m3u8?d
 风云剧场台,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
-风云功夫台,http://211.101.246.236:35455/yy/1354926655
-风云武侠台,http://211.101.246.236:35455/yy/1354210357
 风云怀旧台,http://lvbdcdncmn.inter.ptqy.gitv.tv/tslive/c59_fast_1134_1080P_t10/c59_fast_1134_1080P_t10.m3u8?
 风云生活台,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10-/c59_fast_967_1080P_t10.m3u8?d
 风云乡村,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_958_1080P_t10/c58_fast_95
-
 风云新剧台,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_1143_1080P_t10/c55_fast_1143_1080P_t10.m3u8?d
 风云电影台,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c57_fast_738_1080P_t10/c57_fast_738_1080P_t10.m3u8?d
 风云古装台,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
-风云经典台,http://211.101.246.236:35455/yy/1382828771
 风云红色台,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1049_1080P_t10/c60_fast_1049_1080P_t10.m3u8?d
-风云鬼怪台,http://211.101.246.236:35455/yy/1335509613
 风云海外台,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?d
 风云开心台,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_953_1080P_t10/c58_fast_953_1080P_t10.m3u8?d
-风云刑侦台,http://211.101.246.236:35455/yy/1350670730
-风云港剧台,http://211.101.246.236:35455/yy/1354936242
-风云家乐台,http://211.101.246.236:35455/yy/1382736903
 风云青春台,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_986_1080P_t10/c58_fast_986_1080P_t10.m3u8?d
 风云乐乐台,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_877_1080P_t10/c54_fast_877_1080P_t10.m3u8?d
 风云剧场台,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
-风云功夫台,http://211.101.246.236:35455/yy/1354926655
-风云再现台,http://211.101.246.236:35455/yy/1354930979
-风云武侠台,http://211.101.246.236:35455/yy/1354210357
-风云忆经典台,http://211.101.246.236:35455/yy/1382828771
 风云怀旧台,http://lvbdcdncmn.inter.ptqy.gitv.tv/tslive/c59_fast_1134_1080P_t10/c59_fast_1134_1080P_t10.m3u8?
 风云生活台,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10-/c59_fast_967_1080P_t10.m3u8?d
 风云乡村台,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_958_1080P_t10/c58_fast_95
-
-
-美家风云台,http://211.101.246.236:35455/yy/29067083
-美家人气剧台,http://211.101.246.236:35455/huya/11342408
- 美家港剧台,http://211.101.246.236:35455/huya/30400559
-美家经典影视台,http://211.101.246.236:35455/huya/36050192
-美家金庸武侠台,http://211.101.246.236:35455/huya/30650192
-美家多多剧场台,http://211.101.246.236:35455/yy/1356043609
-美家经典影视台,http://211.101.246.236:35455/huya/36050192
-美家怀旧台,http://211.101.246.236:35455/yy/1356043609
-美家港剧台http://211.101.246.236:35455/huya/30400559
-
-美家风尚剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c58_fast_880_720P_t10/c58_fast_880_720P_t10.m3u8?d
-美家缤纷剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c55_fast_879_720P_t10/c55_fast_879_720P_t10.m3u8?d
-美家生活剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_884_720P_t10/c54_fast_884_720P_t10.m3u8?d
-美家梦想剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_882_720P_t10/c57_fast_882_720P_t10.m3u8?d
-美家欢乐剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_951_720P_t10/c56_fast_951_720P_t10.m3u8?d
-美家时光剧场,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c55_fast_1051_720P_t10/c55_fast_1051_720P_t10.m3u8?d
-美家全家福剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1050_720P_t10/c59_fast_1050_720P_t10.m3u8?d
-美家视界剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_738_720P_t10/c57_fast_738_720P_t10.m3u8?d
 美家星空院线,http://zqh2333.top:2222/rtp/239.93.24.139:5140
-
-
-美家星光影院,http://211.101.246.236:35455/huya/30816380
-美家经典台,http://211.101.246.236:35455/huya/26058097
-美家金庸台,http://211.101.246.236:35455/huya/36050192
-美家武侠台,http://211.101.246.236:35455/huya/29808803
-美家无间道台,http://211.101.246.236:35455/huya/25129377
-美家侠影台,http://211.101.246.236:35455/huya/30682679
-美家探案台,http://211.101.246.236:35455/huya/20969144
-美家动作台,http://211.101.246.236:35455/huya/30400599
-美家港剧台,http://211.101.246.236:35455/huya/30590779
-美家古典台,http://211.101.246.236:35455/huya/30307366
-美家幸福台,http://211.101.246.236:35455/huya/11352874
- 美家开心台,http://211.101.246.236:35455/huya/353798
-美家经典小品台,http://211.101.246.236:35455/huya/11602068
-美家剧乐酷台,http://211.101.246.236:35455/huya/11342414
-美家影迷台,http://211.101.246.236:35455/yy/1354932438
-美家星影台,http://211.101.246.236:35455/huya/23352535
-美家星空台,http://211.101.246.236:35455/yy/1382736910
-美家综合台,http://211.101.246.236:35455/yy/1382736809
-美家乐家台,http://211.101.246.236:35455/huya/30825886
-美家娱家台,http://211.101.246.236:35455/huya/23358441
-美家橘子台,http://211.101.246.236:35455/yy/1382736858
-
-经典喜剧,http://211.101.246.236:35455/yy/1355652820
 经典港剧①,http://lxajh.top/tv/douyu.php?id=9548850
-
-经典港剧②,http://211.101.246.236:35455/huya/11352965
-经典港片②,http://211.101.246.236:35455/huya/11602043
-
 经典宫廷①,http://lxajh.top/tv/douyu.php?id=8543072
-经典宫廷②,http://211.101.246.236:35455/yy/1382745191
-经典清剧,http://211.101.246.236:35455/huya/11342396
- 经典水浒,http://211.101.246.236:35455/huya/26355860
-1
-经典西游,http://211.101.246.236:35455/huya/26355861
-经典红楼,http://211.101.246.236:35455/yy/1382745084
-↓
-经典济公,http://211.101.246.236:35455/yy/1355265814
- 经典台剧,http://211.101.246.236:35455/yy/1355260662
-经典金庸,http://211.101.246.236:35455/huya/11602082
-经典鬼片,http://211.101.246.236:35455/huya/11601960
-经典鬼片2,http://211.101.246.236:35455/yy/24066336
-经典鬼片3,http://211.101.246.236:35455/yy/29460894
-↓
 经典恐怖,http://103.193.151.146/douyu1.php?id=1165374
-
-经典动漫,http://211.101.246.236:35455/huya/30080236
-
-经典鬼片①,http://211.101.246.236:35455/yy/512056
-星衛電影台,http://zby.xjqxz.top/live13/live.m3u8
-檬檬功夫台,http://huanqiuzhibo.cn/manifest/douyu.php?id=9838414
 香港功夫台,http://huanqiuzhibo.cn/manifest/douyu.php?id=9548850
 泊枫剧场1,http://huanqiuzhibo.cn/manifest/douyu.php?id=7623292
-↓
 TVB剧场1,http://huanqiuzhibo.cn/manifest/douyu.php?id=7655471
 TVB剧场2,http://huanqiuzhibo.cn/manifest/douyu.php?id=4290711
 TVB剧场2,http://huanqiuzhibo.cn/manifest/douyu.php?id=5522351
 经典港剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=4549169
 华语经典,http://huanqiuzhibo.cn/manifest/douyu.php?id=3928
-舔狗动漫,http://huanqiuzhibo.cn/manifest/douyu.php?id=7620081
 三国演义,http://huanqiuzhibo.cn/manifest/douyu.php?id=7459925
 古装剧场,http://huanqiuzhibo.cn/manifest/douyu.php?id=5908256
 小猪优版剧院,http://huanqiuzhibo.cn/manifest/douyu.php?id=10297898 
-
 邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
 经典电影轮播,rtmp://live.gxrb.com.cn/pull/red_movies_0501
 苏州电影娱乐信息,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 冰冰影厅,http://zzy789.xyz/douyu1.php?id=74374
 奇光剧场,http://zzy789.xyz/douyu1.php?id=11849873
-
 奇光影院,http://zzy789.xyz/douyu1.php?id=8009547
 奇光动漫剧场,http://103.193.151.146/douyu1.php?id=12560807
-
 柠檬功夫,http://huanqiuzhibo.cn/manifest/douyu.php?id=9838414
-
 小毅主播q,http://103.193.151.146/douyu1.php?id=6906628
- 小毅主播e,http://103.193.151.146/douyu1.php?id=11851549
-
-经典电影,http://211.101.246.236:35455/yy/1420765362
-经典电影重温,http://211.101.246.236:35455/yy/1382793140
-
-
-CHC动作电影,http://58.19.180.108:9981/stream/channelid/1782708396?profile=pass
-CHC影迷电影,http://58.19.180.108:9981/stream/channelid/473633391?profile=pass
-CHC家庭影院,http://58.19.180.108:9981/stream/channelid/2141017443?profile=pass
-
-万马影视,https://isus.cc/php/huya.php?id=20588024
+小毅主播e,http://103.193.151.146/douyu1.php?id=11851549
 粤语电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=1226741
 金庸影院,http://zzy789.xyz/douyu1.php?id=9285904
 台剧影院,http://zzy789.xyz/douyu1.php?id=7655471
@@ -2974,33 +2915,19 @@ CHC家庭影院,http://58.19.180.108:9981/stream/channelid/2141017443?profile=pa
 橙記港剧,http://zzy789.xyz/douyu1.php?id=4549169
 热门港剧,http://zzy789.xyz/douyu1.php?id=5522351
 经典剧集,http://zzy789.xyz/douyu1.php?id=6863367
-
 古剑奇谭,https://isus.cc/php/huya.php?id=23824164
 神雕侠侣,https://isus.cc/php/huya.php?id=11352964
-魔幻手机1,http://dns.yiandrive.com:13571/huya/11352966
-西游记,http://dns.yiandrive.com:13571/huya/26355861
 POPC,http://bxtv.3a.ink/api.php?id=popc
 经典剧场,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 经典影视台,http://huanqiuzhibo.cn/manifest/douyu.php?id=6091425
-
-经典港剧,http://211.101.246.236:35455/yy/1354889234     
-经典神话,http://211.101.246.236:35455/yy/1354936231
-龙腾功夫,http://211.101.246.236:35455/yy/1356261006
-星光经典,http://211.101.246.236:35455/yy/1353422557
-
 星光怀旧台,http://data.3g.yy.com/live/hls/1354936134/1354936134.m3u8
 星光世界台,http://data.3g.yy.com/live/hls/1353422557/1353422557.m3u8
 星光经典台,http://data.3g.yy.com/live/hls/1355046088/1355046088.m3u8[
-
-经典怀旧,http://211.101.246.236:35455/yy/1354210357
-剧经典,http://211.101.246.236:35455/yy/1356349071
-
 美家功夫台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/20250717-GF-1080FHD.flv$已失效
- 
 星光综合台,https://test.aldirect.rtmp.huya.com/live/zxcvbnm9852.flv                                                                                  
 星光综合y,http://data.3g.yy.com/live/hls/1353422557/1353422557
 崇明功夫台,http://1.95.83.42:8081/yy/1507716299.flv#http://data.3g.yy.com/live/hls/1507716299/1507716299
- 龙腾功夫,http://120.24.172.11:50001/yy/1356261006
+龙腾功夫,http://120.24.172.11:50001/yy/1356261006
 
 🔥经典轮播,#genre#
 ❥(^_-)加个鸡腿吧,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
@@ -7585,6 +7512,7 @@ Alin精选16首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v03
 小哥哥没人看,https://api.e1e1.top/xgg/g.php 
 ❥打赏留言,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥增加更多,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+
 
 
 
