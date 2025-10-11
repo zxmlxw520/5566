@@ -330,7 +330,7 @@ CCTV4K,http://hd1.91kds.cn/live2/cctvxw.m3u8?id=cctv4k&bt=2&fmt=&ip=&app=com.che
 江西卫视,http://110.42.63.57:1222/live/miguHD.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86
 
 新疆卫视,http://110.42.63.57:1222/live/dft/xinjiang/xinjiang.php?id=xjws
-同仁堂保健,http://looplivepull.aishigou.net/live/CH1_loopLive01/index.m3u8 
+
 海南卫视,http://110.42.63.57:1222/live/dft/hainan/hainan.php?id=hnws
 西藏卫视,http://110.42.63.57:1222/live/dft/xizang/xizang.php?id=xzws
 藏语卫视,http://110.42.63.57:1222/live/dft/xizang/xizang.php?id=xzzy
@@ -1459,16 +1459,13 @@ CQTV移动,http://124.162.85.150:4022/udp/225.0.4.215:7980
 山东卫视4K,http://124.116.170.138:8081/rtp/239.111.205.66:5140?$陕西/咸阳/电信
 
 🚀港澳台,#genre#
-凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
-凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
-凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
-TVB翡翠,http://t.061899.xyz/tl/js/js.php?id=tvbfct
-无线新闻,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
-TVB明珠,http://t.061899.xyz/tl/js/js.php?id=tvbmzt
-
-凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文
-凤凰资讯,http://iptv.4666888.xyz/iptv2A.php?id=凤凰资讯
-凤凰香港,http://iptv.4666888.xyz/iptv2A.php?id=凤凰香港
+凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
+凤凰咨询,http://bxtv.3a.ink/api.php?id=fhzx
+凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
+翡翠台,http://bxtv.3a.ink/api.php?id=fct
+凤凰中文1,http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文
+凤凰资讯1,http://iptv.4666888.xyz/iptv2A.php?id=凤凰资讯
+凤凰香港1,http://iptv.4666888.xyz/iptv2A.php?id=凤凰香港
 TVB翡翠,http://iptv.4666888.xyz/iptv2A.php?id=TVB翡翠
 TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=TVB明珠
 TVBPLUS,http://iptv.4666888.xyz/iptv2A.php?id=TVBPLUS
@@ -1485,7 +1482,109 @@ TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=TVBJ1
 爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=爱奇艺
 TVBS台剧,http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
 纬来戏剧,http://iptv.4666888.xyz/iptv2A.php?id=纬来戏剧
-
+TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
+明珠台,http://bxtv.3a.ink/api.php?id=mz
+無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
+美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
+PopC,http://bxtv.3a.ink/api.php?id=popc
+VIUTV,http://bxtv.3a.ink/api.php?id=viutv
+千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
+myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
+NOW新闻,http://bxtv.3a.ink/api.php?id=now
+广东体育,http://bxtv.3a.ink/api.php?id=gdty
+广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
+中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
+翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
+翡翠台,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
+华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
+TVB翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+TVB无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
+TVBS新闻,http://link4.813555.xyz/qyzby/qydytv4G245347.php?wid=36
+千禧经典,http://bxtv.3a.ink/api.php?id=qxjd
+TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
+TVB翡翠,http://stream-ali1.csslcloud.net/live/CL7gYJcMM5BXZvyamZly3XZnyMmRJGlm43p12oP6KkG1PhQWJK.flv
+TVB明珠,http://link4.813555.xyz/qyzby/FHTVBQ546510.php?id=73
+翡翠台,http://t.061899.xyz/tl/js/js.php?id=tvbfct
+无线新闻台,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
+明珠台,http://t.061899.xyz/tl/js/js.php?id=tvbmzt
+凤凰中文频加,http://vallest.uk/livehttpplay?channel_id=30014 
+凤凰中文频加,http://vallest.uk/livehttpplay?channel_id=20065 
+凤凰资讯频加,http://vallest.uk/livehttpplay?channel_id=30015 
+凤凰资讯频加,http://vallest.uk/livehttpplay?channel_id=20066 
+凤凰香港频加,http://vallest.uk/livehttpplay?channel_id=20067 
+凤凰香港频加,http://vallest.uk/livehttpplay?channel_id=30016 
+有线综合频加,http://vallest.uk/livehttpplay?channel_id=20152 
+无线新闻频加,http://vallest.uk/livehttpplay?channel_id=30024 
+无线翡翠频加,http://vallest.uk/livehttpplay?channel_id=20124 
+无线明珠频加,http://vallest.uk/livehttpplay?channel_id=30026 
+无线明珠频加,http://vallest.uk/livehttpplay?channel_id=20125 
+VIUTV粤频加,http://vallest.uk/livehttpplay?channel_id=30032 
+VIUTV粤频加,http://vallest.uk/livehttpplay?channel_id=20131 
+VIUTV英频加,http://vallest.uk/livehttpplay?channel_id=30033 
+VIUTV英频加,http://vallest.uk/livehttpplay?channel_id=20132 
+RTHK-31频加,http://vallest.uk/livehttpplay?channel_id=30066 
+RTHK-32频加,http://vallest.uk/livehttpplay?channel_id=30067 
+RTHK-32频加,http://vallest.uk/livehttpplay?channel_id=20203 
+RTHK-32频加,http://vallest.uk/livehttpplay?channel_id=30028 
+广东珠江频加,http://vallest.uk/livehttpplay?channel_id=20144 
+广东体育频加,http://vallest.uk/livehttpplay?channel_id=12028 
+广东体育频加,http://vallest.uk/livehttpplay?channel_id=20130 
+广东体育频加,http://vallest.uk/livehttpplay?channel_id=30031 
+广东戏曲频加,http://vallest.uk/livehttpplay?channel_id=20142
+民视新闻地波,http://123.51.136.80:8310/0.ts 
+中视新闻地波,http://123.51.136.80:8302/0.ts 
+华视新闻地波,http://123.51.136.80:8319/0.ts 
+台视新闻地波,http://123.51.136.80:8314/0.ts 
+公视闽南地波,http://123.51.136.80:8305/0.ts 
+民视闽南地波,http://123.51.136.80:8308/0.ts 
+中视闽南地波,http://123.51.136.80:8301/0.ts 
+华视闽南地波,http://123.51.136.80:8317/0.ts 
+台视闽南地波,http://123.51.136.80:8313/0.ts 
+公视闽语地波,http://123.51.136.80:8306/0.ts 
+民视第一地波,http://123.51.136.80:8309/0.ts 
+民视闽语地波,http://123.51.136.80:8311/0.ts 
+中视经典地波,http://123.51.136.80:8321/0.ts 
+中视菁采地波,http://123.51.136.80:8322/0.ts 
+华视教育地波,http://123.51.136.80:8318/0.ts 
+台视综合地波,http://123.51.136.80:8316/0.ts 
+台视财经地波,http://123.51.136.80:8315/0.ts 
+TITv综合地波,http://123.51.136.80:8303/0.ts 
+HakkaTv地波,http://123.51.136.80:8307/0.ts 
+PTS'xs综地波,http://123.51.136.80:8312/0.ts 
+VIUTV,http://beishan008.asuscomm.com:8889/bysid/99.m3u8
+VIU6,http://beishan008.asuscomm.com:8889/bysid/96.m3u8
+中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
+靖洋戏剧,http://live.dktq4q.com/live/4ea1bdefaebb61a0705ba02e88001135.flv
+新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
+动物星球,http://stream-ali1.csslcloud.net/live/g46UG6stseWUHmKG9Abi152mY9av9qxVJZYp79cmVD2E4glTg3.flv 
+BBC_Earth,http://stream-ali1.csslcloud.net/live/RTGbfYkvdn3MPIj79qxVJP7g3bETISm6Z4De6iN8TJ9RRTVHjV.flv
+动物星球,,https://tv543.cc/Smart.php?id=animalplanet_twn
+Discovery Asia,https://tv543.cc/Smart.php?id=discoverytwn_twn
+BBC_Earth,https://tv543.cc/Smart.php?id=bbcearth_twn
+NatGeo Wild HD,https://tv543.cc/Smart.php?id=Natgeowild
+纪录频道|CI,https://tv543.cc/Smart.php?id=ci_twn
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+东森超视,rtmp://f13h.mine.nu:1935:1935/sat/tv331
+非凡新闻,rtmp://f13h.mine.nu:1935/sat/tv581
+华视,rtmp://f13h.mine.nu:1935/sat/tv111
+民视,rtmp://f13h.mine.nu:1935/sat/tv051
+台视,rtmp://f13h.mine.nu:1935/sat/tv071
+纬来日本,rtmp://f13h.mine.nu:1935/sat/tv771
+中视,rtmp://f13h.mine.nu:1935/sat/tv091
+DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
+DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
+momoTV,rtmp://f13h.mine.nu/sat/tv761
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+唯心电视,https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8 
+GOOD  TV,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+GOOD2 TV,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
 🚀特闽专区,#genre#
 Now新闻,P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts
 无线新闻,P2p://starvod.xyz:19806/557d5098116e4e1f9b14008ed764cc71.ts
@@ -1577,24 +1676,30 @@ Astrol Kplus,https://tv543.cc/Smart.php?id=Kplus
 
  
 🇭🇰香港,#genre#
-凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
-凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
-凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
-翡翠台,http://t.061899.xyz/tl/js/js.php?id=tvbfct
-无线新闻,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
-明珠台,http://t.061899.xyz/tl/js/js.php?id=tvbmzt
-娱乐新闻
-凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
-凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
-凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
-
-凤凰中文,http://j.s.bkpcp.top/js/fhzw
-凤凰资讯,http://j.s.bkpcp.top/js/fhzx
-凤凰香港,http://j.s.bkpcp.top/js/fhxg
-
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰中文频加,http://vallest.uk/livehttpplay?channel_id=30014 
+凤凰中文频加,http://vallest.uk/livehttpplay?channel_id=20065 
+凤凰资讯频加,http://vallest.uk/livehttpplay?channel_id=30015 
+凤凰资讯频加,http://vallest.uk/livehttpplay?channel_id=20066 
+凤凰香港频加,http://vallest.uk/livehttpplay?channel_id=20067 
+凤凰香港频加,http://vallest.uk/livehttpplay?channel_id=30016 
+有线综合频加,http://vallest.uk/livehttpplay?channel_id=20152 
+无线新闻频加,http://vallest.uk/livehttpplay?channel_id=30024 
+无线翡翠频加,http://vallest.uk/livehttpplay?channel_id=20124 
+无线明珠频加,http://vallest.uk/livehttpplay?channel_id=30026 
+无线明珠频加,http://vallest.uk/livehttpplay?channel_id=20125 
+VIUTV粤频加,http://vallest.uk/livehttpplay?channel_id=30032 
+VIUTV粤频加,http://vallest.uk/livehttpplay?channel_id=20131 
+VIUTV英频加,http://vallest.uk/livehttpplay?channel_id=30033 
+VIUTV英频加,http://vallest.uk/livehttpplay?channel_id=20132 
+RTHK-31频加,http://vallest.uk/livehttpplay?channel_id=30066 
+RTHK-32频加,http://vallest.uk/livehttpplay?channel_id=30067 
+RTHK-32频加,http://vallest.uk/livehttpplay?channel_id=20203 
+RTHK-32频加,http://vallest.uk/livehttpplay?channel_id=30028 
+广东珠江频加,http://vallest.uk/livehttpplay?channel_id=20144 
+广东体育频加,http://vallest.uk/livehttpplay?channel_id=12028 
+广东体育频加,http://vallest.uk/livehttpplay?channel_id=20130 
+广东体育频加,http://vallest.uk/livehttpplay?channel_id=30031 
+广东戏曲频加,http://vallest.uk/livehttpplay?channel_id=20142
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/qrfbg
 无线新闻,http://r.jdshipin.com/CkuBd
@@ -4414,6 +4519,7 @@ F1：狂飙飞车,https://cdn.yzzy29-play.com/20250629/184_6cdd60ea/2000k/hls/mi
 甄嬛传,https://cdn3.ryplay3.com/20240801/81_fade8a3e/index.m3u8$第74集
 甄嬛传,https://cdn3.ryplay3.com/20240801/83_25d48c98/index.m3u8$第75集
 甄嬛传,https://cdn3.ryplay3.com/20240801/82_51a06a04/index.m3u8$第76集
+
 
 
 
