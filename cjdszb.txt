@@ -79,18 +79,6 @@ CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e
 公益助农,https://cccimg.com/view.php/d4e178b9f138957218755190bd2d188a.mp4
 公益助农,https://i.uik.cc/view.php/d4e178b9f138957218755190bd2d188a.mp4
 ‼️必看说明,https://cccimg.com/view.php/7b6219260a9ec0036d8f7f28e09c4281.mp4
-翡翠台 backup,http://mayi.home.kg/api.php?id=Jade_xue
-凤凰卫视,http://mayi.home.kg/api.php?id=phoenixtv_hd
-凤凰资讯,http://mayi.home.kg/api.php?id=phoenixinfo_hd
-iNews 新闻台,http://mayi.home.kg/api.php?id=inews_twn
-J 2,http://mayi.home.kg/api.php?id=j2_twn
-珍珠台,http://mayi.home.kg/api.php?id=pearl_twn
-凤凰香港,http://mayi.home.kg/api.php?id=hkphoenix_twn
-HOY资讯台,http://mayi.home.kg/api.php?id=hoycaijing_twn
-RHK 31,http://mayi.home.kg/api.php?id=rhk31_twn
-VIUTV1,http://mayi.home.kg/api.php?id=viu1_twn
-RHK 32,http://mayi.home.kg/api.php?id=rhk32_twn
-Viu6,http://mayi.home.kg/api.php?id=viusix_twn
 凤凰中文1,http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文
 凤凰资讯1,http://iptv.4666888.xyz/iptv2A.php?id=凤凰资讯
 凤凰香港1,http://iptv.4666888.xyz/iptv2A.php?id=凤凰香港
@@ -7143,5 +7131,6 @@ Alin精选16首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v03
 小哥哥没人看,https://api.e1e1.top/xgg/g.php 
 ❥打赏留言,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥增加更多,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+
 
 
