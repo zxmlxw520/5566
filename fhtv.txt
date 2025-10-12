@@ -79,18 +79,12 @@ CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e
 ‼️必看说明,https://cccimg.com/view.php/7b6219260a9ec0036d8f7f28e09c4281.mp4
 凤凰按两次OK刷新,https://i.uik.cc/view.php/7b6219260a9ec0036d8f7f28e09c4281.mp4
 
-翡翠台 backup,http://mayi.home.kg/api.php?id=Jade_xue
-凤凰卫视,http://mayi.home.kg/api.php?id=phoenixtv_hd
-凤凰资讯,http://mayi.home.kg/api.php?id=phoenixinfo_hd
-iNews 新闻台,http://mayi.home.kg/api.php?id=inews_twn
-J 2,http://mayi.home.kg/api.php?id=j2_twn
-珍珠台,http://mayi.home.kg/api.php?id=pearl_twn
-凤凰香港,http://mayi.home.kg/api.php?id=hkphoenix_twn
-HOY资讯台,http://mayi.home.kg/api.php?id=hoycaijing_twn
-RHK 31,http://mayi.home.kg/api.php?id=rhk31_twn
-VIUTV1,http://mayi.home.kg/api.php?id=viu1_twn
-RHK 32,http://mayi.home.kg/api.php?id=rhk32_twn
-Viu6,http://mayi.home.kg/api.php?id=viusix_twn
+
+
+
+
+
+
 凤凰中文1,http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文
 凤凰资讯1,http://iptv.4666888.xyz/iptv2A.php?id=凤凰资讯
 凤凰香港1,http://iptv.4666888.xyz/iptv2A.php?id=凤凰香港
@@ -1530,253 +1524,7 @@ NEWS_NATION,https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
 NFL_NETWORK,https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
 wwe,https://fl3.moveonjoy.com/WWE/index.m3u8
 movie sphere,https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/ts-eu-w1-n2/playlist/samsunguk-moviesphereuk-samsung-uk/playlist.m3u8
-🇮🇳印度频道,#genre#
-国外加载慢,https://i.uik.cc/view.php/80bfa7db9c20f6a884fcc7cae7e36d04.mp4
-Sun TV HD,http://mayi.home.kg/api.php?id=Suntv
-Star Vijay,http://mayi.home.kg/api.php?id=Starvijay
-Colors Tamil,http://mayi.home.kg/api.php?id=Colorstam
-Sun Music,http://mayi.home.kg/api.php?id=Sunmusic
-Astro Sunlife,http://mayi.home.kg/api.php?id=Sunlife
-Astro Vaanavil,http://mayi.home.kg/api.php?id=Vaanavil
-Zee Tamil,http://mayi.home.kg/api.php?id=Zeetamil
-Zee Business,http://mayi.home.kg/api.php?id=Zeebusiness
-News 18 Tamil,http://mayi.home.kg/api.php?id=news18tamil_raj
-Adithya,http://mayi.home.kg/api.php?id=Adithya
-Makkal TV,http://mayi.home.kg/api.php?id=Makkaltv
-Zee Action,http://mayi.home.kg/api.php?id=Zeeaction
-Astro KTV,http://mayi.home.kg/api.php?id=Astroktv
-Zee TV HD,http://mayi.home.kg/api.php?id=Zeetvhd
-Zee Cinema HD,http://mayi.home.kg/api.php?id=Zeecinemahd
-Color HD,http://mayi.home.kg/api.php?id=Colorhd
-Starplus HD,http://mayi.home.kg/api.php?id=Starplushd
-Picture HD,http://mayi.home.kg/api.php?id=Npicture
-Zee News,http://mayi.home.kg/api.php?id=Zeenews
-Asianet,http://mayi.home.kg/api.php?id=asianet_raj
-Asianet News,http://mayi.home.kg/api.php?id=asianetnews_raj
-Discovery World Tamil,http://mayi.home.kg/api.php?id=discoveryworldtam_raj
-History Tamil,http://mayi.home.kg/api.php?id=historytam_raj
-NatGeo Tamil,http://mayi.home.kg/api.php?id=natgeotamil_raj
-Natgeo Wild Tamil,http://mayi.home.kg/api.php?id=natgeowildtamil_raj
-Astro Sonypix,http://mayi.home.kg/api.php?id=Asonypix
-Discovery Kids Tamil,http://mayi.home.kg/api.php?id=discoverykidtamil_raj
-Discovery Tamil,http://mayi.home.kg/api.php?id=discoverytamil_raj
-Sony Yay Tamil,http://mayi.home.kg/api.php?id=sonyyaytam_raj
-Sun TV India,http://mayi.home.kg/api.php?id=suntv_raj
-Starmaa HD,http://mayi.home.kg/api.php?id=starmaa_raj
-Starmaa Movies HD,http://mayi.home.kg/api.php?id=starmaamovies_raj
-Bollyone,http://mayi.home.kg/api.php?id=Bollyone
-Astro Sunmusic,http://mayi.home.kg/api.php?id=Sunmusic
-Vijay Super,http://mayi.home.kg/api.php?id=vijaysuper_raj
-Vellithirai,http://mayi.home.kg/api.php?id=Vellithirai
-🇮🇩印尼频道,#genre#
-国外加载慢,https://i.uik.cc/view.php/80bfa7db9c20f6a884fcc7cae7e36d04.mp4
-TVRI National,http://mayi.home.kg/api.php?id=TVRI
-RCTI,http://mayi.home.kg/api.php?id=Rcti
-Kompass TV,http://mayi.home.kg/api.php?id=Kompass
-Berita Satu,http://mayi.home.kg/api.php?id=BeritaSatu_eko
-Indosiar HD,http://mayi.home.kg/api.php?id=Indosiar
-AnTV,http://mayi.home.kg/api.php?id=Antv
-MNC TV,http://mayi.home.kg/api.php?id=Mnctv
-Trans 7,http://mayi.home.kg/api.php?id=Trans7_eko
-Transtv,http://mayi.home.kg/api.php?id=Transtv
-JTV,http://mayi.home.kg/api.php?id=JTV_eko
-Metro TV,http://mayi.home.kg/api.php?id=metrotv_eko
-Cinemax,http://mayi.home.kg/api.php?id=Cinemax
-SCTV,http://mayi.home.kg/api.php?id=SCTV
-Tvone,http://mayi.home.kg/api.php?id=Tvone
-TVMU,http://mayi.home.kg/api.php?id=TVMU_eko
-GTV,http://mayi.home.kg/api.php?id=Gtv
-RTV,http://mayi.home.kg/api.php?id=Rtv
-Jak TV,http://mayi.home.kg/api.php?id=JakTV
-iNews TV,http://mayi.home.kg/api.php?id=Inewstv
-Daai TV,http://mayi.home.kg/api.php?id=DaaiTV
-Net TV,http://mayi.home.kg/api.php?id=NetTV
-Animax,http://mayi.home.kg/api.php?id=Animax
-EWTN,http://mayi.home.kg/api.php?id=Ewtn
-AlQuran AlKareem,http://mayi.home.kg/api.php?id=AlQuran
-Tawaf TV,http://mayi.home.kg/api.php?id=TawafTV
-Vision Prime,http://mayi.home.kg/api.php?id=VisionPrime
-Muslim TV,http://mayi.home.kg/api.php?id=MuslimTV
-Music TV,http://mayi.home.kg/api.php?id=MusicTV
-Lifestyle&Fashion,http://mayi.home.kg/api.php?id=Lifestyle
-Entertain,http://mayi.home.kg/api.php?id=Entertain
-Hits,http://mayi.home.kg/api.php?id=Hits
-Warner TV,http://mayi.home.kg/api.php?id=WarnerTV
-SCM,http://mayi.home.kg/api.php?id=Weishimovie
-Thrill,http://mayi.home.kg/api.php?id=Thrill
-Fight Sports,http://mayi.home.kg/api.php?id=Fs
-Hits Movie,http://mayi.home.kg/api.php?id=Hitsmovie
-One,http://mayi.home.kg/api.php?id=One
-tvN Movie,http://mayi.home.kg/api.php?id=Tvnmovie
-Celestial Movies HD,http://mayi.home.kg/api.php?id=Celestialindo
-Rock Actions,http://mayi.home.kg/api.php?id=Rockaction
-Rock Entertainment,http://mayi.home.kg/api.php?id=Rockentertain
-🇹🇭泰国频道,#genre#
-国外加载慢,https://i.uik.cc/view.php/80bfa7db9c20f6a884fcc7cae7e36d04.mp4
-Channel 3 Thailand,http://mayi.home.kg/api.php?id=ch3_pat
-Channel 5 Thailand,http://mayi.home.kg/api.php?id=ch5_pat
-Channel 7 Thailand,http://mayi.home.kg/api.php?id=ch7_pat
-MCOT HD Thailand-1,http://mayi.home.kg/api.php?id=mcot_pat
-PPTV Thailand1,http://mayi.home.kg/api.php?id=pptv_pat
-Thai Thai,http://mayi.home.kg/api.php?id=thaithai_pat
-Amarin,http://mayi.home.kg/api.php?id=amarin_pat
-Ch 8,http://mayi.home.kg/api.php?id=ch8_pat
-GmmOne,http://mayi.home.kg/api.php?id=gmmone_pat
-Mono,http://mayi.home.kg/api.php?id=mono_pat
-Thairath,http://mayi.home.kg/api.php?id=thairath_pat
-tpbs,http://mayi.home.kg/api.php?id=tpbs_pat
-Workpoint,http://mayi.home.kg/api.php?id=workpoint_pat
-Gmm Channel,http://mayi.home.kg/api.php?id=gmmchannel_pat
-Nation,http://mayi.home.kg/api.php?id=nation_pat
-Tnn24,http://mayi.home.kg/api.php?id=tnn24_pat
-Nbt,http://mayi.home.kg/api.php?id=nbt_pat
-New,http://mayi.home.kg/api.php?id=new_pat
-TPTV,http://mayi.home.kg/api.php?id=tptv_pat
-🇬🇧英国频道,#genre#
-国外加载慢,https://i.uik.cc/view.php/80bfa7db9c20f6a884fcc7cae7e36d04.mp4
-BBC 1,http://mayi.home.kg/api.php?id=bbc1_antik
-BBC 2,http://mayi.home.kg/api.php?id=bbc2_antik
-CBBC,http://mayi.home.kg/api.php?id=cbbc_antik
-More4,http://mayi.home.kg/api.php?id=more4_antik
-Freesports,http://mayi.home.kg/api.php?id=freesports_antik
-Skynews,http://mayi.home.kg/api.php?id=skynews_twn
-Pick TV,http://mayi.home.kg/api.php?id=picktv_antik
-itv 1,http://mayi.home.kg/api.php?id=itv1_antik
-itv 2,http://mayi.home.kg/api.php?id=itv2_antik
-Euronews,http://mayi.home.kg/api.php?id=euronews_antik
-Channel 4,http://mayi.home.kg/api.php?id=channel4_antik
-NatGeo HD,http://mayi.home.kg/api.php?id=Natgeo
-CBeebies,http://mayi.home.kg/api.php?id=Cbeebies
-History,http://mayi.home.kg/api.php?id=History
-Kids TV,http://mayi.home.kg/api.php?id=KidsTV
-France 24,http://mayi.home.kg/api.php?id=france24_twn
-DW (Deutsch),http://mayi.home.kg/api.php?id=dw_twn
-BBC Earth HD,http://mayi.home.kg/api.php?id=bbcearth_twn
-BBC Earth Lifestyle,http://mayi.home.kg/api.php?id=bbclifestyle_twn
-MTV Live,http://mayi.home.kg/api.php?id=mtvhd_twn
-Star Movies HD,http://mayi.home.kg/api.php?id=starmovies_raj
-NHK World,http://mayi.home.kg/api.php?id=nhkworld_japan
-Warner TV,http://mayi.home.kg/api.php?id=WarnerTV
-HBO HD,http://mayi.home.kg/api.php?id=Hbo
-NatGeo Wild HD,http://mayi.home.kg/api.php?id=Natgeowild
-Nickelodeon,http://mayi.home.kg/api.php?id=Nickelodeon
-Nick Jr,http://mayi.home.kg/api.php?id=Nickjr
-Thrill,http://mayi.home.kg/api.php?id=Thrill
-CGTN,http://mayi.home.kg/api.php?id=CGTN
-Hits Movie,http://mayi.home.kg/api.php?id=Hitsmovie
-Animal Planet (Eng),http://mayi.home.kg/api.php?id=AnimalPlanet
-CNBC,http://mayi.home.kg/api.php?id=cnbc_twn
-TLC,http://mayi.home.kg/api.php?id=Tlc
-BBC World News,http://mayi.home.kg/api.php?id=bbcworldnews_antik
-HGTV,http://mayi.home.kg/api.php?id=HGTV
-Axn HD,http://mayi.home.kg/api.php?id=Axn
-Skysports F1,http://mayi.home.kg/api.php?id=tiankongf1
-Skysports Cricket,http://mayi.home.kg/api.php?id=tiankongcricket
-Bloomberg News,http://mayi.home.kg/api.php?id=bloomberg_twn
-Skysports EPL,http://mayi.home.kg/api.php?id=tiankongepl
-Skysports Main Event,http://mayi.home.kg/api.php?id=tiankongmain
-Skysports News,http://mayi.home.kg/api.php?id=tiankongnews
-Al-Jazeera,http://mayi.home.kg/api.php?id=aljazeera_twn
-🇲🇾马来频道,#genre#
-国外加载慢,https://i.uik.cc/view.php/80bfa7db9c20f6a884fcc7cae7e36d04.mp4
-TV1,http://mayi.home.kg/api.php?id=TV1
-TV1 backup,http://mayi.home.kg/api.php?id=TV1_backup
-TV2,http://mayi.home.kg/api.php?id=TV2
-TV3,http://mayi.home.kg/api.php?id=TV3
-TV3 SD,http://mayi.home.kg/api.php?id=TV3_mega
-NTV7,http://mayi.home.kg/api.php?id=NTV7
-TV8,http://mayi.home.kg/api.php?id=TV8
-TV9,http://mayi.home.kg/api.php?id=TV9
-Ria,http://mayi.home.kg/api.php?id=Ria-0
-Ria-3,http://mayi.home.kg/api.php?id=Ria_backup
-Al-Hijrah,http://mayi.home.kg/api.php?id=Alhijrah
-Al-Hijrah backup,http://mayi.home.kg/api.php?id=Alhijrah_backup
-Awani,http://mayi.home.kg/api.php?id=Awani
-Bernama,http://mayi.home.kg/api.php?id=Bernama
-Prima,http://mayi.home.kg/api.php?id=Prima-0
-Prima backup,http://mayi.home.kg/api.php?id=AAprima1
-Prima backup 2,http://mayi.home.kg/api.php?id=AAprima
-Ceria,http://mayi.home.kg/api.php?id=Ceria
-Astro MTV,http://mayi.home.kg/api.php?id=AstroMTV
-Mecca Live HD,http://mayi.home.kg/api.php?id=quran_mido
-Madinah HD,http://mayi.home.kg/api.php?id=sunnah_mido
-Oasis,http://mayi.home.kg/api.php?id=Oasis
-HBO HD,http://mayi.home.kg/api.php?id=Hbo
-HBO Signature,http://mayi.home.kg/api.php?id=Hbosignature
-HBO Hits,http://mayi.home.kg/api.php?id=Hbohitshd
-NatGeo Wild HD,http://mayi.home.kg/api.php?id=Natgeowild
-Cartoon Network,http://mayi.home.kg/api.php?id=Cn
-Nickelodeon,http://mayi.home.kg/api.php?id=Nickelodeon
-Nick Jr,http://mayi.home.kg/api.php?id=Nickjr
-Dreamworks,http://mayi.home.kg/api.php?id=Dreamworks
-Siar,http://mayi.home.kg/api.php?id=Siar
-Citra,http://mayi.home.kg/api.php?id=AAcitra
-Citra backup,http://mayi.home.kg/api.php?id=AAcitra1
-Sensasi,http://mayi.home.kg/api.php?id=Sensasi
-Aura,http://mayi.home.kg/api.php?id=Aura
-Rania,http://mayi.home.kg/api.php?id=Rania
-KBS World,http://mayi.home.kg/api.php?id=KBS
-Boo,http://mayi.home.kg/api.php?id=Boo
-Awesome TV,http://mayi.home.kg/api.php?id=Dsangat
-Astro Sonypix,http://mayi.home.kg/api.php?id=Asonypix
-Sony HD,http://mayi.home.kg/api.php?id=SetOne
-TvN,http://mayi.home.kg/api.php?id=TVN
-AEC,http://mayi.home.kg/api.php?id=AEC
-华丽台 HD,http://mayi.home.kg/api.php?id=Wlt
-欢喜台 HD,http://mayi.home.kg/api.php?id=Huahee
-Astro QJ,http://mayi.home.kg/api.php?id=Quanjia
-TVB Jade,http://mayi.home.kg/api.php?id=Tvbjade
-TVB Asia,http://mayi.home.kg/api.php?id=Tvbasia
-TVB Entertainment,http://mayi.home.kg/api.php?id=Tvbentertainment
-TVB Classic,http://mayi.home.kg/api.php?id=Tvbclassic
-AOD,http://mayi.home.kg/api.php?id=Aodhd
-One,http://mayi.home.kg/api.php?id=One
-TVB 星河台 Xing He,http://mayi.home.kg/api.php?id=Xinhe
-爱奇艺,http://mayi.home.kg/api.php?id=Qiyi
-Animal Planet (Eng),http://mayi.home.kg/api.php?id=AnimalPlanet
-|tvN Movie,http://mayi.home.kg/api.php?id=Tvnmovie
-CNN backup,http://mayi.home.kg/api.php?id=cnn_twn
-Celestial Classic,http://mayi.home.kg/api.php?id=Celestial2
-CNBC,http://mayi.home.kg/api.php?id=cnbc_twn
-TLC,http://mayi.home.kg/api.php?id=Tlc
-CNA,http://mayi.home.kg/api.php?id=cna
-BBC World News,http://mayi.home.kg/api.php?id=bbcnews_twn
-Foodnetwork Hd,http://mayi.home.kg/api.php?id=Foodnetwork
-HGTV,http://mayi.home.kg/api.php?id=HGTV
-Goshop,http://mayi.home.kg/api.php?id=Goshop
-Celestial Movies HD,http://mayi.home.kg/api.php?id=Celestial
-Axn HD,http://mayi.home.kg/api.php?id=Axn
-Paramount Network,http://mayi.home.kg/api.php?id=Paramountnetwork
-Astrol Kplus,http://mayi.home.kg/api.php?id=Kplus
-AFC亚洲旅游台,http://mayi.home.kg/api.php?id=asiatravel_twn
-Rock Actions,http://mayi.home.kg/api.php?id=Rockaction
-Bloomberg News,http://mayi.home.kg/api.php?id=bloomberg_twn
-Al-Jazeera,http://mayi.home.kg/api.php?id=aljazeera_twn
-Rock Entertainment,http://mayi.home.kg/api.php?id=Rockentertain
-RTM Sports HD,http://mayi.home.kg/api.php?id=Rtmsport
-Arena,http://mayi.home.kg/api.php?id=Arena
-Arena 2,http://mayi.home.kg/api.php?id=Arena2
-BolaArena 1,http://mayi.home.kg/api.php?id=Bolaarena1
-BolaArena 2,http://mayi.home.kg/api.php?id=Bolaarena2
-Astro LOL,http://mayi.home.kg/api.php?id=Astro_lol
-Astro Rusi,http://mayi.home.kg/api.php?id=Rusi
-WION,http://mayi.home.kg/api.php?id=Wion
-RTM Asean,http://mayi.home.kg/api.php?id=Rtmasean
-🇸🇬新加坡频,#genre#
-国外加载慢,https://i.uik.cc/view.php/80bfa7db9c20f6a884fcc7cae7e36d04.mp4
-Channel 5,http://mayi.home.kg/api.php?id=Channel5HD
-Channel 8,http://mayi.home.kg/api.php?id=Channel8HD
-Suria,http://mayi.home.kg/api.php?id=Suria
-Channel U,http://mayi.home.kg/api.php?id=ChannelU
-Vasantham,http://mayi.home.kg/api.php?id=Vasantham
-CNA,http://mayi.home.kg/api.php?id=cna
-CNA backup,http://mayi.home.kg/api.php?id=cna_twn
-MeWatch Ch 5,http://mayi.home.kg/api.php?id=Mewatch_ch5
-MeWatch Ch 8,http://mayi.home.kg/api.php?id=Mewatch_ch8
-MeWatch Ch U,http://mayi.home.kg/api.php?id=Mewatch_chU
-MeWatch Suria,http://mayi.home.kg/api.php?id=Mewatch_Suria
-MeWatch Vasantham,http://mayi.home.kg/api.php?id=Mewatch_Vasantham
-MeWatch CNA,http://mayi.home.kg/api.php?id=Mewatch_cna
+
 🗽美日韩频,#genre# 
 国外加载慢,https://i.uik.cc/view.php/80bfa7db9c20f6a884fcc7cae7e36d04.mp4
 News max,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
@@ -2958,7 +2706,7 @@ TVB剧场2,http://huanqiuzhibo.cn/manifest/douyu.php?id=5522351
 经典剧集,http://zzy789.xyz/douyu1.php?id=6863367
 古剑奇谭,https://isus.cc/php/huya.php?id=23824164
 神雕侠侣,https://isus.cc/php/huya.php?id=11352964
-POPC,http://bxtv.3a.ink/api.php?id=popc
+
 经典剧场,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 经典影视台,http://huanqiuzhibo.cn/manifest/douyu.php?id=6091425
 星光怀旧台,http://data.3g.yy.com/live/hls/1354936134/1354936134.m3u8
@@ -6711,19 +6459,7 @@ CCTV-14少儿,http://t.061899.xyz/tl/tl.php?id=cctv14
 赛事百视通33,https://zby.130519.xyz/PLTV/11/224/3221225663/index.m3u8
 赛事咪咕播4k,https://zby.130519.xyz/PLTV/11/224/3221226080/index.m3u8
 赛事至臻视界,https://zby.130519.xyz/PLTV/11/224/3221225687/index.m3u8
-League 1,http://mayi.home.kg/api.php?id=go_assp1
-backup,http://mayi.home.kg/api.php?id=go_assp1x
-League 2,http://mayi.home.kg/api.php?id=go_assp2
-Grandstand,http://mayi.home.kg/api.php?id=go_assp3
-Supersports 1,http://mayi.home.kg/api.php?id=Assp1
-Supersports 2,http://mayi.home.kg/api.php?id=Assp2
-爱尔达体育2台,http://mayi.home.kg/api.php?id=eltasport2_twn
-爱尔达体育3台,http://mayi.home.kg/api.php?id=eltasport3_twn
-CCTV-5 体育频道,http://mayi.home.kg/api.php?id=cctv5
-CCTV-5+ 体育赛事 HD,http://mayi.home.kg/api.php?id=cctv5plus
-BolaArena 1,http://mayi.home.kg/api.php?id=Bolaarena1
-BolaArena 2,http://mayi.home.kg/api.php?id=Bolaarena2
-Astro Beinsports 1,http://mayi.home.kg/api.php?id=Astrobein1
+
 🎮游戏频道,#genre# 
 ❥打赏长久使用,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥感谢各位支持,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
@@ -7667,7 +7403,6 @@ Alin精选16首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v03
 小哥哥没人看,https://api.e1e1.top/xgg/g.php 
 ❥打赏留言,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥增加更多,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-
 
 
 
