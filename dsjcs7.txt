@@ -1458,19 +1458,6 @@ CQTV移动,http://124.162.85.150:4022/udp/225.0.4.215:7980
 山东卫视4K,http://124.116.170.138:8081/rtp/239.111.205.66:5140?$陕西/咸阳/电信
 
 🚀港澳台,#genre#
-翡翠台,http://bxtv.3a.ink/api.php?id=fct
-翡翠台 backup,http://mayi.home.kg/api.php?id=Jade_xue
-凤凰卫视,http://mayi.home.kg/api.php?id=phoenixtv_hd
-凤凰资讯,http://mayi.home.kg/api.php?id=phoenixinfo_hd
-iNews 新闻台,http://mayi.home.kg/api.php?id=inews_twn
-J 2,http://mayi.home.kg/api.php?id=j2_twn
-珍珠台,http://mayi.home.kg/api.php?id=pearl_twn
-凤凰香港,http://mayi.home.kg/api.php?id=hkphoenix_twn
-HOY资讯台,http://mayi.home.kg/api.php?id=hoycaijing_twn
-RHK 31,http://mayi.home.kg/api.php?id=rhk31_twn
-VIUTV1,http://mayi.home.kg/api.php?id=viu1_twn
-RHK 32,http://mayi.home.kg/api.php?id=rhk32_twn
-Viu6,http://mayi.home.kg/api.php?id=viusix_twn
 凤凰中文1,http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文
 凤凰资讯1,http://iptv.4666888.xyz/iptv2A.php?id=凤凰资讯
 凤凰香港1,http://iptv.4666888.xyz/iptv2A.php?id=凤凰香港
@@ -1490,26 +1477,16 @@ TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=TVBJ1
 爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=爱奇艺
 TVBS台剧,http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
 纬来戏剧,http://iptv.4666888.xyz/iptv2A.php?id=纬来戏剧
-TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
-明珠台,http://bxtv.3a.ink/api.php?id=mz
-無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
-美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
-PopC,http://bxtv.3a.ink/api.php?id=popc
-VIUTV,http://bxtv.3a.ink/api.php?id=viutv
-千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
-myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
-NOW新闻,http://bxtv.3a.ink/api.php?id=now
-广东体育,http://bxtv.3a.ink/api.php?id=gdty
-广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
-中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
+
+
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 TVB翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-TVB无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
+
 TVBS新闻,http://link4.813555.xyz/qyzby/qydytv4G245347.php?wid=36
-千禧经典,http://bxtv.3a.ink/api.php?id=qxjd
-TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
+
+
 TVB翡翠,http://stream-ali1.csslcloud.net/live/CL7gYJcMM5BXZvyamZly3XZnyMmRJGlm43p12oP6KkG1PhQWJK.flv
 TVB明珠,http://link4.813555.xyz/qyzby/FHTVBQ546510.php?id=73
 翡翠台,http://t.061899.xyz/tl/js/js.php?id=tvbfct
@@ -4527,6 +4504,7 @@ F1：狂飙飞车,https://cdn.yzzy29-play.com/20250629/184_6cdd60ea/2000k/hls/mi
 甄嬛传,https://cdn3.ryplay3.com/20240801/81_fade8a3e/index.m3u8$第74集
 甄嬛传,https://cdn3.ryplay3.com/20240801/83_25d48c98/index.m3u8$第75集
 甄嬛传,https://cdn3.ryplay3.com/20240801/82_51a06a04/index.m3u8$第76集
+
 
 
 
