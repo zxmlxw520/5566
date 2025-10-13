@@ -6421,6 +6421,17 @@ CCTV-14少儿,http://t.061899.xyz/tl/tl.php?id=cctv14
 
 
 🥇体育频道,#genre# 
+CCTV5+,http://38.75.136.137:98/gslb/jsbtv/cctv5p.m3u8?tm=1760355117&key=cee7a7ee4057cfefa85185195945ca53
+CCTV5+,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv5p&app=com.qnktv.tvhd&version=1.4.0&mac=fu:ck:92:92:ff&nwtime=1760355076&sign=3784a4646996d6d655f175e6b7d09861&ev=20250805
+CCTV5+,http://204.12.198.178:82/live/cctv5p.m3u8?jsbt=1760355118&jsbk=80d32ab2ae49cb536404f38e3f89b94e
+CCTV足球,http://173.208.187.18:82/live/fyzq.m3u8?jsbt=1760355398&jsbk=d838949ce8ba43fabfa8e16a02449bcf
+CCTV足球,http://38.75.136.137:82/live1/jsb.m3u8?
+id=fyzq&app=com.qnktv.tvhd&version=1.4.0&mac=fu:ck:92:92:ff&nwtime=1760355126&sign=ad91e63527ac07b56a4b69c5994f4dbc&ev=20250805
+CCTV足球,http://38.75.136.137:98/gslb/jsbtv/fyzq.m3u8?tm=1760355398&key=e22c87547e7160928833eef6679d55bb
+CCTV台球,http://199.168.97.90:82/live/ystq.m3u8?jsbt=1760355523&jsbk=d7a8a120601701be965b9d779ccd44f6
+CCTV台球,http://38.75.136.137:98/gslb/jsbtv/ystq.m3u8?tm=1760355523&key=5ce81dba9e759cdf7c5661796b151d07
+CCTV高尔夫,http://204.12.207.154:82/live/gefwq.m3u8?jsbt=1760355639&jsbk=0b78464655af92d0d31ce6cfd631c2ab
+CCTV高尔夫,http://38.75.136.137:98/gslb/jsbtv/gefwq.m3u8?tm=1760355639&key=7041f2fa8e9a5a6fa1c7423e7649778f
 赛事睛彩竞技,https://zby.130519.xyz/PLTV/11/224/3221226116/index.m3u8
 赛事睛彩篮球,https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8
 赛事睛彩广场,https://zby.130519.xyz/PLTV/11/224/3221226139/index.m3u8
@@ -7403,6 +7414,7 @@ Alin精选16首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v03
 小哥哥没人看,https://api.e1e1.top/xgg/g.php 
 ❥打赏留言,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥增加更多,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+
 
 
 
