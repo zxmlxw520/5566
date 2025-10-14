@@ -1,5 +1,16 @@
 
 CCTV频道,#genre#
+北京4K,https://migu.188766.xyz/?migutoken=f44244627c9b7bdbc3385b611ab0f698&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
+湖南4K,https://migu.188766.xyz/?migutoken=18ca2527902f2aff26c14eb01bca081a&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
+湖南4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+浙江4K,https://migu.188766.xyz/?migutoken=8507181b07cccc1f963676ef02f5ed06&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
+江苏4K,https://migu.188766.xyz/?migutoken=edc9e340814ad5cfe5b4247c8ef0c4b2&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K&pp=1
+东方4K,https://migu.188766.xyz/?migutoken=9cfec4a8d2dfd86e151e680a86473a25&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K&pp=1          
+山东4K,https://migu.188766.xyz/?migutoken=1d95c912e2b51c39a0597e89be2c2753&id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%864K&pp=1
+深圳4K,https://migu.188766.xyz/?migutoken=2f95a10cb6d95583c732ea08d0f5d6c7&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+广东4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+苏州4k,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 CCTV1,http://live2.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=10bd15e08aa7c4de538b767ae2618279a6213e3e
 CCTV2,http://live2.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=10bd15e08aa7c4de538b767ae2618279a6213e3e
 CCTV3,http://live2.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=10bd15e08aa7c4de538b767ae2618279a6213e3e
@@ -1414,4 +1425,5 @@ POPC,http://bxtv.3a.ink/api.php?id=popc
 星光综合y,http://data.3g.yy.com/live/hls/1353422557/1353422557
 崇明功夫台,http://1.95.83.42:8081/yy/1507716299.flv#http://data.3g.yy.com/live/hls/1507716299/1507716299
 龙腾功夫,http://120.24.172.11:50001/yy/1356261006
+
 
