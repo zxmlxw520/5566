@@ -21,20 +21,17 @@
 ❤️点歌台频道2,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 ❤️4K视频,http://xjj1.716888.xyz/fenlei/4k/4k.php
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
-
-北京4K,http://38.75.136.137:82/live1/btv1.m3u8?id=bjws4k&app=com.qnktv.tvhd&version=1.4.0&mac=fu:ck:92:92:ff&nwtime=1760148910&sign=f5617225d9c2a47c2ccb7bfa9e4a9d83&ev=20250805
+北京4K,https://migu.188766.xyz/?migutoken=f44244627c9b7bdbc3385b611ab0f698&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
+湖南4K,https://migu.188766.xyz/?migutoken=18ca2527902f2aff26c14eb01bca081a&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
 湖南4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-湖南4K,http://38.75.136.137:82/live1/zgst.m3u8?id=hnws4k&app=com.qnktv.tvhd&version=1.4.0&mac=fu:ck:92:92:ff&nwtime=1760158655&sign=2a46830f731577d4ba8e9dd84192663b&ev=20250805
-浙江4K,http://38.75.136.137:82/live1/zjtv1.m3u8?id=zjws4k&app=com.qnktv.tvhd&version=1.4.0&mac=fu:ck:92:92:ff&nwtime=1760158615&sign=9f50744471889d2d0983dab828df36e4&ev=20250805
-江苏4K,http://38.75.136.137:82/live1/zgst.m3u8?id=jsws4k&app=com.qnktv.tvhd&version=1.4.0&mac=fu:ck:92:92:ff&nwtime=1760158932&sign=e8f21aae4f59577aab9691dd79adab4d&ev=20250805
-东方4K,http://38.75.136.137:82/live2/shkk.m3u8?id=dfws4k&app=com.qnktv.tvhd&version=1.4.0&mac=fu:ck:92:92:ff&nwtime=1760159008&sign=7c755f7873d3cb584e61c8e5a4391e83&ev=20250805
-          
-山东4K,http://38.75.136.137:82/live1/zgst.m3u8?id=sdws4k&app=com.qnktv.tvhd&version=1.4.0&mac=fu:ck:92:92:ff&nwtime=1760159049&sign=e01a007872681ca9e2f74c5ab31e4048&ev=20250805
-广东4K,http://hd1.91kds.cn/live2/gdtv.m3u8?id=gdtvs3&bt=&fmt=&ip=&app=com.qnktv.tvhd&version=1.4.0&mac=fu:ck:92:92:ff&ev=20250805&nwtime=1760156262&sign=0cfde1ff1f9884efd745967e4c1c9bca&utk=&tmk=
-南国都市4K,http://38.75.136.137:82/live1/gdgztv.m3u8?id=gdgzsh&app=com.qnktv.tvhd&version=1.4.0&mac=fu:ck:92:92:ff&nwtime=1760156318&sign=4c478fd08b294e6e58b4958bf765413f&ev=20250805
-河南4K试验,http://173.208.179.74:82/live/ha4k.m3u8?jsbt=1760156393&jsbk=5a7fab38995bcf576b309fc5184ea387
-大湾区卫视,http://hd1.91kds.cn/live2/gdtv.m3u8?id=gdgj&bt=&fmt=&ip=&app=com.qnktv.tvhd&version=1.4.0&mac=fu:ck:92:92:ff&ev=20250805&nwtime=1760157187&sign=af1dd694480ffcd6ff09b4ce8d39252b&utk=&tmk=
-
+浙江4K,https://migu.188766.xyz/?migutoken=8507181b07cccc1f963676ef02f5ed06&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
+江苏4K,https://migu.188766.xyz/?migutoken=edc9e340814ad5cfe5b4247c8ef0c4b2&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K&pp=1
+东方4K,https://migu.188766.xyz/?migutoken=9cfec4a8d2dfd86e151e680a86473a25&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K&pp=1          
+山东4K,https://migu.188766.xyz/?migutoken=1d95c912e2b51c39a0597e89be2c2753&id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%864K&pp=1
+深圳4K,https://migu.188766.xyz/?migutoken=2f95a10cb6d95583c732ea08d0f5d6c7&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+广东4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+苏州4k,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 苏州4k频道超,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4k频道超,https://event.pull.hebtv.com:443/live/live101.m3u8
 广东卫视4K,http://124.116.170.138:8081/rtp/239.111.205.103:5140?$3840x2160 
@@ -7414,6 +7411,7 @@ Alin精选16首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v03
 小哥哥没人看,https://api.e1e1.top/xgg/g.php 
 ❥打赏留言,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥增加更多,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+
 
 
 
