@@ -1,5 +1,6 @@
-
-CCTV频道,#genre#
+4K测试频道,#genre#
+CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
+CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
 北京4K,https://migu.188766.xyz/?migutoken=f44244627c9b7bdbc3385b611ab0f698&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
 湖南4K,https://migu.188766.xyz/?migutoken=18ca2527902f2aff26c14eb01bca081a&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
 湖南4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
@@ -11,6 +12,45 @@ CCTV频道,#genre#
 广东4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 苏州4k,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+苏州4k,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+河北4k,https://event.pull.hebtv.com:443/live/live101.m3u8
+湖南4K,http://59.174.160.155:6789/rtp/239.69.2.34:11358
+浙江4K,http://59.174.160.155:6789/rtp/239.69.2.35:11364
+江苏4K,http://59.174.160.155:6789/rtp/239.69.2.36:11370
+东方4K,http://59.174.160.155:6789/rtp/239.69.2.37:11376
+山东4K,http://59.174.160.155:6789/rtp/239.69.2.38:11382
+四川4K,http://59.174.160.155:6789/rtp/239.69.2.39:11388
+北京4K,http://59.174.160.155:6789/rtp/239.69.2.22:11286
+深圳4K,http://59.174.160.155:6789/rtp/239.69.2.28:11322
+广东4K,http://59.174.160.155:6789/rtp/239.69.2.27:11316
+CCTV4K,http://59.174.160.155:6789/rtp/239.69.1.111:10304
+CCTV16 4K,http://59.174.160.155:6789/rtp/239.69.1.249:11136
+欢笑剧场,http://59.174.160.155:6789/rtp/239.69.2.5:11184
+湖南4K,http://124.116.170.138:8081/rtp/239.111.205.63:5140?$陕西/咸阳/电信
+浙江4K,http://124.116.170.138:8081/rtp/239.111.205.65:5140?$陕西/咸阳/电信
+江苏4K,http://124.116.170.138:8081/rtp/239.111.205.64:5140?$陕西/咸阳/电信
+东方4K,http://124.116.170.138:8081/rtp/239.111.205.67:5140?$陕西/咸阳/电信
+广东4K,http://124.116.170.138:8081/rtp/239.111.205.103:5140?$陕西/咸阳/电信 
+深圳4K,http://124.116.170.138:8081/rtp/239.111.205.104:5140?$陕西/咸阳/电信
+北京4K,http://124.116.170.138:8081/rtp/239.111.205.51:5140?$陕西/咸阳/电信
+广东4K,http://124.116.170.138:8081/rtp/239.111.205.103:5140?$陕西/咸阳/电信
+深圳4K,http://124.116.170.138:8081/rtp/239.111.205.104:5140?$陕西/咸阳/电信
+四川4K,http://124.116.170.138:8081/rtp/239.111.205.62:5140?$陕西/咸阳/电信
+山东4K,http://124.116.170.138:8081/rtp/239.111.205.66:5140?$陕西/咸阳/电信 
+峨眉电影4k,http://60.255.72.119:4022//udp/239.132.1.87:5000
+怀旧剧场,http://74.91.16.250:82/live/hjjc.m3u8?jsbt=1760496042&jsbk=53d27100dbc9cc936efd93921d11154f
+第一剧场,http://107.150.38.234:82/live/dyjc.m3u8?jsbt=1760496540&jsbk=ab8e208db2538f9662fbb4f3c70f36e3
+风云剧场,http://69.30.238.178:82/live/fyjc.m3u8?jsbt=1760496861&jsbk=98837340a5f87eb9adbbb53d7bec123b
+风云音乐,http://74.91.16.250:82/live/fyyy.m3u8?jsbt=1760496934&jsbk=6aea4a0386078d45582bc9d80a82731f
+风云足球,http://173.208.187.18:82/live/fyzq.m3u8?jsbt=1760496962&jsbk=5b91869c876cff30aa885075cffa7b45
+高尔夫台,http://198.204.230.114:82/live/gefwq.m3u8?jsbt=1760497357&jsbk=f007b52c9f96eb2fec9128015b01d689
+女性时尚,http://69.30.213.10:82/live/nxss.m3u8?jsbt=1760497137&jsbk=2989c4cb39d9295a2d15e78a1a7cf000
+世界地理,http://192.151.147.194:82/live/sjdl.m3u8?jsbt=1760497085&jsbk=58b28e8afa73b3a6b195f7c4bb3b9bb2&app=com.chenfengtv.tvbox&version=1.0.3&ev=20250805
+央视台球,http://69.30.213.10:82/live/ystq.m3u8?jsbt=1760497263&jsbk=c79334c153f1578e101f13b3218d8bee
+电视指南,http://198.204.230.114:82/live/dszn.m3u8?jsbt=1760497316&jsbk=d75d01f62f14cd0cec6e8eaf868aacb5
+CHC动作,http://173.208.187.18:82/live/chcdz.m3u8?jsbt=1760497741&jsbk=f6e3ca454eaa7d1b93c57f20952ac92a
+CHC影迷,http://192.151.147.194:82/live/chchd.m3u8?jsbt=1760497792&jsbk=cba3744b08de06a255dae8d8945f9e8a&app=com.chenfengtv.tvbox&version=1.0.3&ev=20250805
+CCTV频道,#genre#
 CCTV1,http://live2.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=10bd15e08aa7c4de538b767ae2618279a6213e3e
 CCTV2,http://live2.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=10bd15e08aa7c4de538b767ae2618279a6213e3e
 CCTV3,http://live2.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=10bd15e08aa7c4de538b767ae2618279a6213e3e
@@ -1288,4 +1328,5 @@ CCTV15-音乐,http://120.202.94.181:9446/tsfile/live/0015_1.m3u8?key=txiptv&play
 陕西农林卫视,http://stream.snrtv.com/sxbc-nl-ckrCMX.m3u8
 
 陕西移动电视,http://stream.snrtv.com/sxbc-yd-axCWZ8.m3u8
+
 
