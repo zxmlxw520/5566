@@ -71,8 +71,11 @@ NOW新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
 VIUTV,http://iptv.4666888.xyz/iptv2A.php?id=VIUTV
 TVB千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=TVB千禧经典
 TVB1,http://iptv.4666888.xyz/iptv2A.php?id=TVB1
+TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 中天新闻,http://iptv.4666888.xyz/iptv2A.php?id=中天新闻
 星空卫视,http://iptv.4666888.xyz/iptv2A.php?id=星空卫视
+星空卫视备,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
 重温经典,http://iptv.4666888.xyz/iptv2A.php?id=重温经典
 八度空间,http://iptv.4666888.xyz/iptv2A.php?id=八度空间
 综艺玩很大,http://iptv.4666888.xyz/iptv2A.php?id=综艺玩很大
@@ -81,8 +84,11 @@ TVBS台剧,http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
 纬来戏剧,http://iptv.4666888.xyz/iptv2A.php?id=纬来戏剧
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
+华丽翡翠台,http://api.mg.itv888.cn:8080/streams/3mt9hea4ijk/index.m3u8
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 TVB翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
 凤凰中文频加,http://vallest.uk/livehttpplay?channel_id=30014 
 凤凰中文频加,http://vallest.uk/livehttpplay?channel_id=20065 
 凤凰资讯频加,http://vallest.uk/livehttpplay?channel_id=30015 
@@ -132,13 +138,6 @@ VIU6,http://beishan008.asuscomm.com:8889/bysid/96.m3u8
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 靖洋戏剧,http://live.dktq4q.com/live/4ea1bdefaebb61a0705ba02e88001135.flv
 新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
-动物星球,http://stream-ali1.csslcloud.net/live/g46UG6stseWUHmKG9Abi152mY9av9qxVJZYp79cmVD2E4glTg3.flv 
-BBC_Earth,http://stream-ali1.csslcloud.net/live/RTGbfYkvdn3MPIj79qxVJP7g3bETISm6Z4De6iN8TJ9RRTVHjV.flv
-动物星球,,https://tv543.cc/Smart.php?id=animalplanet_twn
-Discovery Asia,https://tv543.cc/Smart.php?id=discoverytwn_twn
-BBC_Earth,https://tv543.cc/Smart.php?id=bbcearth_twn
-NatGeo Wild HD,https://tv543.cc/Smart.php?id=Natgeowild
-纪录频道|CI,https://tv543.cc/Smart.php?id=ci_twn
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
@@ -172,7 +171,6 @@ GOOD2 TV,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveeven
 凤凰资讯备,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
 凤凰资讯备,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰中文备,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-
 🇨🇳CCTV频道,#genre#
 ❤️使用说明,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
 卡就按右换线,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
@@ -8277,6 +8275,7 @@ Alin精选16首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v03
 小哥哥没人看,https://api.e1e1.top/xgg/g.php 
 ❥打赏留言,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥增加更多,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+
 
 
 
