@@ -89,6 +89,23 @@ TVBS台剧,http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
 TVB翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
+翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
+华丽翡翠,http://php.jdshipin.com/smt.php?id=Tvbjade
+无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
+Now新闻,http://cdn.163189.xyz/163189/now 
+TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
+千禧经典台,http://php.jdshipin.com/smt.php?id=Tvbclassic
+TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
+天映频道,http://php.jdshipin.com/smt.php?id=Celestial
+天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
+Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
+Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
+爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
+Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
+Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
+八度空间,http://php.jdshipin.com/smt.php?id=TV8
+ViuTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
+TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 凤凰中文频加,http://vallest.uk/livehttpplay?channel_id=30014 
 凤凰中文频加,http://vallest.uk/livehttpplay?channel_id=20065 
 凤凰资讯频加,http://vallest.uk/livehttpplay?channel_id=30015 
@@ -135,6 +152,27 @@ HakkaTv地波,http://123.51.136.80:8307/0.ts
 PTS'xs综地波,http://123.51.136.80:8312/0.ts 
 VIUTV,http://beishan008.asuscomm.com:8889/bysid/99.m3u8
 VIU6,http://beishan008.asuscomm.com:8889/bysid/96.m3u8
+Now新闻,P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts
+无线新闻,P2p://starvod.xyz:19806/557d5098116e4e1f9b14008ed764cc71.ts
+无线生活,P2p://starvod.xyz:19806/f4650e7cb54645f79ea52469b84ef3c4.ts
+无线娱乐,P2p://starvod.xyz:19806/c6994957df9e4488bfb1c462db442f61.ts
+无线星河,P2p://starvod.xyz:19806/52d013423e304854a4980bd64c0015ae.ts
+无线千禧,P2p://starvod.xyz:19806/8cf149d3490640d298e3bce48cd0e8ae.ts
+无线功夫,P2p://starvod.xyz:19806/6043814031384523bc272f4f87aeb298.ts
+无线粤片,P2p://starvod.xyz:19806/04fd1cf947634341813b484f497ecbbc.ts
+无线戏曲,P2p://starvod.xyz:19806/38b743244a7b4812a4e54b0d32910647.ts
+无线亚剧,P2p://starvod.xyz:19806/4eab17c6f15b475696bcb51b61233345.ts
+无线少儿,P2p://starvod.xyz:19806/631732f5fa894772aec8ee750359e455.ts
+黄金翡翠,P2p://starvod.xyz:19806/d6964956395e43d1a62e6166706f7fcf.ts
+无线赛马,P2p://starvod.xyz:19806/ad27c96a4bca4e61be7b4b2ba07368fc.ts
+有线赛马,P2p://starvod.xyz:19806/72740144b3744949b05bd0220bd4c231.ts
+澳门莲花,P2p://starvod.xyz:19806/68679bdf00060084a4fd42af6a261d1a.ts
+爱奇艺综,P2p://starvod.xyz:19806/1cd1505d309948e596459856926cda41.ts
+八度空间,P2p://starvod.xyz:19806/ae2ec19c582f4a07baa35b40f91b4239.ts
+Ftv_城市,P2p://starvod.xyz:19806/2b3efa01d8bf4c7fbbef69911802df3f.ts
+Ftv1时代东晴,P2p://starvod.xyz:19806/e485c2b5af154a638d9d54d10dcb73d9.ts
+Ftv1时代西晴,P2p://starvod.xyz:19806/2c381681bcfd4ecdb2e52ece5014d6e8.ts
+Ftv2时代,P2p://starvod.xyz:19806/dd3cb3133b9d4ab38fb4b2c321a727a2.ts
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 靖洋戏剧,http://live.dktq4q.com/live/4ea1bdefaebb61a0705ba02e88001135.flv
 新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
@@ -171,6 +209,28 @@ GOOD2 TV,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveeven
 凤凰资讯备,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
 凤凰资讯备,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰中文备,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+RTHK 31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+RTHK 32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+RTHK 33,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+无线星河,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
+TVB星河,http://117.141.162.238:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0$广西联通
+星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
+HOY 资讯,http://tv543.cc/Smart.php?id=hoycaijing_twn
+RTHK 31,http://cdn.163189.xyz/163189/rthk31
+RTHK 32,http://cdn.163189.xyz/163189/rthk32
+RTHK 33,https://cdn6.101.qzz.io/163189/cctv1
+凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8$官网
+香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8$官网
+环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8$官网
+香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8$官网
+澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
+澳视葡文,http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
+澳视体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
+澳视资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
+澳视综艺,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
+澳门Macau,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
 
 🇨🇳CCTV频道,#genre#
 ❤️使用说明,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
@@ -8276,6 +8336,7 @@ Alin精选16首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v03
 小哥哥没人看,https://api.e1e1.top/xgg/g.php 
 ❥打赏留言,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥增加更多,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+
 
 
 
