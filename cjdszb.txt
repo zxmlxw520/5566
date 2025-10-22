@@ -265,22 +265,6 @@ CCTV13,http://106.53.99.30/tv/migu.php?id=cctv13
 CCTV14,http://106.53.99.30/tv/migu.php?id=cctv14 
 CCTV15,http://106.53.99.30/tv/migu.php?id=cctv15 
 CCTV17,http://106.53.99.30/tv/migu.php?id=cctv17 
-CCTV发现之旅,http://106.53.99.30/tv/migu.php?id=fxzl 
-CCTV老故事,http://106.53.99.30/tv/migu.php?id=lgs 
-CCTV中学生,http://106.53.99.30/tv/migu.php?id=zxs 
-CHC影迷电影,http://106.53.99.30/tv/migu.php?id=chcym 
-CHC家庭影院,http://106.53.99.30/tv/migu.php?id=chcjt 
-CHC动作电影,http://106.53.99.30/tv/migu.php?id=chcdz 
-CGTN,http://106.53.99.30/tv/migu.php?id=cgtn 
-CGTN纪录,http://106.53.99.30/tv/migu.php?id=cgtnjl 
-CCTV西班牙语,http://106.53.99.30/tv/migu.php?id=cgtne 
-CCTV法语,http://106.53.99.30/tv/migu.php?id=cgtnf 
-CCTV阿拉伯语,http://106.53.99.30/tv/migu.php?id=cgtna 
-CCTV俄语,http://106.53.99.30/tv/migu.php?id=cgtnr 
-
-嘉佳卡通,http://106.53.99.30/tv/migu.php?id=jjkt 
-熊猫01高清,http://106.53.99.30/tv/migu.php?id=xmpd 
-
 CCTV3,https://zby.130519.xyz/PLTV/11/224/3221226165/index.m3u8
 CCTV4,http://107.150.32.90:82/live/cctv4.m3u8?jsbt=1760966951&jsbk=20a87acd8a6c40c48be52e906f78ec5d
 CCTV5,http://107.150.32.90:82/live/cctv5.m3u8?jsbt=1760966999&jsbk=80e617c4995ff2da730e9e1436c5c905
@@ -306,24 +290,13 @@ CCTV15,http://38.75.136.137:98/gslb/jsbtv/cctv15hd.m3u8?tm=1760967331&key=541bba
 CCTV16,http://69.197.146.138:82/live/cctv16.m3u8?jsbt=1760967373&jsbk=66c5c68a5342c6e3855ee213be777df7
 CCTV17,http://38.75.136.137:98/gslb/jsbtv/cctv17hd.m3u8?tm=1760967397&key=d367ea1eef8815852b3fe27a6ccefb4c
 
-cct4欧洲,http://go.bkpcp.top/mg/cctv4o
-cct4美洲,http://go.bkpcp.top/mg/cctv4m
-CGTN-西,http://go.bkpcp.top/mg/cgtne 
-CGTN-阿,http://go.bkpcp.top/mg/cgtna 
-CGTN-法,http://go.bkpcp.top/mg/cgtnf 
-CETV1,https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8
-CETV4,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
-CETV4,https://zby.130519.xyz/PLTV/11/224/3221226069/index.m3u8
-CGTN,https://zby.130519.xyz/PLTV/11/224/3221226016/index.m3u8
 江苏卫视,http://110.42.37.69:6688/live/live.php?token=2OFgNXEh&id=jsws
 北京卫视,http://110.42.37.69:6688/zb/btime.php?token=ZY-147fbBJa%2FSypf8k%2FYo7td8CEhRgdjDZUv%2Fzd80fzIpZq%2BQ&id=bjws&zy.m3u8
 东方卫视,http://110.42.37.69:6688/zb/sh.php?token=ZY-ea6cP3J7Hc4q%2Bx4F6%2F5YuV3ePrlCtwgi%2F%2BuyS%2FwzrjmYOg&id=dfws&zy.m3u8
 江苏卫视,http://110.42.37.69:6688/zb/jsws.php?token=ZY-86357eyVVt0UGiMf8ZTH7nNtHeDnZJE8RV4v0Y8tynsckw&id=jsws&zy.m3u8
 广东卫视,http://mgsp-hs2.live.miguvideo.com:8088/ws_w/gdws/gdws3000/3000/01.m3u8?msisdn=7a5ba742998e026d427e9d3aede61d70&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20251022101542&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=116.208.212.54&SecurityKey=20251022101542&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=24286323&jmhm=7a5ba742998e026d427e9d3aede61d70&videocodec=h264&bean=mgspad&tid=android&conFee=0&mtv_session=a5ade6a419c878a7e0d404b85db86292&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=79982d7dd4f3282a3f2aba28835a2999
-
 江西卫视,http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/jxwshd/57/20190820/01.m3u8?msisdn=7a5ba742998e026d427e9d3aede61d70&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20251022100015&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=116.208.212.54&SecurityKey=20251022100015&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=24286323&jmhm=7a5ba742998e026d427e9d3aede61d70&videocodec=h264&bean=mgspad&tid=android&conFee=0&hn_flag=1&mtv_session=65101b6e37f13b50eb7923d7f9704e35&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=9b60ce4cf95e429603806a31758045eb
 湖北卫视,http://mgsp-bd2.live.miguvideo.com:8088/migu/kailu/hubeiwshd/57/20220712/01.m3u8?msisdn=7a5ba742998e026d427e9d3aede61d70&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20251022100210&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=116.208.212.54&SecurityKey=20251022100210&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=24286323&jmhm=7a5ba742998e026d427e9d3aede61d70&videocodec=h264&bean=mgspad&tid=android&conFee=0&mtv_session=e6902bf8abddcba20e66c43b3796ecfe&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b9cdee9542ec0d7013ad29ec0e737897
-
 江苏卫视,https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8
 黑龙江卫视,http://110.42.37.69:6688/live/live.php?token=2OFgNXEh&id=hljws
 黑龙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225722/index.m3u8
@@ -426,16 +399,33 @@ CGTN,https://zby.130519.xyz/PLTV/11/224/3221226016/index.m3u8
 东方卫视,http://173.208.155.26:82/live/dfws.m3u8?jsbt=1758300277&jsbk=85c78b760a52502a6c07d5c3b2cd0427
 辽宁卫视,http://live1.nty.tv189.com/tm-dxlnws-4000k.m3u8?sign=97fe5c8752f7fbf34c6b6881cd158bfe&t=68cc5780&guid=4123d554-81f3-8016-2ba4-2a6596d95dd6
 河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
-
 天津卫视,http://220.165.241.165:808/hls/45/index.m3u8
-
-
 CCTV4K,http://hd1.91kds.cn/live2/cctvxw.m3u8?id=cctv4k&bt=2&fmt=&ip=&app=com.chenfengtv.tvbox&version=1.0.3&mac=fu:ck:92:92:ff&ev=20250805&nwtime=1758299716&sign=2e0fb08efacb2da9d3b961af67df9252&utk=&tmk=
-
 河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
-
-
 四川卫视,http://live2.rxip.sc96655.com/live/scwsH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+CCTV发现之旅,http://106.53.99.30/tv/migu.php?id=fxzl 
+CCTV老故事,http://106.53.99.30/tv/migu.php?id=lgs 
+CCTV中学生,http://106.53.99.30/tv/migu.php?id=zxs 
+CHC影迷电影,http://106.53.99.30/tv/migu.php?id=chcym 
+CHC家庭影院,http://106.53.99.30/tv/migu.php?id=chcjt 
+CHC动作电影,http://106.53.99.30/tv/migu.php?id=chcdz 
+CGTN,http://106.53.99.30/tv/migu.php?id=cgtn 
+CGTN纪录,http://106.53.99.30/tv/migu.php?id=cgtnjl 
+CCTV西班牙语,http://106.53.99.30/tv/migu.php?id=cgtne 
+CCTV法语,http://106.53.99.30/tv/migu.php?id=cgtnf 
+CCTV阿拉伯语,http://106.53.99.30/tv/migu.php?id=cgtna 
+CCTV俄语,http://106.53.99.30/tv/migu.php?id=cgtnr 
+嘉佳卡通,http://106.53.99.30/tv/migu.php?id=jjkt 
+熊猫01高清,http://106.53.99.30/tv/migu.php?id=xmpd 
+cct4欧洲,http://go.bkpcp.top/mg/cctv4o
+cct4美洲,http://go.bkpcp.top/mg/cctv4m
+CGTN-西,http://go.bkpcp.top/mg/cgtne 
+CGTN-阿,http://go.bkpcp.top/mg/cgtna 
+CGTN-法,http://go.bkpcp.top/mg/cgtnf 
+CETV1,https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8
+CETV4,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
+CETV4,https://zby.130519.xyz/PLTV/11/224/3221226069/index.m3u8
+CGTN,https://zby.130519.xyz/PLTV/11/224/3221226016/index.m3u8
 
 
 📺央卫备用,#genre#
@@ -8400,6 +8390,7 @@ Alin精选16首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v03
 小哥哥没人看,https://api.e1e1.top/xgg/g.php 
 ❥打赏留言,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥增加更多,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+
 
 
 
