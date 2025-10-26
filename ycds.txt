@@ -12,6 +12,7 @@ CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
 凤凰中文HD,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰咨询HD,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+HBO 2,http://panelguys.top:8080/txd7Fd/030774/57438
 操作说明,https://i.uik.cc/view.php/85d53def32766e1edd7d16d069632fd3.mp4
 打赏留言加频道,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
 🎶点歌台频道1,http://huanqiuzhibo.cn/manifest/douyu.php?id=20415 
@@ -21,10 +22,11 @@ CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8f
 觉得好用,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 请打赏观看,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 湖南4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-江苏卫视,http://110.42.37.69:6688/live/live.php?token=2OFgNXEh&id=jsws
+
 北京卫视,http://110.42.37.69:6688/zb/btime.php?token=ZY-147fbBJa%2FSypf8k%2FYo7td8CEhRgdjDZUv%2Fzd80fzIpZq%2BQ&id=bjws&zy.m3u8
 东方卫视,http://110.42.37.69:6688/zb/sh.php?token=ZY-ea6cP3J7Hc4q%2Bx4F6%2F5YuV3ePrlCtwgi%2F%2BuyS%2FwzrjmYOg&id=dfws&zy.m3u8
-江苏卫视,http://110.42.37.69:6688/zb/jsws.php?token=ZY-86357eyVVt0UGiMf8ZTH7nNtHeDnZJE8RV4v0Y8tynsckw&id=jsws&zy.m3u8
+湖南卫视,https://migu.188766.xyz/?migutoken=f3efed7fadf6baa1b1f74046312b5ab5&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
+浙江卫视,https://migu.188766.xyz/?migutoken=d0546d05f01cc612f09953f1d8b6996d&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 浙江卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=zjws
 点播影院,http://jiaojirentv.top/2020/dy.php?id=4246519
@@ -116,14 +118,13 @@ CCTV14,https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
 CCTV15,http://38.75.136.137:98/gslb/jsbtv/cctv15hd.m3u8?tm=1760967331&key=541bbad4d18ef0fb7a9bc3a342bf2891
 CCTV16,http://69.197.146.138:82/live/cctv16.m3u8?jsbt=1760967373&jsbk=66c5c68a5342c6e3855ee213be777df7
 CCTV17,http://38.75.136.137:98/gslb/jsbtv/cctv17hd.m3u8?tm=1760967397&key=d367ea1eef8815852b3fe27a6ccefb4c
-江苏卫视,http://110.42.37.69:6688/live/live.php?token=2OFgNXEh&id=jsws
+
 江苏卫视,https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8
 黑龙江卫视,http://110.42.37.69:6688/live/live.php?token=2OFgNXEh&id=hljws
 黑龙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225722/index.m3u8
 东方卫视,https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8
 北京卫视,https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8
 湖南卫视,https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
-东方卫视,http://110.42.37.69:6688/live/live.php?token=2OFgNXEh&id=dfws
 浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
 深圳卫视,https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8
 三沙卫视,http://110.42.37.69:6688/live/live.php?token=2OFgNXEh&id=ssws
@@ -182,71 +183,7 @@ CCTV17,http://38.75.136.137:98/gslb/jsbtv/cctv17hd.m3u8?tm=1760967397&key=d367ea
 哈哈炫动,https://zby.130519.xyz/PLTV/11/224/3221226175/index.m3u8
 卡酷少儿,https://zby.130519.xyz/PLTV/11/224/3221226019/index.m3u8
 嘉佳卡通,https://zby.130519.xyz/PLTV/11/224/3221226021/index.m3u8
-CCTV1,http://115.221.92.129:7777/rtp/233.50.200.99:5140
-CCTV2,http://122.234.158.196:55555/rtp/233.50.200.100:5140
-CCTV3,http://171.213.152.114:4022/rtp/239.93.0.109:5140
-CCTV4,http://171.213.152.114:4022/rtp/239.93.1.105:5140
-CCTV7,http://171.213.146.1:8188/rtp/239.93.1.67:5140
-CCTV9,http://171.213.200.162:4022/rtp/239.93.1.24:5140
-CCTV10,http://171.213.200.162:4022/rtp/239.93.1.28:5140
-CCTV11,http://171.213.222.181:8188/rtp/239.93.0.102:5140
-CCTV12,http://171.213.151.165:8188/rtp/239.93.1.30:8124
-CCTV17,http://171.213.200.162:4022/rtp/239.93.0.92:5140
-CCTV4欧洲,http://106.116.126.75:4022/rtp/239.254.201.205:4220
-CCTV4,http://58.54.35.158:60001/rtp/239.69.1.232:11034
-凤凰资讯,http://171.213.159.16:4022/rtp/239.93.0.118:2191
-安徽卫视,http://171.213.159.16:4022/rtp/239.93.1.106:5140
-北京卫视,,http://171.213.200.162:4022/rtp/239.93.0.180:5140
-重庆卫视,http://58.54.35.158:60001/rtp/239.69.1.149:10530
-重庆卫视,http://171.213.152.114:4022/rtp/239.93.1.107:5140
-东南卫视,http://115.221.91.4:7777/rtp/233.50.201.146:5140
-东方卫视,http://171.213.131.151:1880/rtp/239.93.0.123:5140
-广东卫视,http://171.213.131.151:1880/rtp/239.93.0.181:5140
-广西卫视,http://171.213.159.16:4022/rtp/239.93.42.46:5140
-甘肃卫视,http://171.213.222.181:8188/rtp/239.93.0.81:5140
-贵州卫视,http://222.188.164.164:65432/rtp/239.49.8.49:8000
-贵州卫视,http://58.48.104.134:4022/rtp/239.69.1.150:10536
-河北卫视,http://171.213.192.17:4000/rtp/239.11.0.31:5140
-河南卫视,http://58.48.104.134:4022/rtp/239.69.1.168:10644
-海南卫视,http://222.188.164.164:65432/rtp/239.49.8.83:8000
-湖北卫视,http://171.213.192.17:4000/rtp/239.11.0.74:5140
-黑龙江卫视,http://219.139.228.112:8989/rtp/239.254.96.138:8902
-吉林卫视,http://58.48.104.134:4022/rtp/239.69.1.212:10914
-江苏卫视,http://171.213.151.165:8188/rtp/239.93.0.89:5140
-江西卫视,http://171.213.200.162:4022/rtp/239.93.0.134:5140
-辽宁卫视,http://183.220.107.138:4022/rtp/239.11.0.118:5140
 
-内蒙古卫视,http://171.213.213.126:4000/rtp/239.11.0.33:5140
-宁夏卫视,http://171.213.213.126:4000/rtp/239.11.0.57:5140
-三沙卫视,http://222.188.164.164:65432/rtp/239.49.0.167:8000
-四川,http://171.213.222.181:8188/rtp/239.93.0.169:5140
-山东卫视,http://58.54.35.158:60001/rtp/239.69.1.69:10054
-深圳卫视,http://171.213.152.114:4022/rtp/239.93.0.182:5140
-天津卫视,http://121.60.58.124:19999/rtp/239.69.1.68:10048
-厦门卫视,http://171.213.154.159:8188/rtp/239.93.42.57:5140
-云南卫视,http://171.213.159.16:4022/rtp/239.93.1.174:5140
-浙江卫视,http://171.213.200.162:4022/rtp/239.93.0.124:5140
-康巴卫视,http://171.213.131.151:1880/rtp/239.93.0.41:5140
-
-新疆频道,http://183.220.107.138:4022/rtp/239.11.0.58:5140
-西藏频道,http://171.213.213.126:4000/rtp/239.11.0.53:5140
-cetv1,http://171.213.213.126:4000/rtp/239.11.0.139:5140
-cetv教育,http://121.29.169.134:2082/rtp/239.253.93.164:6440
-世界地理,http://121.60.58.124:19999/rtp/239.69.1.91:10186
-兵器科技,http://58.48.104.134:4022/rtp/239.69.1.79:10114
-央视台球,http://58.48.104.134:4022/rtp/239.69.1.98:10224
-文化精品,http://220.176.218.102:7111/rtp/239.252.219.81:5140
-高尔夫球,http://106.5.78.168:4022/udp/239.252.219.95:5140
-高尔夫球,http://58.54.35.158:60001/rtp/239.69.1.83:10138
-女性时尚,http://121.29.169.134:2082/rtp/239.253.92.144:6114
-怀旧剧场,http://121.29.169.134:2082/rtp/239.253.93.252:6430
-文物宝库,http://106.8.191.45:8189/rtp/239.254.201.227:7230
-第一剧场,http://121.29.169.134:2082/rtp/239.253.93.138:6428
-家庭影院,http://121.60.58.124:19999//rtp/239.69.1.243:11100
-bestv,http://171.213.146.1:8188/rtp/239.93.0.105:5140
-华语影院,http://171.213.222.181:8188/rtp/239.93.0.138:5140
-峨眉电影,http://171.213.213.126:4000/rtp/239.11.0.11:5140
-bestv2,http://171.213.222.181:8188/rtp/239.93.0.95:5140
 乐游,https://zby.130519.xyz/PLTV/11/224/3221226157/index.m3u8
 乐游,https://zby.130519.xyz/PLTV/11/224/3221226115/index.m3u8
 睛彩竞技,https://zby.130519.xyz/PLTV/11/224/3221226116/index.m3u8
@@ -693,30 +630,24 @@ CCTV17,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 青海卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws
 吉林卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
 黑龙江卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
-🍁短剧系列,#genre#
-画面比例设置默认,https://vd3.bdstatic.com/mda-pefi3w616b8ujr88/720p/h264/1684243271973602840/mda-pefi3w616b8ujr88.mp4
-爱看短剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=6079455
-霸爱为奴(100集),https://vd4.bdstatic.com/mda-pe89k65is9xdwqen/sc/cae_h264/1683667911711262079/mda-pe89k65is9xdwqen.mp4
-都市逍遥神医(93集),https://vd4.bdstatic.com/mda-pe9f7u2qj8qi7r04/720p/h264/1683716481871424650/mda-pe9f7u2qj8qi7r04.mp4
-逆命神医(96集),https://vd3.bdstatic.com/mda-peds8afg0055s0nh/720p/h264/1684091269327297304/mda-peds8afg0055s0nh.mp4
-满月之下请相爱(100集),https://vd3.bdstatic.com/mda-pedkenasrhs239n2/sc/cae_h264/1684169079399702313/mda-pedkenasrhs239n2.mp4
-落在生命里的光(100集),https://vd3.bdstatic.com/mda-pedgk34za4i2wsk4/720p/h264/1684066802676530455/mda-pedgk34za4i2wsk4.mp4
-老街中的痞子(79集),https://vd3.bdstatic.com/mda-pedd0pjr3d230d6a/sc/cae_h264/1684151422563021066/mda-pedd0pjr3d230d6a.mp4
-绝世龙帅(100集),https://vd3.bdstatic.com/mda-pectb75a7wb5zsgu/720p/h264/1684008093774139159/mda-pectb75a7wb5zsgu.mp4
-浪子情仇(81集),https://vd3.bdstatic.com/mda-pecpz9ti97u1z825/720p/h264/1683998885326452646/mda-pecpz9ti97u1z825.mp4
-昆仑强者(80集),https://vd3.bdstatic.com/mda-peck0hfux97mrc79/720p/h264/1683988862148442153/mda-peck0hfux97mrc79.mp4
-重生后被死对头掐腰宠,https://vd4.bdstatic.com/mda-pidtbshvj541hcww/sc/cae_h264/1694795969503049377/mda-pidtbshvj541hcww.mp4
-罪妻难逃：夜少求放过,https://vd3.bdstatic.com/mda-pidatyprbq4r7sgs/sc/cae_h264/1694741083134075277/mda-pidatyprbq4r7sgs.mp4
-亿万总裁爱上我,https://vd4.bdstatic.com/mda-pidarj60e9258tkd/sc/cae_h264/1694742743328696121/mda-pidarj60e9258tkd.mp4
-桃运无双(105集),https://vd3.bdstatic.com/mda-pefd0weush6t8bnx/sc/cae_h264/1684372449915872808/mda-pefd0weush6t8bnx.mp4
-双面狂少(83集),https://vd3.bdstatic.com/mda-pefcbtfwri86zgq2/sc/cae_h264/1684371888342144388/mda-pefcbtfwri86zgq2.mp4
-圣王(100集),https://vd3.bdstatic.com/mda-peeuh83guh46806g/sc/cae_h264/1684290562908896240/mda-peeuh83guh46806g.mp4
-偏执总裁的追妻路(93集),https://vd3.bdstatic.com/mda-peesbtb1ji4i07gy/sc/cae_h264/1684280053431635965/mda-peesbtb1ji4i07gy.mp4
-美女总裁回乡过年(97集),https://vd3.bdstatic.com/mda-pedtu8rsvhbj5pdx/sc/cae_h264/1684177990536629531/mda-pedtu8rsvhbj5pdx.mp4
-天龙战神(94集),https://vd3.bdstatic.com/mda-pefi3w616b8ujr88/720p/h264/1684243271973602840/mda-pefi3w616b8ujr88.mp4
-历少强势锁婚(100集),https://vd3.bdstatic.com/mda-pegcxruwk0cxswv8/720p/h264/1684317268225808680/mda-pegcxruwk0cxswv8.mp4
+
 📺四川频道,#genre#
 四川卫视,http://live2.rxip.sc96655.com/live/scwsH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+
+成都简阳新闻综合,http://jypull.jianyangrongmei.cn/live/fb9eea7d019310009e23a40200000000/playlist.m3u8?wsSecret=27502e2ade19ed4f0c73f2d43a9547b3&wsTime=2019657600
+成都简阳新闻综合,http://jypull.jianyangrongmei.cn/live/fb9eea7d019310009e23a40200000000.flv?wsSecret=63f700d781b82eaf42b4fa7e83212737&wsTime=2019657600
+
+达州综合,http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
+达州文化,http://tv.drs.dzxw.net/channellive/ggpd-dz2.flv
+达州通川,http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv
+广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
+雅安综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
+石棉综合,https://m3u8channel-sm.yunxya.com/nmip-media/channellive/channel100420/playlist.m3u8
+剑阁综合频道,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
+金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
+乐至综合,http://175.155.106.72:89/live1/live1.m3u8
+松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8
+汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
 四川经济,http://171.213.213.244:8188/rtp/239.93.1.101:5140
 四川新闻,http://171.213.213.244:8188/rtp/239.93.0.47:5140
 四川文旅,http://171.213.213.244:8188/rtp/239.93.1.102:5140
@@ -734,18 +665,6 @@ CDTV6,http://171.213.213.244:8188/rtp/239.93.0.21:1251
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8
 自贡文化,http://110.189.153.160:1002/ggpd.flv
 稻城电视台,http://171.213.213.126:4000/rtp/239.10.0.29:5140
-成都简阳新闻综合,http://jypull.jianyangrongmei.cn/live/fb9eea7d019310009e23a40200000000/playlist.m3u8?wsSecret=27502e2ade19ed4f0c73f2d43a9547b3&wsTime=2019657600
-成都简阳新闻综合,http://jypull.jianyangrongmei.cn/live/fb9eea7d019310009e23a40200000000.flv?wsSecret=63f700d781b82eaf42b4fa7e83212737&wsTime=2019657600
-
-达州综合,http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
-达州文化,http://tv.drs.dzxw.net/channellive/ggpd-dz2.flv
-达州通川,http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv
-广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
-剑阁综合频道,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
-金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
-乐至综合,http://175.155.106.72:89/live1/live1.m3u8
-松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8
-汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
 营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 绵阳梓潼综合,http://ztpull.ztrmfb.cn/live/b98e28f7019310006d65e1b500000000.flv?wsSecret=f98c5ffc471a700140d815bfafd641d9&wsTime=2019657600
 阿坝新闻综合,http://apppull.aba-news.com.cn/live/be5325350190100009f6751d00000000/playlist.m3u8?wsSecret=35d0fb48b07a2c3c051b8c050e1ef7d9&wsTime=2019657600
@@ -2008,9 +1927,6 @@ NBTV3,http://115.221.92.129:7777/rtp/233.50.201.179:5140
 📺重庆贵州,#genre#
 
 重庆卫视,https://zby.130519.xyz/PLTV/11/224/3221226171/index.m3u8
-
-
-
 巴南综合,http://live.cqbntv.com/bnmc/tv0709.m3u8
 璧山综合,http://222.179.42.129:8181/hls1.m3u8
 垫江综合,http://8.138.7.223/tv/quklive.php?id=1
@@ -2331,7 +2247,6 @@ ZSTV2,http://202.107.163.198:5555/rtp/238.125.3.226:5140
 阿勒泰1,http://202.107.163.198:5555/rtp/238.125.3.150:5140
 阿拉尔,http://202.107.163.198:5555/rtp/238.125.3.54:5140
 📺上海频道,#genre#
-
 东方卫视,http://110.42.37.69:6688/live/live.php?token=2OFgNXEh&id=dfws
 上海都市,http://124.78.13.23:4022/rtp/239.45.3.236:5140
 上海教育,http://116.226.46.59:4022/rtp/239.45.0.13:5140
@@ -2339,7 +2254,6 @@ ZSTV2,http://202.107.163.198:5555/rtp/238.125.3.226:5140
 第一财经,http://124.78.13.23:4022/rtp/239.45.3.211:5140
 百事通TV,http://124.78.13.23:4022/rtp/239.45.1.29:5140
 东方影视,https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8
-
 第一财经,https://zby.130519.xyz/PLTV/11/224/3221225737/index.m3u8
 上海都市,https://zby.130519.xyz/PLTV/11/224/3221225749/index.m3u8
 都市剧场,https://zby.130519.xyz/PLTV/11/224/3221225762/index.m3u8
@@ -2508,11 +2422,37 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 FETV,http://117.28.99.2:18888/rtp/239.61.2.173:9026
 🇰🇷韩国频道,#genre#
 国外加载慢,https://i.uik.cc/view.php/80bfa7db9c20f6a884fcc7cae7e36d04.mp4
+AriangTV,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
 ABN TV (720p),https://vod2.abn.co.kr/IPHONE/abn.m3u8
-EBS1,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-EBS2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/chunklist.m3u8
-EBSE,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-
+BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+EBSi,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+EBS+2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+KBS LIVE,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+TBS,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
+KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php
+KBS Joy,http://mytv.dothome.co.kr/ch/catv/3.php
+KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php
+KBS World,http://mytv.dothome.co.kr/ch/catv/7.php
+KBS 1TV,https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
+KBS 1TV,http://mytv.dothome.co.kr/ch/public/1.php
+KBS 2TV,http://mytv.dothome.co.kr/ch/public/3.php
+OUN,https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+大田MBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+木浦MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+济州MBC,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+江原岭东MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+KFN,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 KOREA,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
 MBN,http://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2MDk2NjAwMH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=eCHR3nYeZ~~4cmfwY9Ye7W6wDlbrms1qVGExdCwJ43CaWiBrLdbFzhoIJ01RpDPv~RlB7wwCOhQGN4xg4FBpLh-F-I5y03yDeBlXwFZ3R3R3dx66vqH7kntbApbtNscogrubMRvtT5RUVou0Xgb9bZJPGqC8u3~7BEMjdYa3RUk_&Key-Pair-Id=pub_hls-live.mbn.co.kr
 CJ OnStyle (540p),https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
@@ -2523,6 +2463,7 @@ KBS Drama (480p),http://mytv.dothome.co.kr/ch/catv/2.php
 KBS Life (480p),http://mytv.dothome.co.kr/ch/catv/5.php
 Lotte OneTV (720p),https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
 MBC Andong (안동 MBC) (360p) [Not 24/7],http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
+MBC,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
 MBC Chuncheon (춘천 MBC) (480p) [Not 24/7],https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 MBC Jeju (제주 MBC) (352p) [Not 24/7],https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 MBC Mokpo (목포 MBC) (720p) [Not 24/7],http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
@@ -2589,6 +2530,7 @@ NewKID4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=872
 韩剧,https://stream.ads.ottera.tv/playlist.m3u8?network_id=622 挂
 RNA,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 🇯🇵日本频道,#genre# 
+日本東映チャンネル,https://stream02.willfonk.com/live_playlist.m3u8?
 QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 NHK,https://nhk4.mov3.co/hls/nhk.m3u8
 NTV,https://ntv4.mov3.co/hls/ntv.m3u8
@@ -2598,6 +2540,12 @@ neco,https://stream1.freetv.fun/neco-channel-1.m3u8
 国外加载慢,https://i.uik.cc/view.php/80bfa7db9c20f6a884fcc7cae7e36d04.mp4
 News max,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 CNN,https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
+Fox weather,https://247wlive.foxweather.com/stream/index_1280x720.m3u8
+Go2Travel,https://go2thls.wns.live/hls/stream.m3u8
+Palm Beaches TV,https://live.feed.thepalmbeaches.tv/index.m3u8
+Travelxp,https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
+Cable News Network,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+Pac-12 Network,https://pac12-samsungus.amagi.tv/playlist480_p.m3u8
 ABC_EAST,https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 ACC_NETWORK,https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
 Animal_Planet,https://fl1.moveonjoy.com/Animal_Planet/index.m3u8
@@ -2639,20 +2587,67 @@ movie sphere,https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/ts-eu-w1-
 国外加载慢,https://i.uik.cc/view.php/80bfa7db9c20f6a884fcc7cae7e36d04.mp4
 越南ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 越南HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+泰国ASTV-News,http://news1.live14.com/stream/news1_hi.m3u8
+泰国PBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
 泰国ASTV,http://news1.live14.com/stream/news1_hi.m3u8
 印度Ayushu,http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 印度GDN,http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist_w1524803945.m3u8
+印度9Bharatvarsh,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
+印度JALSHA MOVIES,https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
+印度Zee-Bangla2,http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
+印度colorsbangla,https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+印度Moon,http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
+印度TV 9 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
 英国FI,http://failarmy-international-in.samsung.wurl.tv/1200.m3u8
-俄罗ACTPA,http://streaming.astrakhan.ru/astrakhan24/tracks-v3a1/mono.m3u8
-俄罗News max,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-俄罗HOPE,http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-俄罗OCKO,http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-俄罗OCKO2,http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-俄罗PAPA,http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
-俄罗SOUCHI,http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-俄罗UNIVER,http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
-俄罗ACT,http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
-
+希腊ATTICA,https://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
+西班牙DW Español ,https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+墨西哥Alcarria TV,http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
+意大利Food Network,https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
+芬兰Alfa,https://irrtv2.digitacdn.net/live/ott/irrtv/playlist.m3u8?organizationId=229401409&suiteItemId=230439940
+克罗地亚Al Jazeera Balkans,https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+哥斯达黎加Canal 8,http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+智利UCV Televisión,https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+乍得Tchad 24,http://102.131.58.110/out_1/index.m3u8
+巴西Record News,https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+白俄罗斯Radio HIT Orsk,http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+阿尔巴尼亚Syri,https://stream.syritv.al/SyriTV/index.m3u8
+土耳其TRT World,https://tv-trtworld.medya.trt.com.tr/master.m3u8
+荷兰Omrop Fryslân,https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/f8f68bd5/playlist.m3u8
+孟加拉国DurontoTV,https://tvsen4.aynaott.com/durontotv/index.m3u8
+印度尼西亚CNN Indonesia,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+泰国Thai PBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+乌克兰KPBIM,https://cdn.1tvcrimea.ru/1tvcrimea.m3u8
+菲律宾NDTV,https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+菲律宾AI-Jazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8#http://125.227.210.37:8938/VideoInput/play.ts
+卡塔尔Al Jazeera English,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+卡塔尔Al Jazeera Arabic,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+俄罗斯Russia Today,https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+俄罗斯ACTPA,http://streaming.astrakhan.ru/astrakhan24/tracks-v3a1/mono.m3u8
+俄罗斯News max,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+俄罗斯HOPE,http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+俄罗斯OCKO,http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+俄罗斯OCKO2,http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+俄罗斯PAPA,http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
+俄罗斯SOUCHI,http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+俄罗斯UNIVER,http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
+俄罗斯ACT,http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+俄罗斯GITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+俄罗斯camapa,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+半岛新闻,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8#https://live-hls-v3-aje.getaj.net/AJE-V3/01.m3u8#https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+伊朗新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CBS新闻,https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
+CBN新闻,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+GBN新闻,https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+RT新闻,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+RT纪录,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+美国·彭博财经,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+加拿大·Global新闻,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+朝鲜中央电视台,https://tv.nknews.org/tvhls/stream.m3u8
+新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+联合国UNTV,https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 CNN,https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 ABC_EAST,https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 ACC_NETWORK,https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
@@ -2779,118 +2774,10 @@ NewKID4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=872
 韩剧,https://stream.ads.ottera.tv/playlist.m3u8?network_id=622 挂
 RNA,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 
-📺官方直播,#genre#
-苍南新闻综合,https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
-长子综合,https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
-朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
-东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
-东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
-汾西综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
-甘南县综合,https://stream.hrbtv.net/zxpd/sd/live.m3u8
-赣州公共,https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526334096251.m3u8
-赣州教育,https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526335287668.m3u8
-赣州新闻,https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526329228525.m3u8
-古县综合,https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd
-广德生活,https://live.gdtv.ah.cn/live/newsTV.m3u8
-广元公共,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
-广元综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
-桂林新闻,https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
-哈密一套,https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv
-湖州文化娱乐,https://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
-湖州新闻综合,https://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
-淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
-怀仁综合,https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8
-剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
-龙游生活娱乐,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
-龙游新闻综合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
-陇川综合,https://zb-live.ynurl.com/longchuan/58f88df3-605e-4c57-865c-8e8f85241ca1.m3u8
-洛阳科教,https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
-洛阳文旅,https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8
-洛阳综合,https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
-普陀电视台,https://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
-秦安综合,https://play.kankanlive.com/live/1659926941626981.m3u8
-苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
-苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
-苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
-苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-睢宁综合,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
-太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0
-通海电视台,https://zb-live.ynurl.com/tonghai/3bfe3a9e-48e6-4c1e-8770-1df66447cc6c.m3u8
-渭源新闻,https://play.kankanlive.com/live/1711955176432990.m3u8
-无锡影视频道,https://stream.thmz.com/wxtv6/playlist.m3u8
-无锡经济频道,https://stream.thmz.com/wxtv5/playlist.m3u8
-无锡生活频道,https://stream.thmz.com/wxtv4/playlist.m3u8
-无锡新闻综合频道,https://stream.thmz.com/wxtv1/playlist.m3u8
-无锡都市资讯频道,https://stream.thmz.com/wxtv3/playlist.m3u8
-无锡娱乐频道,https://stream.thmz.com/wxtv2/playlist.m3u8
-五台综合,https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8
-武威新闻,https://play.kankanlive.com/live/1693539781636986.m3u8
-西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
-西宁新闻综合,http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
-西宁新闻综合,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
-萧山生活,https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-萧山新闻综合,https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-新昌新闻综合,https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
-易门综合,https://zb-live.ynurl.com/yimen/3b75a2f9-7941-46b7-992d-a9796fbca5fe.m3u8
-荥经综合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
-永昌综合,https://play.kankanlive.com/live/1652755738635915.m3u8
-余姚姚江文化,https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-余姚综合,https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-云霄综合,https://live.zzyxxw.com:2443/live/xwzh.m3u8
-诸暨新闻综合,https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-影视娱乐,https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
-民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-少儿频道,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-彩条,https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-黑龙江卫视频道,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
-黑龙江文体频道,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
-黑龙江影视频道,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
-黑龙江新闻法治频道,https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
-黑龙江都市频道,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
-黑龙江农业·科教频道,https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
-黑龙江少儿频道,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
-广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
-广西综艺旅游频道,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
-广西都市频道,https://hlscdn.liangtv.cn/live/b8f4e500a4024fd2bf189b46f490359f/b04d249044fb4d0887b88aa9c2cc8f6c.m3u8
-广西影视频道,https://hlscdn.liangtv.cn/live/a84182dabc5147afbd3d90ddbb5a9404/d097f6c24c53463e897de496b32c7d2b.m3u8
-广西国际频道,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
-广西移动数字电视频道,https://hlscdn.liangtv.cn/live/b6cea70bfad24970aaa2256a3c340ad4/0a79a8e5f94641e583d1872ef7bed2bf.m3u8
-中国教育电视台CETV-1频道,https://hlscdn.liangtv.cn/live/ddb2ee1aa1134ac591230352a121aa22/bc359bd2e13b4cb9a3096effa77d1bc0.m3u8
-中国教育电视台CETV-2频道,https://hlscdn.liangtv.cn/live/3f29b81206fe4d229e1522d59aae8e75/15a4a13dbf624ab9ac7cca5df100e985.m3u8
-中国教育电视台CETV-4频道,https://hlscdn.liangtv.cn/live/63f3fd7d8cf44a3e9719eec310c86fa5/b96f8fd6d5424ad4862d054172f616e4.m3u8
-广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b-1.m3u8
-广西综艺旅游频道,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6-1.m3u8
-广西都市频道,https://hlscdn.liangtv.cn/live/b8f4e500a4024fd2bf189b46f490359f/b04d249044fb4d0887b88aa9c2cc8f6c-1.m3u8
-广西影视频道,https://hlscdn.liangtv.cn/live/a84182dabc5147afbd3d90ddbb5a9404/d097f6c24c53463e897de496b32c7d2b-1.m3u8
-广西国际频道,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79-1.m3u8
-广西移动数字电视频道,https://hlscdn.liangtv.cn/live/b6cea70bfad24970aaa2256a3c340ad4/0a79a8e5f94641e583d1872ef7bed2bf-1.m3u8
-中国教育电视台CETV-1频道,https://hlscdn.liangtv.cn/live/ddb2ee1aa1134ac591230352a121aa22/bc359bd2e13b4cb9a3096effa77d1bc0-1.m3u8
-中国教育电视台CETV-2频道,https://hlscdn.liangtv.cn/live/3f29b81206fe4d229e1522d59aae8e75/15a4a13dbf624ab9ac7cca5df100e985-1.m3u8
-中国教育电视台CETV-4频道,https://hlscdn.liangtv.cn/live/63f3fd7d8cf44a3e9719eec310c86fa5/b96f8fd6d5424ad4862d054172f616e4-1.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-tBRUZ8.m3u8
-陕西新闻资讯,http://stream.snrtv.com/sxbc-1-huvxU6.m3u8
-陕西都市青春,http://stream.snrtv.com/sxbc-2-lxzDIW.m3u8
-陕西银龄频道,http://stream.snrtv.com/sxbc-3-fjlIJ9.m3u8
-陕西秦腔频道,http://stream.snrtv.com/sxbc-5-hpLPY9.m3u8
-
-陕西体育休闲,http://stream.snrtv.com/sxbc-7-eADEJP.m3u8
-陕西农林卫视,http://stream.snrtv.com/sxbc-nl-ckrCMX.m3u8
-陕西移动电视,http://stream.snrtv.com/sxbc-yd-axCWZ8.m3u8
 📺中国风景,#genre#
 请我喝瓶水吧,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 熊猫直播,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
-熊猫1,http://106.53.99.30/tv/migu.php?id=xm1 
-熊猫2,http://106.53.99.30/tv/migu.php?id=xm2 
-熊猫3,http://106.53.99.30/tv/migu.php?id=xm3  
 安徽黄山飞来石,https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
-安徽宣城溪桃大桥,https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
 安徽黟县芦村远眺,https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
 安徽黟县西递半山亭,https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
 安徽黟县西递牌坊,https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
@@ -2965,674 +2852,7 @@ RNA,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 浙江舟山嵊泗县中心渔港,https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 重庆渝中李子坝,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
-🎬追电视剧,#genre#
-不要信广告,https://cccimg.com/view.php/7b6219260a9ec0036d8f7f28e09c4281.mp4
-按设置选集,https://cccimg.com/view.php/7b6219260a9ec0036d8f7f28e09c4281.mp4
 
-暗河传第01集,http://jx.999315.xyz/yzzy/20251020/6128_b72a5a09/index.m3u8 
-暗河传第02集,http://jx.999315.xyz/yzzy/20251020/3116_58191d2a/index.m3u8 
-暗河传第03集,http://jx.999315.xyz/yzzy/20251020/3117_8b313cbf/index.m3u8 
-暗河传第04集,http://jx.999315.xyz/yzzy/20251020/20816_d6f7f74d/index.m3u8 
-暗河传第05集,http://jx.999315.xyz/yzzy/20251020/20817_3be09591/index.m3u8 
-暗河传第06集,http://jx.999315.xyz/yzzy/20251021/3205_9ef2ed4b/index.m3u8 
-暗河传第07集,http://jx.999315.xyz/yzzy/20251021/20922_7048c496/index.m3u8
-
-凡人修仙传,http://jx.999315.xyz/yzzy/20250727/16714_a69d15dc/index.m3u8$第1集
-凡人修仙传,http://jx.999315.xyz/yzzy/20250727/16721_6226c5b0/index.m3u8$第2集 
-凡人修仙传,http://jx.999315.xyz/yzzy/20250727/16722_f9d81ff0/index.m3u8$第3集 
-凡人修仙传,http://jx.999315.xyz/yzzy/20250727/11839_e6a88d08/index.m3u8$第4集 
-凡人修仙传,http://jx.999315.xyz/yzzy/20250728/11871_ebc2aa04/index.m3u8$第5集 
-凡人修仙传,http://jx.999315.xyz/yzzy/20250728/16770_742d3c2a/index.m3u8$第6集 
-凡人修仙传,https://cdn.yzzy27-play.com/20250729/11931_0b364515/index.m3u8$第7集 
-凡人修仙传,http://jx.999315.xyz/yzzy/20250729/10197_ea67d66c/index.m3u8$第8集 
-凡人修仙传,https://cdn.yzzy28-play.com/20250730/10304_61a10e6a/index.m3u8$第9集 
-凡人修仙传,https://cdn.yzzy27-play.com/20250730/12036_37241d74/index.m3u8$第10集 
-凡人修仙传,https://cdn.yzzy28-play.com/20250731/10505_52d08372/index.m3u8$第11集 
-凡人修仙传,https://cdn.yzzy27-play.com/20250801/12253_5bff5f1e/index.m3u8$第12集 
-凡人修仙传,https://cdn.yzzy28-play.com/20250801/10604_75c6b2d6/index.m3u8$第13集 
-凡人修仙传,https://cdn.yzzy27-play.com/20250802/12432_fbad0579/index.m3u8$第14集 
-凡人修仙传,https://vvip.high26-playback.com/20250802/17589_45efb537/index.m3u8$第15集 
-凡人修仙传,https://cdn.yzzy28-play.com/20250803/10725_8086d56b/index.m3u8$第16集 
-凡人修仙传,https://cdn.yzzy28-play.com/20250804/10852_2a93f390/index.m3u8$第17集 
-凡人修仙传,https://vvip.high26-playback.com/20250806/17837_4cd47670/index.m3u8$第18集 
-凡人修仙传,https://cdn.yzzy28-play.com/20250805/10979_9cc25407/index.m3u8$第19集 
-凡人修仙传,https://vvip.high26-playback.com/20250806/17904_ee57534b/index.m3u8$第20集 
-凡人修仙传,https://vvip.high26-playback.com/20250806/17905_6fdf8aeb/index.m3u8$第21集 
-凡人修仙传,https://vvip.high26-playback.com/20250808/17980_e939047f/index.m3u8$第22集 
-凡人修仙传,https://cdn.yzzy27-play.com/20250808/15662_8eafcde3/index.m3u8$第23集 
-凡人修仙传,http://jx.999315.xyz/yzzy/20250809/15834_fad68b73/index.m3u8$第24集 
-凡人修仙传,https://cdn.yzzy28-play.com/20250810/11426_874f44f0/index.m3u8$第25集 
-凡人修仙传,https://vvip.high26-playback.com/20250811/18329_dba396ce/index.m3u8$第26集
-凡人修仙传,https://cdn.yzzy27-play.com/20250812/16132_cc4288ab/index.m3u8$第27集 
-凡人修仙传,https://vvip.high26-playback.com/20250812/18354_923380fe/index.m3u8$第28集 
-凡人修仙传,https://cdn.yzzy27-play.com/20250812/16133_9db4f695/index.m3u8$第29集 
-凡人修仙传,https://cdn.yzzy28-play.com/20250812/11560_d1e7b08b/index.m3u8$第30集
-
-献鱼,https://cdn.ryplay11.com/20250816/183538_f340cc57/index.m3u8$第1集
-献鱼,https://cdn.ryplay11.com/20250816/183571_93d0216f/index.m3u8$第2集
-献鱼,https://cdn.ryplay11.com/20250816/183570_9f903c2b/index.m3u8$第3集
-献鱼,https://cdn.ryplay11.com/20250816/183569_c1824587/index.m3u8$第4集
-献鱼,https://cdn.ryplay11.com/20250817/183625_0534687b/index.m3u8$第5集
-献鱼,https://cdn.ryplay11.com/20250817/183624_e2eb212d/index.m3u8$第6集
-献鱼,https://cdn.ryplay11.com/20250818/183660_8049a6ff/index.m3u8$第7集
-献鱼,https://cdn.ryplay11.com/20250818/183659_9be9ecf9/index.m3u8$第8集
-献鱼,https://cdn.ryplay11.com/20250819/183748_8c157400/index.m3u8$第9集
-献鱼,https://cdn.ryplay11.com/20250819/183747_2cf9022c/index.m3u8$第10集
-献鱼,https://cdn.ryplay11.com/20250820/183804_ce1ac43c/index.m3u8$第11集
-献鱼,https://cdn.ryplay11.com/20250820/183803_311f9a99/index.m3u8$第12集
-献鱼,https://cdn.ryplay11.com/20250821/183856_daaa1996/index.m3u8$第13集
-献鱼,https://cdn.ryplay11.com/20250821/183855_3fd0e4e2/index.m3u8$第14集
-献鱼,https://cdn.ryplay11.com/20250822/183899_8a65cb24/index.m3u8$第15集
-献鱼,https://cdn.ryplay11.com/20250822/183898_341b9da3/index.m3u8$第16集
-献鱼,https://cdn.ryplay11.com/20250823/183996_6ffe151a/index.m3u8$第17集
-献鱼,https://cdn.ryplay11.com/20250823/183995_9dc8d26e/index.m3u8$第18集
-献鱼,https://cdn.ryplay11.com/20250824/184039_bd145deb/index.m3u8$第19集
-献鱼,https://cdn.ryplay11.com/20250824/184040_3cb75261/index.m3u8$第20集
-献鱼,https://cdn.ryplay11.com/20250825/184080_c16e4946/index.m3u8$第21集
-献鱼,https://cdn.ryplay11.com/20250826/184179_c95284f5/index.m3u8$第22集
-献鱼,https://cdn.ryplay11.com/20250827/184285_8b1fd891/index.m3u8$第23集
-献鱼,https://cdn.ryplay11.com/20250827/184284_e5eef6ae/index.m3u8$第24集
-献鱼,https://cdn.ryplay11.com/20250828/184366_4acb084d/index.m3u8$第25集
-献鱼,https://cdn.ryplay11.com/20250829/184456_ab57caf4/index.m3u8$第26集
-献鱼,https://cdn.ryplay11.com/20250830/184560_cdaa223f/index.m3u8$第27集
-献鱼,https://cdn.ryplay11.com/20250830/184559_37283855/index.m3u8$第28集
-献鱼,https://cdn.ryplay11.com/20250831/184662_84e64bfb/index.m3u8$第29集
-献鱼,https://cdn.ryplay11.com/20250901/184714_5e4d69b4/index.m3u8$第30集
-献鱼,https://cdn7.ryplay7.com/20250901/15308_bece085c/index.m3u8$第31集
-献鱼,https://cdn.ryplay11.com/20250901/184716_f33689c0/index.m3u8$第32集
-献鱼,https://cdn.ryplay11.com/20250901/184715_1e18d57f/index.m3u8$第33集
-
-淮水竹亭,https://cdn.yzzy27-play.com/20250428/1165_a3fb4fbf/index.m3u8$第1集
-淮水竹亭,https://cdn.yzzy27-play.com/20250428/1166_0f2c9a93/index.m3u8$第2集
-淮水竹亭,https://cdn.yzzy27-play.com/20250428/1167_9da187a7/index.m3u8$第3集
-淮水竹亭,https://cdn.yzzy27-play.com/20250428/1168_2f29b6e3/index.m3u8$第4集
-淮水竹亭,https://cdn.yzzy27-play.com/20250428/1169_1e1d1841/index.m3u8$第5集
-淮水竹亭,https://cdn.yzzy27-play.com/20250428/1170_3eb71f62/index.m3u8$第6集
-淮水竹亭,https://cdn.yzzy27-play.com/20250430/1295_dc87c137/index.m3u8$第7集
-淮水竹亭,https://cdn.yzzy27-play.com/20250430/1296_2812e5cf/index.m3u8$第8集
-淮水竹亭,https://cdn.yzzy27-play.com/20250501/1486_86df7dcf/index.m3u8$第9集
-淮水竹亭,https://cdn.yzzy27-play.com/20250501/1487_6d3a1e06/index.m3u8$第10集
-淮水竹亭,https://cdn.yzzy27-play.com/20250502/1644_89f03f7d/index.m3u8$第11集
-淮水竹亭,https://cdn.yzzy27-play.com/20250502/1645_c1fea270/index.m3u8$第12集
-淮水竹亭,https://cdn.yzzy27-play.com/20250503/1939_f22e4747/index.m3u8$第13集
-淮水竹亭,https://cdn.yzzy27-play.com/20250503/1940_95e6834d/index.m3u8$第14集
-淮水竹亭,https://cdn.yzzy27-play.com/20250504/2061_52dbb068/index.m3u8$第15集
-淮水竹亭,https://cdn.yzzy27-play.com/20250504/2062_2d405b36/index.m3u8$第16集
-淮水竹亭,https://cdn.yzzy27-play.com/20250505/2148_e21e4e58/index.m3u8$第17集
-淮水竹亭,https://cdn.yzzy27-play.com/20250505/2149_d30960ce/index.m3u8$第18集
-淮水竹亭,https://cdn.yzzy27-play.com/20250506/2221_598920e1/index.m3u8$第19集
-淮水竹亭,https://cdn.yzzy27-play.com/20250506/2222_934b5358/index.m3u8$第20集
-淮水竹亭,https://vvip.high26-playback.com/20250507/6043_2e9777b9/index.m3u8$第21集
-淮水竹亭,https://vvip.high26-playback.com/20250507/6044_6b39183e/index.m3u8$第22集
-淮水竹亭,https://cdn.yzzy27-play.com/20250508/2440_feecee9f/index.m3u8$第23集
-淮水竹亭,https://cdn.yzzy27-play.com/20250508/2441_7a68443f/index.m3u8$第24集
-
-蛮好的人生,https://vvip.high26-playback.com/20250418/4585_43cf3ae6/index.m3u8$第1集
-蛮好的人生,https://vvip.high26-playback.com/20250418/4586_e2c4a40d/index.m3u8$第2集
-蛮好的人生,https://svip.high25-playback.com/20250417/24081_75b3ce48/index.m3u8$第3集
-蛮好的人生,https://svip.high25-playback.com/20250417/24082_e09baed8/index.m3u8$第4集
-蛮好的人生,https://svip.high25-playback.com/20250418/24170_133232fc/index.m3u8$第5集
-蛮好的人生,https://svip.high25-playback.com/20250418/24171_418bf1ce/index.m3u8$第6集
-蛮好的人生,https://vvip.high26-playback.com/20250420/4862_3713bdda/index.m3u8$第7集
-蛮好的人生,https://vvip.high26-playback.com/20250420/4863_2cfa8f9e/index.m3u8$第8集
-蛮好的人生,https://vvip.high26-playback.com/20250421/5011_0342c9a7/index.m3u8$第9集
-蛮好的人生,https://vvip.high26-playback.com/20250421/5012_f0873a91/index.m3u8$第10集
-蛮好的人生,https://cdn.yzzy27-play.com/20250422/255_fe131d7f/index.m3u8$第11集
-蛮好的人生,https://cdn.yzzy27-play.com/20250422/256_f718499c/index.m3u8$第12集
-蛮好的人生,https://cdn.yzzy27-play.com/20250423/397_e46de7e1/index.m3u8$第13集
-蛮好的人生,https://cdn.yzzy27-play.com/20250423/398_b7b16ecf/index.m3u8$第14集
-蛮好的人生,https://cdn.yzzy27-play.com/20250424/661_3a066bda/index.m3u8$第15集
-蛮好的人生,https://cdn.yzzy27-play.com/20250424/662_be3159ad/index.m3u8$第16集
-蛮好的人生,https://cdn.yzzy27-play.com/20250425/755_ccb09896/index.m3u8$第17集
-蛮好的人生,https://cdn.yzzy27-play.com/20250425/756_2823f479/index.m3u8$第18集
-蛮好的人生,https://cdn.yzzy27-play.com/20250426/867_ede7e2b6/index.m3u8$第19集
-蛮好的人生,https://cdn.yzzy27-play.com/20250426/868_dd45045f/index.m3u8$第20集
-蛮好的人生,https://cdn.yzzy27-play.com/20250427/954_6395ebd0/index.m3u8$第21集
-蛮好的人生,https://cdn.yzzy27-play.com/20250427/955_ef4e3b77/index.m3u8$第22集
-蛮好的人生,https://svip.high25-playback.com/20250427/25203_dcb2916e/index.m3u8$第23集
-蛮好的人生,https://svip.high25-playback.com/20250427/25204_c98a3fed/index.m3u8$第24集
-蛮好的人生,https://svip.high25-playback.com/20250428/25239_c8abeb06/index.m3u8$第25集
-蛮好的人生,https://svip.high25-playback.com/20250428/25240_b61db6a9/index.m3u8$第26集
-蛮好的人生,https://cdn.yzzy27-play.com/20250430/1297_286674e3/index.m3u8$第27集
-蛮好的人生,https://cdn.yzzy27-play.com/20250430/1298_a51fb975/index.m3u8$第28集
-蛮好的人生,https://svip.high25-playback.com/20250430/25461_e9484ac4/index.m3u8$第29集
-蛮好的人生,https://svip.high25-playback.com/20250430/25462_302996bd/index.m3u8$第30集
-蛮好的人生,https://svip.high25-playback.com/20250501/25521_ed3fc73e/index.m3u8$第31集
-蛮好的人生,https://svip.high25-playback.com/20250501/25522_5328c22d/index.m3u8$第32集
-蛮好的人生,https://vvip.high26-playback.com/20250503/5844_f9322b14/index.m3u8$第33集
-蛮好的人生,https://vvip.high26-playback.com/20250503/5852_805163a0/index.m3u8$第34集
-蛮好的人生,https://vvip.high26-playback.com/20250503/5853_36769206/index.m3u8$第35集
-蛮好的人生,https://vvip.high26-playback.com/20250503/5854_624ec1c8/index.m3u8$第36集大结局
-
-无忧渡,https://svip.high24-playback.com/20250412/24583_381476dd/index.m3u8$第1集
-无忧渡,https://svip.high24-playback.com/20250412/24584_d60aef7f/index.m3u8$第2集
-无忧渡,https://svip.high24-playback.com/20250412/24585_c9ce4c23/index.m3u8$第3集
-无忧渡,https://svip.high25-playback.com/20250412/23569_1e2d681b/index.m3u8$第4集
-无忧渡,https://svip.high25-playback.com/20250412/23570_c1898675/index.m3u8$第5集
-无忧渡,https://svip.high25-playback.com/20250412/23571_3ad1108c/index.m3u8$第6集
-无忧渡,https://vvip.high26-playback.com/20250414/4132_a4d8e2a7/index.m3u8$第7集
-无忧渡,https://vvip.high26-playback.com/20250414/4133_b2330fc4/index.m3u8$第8集
-无忧渡,https://vvip.high26-playback.com/20250415/4271_05128e44/index.m3u8$第9集
-无忧渡,https://vvip.high26-playback.com/20250415/4272_34609bdc/index.m3u8$第10集
-无忧渡,https://vvip.high26-playback.com/20250416/4349_a6d5ab67/index.m3u8$第11集
-无忧渡,https://vvip.high26-playback.com/20250416/4350_244edd7e/index.m3u8$第12集
-无忧渡,https://vvip.high26-playback.com/20250417/4454_80c94c09/index.m3u8$第13集
-无忧渡,https://vvip.high26-playback.com/20250417/4455_d2b15c75/index.m3u8$第14集
-无忧渡,https://vvip.high26-playback.com/20250418/4581_c78c3474/index.m3u8$第15集
-无忧渡,https://vvip.high26-playback.com/20250418/4582_f1298750/index.m3u8$第16集
-无忧渡,https://vvip.high26-playback.com/20250419/4725_102b905d/index.m3u8$第17集
-无忧渡,https://vvip.high26-playback.com/20250419/4726_f9ff6540/index.m3u8$第18集
-无忧渡,https://vvip.high26-playback.com/20250420/4855_b8a03c5c/index.m3u8$第19集
-无忧渡,https://vvip.high26-playback.com/20250420/4856_06f7c042/index.m3u8$第20集
-无忧渡,https://vvip.high26-playback.com/20250421/5004_3202111c/index.m3u8$第21集
-无忧渡,https://vvip.high26-playback.com/20250421/5005_1d640826/index.m3u8$第22集
-无忧渡,https://cdn.yzzy27-play.com/20250422/249_077e29b1/index.m3u8$第23集
-无忧渡,https://cdn.yzzy27-play.com/20250422/250_6c9882bb/index.m3u8$第24集
-无忧渡,https://cdn.yzzy27-play.com/20250423/384_0584ce56/index.m3u8$第25集
-无忧渡,https://cdn.yzzy27-play.com/20250423/385_dc912a25/index.m3u8$第26集
-无忧渡,https://svip.high25-playback.com/20250423/24769_c113616d/index.m3u8$第27集
-无忧渡,https://svip.high25-playback.com/20250423/24770_9c677bd9/index.m3u8$第28集
-无忧渡,https://cdn.yzzy27-play.com/20250425/746_185e65bc/index.m3u8$第29集
-无忧渡,https://cdn.yzzy27-play.com/20250425/747_8d317bdc/index.m3u8$第30集
-无忧渡,https://vvip.high26-playback.com/20250426/5342_4f714c73/index.m3u8$第31集
-无忧渡,https://vvip.high26-playback.com/20250426/5343_8dd291cb/index.m3u8$第32集
-无忧渡,https://vvip.high26-playback.com/20250426/5344_73f95ee4/index.m3u8$第33集
-无忧渡,https://cdn.yzzy27-play.com/20250426/870_22fb0cee/index.m3u8$第34集
-无忧渡,https://cdn.yzzy27-play.com/20250426/871_aeb3135b/index.m3u8$第35集
-无忧渡,https://cdn.yzzy27-play.com/20250426/872_43feaeee/index.m3u8$第36集大结局
-
-狮城山海,https://cdn.yzzy27-play.com/20250501/1524_471c75ee/index.m3u8$第1集
-狮城山海,https://cdn.yzzy27-play.com/20250501/1525_8c00dee2/index.m3u8$第2集
-狮城山海,https://cdn.yzzy27-play.com/20250501/1526_e60e81c4/index.m3u8$第3集
-狮城山海,https://cdn.yzzy27-play.com/20250501/1527_5cce8ded/index.m3u8$第4集
-狮城山海,https://vvip.high26-playback.com/20250501/5752_c7b3f097/index.m3u8$第5集
-狮城山海,https://vvip.high26-playback.com/20250501/5753_23f09b21/index.m3u8$第6集
-狮城山海,https://svip.high25-playback.com/20250501/25534_f5011865/index.m3u8$第7集
-狮城山海,https://svip.high25-playback.com/20250501/25535_68f4f1c9/index.m3u8$第8集
-狮城山海,https://cdn.yzzy27-play.com/20250503/1958_d77f0076/index.m3u8$第9集
-狮城山海,https://cdn.yzzy27-play.com/20250503/1959_e4dd5528/index.m3u8$第10集
-狮城山海,https://svip.high25-playback.com/20250503/25766_90be09f2/index.m3u8$第11集
-狮城山海,https://svip.high25-playback.com/20250503/25767_89eec4cf/index.m3u8$第12集
-狮城山海,https://svip.high25-playback.com/20250504/25905_65c96426/index.m3u8$第13集
-狮城山海,https://svip.high25-playback.com/20250504/25906_3df9f63b/index.m3u8$第14集
-狮城山海,https://cdn.yzzy27-play.com/20250506/2243_90aef91f/index.m3u8$第15集
-狮城山海,https://cdn.yzzy27-play.com/20250506/2244_3147da8a/index.m3u8$第16集
-狮城山海,https://cdn.yzzy27-play.com/20250507/2333_f7e0b956/index.m3u8$第17集
-狮城山海,https://vvip.high26-playback.com/20250507/6085_3413ce14/index.m3u8$第18集
-狮城山海,https://vvip.high26-playback.com/20250508/6191_9d4c0363/index.m3u8$第19集
-狮城山海,https://vvip.high26-playback.com/20250508/6192_f91ceb5a/index.m3u8$第20集
- 
-榜上佳婿,https://cdn.yzzy27-play.com/20250426/874_51ef186e/index.m3u8$第1集
-榜上佳婿,https://vvip.high26-playback.com/20250426/5352_72619259/index.m3u8$第2集
-榜上佳婿,https://vvip.high26-playback.com/20250426/5353_aa0d2a80/index.m3u8$第3集
-榜上佳婿,https://vvip.high26-playback.com/20250426/5355_4cfe94fc/index.m3u8$第4集
-榜上佳婿,https://cdn.yzzy27-play.com/20250426/883_210f760a/index.m3u8$第5集
-榜上佳婿,https://vvip.high26-playback.com/20250427/5470_baed9f51/index.m3u8$第6集
-榜上佳婿,https://vvip.high26-playback.com/20250427/5471_82836ca5/index.m3u8$第7集
-榜上佳婿,https://cdn.yzzy27-play.com/20250428/1109_8f1d4362/index.m3u8$第8集
-榜上佳婿,https://cdn.yzzy27-play.com/20250428/1111_b59c67bf/index.m3u8$第9集
-榜上佳婿,https://cdn.yzzy27-play.com/20250429/1215_a4d2f0d2/index.m3u8$第10集
-榜上佳婿,https://svip.high25-playback.com/20250428/25250_a4589a60/index.m3u8$第11集
-榜上佳婿,https://cdn.yzzy27-play.com/20250430/1303_d282ef26/index.m3u8$第12集
-榜上佳婿,https://cdn.yzzy27-play.com/20250430/1304_5caf41d6/index.m3u8$第13集
-榜上佳婿,https://cdn.yzzy27-play.com/20250501/1495_fa1e9c96/index.m3u8$第14集
-榜上佳婿,https://cdn.yzzy27-play.com/20250502/1651_be3e9d3f/index.m3u8$第15集
-榜上佳婿,https://vvip.high26-playback.com/20250502/5797_034260c0/index.m3u8$第16集
-榜上佳婿,https://svip.high25-playback.com/20250502/25609_505b6ea9/index.m3u8$第17集
-榜上佳婿,https://svip.high25-playback.com/20250502/25610_bd6ad709/index.m3u8$第18集
-榜上佳婿,https://cdn.yzzy27-play.com/20250504/2072_07cb5f86/index.m3u8$第19集
-榜上佳婿,https://cdn.yzzy27-play.com/20250504/2073_4b86abe4/index.m3u8$第20集
-榜上佳婿,https://cdn.yzzy27-play.com/20250505/2154_1e8c391a/index.m3u8$第21集
-榜上佳婿,https://cdn.yzzy27-play.com/20250505/2155_a381c2c3/index.m3u8$第22集
-榜上佳婿,https://vvip.high26-playback.com/20250506/5966_95c8f422/index.m3u8$第23集
-榜上佳婿,https://vvip.high26-playback.com/20250506/5967_8682cc30/index.m3u8$第24集
-榜上佳婿,https://cdn.yzzy27-play.com/20250507/2314_db9eeb7e/index.m3u8$第25集
-榜上佳婿,https://vvip.high26-playback.com/20250508/6186_fb3deea8/index.m3u8$第26集
- 
-成家,https://svip.high25-playback.com/20250418/24173_945beadd/index.m3u8$第1集
-成家,https://svip.high25-playback.com/20250418/24174_16db7db2/index.m3u8$第2集
-成家,https://vvip.high26-playback.com/20250419/4735_a5122944/index.m3u8$第3集
-成家,https://vvip.high26-playback.com/20250419/4736_8df6a659/index.m3u8$第4集
-成家,https://vvip.high26-playback.com/20250420/4864_a6825954/index.m3u8$第5集
-成家,https://vvip.high26-playback.com/20250420/4865_d91caca7/index.m3u8$第6集
-成家,https://vvip.high26-playback.com/20250421/5013_e140dbab/index.m3u8$第7集
-成家,https://vvip.high26-playback.com/20250421/5014_4424d2de/index.m3u8$第8集
-成家,https://svip.high25-playback.com/20250421/24522_850972b9/index.m3u8$第9集
-成家,https://svip.high25-playback.com/20250421/24523_aec5e966/index.m3u8$第10集
-成家,https://vvip.high26-playback.com/20250423/5161_8452a95c/index.m3u8$第11集
-成家,https://vvip.high26-playback.com/20250423/5162_c6c61abd/index.m3u8$第12集
-成家,https://cdn.yzzy27-play.com/20250424/663_8757150d/index.m3u8$第13集
-成家,https://cdn.yzzy27-play.com/20250424/664_2291d2ec/index.m3u8$第14集
-成家,https://cdn.yzzy27-play.com/20250425/788_c15da1f2/index.m3u8$第15集
-成家,https://cdn.yzzy27-play.com/20250425/789_68053af2/index.m3u8$第16集
-成家,https://vvip.high26-playback.com/20250426/5356_7ec0dbee/index.m3u8$第17集
-成家,https://svip.high25-playback.com/20250426/25161_a7a6b51b/index.m3u8$第18集
-成家,https://cdn.yzzy27-play.com/20250428/1112_20d135f0/index.m3u8$第19集
-成家,https://cdn.yzzy27-play.com/20250428/1113_9c3b1830/index.m3u8$第20集
-成家,https://vvip.high26-playback.com/20250429/5521_8a94ecfa/index.m3u8$第21集
-成家,https://vvip.high26-playback.com/20250429/5520_3557a86d/index.m3u8$第22集
-成家,https://cdn.yzzy27-play.com/20250430/1305_fd5c905b/index.m3u8$第23集
-成家,https://cdn.yzzy27-play.com/20250430/1306_7940ab47/index.m3u8$第24集
-成家,https://svip.high25-playback.com/20250430/25466_4d36e559/index.m3u8$第25集
-成家,https://svip.high25-playback.com/20250430/25467_4a50c47d/index.m3u8$第26集
-成家,https://vvip.high26-playback.com/20250502/5798_ba4002d8/index.m3u8$第27集
-成家,https://vvip.high26-playback.com/20250502/5799_de01d76e/index.m3u8$第28集
-成家,https://vvip.high26-playback.com/20250503/5850_234a1273/index.m3u8$第29集
-成家,https://cdn.yzzy27-play.com/20250504/2075_cbef4632/index.m3u8$第30集
-成家,https://cdn.yzzy27-play.com/20250505/2161_333ac5d9/index.m3u8$第31集
-成家,https://svip.high25-playback.com/20250504/25855_4dd26a77/index.m3u8$第32集
-成家,https://svip.high25-playback.com/20250504/25856_761477e6/index.m3u8$第33集
-成家,https://svip.high25-playback.com/20250504/25857_9b54f9ea/index.m3u8$第34集
-成家,https://vvip.high26-playback.com/20250505/5922_d76d8dee/index.m3u8$第35集
-成家,https://vvip.high26-playback.com/20250505/5923_418db2ea/index.m3u8$第36集大结局
- 
-无尽的尽头,https://cdn.yzzy27-play.com/20250425/750_b137fdd1/index.m3u8$第1集
-无尽的尽头,https://cdn.yzzy27-play.com/20250425/751_912d2b1c/index.m3u8$第2集
-无尽的尽头,https://cdn.yzzy27-play.com/20250425/752_a1d33d0d/index.m3u8$第3集
-无尽的尽头,https://cdn.yzzy27-play.com/20250425/790_2dace78f/index.m3u8$第4集
-无尽的尽头,https://cdn.yzzy27-play.com/20250426/873_98d6f58a/index.m3u8$第5集
-无尽的尽头,https://cdn.yzzy27-play.com/20250426/875_4b0a59dd/index.m3u8$第6集
-无尽的尽头,https://vvip.high26-playback.com/20250427/5472_64c26b2a/index.m3u8$第7集
-无尽的尽头,https://cdn.yzzy27-play.com/20250428/1103_aace49c7/index.m3u8$第8集
-无尽的尽头,https://cdn.yzzy27-play.com/20250428/1104_4da04049/index.m3u8$第9集
-无尽的尽头,https://cdn.yzzy27-play.com/20250428/1106_c9f95a0a/index.m3u8$第10集
-无尽的尽头,https://cdn.yzzy27-play.com/20250429/1217_6a61d423/index.m3u8$第11集
-无尽的尽头,https://vvip.high26-playback.com/20250430/5551_38685413/index.m3u8$第12集
-无尽的尽头,https://cdn.yzzy27-play.com/20250501/1497_55c567fd/index.m3u8$第13集
-无尽的尽头,https://vvip.high26-playback.com/20250502/5794_5d55e7c1/index.m3u8$第14集
-无尽的尽头,https://vvip.high26-playback.com/20250502/5796_49856ed4/index.m3u8$第15集
-无尽的尽头,https://cdn.yzzy27-play.com/20250503/1941_7af6266c/index.m3u8$第16集
-无尽的尽头,https://vvip.high26-playback.com/20250503/5851_2aec405d/index.m3u8$第17集
-无尽的尽头,https://vvip.high26-playback.com/20250504/5879_927e838a/index.m3u8$第18集
-无尽的尽头,https://cdn.yzzy27-play.com/20250504/2074_1f4fe6a4/index.m3u8$第19集
-无尽的尽头,https://vvip.high26-playback.com/20250505/5918_15ae3b9d/index.m3u8$第20集
-无尽的尽头,https://cdn.yzzy27-play.com/20250505/2157_d5425997/index.m3u8$第21集
-无尽的尽头,https://cdn.yzzy27-play.com/20250505/2158_697e382c/index.m3u8$第22集
-无尽的尽头,https://cdn.yzzy27-play.com/20250505/2159_ddd9dda6/index.m3u8$第23集
-无尽的尽头,https://cdn.yzzy27-play.com/20250505/2163_6e5025cc/index.m3u8$第24集大结局
- 
-落花时节又逢君,https://cdn.yzzy27-play.com/20250429/1200_fe2d0103/index.m3u8$第1集
-落花时节又逢君,https://cdn.yzzy27-play.com/20250429/1201_7501e5d4/index.m3u8$第2集
-落花时节又逢君,https://cdn.yzzy27-play.com/20250429/1202_147702db/index.m3u8$第3集
-落花时节又逢君,https://cdn.yzzy27-play.com/20250429/1203_491442df/index.m3u8$第4集
-落花时节又逢君,https://svip.high25-playback.com/20250429/25289_1751a9a2/index.m3u8$第5集
-落花时节又逢君,https://svip.high25-playback.com/20250429/25290_44f95c37/index.m3u8$第6集
-落花时节又逢君,https://vvip.high26-playback.com/20250501/5635_6b493230/index.m3u8$第7集
-落花时节又逢君,https://vvip.high26-playback.com/20250501/5636_203cb085/index.m3u8$第8集
-落花时节又逢君,https://svip.high25-playback.com/20250501/25523_23f8361e/index.m3u8$第9集
-落花时节又逢君,https://svip.high25-playback.com/20250501/25524_22269b8c/index.m3u8$第10集
-落花时节又逢君,https://svip.high25-playback.com/20250502/25603_53e4db6f/index.m3u8$第11集
-落花时节又逢君,https://vvip.high26-playback.com/20250504/5880_055e31fa/index.m3u8$第12集
-落花时节又逢君,https://svip.high25-playback.com/20250504/25800_6d4a2c26/index.m3u8$第13集
-落花时节又逢君,https://vvip.high26-playback.com/20250506/5962_baeabb8f/index.m3u8$第14集
-落花时节又逢君,https://vvip.high26-playback.com/20250506/5963_680390c5/index.m3u8$第15集
-落花时节又逢君,https://cdn.yzzy27-play.com/20250507/2306_f976b57b/index.m3u8$第16集
-落花时节又逢君,https://cdn.yzzy27-play.com/20250507/2307_6211080f/index.m3u8$第17集
-落花时节又逢君,https://cdn.yzzy27-play.com/20250508/2442_6048ff4e/index.m3u8$第18集
-落花时节又逢君,https://cdn.yzzy27-play.com/20250508/2443_24e27b86/index.m3u8$第19集
- 
-雁回时,https://svip.yyzy-play.vip/20250318/29683_d3423388/index.m3u8$第1集
-雁回时,https://svip.yyzy-play.vip/20250318/29687_af283b89/index.m3u8$第2集
-雁回时,https://svip.yyzy-play.vip/20250318/29686_af708396/index.m3u8$第3集
-雁回时,https://svip.yyzy-play.vip/20250318/29690_0f9689de/index.m3u8$第4集
-雁回时,https://svip.high25-playback.com/20250319/21835_e6bd8e1b/index.m3u8$第5集
-雁回时,https://svip.high25-playback.com/20250319/21834_720b324c/index.m3u8$第6集
-雁回时,https://svip.high24-playback.com/20250320/20834_af9d07ba/index.m3u8$第7集
-雁回时,https://svip.high24-playback.com/20250324/21426_eb17692e/index.m3u8$第8集
-雁回时,https://svip.high24-playback.com/20250321/20980_04673b9a/index.m3u8$第9集
-雁回时,https://svip.high24-playback.com/20250321/20979_729ecbea/index.m3u8$第10集
-雁回时,https://vvip.high26-playback.com/20250322/2149_bf025950/index.m3u8$第11集
-雁回时,https://vvip.high26-playback.com/20250322/2150_d23c73b2/index.m3u8$第12集
-雁回时,https://vvip.high26-playback.com/20250323/2238_e1b7d8a6/index.m3u8$第13集
-雁回时,https://vvip.high26-playback.com/20250323/2237_3db4ba28/index.m3u8$第14集
-雁回时,https://svip.high25-playback.com/20250324/22175_31ec054a/index.m3u8$第15集
-雁回时,https://svip.high25-playback.com/20250325/22228_9fed97a2/index.m3u8$第16集
-雁回时,https://svip.high25-playback.com/20250326/22313_ca97e8f5/index.m3u8$第17集
-雁回时,https://svip.high25-playback.com/20250327/22362_1054e6ab/index.m3u8$第18集
-雁回时,https://svip.high25-playback.com/20250327/22368_791d03b2/index.m3u8$第19集
-雁回时,https://svip.high25-playback.com/20250328/22430_b6f935b3/index.m3u8$第20集
-雁回时,https://svip.high25-playback.com/20250328/22429_70709e56/index.m3u8$第21集
-雁回时,https://svip.high25-playback.com/20250329/22516_1a26bd05/index.m3u8$第22集
-雁回时,https://svip.high25-playback.com/20250329/22526_479b1540/index.m3u8$第23集
-雁回时,https://svip.high25-playback.com/20250330/22579_15338dfd/index.m3u8$第24集
-雁回时,https://vvip.high26-playback.com/20250331/2886_ec0609a0/index.m3u8$第25集
-雁回时,https://vvip.high26-playback.com/20250402/2983_b1b0432c/index.m3u8$第26集
-雁回时,https://vvip.high26-playback.com/20250402/2988_faa453ef/index.m3u8$第27集
-雁回时,https://vvip.high26-playback.com/20250402/2989_5848ad95/index.m3u8$第28集
-雁回时,https://vvip.high26-playback.com/20250402/3002_d806ca13/index.m3u8$第29集
-雁回时,https://vvip.high26-playback.com/20250402/3003_a4380923/index.m3u8$第30集大结局
-爱你,https://svip.high24-playback.com/20250225/19144_e35d1bd6/index.m3u8$第1集
-爱你,https://svip.high24-playback.com/20250225/19143_2631734d/index.m3u8$第2集
-爱你,https://svip.high25-playback.com/20250225/20602_68242b20/index.m3u8$第3集
-爱你,https://svip.high25-playback.com/20250225/20603_773cac1a/index.m3u8$第4集
-爱你,https://svip.yyzy-play.vip/20250226/25020_8a2e71cf/index.m3u8$第5集
-爱你,https://svip.yyzy-play.vip/20250226/25019_9a44164b/index.m3u8$第6集
-爱你,https://svip.high25-playback.com/20250227/20727_c2959ada/index.m3u8$第7集
-爱你,https://svip.high25-playback.com/20250227/20726_0233e90c/index.m3u8$第8集
-爱你,https://svip.high25-playback.com/20250228/20826_57294791/index.m3u8$第9集
-爱你,https://svip.yyzy-play.vip/20250301/25320_0b0d9ee4/index.m3u8$第10集
-爱你,https://svip.yyzy-play.vip/20250302/25393_bca89523/index.m3u8$第11集
-爱你,https://svip.yyzy-play.vip/20250302/25392_5ce7d52e/index.m3u8$第12集
-爱你,https://svip.yyzy-play.vip/20250303/25454_c455fc69/index.m3u8$第13集
-爱你,https://svip.yyzy-play.vip/20250303/25453_69ab98cd/index.m3u8$第14集
-爱你,https://svip.yyzy-play.vip/20250304/25535_23f6db25/index.m3u8$第15集
-爱你,https://svip.yyzy-play.vip/20250304/25534_972bbcea/index.m3u8$第16集
-爱你,https://svip.high25-playback.com/20250305/21097_e198642a/index.m3u8$第17集
-爱你,https://svip.high25-playback.com/20250305/21096_f905903e/index.m3u8$第18集
-爱你,https://svip.yyzy-play.vip/20250306/25702_93774810/index.m3u8$第19集
-爱你,https://svip.yyzy-play.vip/20250306/25701_2b0f4596/index.m3u8$第20集
-爱你,https://svip.high25-playback.com/20250307/21244_41b35d58/index.m3u8$第21集
-爱你,https://svip.high25-playback.com/20250308/21290_63e17899/index.m3u8$第22集
-爱你,https://svip.yyzy-play.vip/20250309/26317_040b9ed6/index.m3u8$第23集
-爱你,https://svip.yyzy-play.vip/20250309/26318_e297aad6/index.m3u8$第24集
-爱你,https://svip.yyzy-play.vip/20250309/26319_3262543d/index.m3u8$第25集
-爱你,https://svip.high25-playback.com/20250309/21344_916fc5c1/index.m3u8$第26集
-爱你,https://svip.high25-playback.com/20250309/21343_f4323875/index.m3u8$第27集
-爱你,https://svip.high25-playback.com/20250309/21345_6bd9adc5/index.m3u8$第28集大结局
-夺命提示,https://v.cdnlz12.com/20250317/19351_0f67d830/index.m3u8$第1集
-夺命提示,https://v.cdnlz12.com/20250318/19420_dcf02732/index.m3u8$第2集
-夺命提示,https://v.cdnlz12.com/20250319/19498_d739d3fd/index.m3u8$第3集
-夺命提示,https://v.cdnlz12.com/20250320/19552_90242c25/index.m3u8$第4集
-夺命提示,https://v.cdnlz12.com/20250321/19659_225de0f1/index.m3u8$第5集
-夺命提示,https://v.cdnlz12.com/20250324/19772_4590e7ad/index.m3u8$第6集
-夺命提示,https://v.cdnlz12.com/20250325/19821_10eb01f3/index.m3u8$第7集
-夺命提示,https://v.cdnlz12.com/20250326/19863_8ab6e64e/index.m3u8$第8集
-夺命提示,https://v.cdnlz12.com/20250327/19927_7fe8dd24/index.m3u8$第9集
-夺命提示,https://v.cdnlz12.com/20250328/20018_2eaedd5e/index.m3u8$第10集
-夺命提示,https://v.cdnlz12.com/20250331/20189_8c7868d1/index.m3u8$第11集
-夺命提示,https://v.cdnlz12.com/20250401/20256_01b3e17f/index.m3u8$第12集
-夺命提示,https://v.cdnlz12.com/20250402/20312_94f54718/index.m3u8$第13集
-夺命提示,https://v.cdnlz12.com/20250403/20390_71d524b3/index.m3u8$第14集
-夺命提示,https://v.cdnlz12.com/20250404/20445_7152b232/index.m3u8$第15集
-夺命提示,https://v.cdnlz12.com/20250407/20568_b795e701/index.m3u8$第16集
-夺命提示,https://v.cdnlz12.com/20250408/20654_b2384f0b/index.m3u8$第17集
-夺命提示,https://v.cdnlz12.com/20250409/20739_72bdf31b/index.m3u8$第18集
-夺命提示,https://v.cdnlz12.com/20250410/20800_a42770a3/index.m3u8$第19集
-夺命提示,https://v.cdnlz12.com/20250411/20876_22989e08/index.m3u8$第20集
-夺命提示,https://v.cdnlz12.com/20250414/21056_6f3e251d/index.m3u8$第21集
-夺命提示,https://v.cdnlz12.com/20250415/21116_4ee17f32/index.m3u8$第22集
-夺命提示,https://v.cdnlz12.com/20250416/21169_df3b3bc4/index.m3u8$第23集
-夺命提示,https://v.cdnlz12.com/20250417/21246_0e92995a/index.m3u8$第24集
-夺命提示,https://v.cdnlz12.com/20250418/21329_e32ccdfb/index.m3u8$第25集
-夺命提示,https://v.cdnlz12.com/20250421/21460_f45b718a/index.m3u8$第26集
-夺命提示,https://v.cdnlz12.com/20250422/21572_9dcf9488/index.m3u8$第27集
-夺命提示,https://v.cdnlz12.com/20250423/21630_5bf202ab/index.m3u8$第28集
-夺命提示,https://v.cdnlz12.com/20250424/21665_339c53e3/index.m3u8$第29集
-夺命提示,https://v.cdnlz12.com/20250425/21725_e6915398/index.m3u8$第30集大结局
-绝密较量,https://svip.high25-playback.com/20250428/25246_873111df/index.m3u8$第1集
-绝密较量,https://svip.high25-playback.com/20250428/25247_6ab5309c/index.m3u8$第2集
-绝密较量,https://svip.high25-playback.com/20250428/25248_78c9b2fe/index.m3u8$第3集
-绝密较量,https://svip.high25-playback.com/20250428/25249_4ec74784/index.m3u8$第4集
-绝密较量,https://svip.high25-playback.com/20250429/25296_bb97e7d1/index.m3u8$第5集
-绝密较量,https://svip.high25-playback.com/20250429/25297_8a72ae26/index.m3u8$第6集
-绝密较量,https://svip.high25-playback.com/20250430/25468_7b5f37cf/index.m3u8$第7集
-绝密较量,https://svip.high25-playback.com/20250430/25469_b575e1f6/index.m3u8$第8集
-绝密较量,https://cdn.yzzy27-play.com/20250506/2232_3e6260b8/index.m3u8$第9集
-绝密较量,https://cdn.yzzy27-play.com/20250506/2233_e0f7a4d0/index.m3u8$第10集
-绝密较量,https://cdn.yzzy27-play.com/20250507/2315_88bfcf02/index.m3u8$第11集
-绝密较量,https://cdn.yzzy27-play.com/20250507/2316_778609db/index.m3u8$第12集
-绝密较量,https://vvip.high26-playback.com/20250508/6187_0e1bacf0/index.m3u8$第13集
-绝密较量,https://vvip.high26-playback.com/20250508/6188_30893a5e/index.m3u8$第14集
-我的后半生,https://vvip.high26-playback.com/20250330/2813_2b86fe8b/index.m3u8$第1集
-我的后半生,https://vvip.high26-playback.com/20250330/2812_9dc3ccf5/index.m3u8$第2集
-我的后半生,https://vvip.high26-playback.com/20250330/2811_186de440/index.m3u8$第3集
-我的后半生,https://vvip.high26-playback.com/20250330/2823_14a518c6/index.m3u8$第4集
-我的后半生,https://vvip.high26-playback.com/20250331/2881_3d74251e/index.m3u8$第5集
-我的后半生,https://vvip.high26-playback.com/20250331/2890_30dfb881/index.m3u8$第6集
-我的后半生,https://svip.high25-playback.com/20250401/22664_87c7574c/index.m3u8$第7集
-我的后半生,https://vvip.high26-playback.com/20250402/2990_f6b5f8c3/index.m3u8$第8集
-我的后半生,https://svip.high26-playback.com/20250403/3082_f14bc21b/index.m3u8$第9集
-我的后半生,https://svip.high25-playback.com/20250403/22807_e1bad139/index.m3u8$第10集
-我的后半生,https://svip.high25-playback.com/20250403/22885_299e150c/index.m3u8$第11集
-我的后半生,https://svip.high25-playback.com/20250403/22886_d5c1f60f/index.m3u8$第12集
-我的后半生,https://vvip.high26-playback.com/20250405/3283_c819904d/index.m3u8$第13集
-我的后半生,https://vvip.high26-playback.com/20250405/3293_ca3ec598/index.m3u8$第14集
-我的后半生,https://vvip.high26-playback.com/20250406/3383_0668e20b/index.m3u8$第15集
-我的后半生,https://vvip.high26-playback.com/20250406/3391_dbb42293/index.m3u8$第16集
-我的后半生,https://svip.high24-playback.com/20250406/23796_aa97f5d3/index.m3u8$第17集
-我的后半生,https://svip.high24-playback.com/20250406/23802_cf566487/index.m3u8$第18集
-我的后半生,https://vvip.high26-playback.com/20250408/3518_5401acfe/index.m3u8$第19集
-我的后半生,https://vvip.high26-playback.com/20250408/3523_93931410/index.m3u8$第20集
-我的后半生,https://svip.high25-playback.com/20250408/23299_ab655171/index.m3u8$第21集
-我的后半生,https://svip.high25-playback.com/20250408/23302_958ffd03/index.m3u8$第22集
-我的后半生,https://vvip.high26-playback.com/20250410/3725_94ef7214/index.m3u8$第23集
-我的后半生,https://vvip.high26-playback.com/20250410/3729_cb16b849/index.m3u8$第24集
-我的后半生,https://vvip.high26-playback.com/20250411/3851_dc0439ca/index.m3u8$第25集
-我的后半生,https://vvip.high26-playback.com/20250411/3852_582967e0/index.m3u8$第26集
-我的后半生,https://vvip.high26-playback.com/20250412/3977_7d571e5c/index.m3u8$第27集
-我的后半生,https://vvip.high26-playback.com/20250412/3978_a8badd37/index.m3u8$第28集
-我的后半生,https://svip.high24-playback.com/20250412/24590_96e215fc/index.m3u8$第29集
-我的后半生,https://svip.high24-playback.com/20250412/24591_857db626/index.m3u8$第30集
-我的后半生,https://svip.high24-playback.com/20250413/24882_32e0740f/index.m3u8$第31集
-我的后半生,https://svip.high24-playback.com/20250413/24884_8755e0a9/index.m3u8$第32集
-我的后半生,https://vvip.high26-playback.com/20250414/4169_21928905/index.m3u8$第33集
-我的后半生,https://vvip.high26-playback.com/20250414/4170_adc8ca1b/index.m3u8$第34集
-我的后半生,https://vvip.high26-playback.com/20250414/4162_56c51a39/index.m3u8$第35集
-我的后半生,https://vvip.high26-playback.com/20250414/4163_60495b4e/index.m3u8$第36集大结局
-棋士,https://vvip.high26-playback.com/20250325/2413_2d86cfae/index.m3u8$第1集
-棋士,https://svip.high25-playback.com/20250325/22242_05662dcc/index.m3u8$第2集
-棋士,https://vvip.high26-playback.com/20250325/2418_3bca5e68/index.m3u8$第3集
-棋士,https://vvip.high26-playback.com/20250326/2494_b749feea/index.m3u8$第4集
-棋士,https://vvip.high26-playback.com/20250326/2497_71b15dd6/index.m3u8$第5集
-棋士,https://vvip.high26-playback.com/20250327/2585_a74570c7/index.m3u8$第6集
-棋士,https://vvip.high26-playback.com/20250328/2647_dbda7386/index.m3u8$第7集
-棋士,https://svip.high25-playback.com/20250329/22532_e7ebe536/index.m3u8$第8集
-棋士,https://vvip.high26-playback.com/20250330/2825_17e64872/index.m3u8$第9集
-棋士,https://vvip.high26-playback.com/20250331/2893_44f279ca/index.m3u8$第10集
-棋士,https://svip.high25-playback.com/20250401/22677_35e8998a/index.m3u8$第11集
-棋士,https://svip.high26-playback.com/20250403/3099_b23f5220/index.m3u8$第12集
-棋士,https://svip.high26-playback.com/20250404/3200_731ae30a/index.m3u8$第13集
-棋士,https://vvip.high26-playback.com/20250405/3290_3a30be93/index.m3u8$第14集
-棋士,https://svip.high25-playback.com/20250405/23070_b2913535/index.m3u8$第15集
-棋士,https://vvip.high26-playback.com/20250407/3464_51e6d6e6/index.m3u8$第16集
-棋士,https://svip.high24-playback.com/20250407/23880_2f8a5cbf/index.m3u8$第17集
-棋士,https://svip.high25-playback.com/20250409/23311_228a0da8/index.m3u8$第18集
-棋士,https://svip.high25-playback.com/20250409/23312_f43b4217/index.m3u8$第19集
-棋士,https://svip.high25-playback.com/20250409/23313_b02e072e/index.m3u8$第20集
-棋士,https://svip.high25-playback.com/20250409/23314_b2162cfe/index.m3u8$第21集
-棋士,https://svip.high25-playback.com/20250409/23315_f95b0d66/index.m3u8$第22集大结局
-北上,https://svip.yyzy-play.vip/20250303/25458_497254d8/index.m3u8$第1集
-北上,https://svip.yyzy-play.vip/20250303/25457_955d9189/index.m3u8$第2集
-北上,https://svip.yyzy-play.vip/20250303/25456_6167e26b/index.m3u8$第3集
-北上,https://svip.yyzy-play.vip/20250303/25455_39a9de2f/index.m3u8$第4集
-北上,https://svip.high24-playback.com/20250304/19620_8fb31b5d/index.m3u8$第5集
-北上,https://svip.high24-playback.com/20250304/19619_277ffc03/index.m3u8$第6集
-北上,https://svip.high25-playback.com/20250305/21103_47fbe316/index.m3u8$第7集
-北上,https://svip.high25-playback.com/20250305/21102_571b5c3e/index.m3u8$第8集
-北上,https://svip.high25-playback.com/20250306/21150_ad5551b7/index.m3u8$第9集
-北上,https://svip.high25-playback.com/20250306/21149_89792d93/index.m3u8$第10集
-北上,https://svip.high25-playback.com/20250310/21379_7c4615ac/index.m3u8$第11集
-北上,https://svip.high25-playback.com/20250310/21378_48d13dab/index.m3u8$第12集
-北上,https://svip.high25-playback.com/20250311/21411_69f84f55/index.m3u8$第13集
-北上,https://svip.high25-playback.com/20250311/21410_f66c5fd4/index.m3u8$第14集
-北上,https://svip.high24-playback.com/20250312/20128_48929fed/index.m3u8$第15集
-北上,https://svip.high24-playback.com/20250312/20127_56d54363/index.m3u8$第16集
-北上,https://svip.high24-playback.com/20250313/20212_fd312309/index.m3u8$第17集
-北上,https://svip.high24-playback.com/20250313/20211_f92e4562/index.m3u8$第18集
-北上,https://svip.high25-playback.com/20250314/21597_670df3a7/index.m3u8$第19集
-北上,https://svip.high25-playback.com/20250314/21596_baeb5327/index.m3u8$第20集
-北上,https://svip.high24-playback.com/20250317/20558_13018563/index.m3u8$第21集
-北上,https://svip.high24-playback.com/20250317/20557_5410c9b1/index.m3u8$第22集
-北上,https://svip.high25-playback.com/20250318/21787_ad0be573/index.m3u8$第23集
-北上,https://svip.high25-playback.com/20250318/21786_6c90bc07/index.m3u8$第24集
-北上,https://svip.high24-playback.com/20250319/20691_6d474871/index.m3u8$第25集
-北上,https://svip.high24-playback.com/20250319/20690_7df9a97e/index.m3u8$第26集
-北上,https://svip.high25-playback.com/20250320/21871_0f45e1fc/index.m3u8$第27集
-北上,https://svip.high25-playback.com/20250320/21870_ecc77f9d/index.m3u8$第28集
-北上,https://svip.high25-playback.com/20250321/22033_15553919/index.m3u8$第29集
-北上,https://svip.high25-playback.com/20250321/22032_47f0a441/index.m3u8$第30集
-北上,https://vvip.high26-playback.com/20250324/2280_6ff5a9ce/index.m3u8$第31集
-北上,https://vvip.high26-playback.com/20250324/2279_1e1dcf58/index.m3u8$第32集
-北上,https://svip.high25-playback.com/20250325/22236_19b4c922/index.m3u8$第33集
-北上,https://svip.high25-playback.com/20250325/22235_41a224a7/index.m3u8$第34集
-北上,https://svip.high25-playback.com/20250325/22240_8c0a9280/index.m3u8$第35集
-北上,https://svip.high25-playback.com/20250325/22241_69cf9468/index.m3u8$第36集
-北上,https://svip.high25-playback.com/20250325/22239_d32f9ee8/index.m3u8$第37集
-北上,https://svip.high25-playback.com/20250325/22238_7cf6f8e2/index.m3u8$第38集大结局
-人生是道选择题,https://v.cdnlz3.com/20250104/31846_58248b33/index.m3u8$第1集
-人生是道选择题,https://v.cdnlz3.com/20250104/31845_0e790d0c/index.m3u8$第2集
-人生是道选择题,https://v.cdnlz3.com/20250104/31838_66be8c45/index.m3u8$第3集
-人生是道选择题,https://v.cdnlz3.com/20250104/31839_f3c99c34/index.m3u8$第4集
-人生是道选择题,https://v.cdnlz3.com/20250104/31844_4e2e6fb7/index.m3u8$第5集
-人生是道选择题,https://v.cdnlz3.com/20250104/31842_50eb21c3/index.m3u8$第6集
-人生是道选择题,https://v.cdnlz3.com/20250104/31841_f3aeca60/index.m3u8$第7集
-人生是道选择题,https://v.cdnlz3.com/20250104/31840_81498f20/index.m3u8$第8集
-人生是道选择题,https://v.cdnlz3.com/20250104/31837_082905ed/index.m3u8$第9集
-人生是道选择题,https://v.cdnlz3.com/20250104/31843_3a201b33/index.m3u8$第10集
-人生是道选择题,https://v.cdnlz3.com/20250104/31836_1a2248ae/index.m3u8$第11集
-人生是道选择题,https://v.cdnlz12.com/20250104/18013_9de34c44/index.m3u8$第12集
-人生是道选择题,https://v.cdnlz12.com/20250104/18012_1f104661/index.m3u8$第13集
-人生是道选择题,https://v.cdnlz3.com/20250105/31865_aad5975d/index.m3u8$第14集
-人生是道选择题,https://v.cdnlz3.com/20250105/31864_96f42f60/index.m3u8$第15集
-人生是道选择题,https://v.cdnlz12.com/20250106/18052_227109b8/index.m3u8$第16集
-人生是道选择题,https://v.cdnlz12.com/20250106/18051_d05f9adb/index.m3u8$第17集
-人生是道选择题,https://v.cdnlz3.com/20250107/31927_a78ba378/index.m3u8$第18集
-人生是道选择题,https://v.cdnlz3.com/20250107/31926_b9b8c4c6/index.m3u8$第19集
-人生是道选择题,https://v.cdnlz3.com/20250108/31969_b6d53043/index.m3u8$第20集
-人生是道选择题,https://v.cdnlz3.com/20250108/31968_952e92d4/index.m3u8$第21集
-人生是道选择题,https://v.cdnlz3.com/20250109/32034_5378cc11/index.m3u8$第22集
-人生是道选择题,https://v.cdnlz3.com/20250109/32033_5753391c/index.m3u8$第23集大结局
-
-小戏骨：包青天之秦香莲与陈世美,https://yzzy.play-cdn11.com/20221119/9893_b5f88efc/index.m3u8$第1集
-小戏骨：包青天之秦香莲与陈世美,https://yzzy.play-cdn11.com/20221119/9896_b3e5c8c0/index.m3u8$第2集
-小戏骨：包青天之秦香莲与陈世美,https://yzzy.play-cdn11.com/20221119/9894_ec74ca88/index.m3u8$第3集
-小戏骨：包青天之秦香莲与陈世美,https://yzzy.play-cdn11.com/20221119/9895_7460ff08/index.m3u8$第4集
-小戏骨：包青天之秦香莲与陈世美,https://yzzy.play-cdn11.com/20221119/9898_e54e9432/index.m3u8$第5集
-小戏骨：黄飞鸿,https://yzzy.play-cdn17.com/20230719/11734_57f6a01d/index.m3u8$第1集
-小戏骨：水浒传,https://yzzy1.play-cdn16.com/20231024/24782_bc1c0ed9/index.m3u8$第1集
-小戏骨：水浒传,https://yzzy1.play-cdn16.com/20231024/24783_6510062b/index.m3u8$第2集
-小戏骨：水浒传,https://yzzy1.play-cdn16.com/20231024/24784_09ed29b8/index.m3u8$第3集
-小戏骨：水浒传,https://yzzy1.play-cdn16.com/20231024/24785_fe8abf5a/index.m3u8$第4集
-小戏骨：水浒传,https://yzzy1.play-cdn16.com/20231024/24786_0341541e/index.m3u8$第5集
-小戏骨：水浒传,https://yzzy1.play-cdn16.com/20231024/24787_c346b3f0/index.m3u8$第6集
-小戏骨：水浒传,https://yzzy1.play-cdn16.com/20231024/24788_75ae28d6/index.m3u8$第7集
-小戏骨：水浒传,https://yzzy1.play-cdn16.com/20231024/24789_4daeefdf/index.m3u8$第8集
-小戏骨：水浒传,https://yzzy1.play-cdn16.com/20231024/24790_6f16d98c/index.m3u8$第9集
-小戏骨：水浒传,https://yzzy1.play-cdn16.com/20231024/24791_87c3f241/index.m3u8$第10集全
-小戏骨：降妖记,https://yzzy.play-cdn11.com/20221119/9873_e73f9b28/index.m3u8
-小戏骨：花木兰,https://yzzy.play-cdn11.com/20221119/9872_9c527307/index.m3u8$第1集
-小戏骨：花木兰,https://yzzy.play-cdn11.com/20221119/9871_587b54e5/index.m3u8$第2集
-小戏骨：花木兰,https://yzzy.play-cdn11.com/20221119/9874_a73f3b2a/index.m3u8$第3集
-小戏骨：西游记之红孩儿,https://yzzy.play-cdn11.com/20221119/9866_78c23b7d/index.m3u8$第1集
-小戏骨：西游记之红孩儿,https://yzzy.play-cdn11.com/20221119/9867_7bd494af/index.m3u8$第2集
-小戏骨：西游记之红孩儿,https://yzzy.play-cdn11.com/20221119/9869_9ac52a73/index.m3u8$第3集
-小戏骨：西游记之红孩儿,https://yzzy.play-cdn11.com/20221119/9868_aac13abf/index.m3u8$第4集
-小戏骨：西游记之红孩儿,https://yzzy.play-cdn11.com/20221119/9870_8c70fd15/index.m3u8$第5集
-小戏骨：放开那三国,https://yzzy.play-cdn11.com/20221119/9861_b6e27a61/index.m3u8$第1集
-小戏骨：放开那三国,https://yzzy.play-cdn11.com/20221119/9863_082b0b45/index.m3u8$第2集
-小戏骨：放开那三国,https://yzzy.play-cdn11.com/20221119/9862_e1111aad/index.m3u8$第3集
-小戏骨：放开那三国,https://yzzy.play-cdn11.com/20221119/9864_fa1455bd/index.m3u8$第4集
-小戏骨：放开那三国,https://yzzy.play-cdn11.com/20221119/9865_9b55e996/index.m3u8$第5集
-天真派：杨门女将,https://yzzy.play-cdn11.com/20221119/9932_04322a44/index.m3u8$第1集
-天真派：杨门女将,https://yzzy.play-cdn11.com/20221119/9931_75b5e21f/index.m3u8$第2集
-天真派：杨门女将,https://yzzy.play-cdn11.com/20221119/9935_00d30b04/index.m3u8$第3集
-天真派：杨门女将,https://yzzy.play-cdn11.com/20221119/9934_80467e99/index.m3u8$第4集
-天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9914_52cdd0bd/index.m3u8$第1集
-天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9915_19bc8621/index.m3u8$第2集
-天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9918_d7edaf7b/index.m3u8$第3集
-天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9916_329c167f/index.m3u8$第4集
-天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9917_783437ff/index.m3u8$第5集
-天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9919_f1d86bdc/index.m3u8$第6集
-天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9921_84e9ac5e/index.m3u8$第7集
-天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9920_11def7a3/index.m3u8$第8集
-天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9922_a658ede2/index.m3u8$第9集
-天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9924_3a896d8f/index.m3u8$第10集
-天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9925_5287453c/index.m3u8$第11集
-天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9923_7c97871f/index.m3u8$第12集
-天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9926_0d42e2fd/index.m3u8$第13集
-天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9928_16f9f3e1/index.m3u8$第14集
-天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9929_b4c92b03/index.m3u8$第15集
-天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9927_5e27c305/index.m3u8$第16集
-天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9930_ee931674/index.m3u8$第17集
-天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9933_fdd33e33/index.m3u8$第18集
-小戏骨：八仙过海,https://yzzy.play-cdn11.com/20221119/9879_a66497df/index.m3u8$第1集
-小戏骨：八仙过海,https://yzzy.play-cdn11.com/20221119/9880_33829ec8/index.m3u8$第2集
-小戏骨：八仙过海,https://yzzy.play-cdn11.com/20221119/9881_b5306273/index.m3u8$第3集
-小戏骨：八仙过海,https://yzzy.play-cdn11.com/20221119/9882_c72fe6d0/index.m3u8$第4集
-小戏骨：八仙过海,https://yzzy.play-cdn11.com/20221119/9883_d2609ed4/index.m3u8$第5集
-小戏骨：八仙过海,https://yzzy.play-cdn11.com/20221119/9885_cf93a59c/index.m3u8$第6集
-小戏骨：八仙过海,https://yzzy.play-cdn11.com/20221119/9884_daa08d75/index.m3u8$第7集
-小戏骨：八仙过海,https://yzzy.play-cdn11.com/20221119/9887_0ed604ef/index.m3u8$第8集
-小戏骨：八仙过海,https://yzzy.play-cdn11.com/20221119/9886_975d17c2/index.m3u8$第9集
-小戏骨：八仙过海,https://yzzy.play-cdn11.com/20221119/9888_5525cbcc/index.m3u8$第10集
-
-小戏骨：红楼梦之刘姥姥进大观园,https://yzzy.play-cdn11.com/20221119/9852_97807e3f/index.m3u8$第1集
-小戏骨：红楼梦之刘姥姥进大观园,https://yzzy.play-cdn11.com/20221119/9853_deb63d6d/index.m3u8$第2集
-小戏骨：红楼梦之刘姥姥进大观园,https://yzzy.play-cdn11.com/20221119/9854_cf83a6e9/index.m3u8$第3集
-小戏骨：红楼梦之刘姥姥进大观园,https://yzzy.play-cdn11.com/20221119/9855_b3218359/index.m3u8$第4集
-小戏骨：红楼梦之刘姥姥进大观园,https://yzzy.play-cdn11.com/20221119/9856_4320ee81/index.m3u8$第5集
-小戏骨：红楼梦之刘姥姥进大观园,https://yzzy.play-cdn11.com/20221119/9857_cb48dc97/index.m3u8$第6集
-小戏骨：红楼梦之刘姥姥进大观园,https://yzzy.play-cdn11.com/20221119/9859_249a3803/index.m3u8$第7集
-小戏骨：红楼梦之刘姥姥进大观园,https://yzzy.play-cdn11.com/20221119/9858_97a38b0e/index.m3u8$第8集
-小戏骨：红楼梦之刘姥姥进大观园,https://yzzy.play-cdn11.com/20221119/9860_a6792852/index.m3u8$第9集
-小戏骨：补锅,https://yzzy.play-cdn11.com/20221119/9849_0521cd64/index.m3u8$第1集
-小戏骨：补锅,https://yzzy.play-cdn11.com/20221119/9850_9c0f062a/index.m3u8$第2集
-小戏骨：补锅,https://yzzy.play-cdn11.com/20221119/9851_0614b74e/index.m3u8$第3集
-小戏骨：白蛇传,https://yzzy.play-cdn11.com/20221119/9843_37db529c/index.m3u8$第1集
-小戏骨：白蛇传,https://yzzy.play-cdn11.com/20221119/9844_8fc2e53b/index.m3u8$第2集
-小戏骨：白蛇传,https://yzzy.play-cdn11.com/20221119/9846_6e846376/index.m3u8$第3集
-小戏骨：白蛇传,https://yzzy.play-cdn11.com/20221119/9847_f11b37ae/index.m3u8$第4集
-小戏骨：白蛇传,https://yzzy.play-cdn11.com/20221119/9848_0bd5a4b7/index.m3u8$第5集
-小戏骨：刘三姐,https://yzzy.play-cdn11.com/20221119/9840_1061aafd/index.m3u8$第1集
-小戏骨：刘三姐,https://yzzy.play-cdn11.com/20221119/9841_4c234495/index.m3u8$第2集
-小戏骨：刘三姐,https://yzzy.play-cdn11.com/20221119/9842_14a50ed3/index.m3u8$第3集
-小戏骨：三笑寻亲记,https://yzzy.play-cdn11.com/20221119/9837_a5862221/index.m3u8$第1集
-小戏骨：三笑寻亲记,https://yzzy.play-cdn11.com/20221119/9839_ef29f17e/index.m3u8$第2集
-小戏骨：三笑寻亲记,https://yzzy.play-cdn11.com/20221119/9838_77bc2456/index.m3u8$第3集
-小戏骨：洪湖赤卫队,https://yzzy.play-cdn11.com/20221119/9836_43997da8/index.m3u8
-小戏骨：焦裕禄,https://yzzy.play-cdn11.com/20221119/9835_7ee7097e/index.m3u8
-
-
-折腰,https://cdn.yzzy27-play.com/20250513/3159_99ef04eb/index.m3u8$第1集
-折腰,https://cdn.yzzy27-play.com/20250513/3162_d60678e8/index.m3u8$第2集
-折腰,https://cdn.yzzy27-play.com/20250513/3160_9808ae38/index.m3u8$第3集
-折腰,https://cdn.yzzy27-play.com/20250513/3161_29539ed9/index.m3u8$第4集
-折腰,https://cdn.yzzy27-play.com/20250514/3174_45c166d6/index.m3u8$第5集
-折腰,https://cdn.yzzy27-play.com/20250515/3303_f24ad6f7/index.m3u8$第6集
-折腰,https://cdn.yzzy27-play.com/20250515/3338_2de7cf20/index.m3u8$第7集
-折腰,https://cdn.yzzy27-play.com/20250516/3477_6d6968d8/index.m3u8$第8集
-折腰,https://vvip.high26-playback.com/20250516/7222_3c5be632/index.m3u8$第9集
-折腰,https://cdn.yzzy27-play.com/20250517/3624_5ee0070c/index.m3u8$第10集
-折腰,https://cdn.yzzy28-play.com/20250516/52_9a115815/index.m3u8$第11集
-折腰,https://cdn.yzzy28-play.com/20250517/162_82aa4b0a/index.m3u8$第12集
-折腰,https://cdn.yzzy28-play.com/20250517/188_9dcb88e0/index.m3u8$第13集
-折腰,https://vvip.high26-playback.com/20250519/7580_62326dc7/index.m3u8$第14集
-折腰,https://cdn.yzzy28-play.com/20250518/270_39059724/index.m3u8$第15集
-折腰,https://cdn.yzzy28-play.com/20250519/316_3fe94a00/index.m3u8$第16集
-折腰,https://cdn.yzzy27-play.com/20250520/3831_cac8e130/index.m3u8$第17集
-折腰,https://cdn.yzzy27-play.com/20250521/3884_8dcf2420/index.m3u8$第18集
-折腰,https://cdn.yzzy28-play.com/20250520/392_f73b76ce/index.m3u8$第19集
-折腰,https://cdn.yzzy28-play.com/20250522/552_94c7bb58/index.m3u8$第20集
-折腰,https://cdn.yzzy28-play.com/20250522/557_6e2713a6/index.m3u8$第21集
-折腰,https://cdn.yzzy27-play.com/20250524/4136_93da579a/index.m3u8$第22集
-折腰,https://cdn.yzzy28-play.com/20250523/700_e5841df2/index.m3u8$第23集
-折腰,https://cdn.yzzy28-play.com/20250524/836_ab88b157/index.m3u8$第24集
-折腰,https://vvip.high26-playback.com/20250525/8291_e2a08f2e/index.m3u8$第25集
-刑侦12,https://cdn.ryplay11.com/20250519/178652_85088cd1/index.m3u8$第1集
-刑侦12,https://cdn.ryplay11.com/20250519/178651_83b5e577/index.m3u8$第2集
-刑侦12,https://cdn.ryplay11.com/20250519/178650_e1f885bc/index.m3u8$第3集
-刑侦12,https://cdn.ryplay11.com/20250519/178649_9ddd1bd3/index.m3u8$第4集
-刑侦12,https://cdn.ryplay11.com/20250520/178719_b5cc4275/index.m3u8$第5集
-刑侦12,https://cdn.ryplay11.com/20250520/178718_b8de1e5c/index.m3u8$第6集
-刑侦12,https://cdn.ryplay11.com/20250521/178771_0e2863d1/index.m3u8$第7集
-刑侦12,https://cdn.ryplay11.com/20250521/178770_c5927ea0/index.m3u8$第8集
-刑侦12,https://cdn.ryplay11.com/20250522/178821_6fc3c863/index.m3u8$第9集
-刑侦12,https://cdn.ryplay11.com/20250522/178820_ac9a6f32/index.m3u8$第10集
-刑侦12,https://cdn.ryplay11.com/20250523/178882_01029911/index.m3u8$第11集
-刑侦12,https://cdn.ryplay11.com/20250524/178935_707ee53f/index.m3u8$第12集
-刑侦12,https://cdn.ryplay11.com/20250525/178973_646f08d9/index.m3u8$第13集
-刑侦12,https://cdn.ryplay11.com/20250526/179014_fcff8d53/index.m3u8$第14集
-刑侦12,https://cdn.ryplay11.com/20250526/179013_37de7907/index.m3u8$第15集
-刑侦12,https://cdn.ryplay11.com/20250527/179095_3f3ad74a/index.m3u8$第16集
-刑侦12,https://cdn.ryplay11.com/20250527/179094_288e8923/index.m3u8$第17集
-刑侦12,https://cdn.ryplay11.com/20250528/179152_997b8b1f/index.m3u8$第18集
-刑侦12,https://cdn.ryplay11.com/20250528/179151_3c906a2b/index.m3u8$第19集
-刑侦12,https://cdn.ryplay11.com/20250529/179306_440663dd/index.m3u8$第20集
-刑侦12,https://cdn.ryplay11.com/20250530/179360_4edd959c/index.m3u8$第21集
-刑侦12,https://cdn.ryplay11.com/20250530/179359_cde6a597/index.m3u8$第22集
-刑侦12,https://cdn.ryplay11.com/20250530/179358_6845bd21/index.m3u8$第23集
-刑侦12,https://cdn.ryplay11.com/20250530/179357_6167f463/index.m3u8$第24集
-刑侦12,https://cdn.ryplay11.com/20250530/179356_14a240d6/index.m3u8$第25集
 🎬视剧轮播,#genre#
 ❥维护不易,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥打赏长久使用,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
@@ -4544,8 +3764,114 @@ Runningman,http://113.45.240.129:35455/douyu/131977
 老段钓青鱼,http://222.186.39.21:35466/douyu/10105639
 钓鱼大锋子,http://222.186.39.21:35466/douyu/10074370
 🎬综艺节目,#genre#
-按设置选集,https://i.uik.cc/view.php/80bfa7db9c20f6a884fcc7cae7e36d04.mp4
+五哈1～4,http://113.45.240.129:35455/huya/30080247
+跑男1到4,http://113.45.240.129:35455/huya/29465875
+爆笑综艺,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_954_720P_t10/c57_fast_954_720P_t10.m3u8?d
+哈哈哈哈哈专场,http://113.45.240.129:35455/huya/30080247
+演员请就位专场,http://113.45.240.129:35455/huya/23746691
+奔跑吧兄弟专场,http://113.45.240.129:35455/huya/29465870
+最强大脑专场,http://113.45.240.129:35455/huya/29465880
+现在就出发专场,http://113.45.240.129:35455/huya/21059551
+脱口秀大会专场,http://113.45.240.129:35455/huya/11352875
+新游记专场,http://113.45.240.129:35455/huya/20985794
+天赐的声音专场,http://113.45.240.129:35455/huya/30080249
+幸福三重奏专场,http://113.45.240.129:35455/huya/29982647
+咱们穿越吧专场,http://113.45.240.129:35455/huya/11352907
+我是大侦探专场,http://113.45.240.129:35455/huya/20969140
+李子柒专场,http://113.45.240.129:35455/huya/21969336
+韩国综艺,http://113.45.240.129:35455/huya/11336725
+欧美综艺,http://113.45.240.129:35455/huya/20969124
+以下频道勿信广告,https://i.uik.cc/view.php/80bfa7db9c20f6a884fcc7cae7e36d04.mp4
+可以按设置选集,https://i.uik.cc/view.php/80bfa7db9c20f6a884fcc7cae7e36d04.mp4
+女孩好野,https://c1.7bbffvip.com/video/nvhaihaoye/20241019/index.m3u8$第57集
+女孩好野,https://c1.7bbffvip.com/video/nvhaihaoye/20241012/index.m3u8$第56集
+女孩好野,https://svip.high25-playback.com/20240929/8060_14be1ffd/2000k/hls/mixed.m3u8$第55集
+女孩好野,https://c1.ddbbffcdn.com/video/nvhaihaoye/20240831/index.m3u8$第54集
+女孩好野,https://c1.ddbbffcdn.com/video/nvhaihaoye/20240824/index.m3u8$第53集
+女孩好野,https://c1.ddbbffcdn.com/video/nvhaihaoye/20240817/index.m3u8$第52集
+女孩好野,https://c1.ddbbffcdn.com/video/nvhaihaoye/20240810/index.m3u8$第51集
+女孩好野,https://c1.ddbbffcdn.com/video/nvhaihaoye/20240803/index.m3u8$第50集
+女孩好野,https://c1.ddbbffcdn.com/video/nvhaihaoye/20240727/index.m3u8$第49集
+女孩好野,https://c1.ddbbffcdn.com/video/nvhaihaoye/20240720/index.m3u8$第48集
+女孩好野,https://v.lzcdn23.com/20241007/5763_4f7d5dfc/2000k/hls/mixed.m3u8$第47集
+女孩好野,https://v.lzcdn23.com/20241007/5764_8f75b458/2000k/hls/mixed.m3u8$第46集
+女孩好野,https://v.lzcdn23.com/20241007/5765_de7cbe5d/2000k/hls/mixed.m3u8$第45集
+女孩好野,https://v.lzcdn23.com/20241007/5768_cf4db2d6/2000k/hls/mixed.m3u8$第44集
+女孩好野,https://v.lzcdn23.com/20241007/5769_d96d9d14/2000k/hls/mixed.m3u8$第43集
+女孩好野,https://v.lzcdn23.com/20241007/5771_46c6e48c/2000k/hls/mixed.m3u8$第42集
+女孩好野,https://v.lzcdn23.com/20241007/5773_86b77f64/2000k/hls/mixed.m3u8$第41集
+女孩好野,https://v.lzcdn23.com/20241007/5774_096c8d61/2000k/hls/mixed.m3u8$第40集
+女孩好野,https://v.lzcdn23.com/20241007/5775_985e45b8/2000k/hls/mixed.m3u8$第39集
+女孩好野,https://v.cdnlz18.com/20240928/17620_35bd85b5/index.m3u8$第38集
+女孩好野,https://v.cdnlz18.com/20240928/17624_4b4265b4/2000k/hls/mixed.m3u8$第37集
+女孩好野,https://v.cdnlz18.com/20240914/16925_c85085dc/2000k/hls/mixed.m3u8$第36集
+女孩好野,https://v.cdnlz18.com/20240908/16624_ce3404bc/2000k/hls/mixed.m3u8$第35集
+女孩好野,https://v.cdnlz18.com/20240831/16188_dcb990b5/2000k/hls/mixed.m3u8$第34集
+女孩好野,https://v.cdnlz18.com/20240824/15864_80958f91/2000k/hls/mixed.m3u8$第33集
+女孩好野,https://v.cdnlz18.com/20240817/15520_5c3498a1/2000k/hls/mixed.m3u8$第32集
+女孩好野,https://v.cdnlz18.com/20240727/14850_8b28d69e/2000k/hls/mixed.m3u8$第31集
+女孩好野,https://v.cdnlz18.com/20240720/14631_8821fa09/2000k/hls/mixed.m3u8$第30集
+女孩好野,https://v.cdnlz18.com/20240713/14122_819cafac/2000k/hls/mixed.m3u8$第29集
+女孩好野,https://v.lzcdn23.com/20240706/2134_19849936/2000k/hls/mixed.m3u8$第28集
+女孩好野,https://v.lzcdn23.com/20240629/1610_521726a0/2000k/hls/mixed.m3u8$第27集
+女孩好野,https://v.lzcdn23.com/20240622/1075_5a73a48b/2000k/hls/mixed.m3u8$第26集
+女孩好野,https://play.modujx12.com/20240630/tjzRbNSm/2000kb/hls/index.m3u8$第25集
+女孩好野,https://play.modujx12.com/20240630/UqoJ1Ku1/2000kb/hls/index.m3u8$第24集
+女孩好野,https://play.modujx12.com/20240630/odiMGSME/2000kb/hls/index.m3u8$第23集
+女孩好野,https://play.modujx12.com/20240630/6qCxkxRw/2000kb/hls/index.m3u8$第22集
+女孩好野,https://play.modujx12.com/20240630/HCozJrkO/2000kb/hls/index.m3u8$第21集
+女孩好野,https://play.modujx12.com/20240630/BTKLCcHX/2000kb/hls/index.m3u8$第20集
+女孩好野,https://play.modujx12.com/20240630/smcxQlfK/2000kb/hls/index.m3u8$第9集
+女孩好野,https://play.modujx12.com/20240630/joylrSXg/2000kb/hls/index.m3u8$第18集
+女孩好野,https://play.modujx12.com/20240630/zna18pNl/2000kb/hls/index.m3u8$第17集
+女孩好野,https://play.modujx12.com/20240630/RtqXhaf6/2000kb/hls/index.m3u8$第16集
+女孩好野,https://play.modujx12.com/20240630/xMLe6iZV/2000kb/hls/index.m3u8$第15集
+女孩好野,https://play.modujx12.com/20240630/O9u2agqd/2000kb/hls/index.m3u8$第14集
+女孩好野,https://play.modujx12.com/20240630/cYYTxQAF/2000kb/hls/index.m3u8$第13集
+女孩好野,https://play.modujx12.com/20240630/g1APmmy1/2000kb/hls/index.m3u8$第12集
+女孩好野,https://play.modujx12.com/20240630/1XEiJXJn/2000kb/hls/index.m3u8$第11集
+女孩好野,https://play.modujx12.com/20240630/zhGCKKGb/2000kb/hls/index.m3u8$第10集
+女孩好野,https://play.modujx12.com/20240630/VN7UbVFI/2000kb/hls/index.m3u8$第9集
+女孩好野,https://play.modujx12.com/20240630/DqYEzRKp/2000kb/hls/index.m3u8$第8集
+女孩好野,https://play.modujx12.com/20240630/voQ9UzUQ/2000kb/hls/index.m3u8$第7集
+女孩好野,https://svip.high1-playback.com/20240202/15133_c3956232/2000k/hls/index.m3u8$第6集
+女孩好野,https://v.cdnlz13.com/20240127/23617_b66fce8e/2000k/hls/mixed.m3u8$第5集
+女孩好野,https://v.cdnlz13.com/20240120/23254_0356ab0e/2000k/hls/mixed.m3u8$第4集
+女孩好野,https://m3u8.hmrvideo.com/play/0761523e0f324114aa0c41975e9a9f2d.m3u8$第3集
+女孩好野,https://v.cdnlz13.com/20240113/22911_0ad9fccc/2000k/hls/mixed.m3u8$第2集
+女孩好野,https://v.cdnlz13.com/20240106/22605_2e7d89ae/2000k/hls/mixed.m3u8$第1集
 2025香港小姐,https://v.cdnlz21.com/20250901/15287_01c1f360/index.m3u8
+女神在线,https://v.cdnlz13.com/20240314/25566_16d9d292/2000k/hls/mixed.m3u8$第1集
+女神在线,https://v.cdnlz7.com/20240321/16434_2346c89b/2000k/hls/mixed.m3u8$第2集
+女神在线,https://v.cdnlz7.com/20240328/16730_813572bf/2000k/hls/mixed.m3u8$第3集
+女神在线,https://v.cdnlz7.com/20240404/17068_6b6dd86d/2000k/hls/mixed.m3u8$第4集
+女神在线,https://v.cdnlz7.com/20240411/17389_3c52855e/2000k/hls/mixed.m3u8$第5集
+女神在线,https://v.cdnlz7.com/20240418/17718_30b7c598/2000k/hls/mixed.m3u8$第6集
+女神在线,https://v.cdnlz7.com/20240425/18023_5343603c/2000k/hls/mixed.m3u8$第7集
+女神在线,https://v.cdnlz7.com/20240502/18338_a482e2e1/2000k/hls/mixed.m3u8$第8集
+女神在线,https://v.cdnlz7.com/20240502/18337_ab0f32f4/2000k/hls/mixed.m3u8$第9集
+女神在线,https://v.cdnlz7.com/20240502/18336_4a283fad/2000k/hls/mixed.m3u8$第10集
+女神在线,https://v.cdnlz7.com/20240510/18711_515c84cd/2000k/hls/mixed.m3u8$第11集
+女神在线,https://v.cdnlz18.com/20240531/13296_07626cd3/2000k/hls/mixed.m3u8$第12集
+女神在线,https://v.lzcdn23.com/20240625/1327_a24935d6/2000k/hls/mixed.m3u8$第13集
+女神在线,https://v.lzcdn23.com/20240627/1471_d5563f19/2000k/hls/mixed.m3u8$第14集
+女神在线,https://v.lzcdn23.com/20240704/1977_107116d9/2000k/hls/mixed.m3u8$第15集
+女神在线,https://v.cdnlz18.com/20240711/13984_58384c61/2000k/hls/mixed.m3u8$第16集
+女神在线,https://v.cdnlz18.com/20240718/14474_1def3675/2000k/hls/mixed.m3u8$第17集
+女神在线,https://v.lzcdn23.com/20240725/2820_8d75881a/2000k/hls/mixed.m3u8$第18集
+女神在线,https://v.cdnlz18.com/20240801/15146_804fbbf1/2000k/hls/mixed.m3u8$第19集
+女神在线,https://v.lzcdn23.com/20240808/3440_cc273ce5/2000k/hls/mixed.m3u8$第20集
+女神在线,https://v.cdnlz18.com/20240815/15414_88992e18/2000k/hls/mixed.m3u8$第21集
+女神在线,https://v.cdnlz18.com/20240822/15770_e2803779/2000k/hls/mixed.m3u8$第22集
+女神在线,https://v.cdnlz18.com/20240830/16132_e580f98b/2000k/hls/mixed.m3u8$第23集
+女神在线,https://v.lzcdn23.com/20241012/6085_dca81094/2000k/hls/mixed.m3u8$第24集
+女神在线,https://v.lzcdn23.com/20241012/6086_94e1ebc7/2000k/hls/mixed.m3u8$第25集
+女神在线,https://v.lzcdn23.com/20241012/6087_c5b35f4c/2000k/hls/mixed.m3u8$第26集
+女神在线,https://v.lzcdn23.com/20241012/6088_009a8cd8/2000k/hls/mixed.m3u8$第27集
+女神在线,https://v.lzcdn23.com/20241012/6089_9b172ce2/2000k/hls/mixed.m3u8$第28集
+女神在线,https://v.lzcdn23.com/20241012/6090_d1575910/2000k/hls/mixed.m3u8$第29集
+女神在线,https://v.lzcdn23.com/20241017/6316_dbb43018/2000k/hls/mixed.m3u8$第30集
+女神在线,https://v.lzcdn23.com/20241024/6649_7c06959b/2000k/hls/mixed.m3u8$第31集
 哈哈哈哈,https://svip.high25-playback.com/20250412/23503_e0eb3d5a/index.m3u8$第1集
 哈哈哈哈,https://svip.high24-playback.com/20250413/24807_6c49d08d/index.m3u8$第2集
 哈哈哈哈,https://svip.high25-playback.com/20250414/23698_32ce0810/index.m3u8$第3集
@@ -4831,6 +4157,702 @@ Runningman,http://113.45.240.129:35455/douyu/131977
 妻子的浪漫旅行,https://svip.high25-playback.com/20250501/25513_09007e0c/index.m3u8$第38集
 妻子的浪漫旅行,https://cdn.yzzy27-play.com/20250503/2033_a5a61717/index.m3u8$第39集
 妻子的浪漫旅行,https://cdn.yzzy27-play.com/20250508/2517_c5dc3e08/index.m3u8$第40集
+🍁短剧系列,#genre#
+画面比例设置默认,https://vd3.bdstatic.com/mda-pefi3w616b8ujr88/720p/h264/1684243271973602840/mda-pefi3w616b8ujr88.mp4
+爱看短剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=6079455
+霸爱为奴(100集),https://vd4.bdstatic.com/mda-pe89k65is9xdwqen/sc/cae_h264/1683667911711262079/mda-pe89k65is9xdwqen.mp4
+都市逍遥神医(93集),https://vd4.bdstatic.com/mda-pe9f7u2qj8qi7r04/720p/h264/1683716481871424650/mda-pe9f7u2qj8qi7r04.mp4
+逆命神医(96集),https://vd3.bdstatic.com/mda-peds8afg0055s0nh/720p/h264/1684091269327297304/mda-peds8afg0055s0nh.mp4
+满月之下请相爱(100集),https://vd3.bdstatic.com/mda-pedkenasrhs239n2/sc/cae_h264/1684169079399702313/mda-pedkenasrhs239n2.mp4
+落在生命里的光(100集),https://vd3.bdstatic.com/mda-pedgk34za4i2wsk4/720p/h264/1684066802676530455/mda-pedgk34za4i2wsk4.mp4
+老街中的痞子(79集),https://vd3.bdstatic.com/mda-pedd0pjr3d230d6a/sc/cae_h264/1684151422563021066/mda-pedd0pjr3d230d6a.mp4
+绝世龙帅(100集),https://vd3.bdstatic.com/mda-pectb75a7wb5zsgu/720p/h264/1684008093774139159/mda-pectb75a7wb5zsgu.mp4
+浪子情仇(81集),https://vd3.bdstatic.com/mda-pecpz9ti97u1z825/720p/h264/1683998885326452646/mda-pecpz9ti97u1z825.mp4
+昆仑强者(80集),https://vd3.bdstatic.com/mda-peck0hfux97mrc79/720p/h264/1683988862148442153/mda-peck0hfux97mrc79.mp4
+重生后被死对头掐腰宠,https://vd4.bdstatic.com/mda-pidtbshvj541hcww/sc/cae_h264/1694795969503049377/mda-pidtbshvj541hcww.mp4
+罪妻难逃：夜少求放过,https://vd3.bdstatic.com/mda-pidatyprbq4r7sgs/sc/cae_h264/1694741083134075277/mda-pidatyprbq4r7sgs.mp4
+亿万总裁爱上我,https://vd4.bdstatic.com/mda-pidarj60e9258tkd/sc/cae_h264/1694742743328696121/mda-pidarj60e9258tkd.mp4
+桃运无双(105集),https://vd3.bdstatic.com/mda-pefd0weush6t8bnx/sc/cae_h264/1684372449915872808/mda-pefd0weush6t8bnx.mp4
+双面狂少(83集),https://vd3.bdstatic.com/mda-pefcbtfwri86zgq2/sc/cae_h264/1684371888342144388/mda-pefcbtfwri86zgq2.mp4
+圣王(100集),https://vd3.bdstatic.com/mda-peeuh83guh46806g/sc/cae_h264/1684290562908896240/mda-peeuh83guh46806g.mp4
+偏执总裁的追妻路(93集),https://vd3.bdstatic.com/mda-peesbtb1ji4i07gy/sc/cae_h264/1684280053431635965/mda-peesbtb1ji4i07gy.mp4
+美女总裁回乡过年(97集),https://vd3.bdstatic.com/mda-pedtu8rsvhbj5pdx/sc/cae_h264/1684177990536629531/mda-pedtu8rsvhbj5pdx.mp4
+天龙战神(94集),https://vd3.bdstatic.com/mda-pefi3w616b8ujr88/720p/h264/1684243271973602840/mda-pefi3w616b8ujr88.mp4
+历少强势锁婚(100集),https://vd3.bdstatic.com/mda-pegcxruwk0cxswv8/720p/h264/1684317268225808680/mda-pegcxruwk0cxswv8.mp4
+🎬追电视剧,#genre#
+不要信广告,https://cccimg.com/view.php/7b6219260a9ec0036d8f7f28e09c4281.mp4
+按设置选集,https://cccimg.com/view.php/7b6219260a9ec0036d8f7f28e09c4281.mp4
+
+暗河传第01集,http://jx.999315.xyz/yzzy/20251020/6128_b72a5a09/index.m3u8 
+暗河传第02集,http://jx.999315.xyz/yzzy/20251020/3116_58191d2a/index.m3u8 
+暗河传第03集,http://jx.999315.xyz/yzzy/20251020/3117_8b313cbf/index.m3u8 
+暗河传第04集,http://jx.999315.xyz/yzzy/20251020/20816_d6f7f74d/index.m3u8 
+暗河传第05集,http://jx.999315.xyz/yzzy/20251020/20817_3be09591/index.m3u8 
+暗河传第06集,http://jx.999315.xyz/yzzy/20251021/3205_9ef2ed4b/index.m3u8 
+暗河传第07集,http://jx.999315.xyz/yzzy/20251021/20922_7048c496/index.m3u8
+暗河传第08集,http://jx.999315.xyz/yzzy/20251022/6249_bcb7c13f/index.m3u8 
+暗河传第09集,https://cdn.yzzy28-play.com/20251022/21003_cfb5325c/index.m3u8
+ 暗河传第10集,http://jx.999315.xyz/yzzy/20251023/21083_b991e1dc/index.m3u8
+ 暗河传第11集,http://cjx.999315.xyz/yzzy/20251024/3674_f35fd567/index.m3u8 
+暗河传第12集,http://cjx.999315.xyz/yzzy/20251024/3675_845f3cb4/index.m3u8 
+暗河传第13集,http://cjx.999315.xyz/yzzy/20251025/3825_c24fe9f7/index.m3u8
+暗河传第14集,http://cjx.999315.xyz/yzzy/20251025/3826_a292f1c5/index.m3u8
+凡人修仙传,http://jx.999315.xyz/yzzy/20250727/16714_a69d15dc/index.m3u8$第1集
+凡人修仙传,http://jx.999315.xyz/yzzy/20250727/16721_6226c5b0/index.m3u8$第2集 
+凡人修仙传,http://jx.999315.xyz/yzzy/20250727/16722_f9d81ff0/index.m3u8$第3集 
+凡人修仙传,http://jx.999315.xyz/yzzy/20250727/11839_e6a88d08/index.m3u8$第4集 
+凡人修仙传,http://jx.999315.xyz/yzzy/20250728/11871_ebc2aa04/index.m3u8$第5集 
+凡人修仙传,http://jx.999315.xyz/yzzy/20250728/16770_742d3c2a/index.m3u8$第6集 
+凡人修仙传,https://cdn.yzzy27-play.com/20250729/11931_0b364515/index.m3u8$第7集 
+凡人修仙传,http://jx.999315.xyz/yzzy/20250729/10197_ea67d66c/index.m3u8$第8集 
+凡人修仙传,https://cdn.yzzy28-play.com/20250730/10304_61a10e6a/index.m3u8$第9集 
+凡人修仙传,https://cdn.yzzy27-play.com/20250730/12036_37241d74/index.m3u8$第10集 
+凡人修仙传,https://cdn.yzzy28-play.com/20250731/10505_52d08372/index.m3u8$第11集 
+凡人修仙传,https://cdn.yzzy27-play.com/20250801/12253_5bff5f1e/index.m3u8$第12集 
+凡人修仙传,https://cdn.yzzy28-play.com/20250801/10604_75c6b2d6/index.m3u8$第13集 
+凡人修仙传,https://cdn.yzzy27-play.com/20250802/12432_fbad0579/index.m3u8$第14集 
+凡人修仙传,https://vvip.high26-playback.com/20250802/17589_45efb537/index.m3u8$第15集 
+凡人修仙传,https://cdn.yzzy28-play.com/20250803/10725_8086d56b/index.m3u8$第16集 
+凡人修仙传,https://cdn.yzzy28-play.com/20250804/10852_2a93f390/index.m3u8$第17集 
+凡人修仙传,https://vvip.high26-playback.com/20250806/17837_4cd47670/index.m3u8$第18集 
+凡人修仙传,https://cdn.yzzy28-play.com/20250805/10979_9cc25407/index.m3u8$第19集 
+凡人修仙传,https://vvip.high26-playback.com/20250806/17904_ee57534b/index.m3u8$第20集 
+凡人修仙传,https://vvip.high26-playback.com/20250806/17905_6fdf8aeb/index.m3u8$第21集 
+凡人修仙传,https://vvip.high26-playback.com/20250808/17980_e939047f/index.m3u8$第22集 
+凡人修仙传,https://cdn.yzzy27-play.com/20250808/15662_8eafcde3/index.m3u8$第23集 
+凡人修仙传,http://jx.999315.xyz/yzzy/20250809/15834_fad68b73/index.m3u8$第24集 
+凡人修仙传,https://cdn.yzzy28-play.com/20250810/11426_874f44f0/index.m3u8$第25集 
+凡人修仙传,https://vvip.high26-playback.com/20250811/18329_dba396ce/index.m3u8$第26集
+凡人修仙传,https://cdn.yzzy27-play.com/20250812/16132_cc4288ab/index.m3u8$第27集 
+凡人修仙传,https://vvip.high26-playback.com/20250812/18354_923380fe/index.m3u8$第28集 
+凡人修仙传,https://cdn.yzzy27-play.com/20250812/16133_9db4f695/index.m3u8$第29集 
+凡人修仙传,https://cdn.yzzy28-play.com/20250812/11560_d1e7b08b/index.m3u8$第30集
+
+献鱼,https://cdn.ryplay11.com/20250816/183538_f340cc57/index.m3u8$第1集
+献鱼,https://cdn.ryplay11.com/20250816/183571_93d0216f/index.m3u8$第2集
+献鱼,https://cdn.ryplay11.com/20250816/183570_9f903c2b/index.m3u8$第3集
+献鱼,https://cdn.ryplay11.com/20250816/183569_c1824587/index.m3u8$第4集
+献鱼,https://cdn.ryplay11.com/20250817/183625_0534687b/index.m3u8$第5集
+献鱼,https://cdn.ryplay11.com/20250817/183624_e2eb212d/index.m3u8$第6集
+献鱼,https://cdn.ryplay11.com/20250818/183660_8049a6ff/index.m3u8$第7集
+献鱼,https://cdn.ryplay11.com/20250818/183659_9be9ecf9/index.m3u8$第8集
+献鱼,https://cdn.ryplay11.com/20250819/183748_8c157400/index.m3u8$第9集
+献鱼,https://cdn.ryplay11.com/20250819/183747_2cf9022c/index.m3u8$第10集
+献鱼,https://cdn.ryplay11.com/20250820/183804_ce1ac43c/index.m3u8$第11集
+献鱼,https://cdn.ryplay11.com/20250820/183803_311f9a99/index.m3u8$第12集
+献鱼,https://cdn.ryplay11.com/20250821/183856_daaa1996/index.m3u8$第13集
+献鱼,https://cdn.ryplay11.com/20250821/183855_3fd0e4e2/index.m3u8$第14集
+献鱼,https://cdn.ryplay11.com/20250822/183899_8a65cb24/index.m3u8$第15集
+献鱼,https://cdn.ryplay11.com/20250822/183898_341b9da3/index.m3u8$第16集
+献鱼,https://cdn.ryplay11.com/20250823/183996_6ffe151a/index.m3u8$第17集
+献鱼,https://cdn.ryplay11.com/20250823/183995_9dc8d26e/index.m3u8$第18集
+献鱼,https://cdn.ryplay11.com/20250824/184039_bd145deb/index.m3u8$第19集
+献鱼,https://cdn.ryplay11.com/20250824/184040_3cb75261/index.m3u8$第20集
+献鱼,https://cdn.ryplay11.com/20250825/184080_c16e4946/index.m3u8$第21集
+献鱼,https://cdn.ryplay11.com/20250826/184179_c95284f5/index.m3u8$第22集
+献鱼,https://cdn.ryplay11.com/20250827/184285_8b1fd891/index.m3u8$第23集
+献鱼,https://cdn.ryplay11.com/20250827/184284_e5eef6ae/index.m3u8$第24集
+献鱼,https://cdn.ryplay11.com/20250828/184366_4acb084d/index.m3u8$第25集
+献鱼,https://cdn.ryplay11.com/20250829/184456_ab57caf4/index.m3u8$第26集
+献鱼,https://cdn.ryplay11.com/20250830/184560_cdaa223f/index.m3u8$第27集
+献鱼,https://cdn.ryplay11.com/20250830/184559_37283855/index.m3u8$第28集
+献鱼,https://cdn.ryplay11.com/20250831/184662_84e64bfb/index.m3u8$第29集
+献鱼,https://cdn.ryplay11.com/20250901/184714_5e4d69b4/index.m3u8$第30集
+献鱼,https://cdn7.ryplay7.com/20250901/15308_bece085c/index.m3u8$第31集
+献鱼,https://cdn.ryplay11.com/20250901/184716_f33689c0/index.m3u8$第32集
+献鱼,https://cdn.ryplay11.com/20250901/184715_1e18d57f/index.m3u8$第33集
+
+淮水竹亭,https://cdn.yzzy27-play.com/20250428/1165_a3fb4fbf/index.m3u8$第1集
+淮水竹亭,https://cdn.yzzy27-play.com/20250428/1166_0f2c9a93/index.m3u8$第2集
+淮水竹亭,https://cdn.yzzy27-play.com/20250428/1167_9da187a7/index.m3u8$第3集
+淮水竹亭,https://cdn.yzzy27-play.com/20250428/1168_2f29b6e3/index.m3u8$第4集
+淮水竹亭,https://cdn.yzzy27-play.com/20250428/1169_1e1d1841/index.m3u8$第5集
+淮水竹亭,https://cdn.yzzy27-play.com/20250428/1170_3eb71f62/index.m3u8$第6集
+淮水竹亭,https://cdn.yzzy27-play.com/20250430/1295_dc87c137/index.m3u8$第7集
+淮水竹亭,https://cdn.yzzy27-play.com/20250430/1296_2812e5cf/index.m3u8$第8集
+淮水竹亭,https://cdn.yzzy27-play.com/20250501/1486_86df7dcf/index.m3u8$第9集
+淮水竹亭,https://cdn.yzzy27-play.com/20250501/1487_6d3a1e06/index.m3u8$第10集
+淮水竹亭,https://cdn.yzzy27-play.com/20250502/1644_89f03f7d/index.m3u8$第11集
+淮水竹亭,https://cdn.yzzy27-play.com/20250502/1645_c1fea270/index.m3u8$第12集
+淮水竹亭,https://cdn.yzzy27-play.com/20250503/1939_f22e4747/index.m3u8$第13集
+淮水竹亭,https://cdn.yzzy27-play.com/20250503/1940_95e6834d/index.m3u8$第14集
+淮水竹亭,https://cdn.yzzy27-play.com/20250504/2061_52dbb068/index.m3u8$第15集
+淮水竹亭,https://cdn.yzzy27-play.com/20250504/2062_2d405b36/index.m3u8$第16集
+淮水竹亭,https://cdn.yzzy27-play.com/20250505/2148_e21e4e58/index.m3u8$第17集
+淮水竹亭,https://cdn.yzzy27-play.com/20250505/2149_d30960ce/index.m3u8$第18集
+淮水竹亭,https://cdn.yzzy27-play.com/20250506/2221_598920e1/index.m3u8$第19集
+淮水竹亭,https://cdn.yzzy27-play.com/20250506/2222_934b5358/index.m3u8$第20集
+淮水竹亭,https://vvip.high26-playback.com/20250507/6043_2e9777b9/index.m3u8$第21集
+淮水竹亭,https://vvip.high26-playback.com/20250507/6044_6b39183e/index.m3u8$第22集
+淮水竹亭,https://cdn.yzzy27-play.com/20250508/2440_feecee9f/index.m3u8$第23集
+淮水竹亭,https://cdn.yzzy27-play.com/20250508/2441_7a68443f/index.m3u8$第24集
+
+蛮好的人生,https://vvip.high26-playback.com/20250418/4585_43cf3ae6/index.m3u8$第1集
+蛮好的人生,https://vvip.high26-playback.com/20250418/4586_e2c4a40d/index.m3u8$第2集
+蛮好的人生,https://svip.high25-playback.com/20250417/24081_75b3ce48/index.m3u8$第3集
+蛮好的人生,https://svip.high25-playback.com/20250417/24082_e09baed8/index.m3u8$第4集
+蛮好的人生,https://svip.high25-playback.com/20250418/24170_133232fc/index.m3u8$第5集
+蛮好的人生,https://svip.high25-playback.com/20250418/24171_418bf1ce/index.m3u8$第6集
+蛮好的人生,https://vvip.high26-playback.com/20250420/4862_3713bdda/index.m3u8$第7集
+蛮好的人生,https://vvip.high26-playback.com/20250420/4863_2cfa8f9e/index.m3u8$第8集
+蛮好的人生,https://vvip.high26-playback.com/20250421/5011_0342c9a7/index.m3u8$第9集
+蛮好的人生,https://vvip.high26-playback.com/20250421/5012_f0873a91/index.m3u8$第10集
+蛮好的人生,https://cdn.yzzy27-play.com/20250422/255_fe131d7f/index.m3u8$第11集
+蛮好的人生,https://cdn.yzzy27-play.com/20250422/256_f718499c/index.m3u8$第12集
+蛮好的人生,https://cdn.yzzy27-play.com/20250423/397_e46de7e1/index.m3u8$第13集
+蛮好的人生,https://cdn.yzzy27-play.com/20250423/398_b7b16ecf/index.m3u8$第14集
+蛮好的人生,https://cdn.yzzy27-play.com/20250424/661_3a066bda/index.m3u8$第15集
+蛮好的人生,https://cdn.yzzy27-play.com/20250424/662_be3159ad/index.m3u8$第16集
+蛮好的人生,https://cdn.yzzy27-play.com/20250425/755_ccb09896/index.m3u8$第17集
+蛮好的人生,https://cdn.yzzy27-play.com/20250425/756_2823f479/index.m3u8$第18集
+蛮好的人生,https://cdn.yzzy27-play.com/20250426/867_ede7e2b6/index.m3u8$第19集
+蛮好的人生,https://cdn.yzzy27-play.com/20250426/868_dd45045f/index.m3u8$第20集
+蛮好的人生,https://cdn.yzzy27-play.com/20250427/954_6395ebd0/index.m3u8$第21集
+蛮好的人生,https://cdn.yzzy27-play.com/20250427/955_ef4e3b77/index.m3u8$第22集
+蛮好的人生,https://svip.high25-playback.com/20250427/25203_dcb2916e/index.m3u8$第23集
+蛮好的人生,https://svip.high25-playback.com/20250427/25204_c98a3fed/index.m3u8$第24集
+蛮好的人生,https://svip.high25-playback.com/20250428/25239_c8abeb06/index.m3u8$第25集
+蛮好的人生,https://svip.high25-playback.com/20250428/25240_b61db6a9/index.m3u8$第26集
+蛮好的人生,https://cdn.yzzy27-play.com/20250430/1297_286674e3/index.m3u8$第27集
+蛮好的人生,https://cdn.yzzy27-play.com/20250430/1298_a51fb975/index.m3u8$第28集
+蛮好的人生,https://svip.high25-playback.com/20250430/25461_e9484ac4/index.m3u8$第29集
+蛮好的人生,https://svip.high25-playback.com/20250430/25462_302996bd/index.m3u8$第30集
+蛮好的人生,https://svip.high25-playback.com/20250501/25521_ed3fc73e/index.m3u8$第31集
+蛮好的人生,https://svip.high25-playback.com/20250501/25522_5328c22d/index.m3u8$第32集
+蛮好的人生,https://vvip.high26-playback.com/20250503/5844_f9322b14/index.m3u8$第33集
+蛮好的人生,https://vvip.high26-playback.com/20250503/5852_805163a0/index.m3u8$第34集
+蛮好的人生,https://vvip.high26-playback.com/20250503/5853_36769206/index.m3u8$第35集
+蛮好的人生,https://vvip.high26-playback.com/20250503/5854_624ec1c8/index.m3u8$第36集大结局
+
+无忧渡,https://svip.high24-playback.com/20250412/24583_381476dd/index.m3u8$第1集
+无忧渡,https://svip.high24-playback.com/20250412/24584_d60aef7f/index.m3u8$第2集
+无忧渡,https://svip.high24-playback.com/20250412/24585_c9ce4c23/index.m3u8$第3集
+无忧渡,https://svip.high25-playback.com/20250412/23569_1e2d681b/index.m3u8$第4集
+无忧渡,https://svip.high25-playback.com/20250412/23570_c1898675/index.m3u8$第5集
+无忧渡,https://svip.high25-playback.com/20250412/23571_3ad1108c/index.m3u8$第6集
+无忧渡,https://vvip.high26-playback.com/20250414/4132_a4d8e2a7/index.m3u8$第7集
+无忧渡,https://vvip.high26-playback.com/20250414/4133_b2330fc4/index.m3u8$第8集
+无忧渡,https://vvip.high26-playback.com/20250415/4271_05128e44/index.m3u8$第9集
+无忧渡,https://vvip.high26-playback.com/20250415/4272_34609bdc/index.m3u8$第10集
+无忧渡,https://vvip.high26-playback.com/20250416/4349_a6d5ab67/index.m3u8$第11集
+无忧渡,https://vvip.high26-playback.com/20250416/4350_244edd7e/index.m3u8$第12集
+无忧渡,https://vvip.high26-playback.com/20250417/4454_80c94c09/index.m3u8$第13集
+无忧渡,https://vvip.high26-playback.com/20250417/4455_d2b15c75/index.m3u8$第14集
+无忧渡,https://vvip.high26-playback.com/20250418/4581_c78c3474/index.m3u8$第15集
+无忧渡,https://vvip.high26-playback.com/20250418/4582_f1298750/index.m3u8$第16集
+无忧渡,https://vvip.high26-playback.com/20250419/4725_102b905d/index.m3u8$第17集
+无忧渡,https://vvip.high26-playback.com/20250419/4726_f9ff6540/index.m3u8$第18集
+无忧渡,https://vvip.high26-playback.com/20250420/4855_b8a03c5c/index.m3u8$第19集
+无忧渡,https://vvip.high26-playback.com/20250420/4856_06f7c042/index.m3u8$第20集
+无忧渡,https://vvip.high26-playback.com/20250421/5004_3202111c/index.m3u8$第21集
+无忧渡,https://vvip.high26-playback.com/20250421/5005_1d640826/index.m3u8$第22集
+无忧渡,https://cdn.yzzy27-play.com/20250422/249_077e29b1/index.m3u8$第23集
+无忧渡,https://cdn.yzzy27-play.com/20250422/250_6c9882bb/index.m3u8$第24集
+无忧渡,https://cdn.yzzy27-play.com/20250423/384_0584ce56/index.m3u8$第25集
+无忧渡,https://cdn.yzzy27-play.com/20250423/385_dc912a25/index.m3u8$第26集
+无忧渡,https://svip.high25-playback.com/20250423/24769_c113616d/index.m3u8$第27集
+无忧渡,https://svip.high25-playback.com/20250423/24770_9c677bd9/index.m3u8$第28集
+无忧渡,https://cdn.yzzy27-play.com/20250425/746_185e65bc/index.m3u8$第29集
+无忧渡,https://cdn.yzzy27-play.com/20250425/747_8d317bdc/index.m3u8$第30集
+无忧渡,https://vvip.high26-playback.com/20250426/5342_4f714c73/index.m3u8$第31集
+无忧渡,https://vvip.high26-playback.com/20250426/5343_8dd291cb/index.m3u8$第32集
+无忧渡,https://vvip.high26-playback.com/20250426/5344_73f95ee4/index.m3u8$第33集
+无忧渡,https://cdn.yzzy27-play.com/20250426/870_22fb0cee/index.m3u8$第34集
+无忧渡,https://cdn.yzzy27-play.com/20250426/871_aeb3135b/index.m3u8$第35集
+无忧渡,https://cdn.yzzy27-play.com/20250426/872_43feaeee/index.m3u8$第36集大结局
+
+狮城山海,https://cdn.yzzy27-play.com/20250501/1524_471c75ee/index.m3u8$第1集
+狮城山海,https://cdn.yzzy27-play.com/20250501/1525_8c00dee2/index.m3u8$第2集
+狮城山海,https://cdn.yzzy27-play.com/20250501/1526_e60e81c4/index.m3u8$第3集
+狮城山海,https://cdn.yzzy27-play.com/20250501/1527_5cce8ded/index.m3u8$第4集
+狮城山海,https://vvip.high26-playback.com/20250501/5752_c7b3f097/index.m3u8$第5集
+狮城山海,https://vvip.high26-playback.com/20250501/5753_23f09b21/index.m3u8$第6集
+狮城山海,https://svip.high25-playback.com/20250501/25534_f5011865/index.m3u8$第7集
+狮城山海,https://svip.high25-playback.com/20250501/25535_68f4f1c9/index.m3u8$第8集
+狮城山海,https://cdn.yzzy27-play.com/20250503/1958_d77f0076/index.m3u8$第9集
+狮城山海,https://cdn.yzzy27-play.com/20250503/1959_e4dd5528/index.m3u8$第10集
+狮城山海,https://svip.high25-playback.com/20250503/25766_90be09f2/index.m3u8$第11集
+狮城山海,https://svip.high25-playback.com/20250503/25767_89eec4cf/index.m3u8$第12集
+狮城山海,https://svip.high25-playback.com/20250504/25905_65c96426/index.m3u8$第13集
+狮城山海,https://svip.high25-playback.com/20250504/25906_3df9f63b/index.m3u8$第14集
+狮城山海,https://cdn.yzzy27-play.com/20250506/2243_90aef91f/index.m3u8$第15集
+狮城山海,https://cdn.yzzy27-play.com/20250506/2244_3147da8a/index.m3u8$第16集
+狮城山海,https://cdn.yzzy27-play.com/20250507/2333_f7e0b956/index.m3u8$第17集
+狮城山海,https://vvip.high26-playback.com/20250507/6085_3413ce14/index.m3u8$第18集
+狮城山海,https://vvip.high26-playback.com/20250508/6191_9d4c0363/index.m3u8$第19集
+狮城山海,https://vvip.high26-playback.com/20250508/6192_f91ceb5a/index.m3u8$第20集
+ 
+榜上佳婿,https://cdn.yzzy27-play.com/20250426/874_51ef186e/index.m3u8$第1集
+榜上佳婿,https://vvip.high26-playback.com/20250426/5352_72619259/index.m3u8$第2集
+榜上佳婿,https://vvip.high26-playback.com/20250426/5353_aa0d2a80/index.m3u8$第3集
+榜上佳婿,https://vvip.high26-playback.com/20250426/5355_4cfe94fc/index.m3u8$第4集
+榜上佳婿,https://cdn.yzzy27-play.com/20250426/883_210f760a/index.m3u8$第5集
+榜上佳婿,https://vvip.high26-playback.com/20250427/5470_baed9f51/index.m3u8$第6集
+榜上佳婿,https://vvip.high26-playback.com/20250427/5471_82836ca5/index.m3u8$第7集
+榜上佳婿,https://cdn.yzzy27-play.com/20250428/1109_8f1d4362/index.m3u8$第8集
+榜上佳婿,https://cdn.yzzy27-play.com/20250428/1111_b59c67bf/index.m3u8$第9集
+榜上佳婿,https://cdn.yzzy27-play.com/20250429/1215_a4d2f0d2/index.m3u8$第10集
+榜上佳婿,https://svip.high25-playback.com/20250428/25250_a4589a60/index.m3u8$第11集
+榜上佳婿,https://cdn.yzzy27-play.com/20250430/1303_d282ef26/index.m3u8$第12集
+榜上佳婿,https://cdn.yzzy27-play.com/20250430/1304_5caf41d6/index.m3u8$第13集
+榜上佳婿,https://cdn.yzzy27-play.com/20250501/1495_fa1e9c96/index.m3u8$第14集
+榜上佳婿,https://cdn.yzzy27-play.com/20250502/1651_be3e9d3f/index.m3u8$第15集
+榜上佳婿,https://vvip.high26-playback.com/20250502/5797_034260c0/index.m3u8$第16集
+榜上佳婿,https://svip.high25-playback.com/20250502/25609_505b6ea9/index.m3u8$第17集
+榜上佳婿,https://svip.high25-playback.com/20250502/25610_bd6ad709/index.m3u8$第18集
+榜上佳婿,https://cdn.yzzy27-play.com/20250504/2072_07cb5f86/index.m3u8$第19集
+榜上佳婿,https://cdn.yzzy27-play.com/20250504/2073_4b86abe4/index.m3u8$第20集
+榜上佳婿,https://cdn.yzzy27-play.com/20250505/2154_1e8c391a/index.m3u8$第21集
+榜上佳婿,https://cdn.yzzy27-play.com/20250505/2155_a381c2c3/index.m3u8$第22集
+榜上佳婿,https://vvip.high26-playback.com/20250506/5966_95c8f422/index.m3u8$第23集
+榜上佳婿,https://vvip.high26-playback.com/20250506/5967_8682cc30/index.m3u8$第24集
+榜上佳婿,https://cdn.yzzy27-play.com/20250507/2314_db9eeb7e/index.m3u8$第25集
+榜上佳婿,https://vvip.high26-playback.com/20250508/6186_fb3deea8/index.m3u8$第26集
+ 
+成家,https://svip.high25-playback.com/20250418/24173_945beadd/index.m3u8$第1集
+成家,https://svip.high25-playback.com/20250418/24174_16db7db2/index.m3u8$第2集
+成家,https://vvip.high26-playback.com/20250419/4735_a5122944/index.m3u8$第3集
+成家,https://vvip.high26-playback.com/20250419/4736_8df6a659/index.m3u8$第4集
+成家,https://vvip.high26-playback.com/20250420/4864_a6825954/index.m3u8$第5集
+成家,https://vvip.high26-playback.com/20250420/4865_d91caca7/index.m3u8$第6集
+成家,https://vvip.high26-playback.com/20250421/5013_e140dbab/index.m3u8$第7集
+成家,https://vvip.high26-playback.com/20250421/5014_4424d2de/index.m3u8$第8集
+成家,https://svip.high25-playback.com/20250421/24522_850972b9/index.m3u8$第9集
+成家,https://svip.high25-playback.com/20250421/24523_aec5e966/index.m3u8$第10集
+成家,https://vvip.high26-playback.com/20250423/5161_8452a95c/index.m3u8$第11集
+成家,https://vvip.high26-playback.com/20250423/5162_c6c61abd/index.m3u8$第12集
+成家,https://cdn.yzzy27-play.com/20250424/663_8757150d/index.m3u8$第13集
+成家,https://cdn.yzzy27-play.com/20250424/664_2291d2ec/index.m3u8$第14集
+成家,https://cdn.yzzy27-play.com/20250425/788_c15da1f2/index.m3u8$第15集
+成家,https://cdn.yzzy27-play.com/20250425/789_68053af2/index.m3u8$第16集
+成家,https://vvip.high26-playback.com/20250426/5356_7ec0dbee/index.m3u8$第17集
+成家,https://svip.high25-playback.com/20250426/25161_a7a6b51b/index.m3u8$第18集
+成家,https://cdn.yzzy27-play.com/20250428/1112_20d135f0/index.m3u8$第19集
+成家,https://cdn.yzzy27-play.com/20250428/1113_9c3b1830/index.m3u8$第20集
+成家,https://vvip.high26-playback.com/20250429/5521_8a94ecfa/index.m3u8$第21集
+成家,https://vvip.high26-playback.com/20250429/5520_3557a86d/index.m3u8$第22集
+成家,https://cdn.yzzy27-play.com/20250430/1305_fd5c905b/index.m3u8$第23集
+成家,https://cdn.yzzy27-play.com/20250430/1306_7940ab47/index.m3u8$第24集
+成家,https://svip.high25-playback.com/20250430/25466_4d36e559/index.m3u8$第25集
+成家,https://svip.high25-playback.com/20250430/25467_4a50c47d/index.m3u8$第26集
+成家,https://vvip.high26-playback.com/20250502/5798_ba4002d8/index.m3u8$第27集
+成家,https://vvip.high26-playback.com/20250502/5799_de01d76e/index.m3u8$第28集
+成家,https://vvip.high26-playback.com/20250503/5850_234a1273/index.m3u8$第29集
+成家,https://cdn.yzzy27-play.com/20250504/2075_cbef4632/index.m3u8$第30集
+成家,https://cdn.yzzy27-play.com/20250505/2161_333ac5d9/index.m3u8$第31集
+成家,https://svip.high25-playback.com/20250504/25855_4dd26a77/index.m3u8$第32集
+成家,https://svip.high25-playback.com/20250504/25856_761477e6/index.m3u8$第33集
+成家,https://svip.high25-playback.com/20250504/25857_9b54f9ea/index.m3u8$第34集
+成家,https://vvip.high26-playback.com/20250505/5922_d76d8dee/index.m3u8$第35集
+成家,https://vvip.high26-playback.com/20250505/5923_418db2ea/index.m3u8$第36集大结局
+ 
+无尽的尽头,https://cdn.yzzy27-play.com/20250425/750_b137fdd1/index.m3u8$第1集
+无尽的尽头,https://cdn.yzzy27-play.com/20250425/751_912d2b1c/index.m3u8$第2集
+无尽的尽头,https://cdn.yzzy27-play.com/20250425/752_a1d33d0d/index.m3u8$第3集
+无尽的尽头,https://cdn.yzzy27-play.com/20250425/790_2dace78f/index.m3u8$第4集
+无尽的尽头,https://cdn.yzzy27-play.com/20250426/873_98d6f58a/index.m3u8$第5集
+无尽的尽头,https://cdn.yzzy27-play.com/20250426/875_4b0a59dd/index.m3u8$第6集
+无尽的尽头,https://vvip.high26-playback.com/20250427/5472_64c26b2a/index.m3u8$第7集
+无尽的尽头,https://cdn.yzzy27-play.com/20250428/1103_aace49c7/index.m3u8$第8集
+无尽的尽头,https://cdn.yzzy27-play.com/20250428/1104_4da04049/index.m3u8$第9集
+无尽的尽头,https://cdn.yzzy27-play.com/20250428/1106_c9f95a0a/index.m3u8$第10集
+无尽的尽头,https://cdn.yzzy27-play.com/20250429/1217_6a61d423/index.m3u8$第11集
+无尽的尽头,https://vvip.high26-playback.com/20250430/5551_38685413/index.m3u8$第12集
+无尽的尽头,https://cdn.yzzy27-play.com/20250501/1497_55c567fd/index.m3u8$第13集
+无尽的尽头,https://vvip.high26-playback.com/20250502/5794_5d55e7c1/index.m3u8$第14集
+无尽的尽头,https://vvip.high26-playback.com/20250502/5796_49856ed4/index.m3u8$第15集
+无尽的尽头,https://cdn.yzzy27-play.com/20250503/1941_7af6266c/index.m3u8$第16集
+无尽的尽头,https://vvip.high26-playback.com/20250503/5851_2aec405d/index.m3u8$第17集
+无尽的尽头,https://vvip.high26-playback.com/20250504/5879_927e838a/index.m3u8$第18集
+无尽的尽头,https://cdn.yzzy27-play.com/20250504/2074_1f4fe6a4/index.m3u8$第19集
+无尽的尽头,https://vvip.high26-playback.com/20250505/5918_15ae3b9d/index.m3u8$第20集
+无尽的尽头,https://cdn.yzzy27-play.com/20250505/2157_d5425997/index.m3u8$第21集
+无尽的尽头,https://cdn.yzzy27-play.com/20250505/2158_697e382c/index.m3u8$第22集
+无尽的尽头,https://cdn.yzzy27-play.com/20250505/2159_ddd9dda6/index.m3u8$第23集
+无尽的尽头,https://cdn.yzzy27-play.com/20250505/2163_6e5025cc/index.m3u8$第24集大结局
+ 
+落花时节又逢君,https://cdn.yzzy27-play.com/20250429/1200_fe2d0103/index.m3u8$第1集
+落花时节又逢君,https://cdn.yzzy27-play.com/20250429/1201_7501e5d4/index.m3u8$第2集
+落花时节又逢君,https://cdn.yzzy27-play.com/20250429/1202_147702db/index.m3u8$第3集
+落花时节又逢君,https://cdn.yzzy27-play.com/20250429/1203_491442df/index.m3u8$第4集
+落花时节又逢君,https://svip.high25-playback.com/20250429/25289_1751a9a2/index.m3u8$第5集
+落花时节又逢君,https://svip.high25-playback.com/20250429/25290_44f95c37/index.m3u8$第6集
+落花时节又逢君,https://vvip.high26-playback.com/20250501/5635_6b493230/index.m3u8$第7集
+落花时节又逢君,https://vvip.high26-playback.com/20250501/5636_203cb085/index.m3u8$第8集
+落花时节又逢君,https://svip.high25-playback.com/20250501/25523_23f8361e/index.m3u8$第9集
+落花时节又逢君,https://svip.high25-playback.com/20250501/25524_22269b8c/index.m3u8$第10集
+落花时节又逢君,https://svip.high25-playback.com/20250502/25603_53e4db6f/index.m3u8$第11集
+落花时节又逢君,https://vvip.high26-playback.com/20250504/5880_055e31fa/index.m3u8$第12集
+落花时节又逢君,https://svip.high25-playback.com/20250504/25800_6d4a2c26/index.m3u8$第13集
+落花时节又逢君,https://vvip.high26-playback.com/20250506/5962_baeabb8f/index.m3u8$第14集
+落花时节又逢君,https://vvip.high26-playback.com/20250506/5963_680390c5/index.m3u8$第15集
+落花时节又逢君,https://cdn.yzzy27-play.com/20250507/2306_f976b57b/index.m3u8$第16集
+落花时节又逢君,https://cdn.yzzy27-play.com/20250507/2307_6211080f/index.m3u8$第17集
+落花时节又逢君,https://cdn.yzzy27-play.com/20250508/2442_6048ff4e/index.m3u8$第18集
+落花时节又逢君,https://cdn.yzzy27-play.com/20250508/2443_24e27b86/index.m3u8$第19集
+ 
+雁回时,https://svip.yyzy-play.vip/20250318/29683_d3423388/index.m3u8$第1集
+雁回时,https://svip.yyzy-play.vip/20250318/29687_af283b89/index.m3u8$第2集
+雁回时,https://svip.yyzy-play.vip/20250318/29686_af708396/index.m3u8$第3集
+雁回时,https://svip.yyzy-play.vip/20250318/29690_0f9689de/index.m3u8$第4集
+雁回时,https://svip.high25-playback.com/20250319/21835_e6bd8e1b/index.m3u8$第5集
+雁回时,https://svip.high25-playback.com/20250319/21834_720b324c/index.m3u8$第6集
+雁回时,https://svip.high24-playback.com/20250320/20834_af9d07ba/index.m3u8$第7集
+雁回时,https://svip.high24-playback.com/20250324/21426_eb17692e/index.m3u8$第8集
+雁回时,https://svip.high24-playback.com/20250321/20980_04673b9a/index.m3u8$第9集
+雁回时,https://svip.high24-playback.com/20250321/20979_729ecbea/index.m3u8$第10集
+雁回时,https://vvip.high26-playback.com/20250322/2149_bf025950/index.m3u8$第11集
+雁回时,https://vvip.high26-playback.com/20250322/2150_d23c73b2/index.m3u8$第12集
+雁回时,https://vvip.high26-playback.com/20250323/2238_e1b7d8a6/index.m3u8$第13集
+雁回时,https://vvip.high26-playback.com/20250323/2237_3db4ba28/index.m3u8$第14集
+雁回时,https://svip.high25-playback.com/20250324/22175_31ec054a/index.m3u8$第15集
+雁回时,https://svip.high25-playback.com/20250325/22228_9fed97a2/index.m3u8$第16集
+雁回时,https://svip.high25-playback.com/20250326/22313_ca97e8f5/index.m3u8$第17集
+雁回时,https://svip.high25-playback.com/20250327/22362_1054e6ab/index.m3u8$第18集
+雁回时,https://svip.high25-playback.com/20250327/22368_791d03b2/index.m3u8$第19集
+雁回时,https://svip.high25-playback.com/20250328/22430_b6f935b3/index.m3u8$第20集
+雁回时,https://svip.high25-playback.com/20250328/22429_70709e56/index.m3u8$第21集
+雁回时,https://svip.high25-playback.com/20250329/22516_1a26bd05/index.m3u8$第22集
+雁回时,https://svip.high25-playback.com/20250329/22526_479b1540/index.m3u8$第23集
+雁回时,https://svip.high25-playback.com/20250330/22579_15338dfd/index.m3u8$第24集
+雁回时,https://vvip.high26-playback.com/20250331/2886_ec0609a0/index.m3u8$第25集
+雁回时,https://vvip.high26-playback.com/20250402/2983_b1b0432c/index.m3u8$第26集
+雁回时,https://vvip.high26-playback.com/20250402/2988_faa453ef/index.m3u8$第27集
+雁回时,https://vvip.high26-playback.com/20250402/2989_5848ad95/index.m3u8$第28集
+雁回时,https://vvip.high26-playback.com/20250402/3002_d806ca13/index.m3u8$第29集
+雁回时,https://vvip.high26-playback.com/20250402/3003_a4380923/index.m3u8$第30集大结局
+爱你,https://svip.high24-playback.com/20250225/19144_e35d1bd6/index.m3u8$第1集
+爱你,https://svip.high24-playback.com/20250225/19143_2631734d/index.m3u8$第2集
+爱你,https://svip.high25-playback.com/20250225/20602_68242b20/index.m3u8$第3集
+爱你,https://svip.high25-playback.com/20250225/20603_773cac1a/index.m3u8$第4集
+爱你,https://svip.yyzy-play.vip/20250226/25020_8a2e71cf/index.m3u8$第5集
+爱你,https://svip.yyzy-play.vip/20250226/25019_9a44164b/index.m3u8$第6集
+爱你,https://svip.high25-playback.com/20250227/20727_c2959ada/index.m3u8$第7集
+爱你,https://svip.high25-playback.com/20250227/20726_0233e90c/index.m3u8$第8集
+爱你,https://svip.high25-playback.com/20250228/20826_57294791/index.m3u8$第9集
+爱你,https://svip.yyzy-play.vip/20250301/25320_0b0d9ee4/index.m3u8$第10集
+爱你,https://svip.yyzy-play.vip/20250302/25393_bca89523/index.m3u8$第11集
+爱你,https://svip.yyzy-play.vip/20250302/25392_5ce7d52e/index.m3u8$第12集
+爱你,https://svip.yyzy-play.vip/20250303/25454_c455fc69/index.m3u8$第13集
+爱你,https://svip.yyzy-play.vip/20250303/25453_69ab98cd/index.m3u8$第14集
+爱你,https://svip.yyzy-play.vip/20250304/25535_23f6db25/index.m3u8$第15集
+爱你,https://svip.yyzy-play.vip/20250304/25534_972bbcea/index.m3u8$第16集
+爱你,https://svip.high25-playback.com/20250305/21097_e198642a/index.m3u8$第17集
+爱你,https://svip.high25-playback.com/20250305/21096_f905903e/index.m3u8$第18集
+爱你,https://svip.yyzy-play.vip/20250306/25702_93774810/index.m3u8$第19集
+爱你,https://svip.yyzy-play.vip/20250306/25701_2b0f4596/index.m3u8$第20集
+爱你,https://svip.high25-playback.com/20250307/21244_41b35d58/index.m3u8$第21集
+爱你,https://svip.high25-playback.com/20250308/21290_63e17899/index.m3u8$第22集
+爱你,https://svip.yyzy-play.vip/20250309/26317_040b9ed6/index.m3u8$第23集
+爱你,https://svip.yyzy-play.vip/20250309/26318_e297aad6/index.m3u8$第24集
+爱你,https://svip.yyzy-play.vip/20250309/26319_3262543d/index.m3u8$第25集
+爱你,https://svip.high25-playback.com/20250309/21344_916fc5c1/index.m3u8$第26集
+爱你,https://svip.high25-playback.com/20250309/21343_f4323875/index.m3u8$第27集
+爱你,https://svip.high25-playback.com/20250309/21345_6bd9adc5/index.m3u8$第28集大结局
+夺命提示,https://v.cdnlz12.com/20250317/19351_0f67d830/index.m3u8$第1集
+夺命提示,https://v.cdnlz12.com/20250318/19420_dcf02732/index.m3u8$第2集
+夺命提示,https://v.cdnlz12.com/20250319/19498_d739d3fd/index.m3u8$第3集
+夺命提示,https://v.cdnlz12.com/20250320/19552_90242c25/index.m3u8$第4集
+夺命提示,https://v.cdnlz12.com/20250321/19659_225de0f1/index.m3u8$第5集
+夺命提示,https://v.cdnlz12.com/20250324/19772_4590e7ad/index.m3u8$第6集
+夺命提示,https://v.cdnlz12.com/20250325/19821_10eb01f3/index.m3u8$第7集
+夺命提示,https://v.cdnlz12.com/20250326/19863_8ab6e64e/index.m3u8$第8集
+夺命提示,https://v.cdnlz12.com/20250327/19927_7fe8dd24/index.m3u8$第9集
+夺命提示,https://v.cdnlz12.com/20250328/20018_2eaedd5e/index.m3u8$第10集
+夺命提示,https://v.cdnlz12.com/20250331/20189_8c7868d1/index.m3u8$第11集
+夺命提示,https://v.cdnlz12.com/20250401/20256_01b3e17f/index.m3u8$第12集
+夺命提示,https://v.cdnlz12.com/20250402/20312_94f54718/index.m3u8$第13集
+夺命提示,https://v.cdnlz12.com/20250403/20390_71d524b3/index.m3u8$第14集
+夺命提示,https://v.cdnlz12.com/20250404/20445_7152b232/index.m3u8$第15集
+夺命提示,https://v.cdnlz12.com/20250407/20568_b795e701/index.m3u8$第16集
+夺命提示,https://v.cdnlz12.com/20250408/20654_b2384f0b/index.m3u8$第17集
+夺命提示,https://v.cdnlz12.com/20250409/20739_72bdf31b/index.m3u8$第18集
+夺命提示,https://v.cdnlz12.com/20250410/20800_a42770a3/index.m3u8$第19集
+夺命提示,https://v.cdnlz12.com/20250411/20876_22989e08/index.m3u8$第20集
+夺命提示,https://v.cdnlz12.com/20250414/21056_6f3e251d/index.m3u8$第21集
+夺命提示,https://v.cdnlz12.com/20250415/21116_4ee17f32/index.m3u8$第22集
+夺命提示,https://v.cdnlz12.com/20250416/21169_df3b3bc4/index.m3u8$第23集
+夺命提示,https://v.cdnlz12.com/20250417/21246_0e92995a/index.m3u8$第24集
+夺命提示,https://v.cdnlz12.com/20250418/21329_e32ccdfb/index.m3u8$第25集
+夺命提示,https://v.cdnlz12.com/20250421/21460_f45b718a/index.m3u8$第26集
+夺命提示,https://v.cdnlz12.com/20250422/21572_9dcf9488/index.m3u8$第27集
+夺命提示,https://v.cdnlz12.com/20250423/21630_5bf202ab/index.m3u8$第28集
+夺命提示,https://v.cdnlz12.com/20250424/21665_339c53e3/index.m3u8$第29集
+夺命提示,https://v.cdnlz12.com/20250425/21725_e6915398/index.m3u8$第30集大结局
+绝密较量,https://svip.high25-playback.com/20250428/25246_873111df/index.m3u8$第1集
+绝密较量,https://svip.high25-playback.com/20250428/25247_6ab5309c/index.m3u8$第2集
+绝密较量,https://svip.high25-playback.com/20250428/25248_78c9b2fe/index.m3u8$第3集
+绝密较量,https://svip.high25-playback.com/20250428/25249_4ec74784/index.m3u8$第4集
+绝密较量,https://svip.high25-playback.com/20250429/25296_bb97e7d1/index.m3u8$第5集
+绝密较量,https://svip.high25-playback.com/20250429/25297_8a72ae26/index.m3u8$第6集
+绝密较量,https://svip.high25-playback.com/20250430/25468_7b5f37cf/index.m3u8$第7集
+绝密较量,https://svip.high25-playback.com/20250430/25469_b575e1f6/index.m3u8$第8集
+绝密较量,https://cdn.yzzy27-play.com/20250506/2232_3e6260b8/index.m3u8$第9集
+绝密较量,https://cdn.yzzy27-play.com/20250506/2233_e0f7a4d0/index.m3u8$第10集
+绝密较量,https://cdn.yzzy27-play.com/20250507/2315_88bfcf02/index.m3u8$第11集
+绝密较量,https://cdn.yzzy27-play.com/20250507/2316_778609db/index.m3u8$第12集
+绝密较量,https://vvip.high26-playback.com/20250508/6187_0e1bacf0/index.m3u8$第13集
+绝密较量,https://vvip.high26-playback.com/20250508/6188_30893a5e/index.m3u8$第14集
+我的后半生,https://vvip.high26-playback.com/20250330/2813_2b86fe8b/index.m3u8$第1集
+我的后半生,https://vvip.high26-playback.com/20250330/2812_9dc3ccf5/index.m3u8$第2集
+我的后半生,https://vvip.high26-playback.com/20250330/2811_186de440/index.m3u8$第3集
+我的后半生,https://vvip.high26-playback.com/20250330/2823_14a518c6/index.m3u8$第4集
+我的后半生,https://vvip.high26-playback.com/20250331/2881_3d74251e/index.m3u8$第5集
+我的后半生,https://vvip.high26-playback.com/20250331/2890_30dfb881/index.m3u8$第6集
+我的后半生,https://svip.high25-playback.com/20250401/22664_87c7574c/index.m3u8$第7集
+我的后半生,https://vvip.high26-playback.com/20250402/2990_f6b5f8c3/index.m3u8$第8集
+我的后半生,https://svip.high26-playback.com/20250403/3082_f14bc21b/index.m3u8$第9集
+我的后半生,https://svip.high25-playback.com/20250403/22807_e1bad139/index.m3u8$第10集
+我的后半生,https://svip.high25-playback.com/20250403/22885_299e150c/index.m3u8$第11集
+我的后半生,https://svip.high25-playback.com/20250403/22886_d5c1f60f/index.m3u8$第12集
+我的后半生,https://vvip.high26-playback.com/20250405/3283_c819904d/index.m3u8$第13集
+我的后半生,https://vvip.high26-playback.com/20250405/3293_ca3ec598/index.m3u8$第14集
+我的后半生,https://vvip.high26-playback.com/20250406/3383_0668e20b/index.m3u8$第15集
+我的后半生,https://vvip.high26-playback.com/20250406/3391_dbb42293/index.m3u8$第16集
+我的后半生,https://svip.high24-playback.com/20250406/23796_aa97f5d3/index.m3u8$第17集
+我的后半生,https://svip.high24-playback.com/20250406/23802_cf566487/index.m3u8$第18集
+我的后半生,https://vvip.high26-playback.com/20250408/3518_5401acfe/index.m3u8$第19集
+我的后半生,https://vvip.high26-playback.com/20250408/3523_93931410/index.m3u8$第20集
+我的后半生,https://svip.high25-playback.com/20250408/23299_ab655171/index.m3u8$第21集
+我的后半生,https://svip.high25-playback.com/20250408/23302_958ffd03/index.m3u8$第22集
+我的后半生,https://vvip.high26-playback.com/20250410/3725_94ef7214/index.m3u8$第23集
+我的后半生,https://vvip.high26-playback.com/20250410/3729_cb16b849/index.m3u8$第24集
+我的后半生,https://vvip.high26-playback.com/20250411/3851_dc0439ca/index.m3u8$第25集
+我的后半生,https://vvip.high26-playback.com/20250411/3852_582967e0/index.m3u8$第26集
+我的后半生,https://vvip.high26-playback.com/20250412/3977_7d571e5c/index.m3u8$第27集
+我的后半生,https://vvip.high26-playback.com/20250412/3978_a8badd37/index.m3u8$第28集
+我的后半生,https://svip.high24-playback.com/20250412/24590_96e215fc/index.m3u8$第29集
+我的后半生,https://svip.high24-playback.com/20250412/24591_857db626/index.m3u8$第30集
+我的后半生,https://svip.high24-playback.com/20250413/24882_32e0740f/index.m3u8$第31集
+我的后半生,https://svip.high24-playback.com/20250413/24884_8755e0a9/index.m3u8$第32集
+我的后半生,https://vvip.high26-playback.com/20250414/4169_21928905/index.m3u8$第33集
+我的后半生,https://vvip.high26-playback.com/20250414/4170_adc8ca1b/index.m3u8$第34集
+我的后半生,https://vvip.high26-playback.com/20250414/4162_56c51a39/index.m3u8$第35集
+我的后半生,https://vvip.high26-playback.com/20250414/4163_60495b4e/index.m3u8$第36集大结局
+棋士,https://vvip.high26-playback.com/20250325/2413_2d86cfae/index.m3u8$第1集
+棋士,https://svip.high25-playback.com/20250325/22242_05662dcc/index.m3u8$第2集
+棋士,https://vvip.high26-playback.com/20250325/2418_3bca5e68/index.m3u8$第3集
+棋士,https://vvip.high26-playback.com/20250326/2494_b749feea/index.m3u8$第4集
+棋士,https://vvip.high26-playback.com/20250326/2497_71b15dd6/index.m3u8$第5集
+棋士,https://vvip.high26-playback.com/20250327/2585_a74570c7/index.m3u8$第6集
+棋士,https://vvip.high26-playback.com/20250328/2647_dbda7386/index.m3u8$第7集
+棋士,https://svip.high25-playback.com/20250329/22532_e7ebe536/index.m3u8$第8集
+棋士,https://vvip.high26-playback.com/20250330/2825_17e64872/index.m3u8$第9集
+棋士,https://vvip.high26-playback.com/20250331/2893_44f279ca/index.m3u8$第10集
+棋士,https://svip.high25-playback.com/20250401/22677_35e8998a/index.m3u8$第11集
+棋士,https://svip.high26-playback.com/20250403/3099_b23f5220/index.m3u8$第12集
+棋士,https://svip.high26-playback.com/20250404/3200_731ae30a/index.m3u8$第13集
+棋士,https://vvip.high26-playback.com/20250405/3290_3a30be93/index.m3u8$第14集
+棋士,https://svip.high25-playback.com/20250405/23070_b2913535/index.m3u8$第15集
+棋士,https://vvip.high26-playback.com/20250407/3464_51e6d6e6/index.m3u8$第16集
+棋士,https://svip.high24-playback.com/20250407/23880_2f8a5cbf/index.m3u8$第17集
+棋士,https://svip.high25-playback.com/20250409/23311_228a0da8/index.m3u8$第18集
+棋士,https://svip.high25-playback.com/20250409/23312_f43b4217/index.m3u8$第19集
+棋士,https://svip.high25-playback.com/20250409/23313_b02e072e/index.m3u8$第20集
+棋士,https://svip.high25-playback.com/20250409/23314_b2162cfe/index.m3u8$第21集
+棋士,https://svip.high25-playback.com/20250409/23315_f95b0d66/index.m3u8$第22集大结局
+北上,https://svip.yyzy-play.vip/20250303/25458_497254d8/index.m3u8$第1集
+北上,https://svip.yyzy-play.vip/20250303/25457_955d9189/index.m3u8$第2集
+北上,https://svip.yyzy-play.vip/20250303/25456_6167e26b/index.m3u8$第3集
+北上,https://svip.yyzy-play.vip/20250303/25455_39a9de2f/index.m3u8$第4集
+北上,https://svip.high24-playback.com/20250304/19620_8fb31b5d/index.m3u8$第5集
+北上,https://svip.high24-playback.com/20250304/19619_277ffc03/index.m3u8$第6集
+北上,https://svip.high25-playback.com/20250305/21103_47fbe316/index.m3u8$第7集
+北上,https://svip.high25-playback.com/20250305/21102_571b5c3e/index.m3u8$第8集
+北上,https://svip.high25-playback.com/20250306/21150_ad5551b7/index.m3u8$第9集
+北上,https://svip.high25-playback.com/20250306/21149_89792d93/index.m3u8$第10集
+北上,https://svip.high25-playback.com/20250310/21379_7c4615ac/index.m3u8$第11集
+北上,https://svip.high25-playback.com/20250310/21378_48d13dab/index.m3u8$第12集
+北上,https://svip.high25-playback.com/20250311/21411_69f84f55/index.m3u8$第13集
+北上,https://svip.high25-playback.com/20250311/21410_f66c5fd4/index.m3u8$第14集
+北上,https://svip.high24-playback.com/20250312/20128_48929fed/index.m3u8$第15集
+北上,https://svip.high24-playback.com/20250312/20127_56d54363/index.m3u8$第16集
+北上,https://svip.high24-playback.com/20250313/20212_fd312309/index.m3u8$第17集
+北上,https://svip.high24-playback.com/20250313/20211_f92e4562/index.m3u8$第18集
+北上,https://svip.high25-playback.com/20250314/21597_670df3a7/index.m3u8$第19集
+北上,https://svip.high25-playback.com/20250314/21596_baeb5327/index.m3u8$第20集
+北上,https://svip.high24-playback.com/20250317/20558_13018563/index.m3u8$第21集
+北上,https://svip.high24-playback.com/20250317/20557_5410c9b1/index.m3u8$第22集
+北上,https://svip.high25-playback.com/20250318/21787_ad0be573/index.m3u8$第23集
+北上,https://svip.high25-playback.com/20250318/21786_6c90bc07/index.m3u8$第24集
+北上,https://svip.high24-playback.com/20250319/20691_6d474871/index.m3u8$第25集
+北上,https://svip.high24-playback.com/20250319/20690_7df9a97e/index.m3u8$第26集
+北上,https://svip.high25-playback.com/20250320/21871_0f45e1fc/index.m3u8$第27集
+北上,https://svip.high25-playback.com/20250320/21870_ecc77f9d/index.m3u8$第28集
+北上,https://svip.high25-playback.com/20250321/22033_15553919/index.m3u8$第29集
+北上,https://svip.high25-playback.com/20250321/22032_47f0a441/index.m3u8$第30集
+北上,https://vvip.high26-playback.com/20250324/2280_6ff5a9ce/index.m3u8$第31集
+北上,https://vvip.high26-playback.com/20250324/2279_1e1dcf58/index.m3u8$第32集
+北上,https://svip.high25-playback.com/20250325/22236_19b4c922/index.m3u8$第33集
+北上,https://svip.high25-playback.com/20250325/22235_41a224a7/index.m3u8$第34集
+北上,https://svip.high25-playback.com/20250325/22240_8c0a9280/index.m3u8$第35集
+北上,https://svip.high25-playback.com/20250325/22241_69cf9468/index.m3u8$第36集
+北上,https://svip.high25-playback.com/20250325/22239_d32f9ee8/index.m3u8$第37集
+北上,https://svip.high25-playback.com/20250325/22238_7cf6f8e2/index.m3u8$第38集大结局
+人生是道选择题,https://v.cdnlz3.com/20250104/31846_58248b33/index.m3u8$第1集
+人生是道选择题,https://v.cdnlz3.com/20250104/31845_0e790d0c/index.m3u8$第2集
+人生是道选择题,https://v.cdnlz3.com/20250104/31838_66be8c45/index.m3u8$第3集
+人生是道选择题,https://v.cdnlz3.com/20250104/31839_f3c99c34/index.m3u8$第4集
+人生是道选择题,https://v.cdnlz3.com/20250104/31844_4e2e6fb7/index.m3u8$第5集
+人生是道选择题,https://v.cdnlz3.com/20250104/31842_50eb21c3/index.m3u8$第6集
+人生是道选择题,https://v.cdnlz3.com/20250104/31841_f3aeca60/index.m3u8$第7集
+人生是道选择题,https://v.cdnlz3.com/20250104/31840_81498f20/index.m3u8$第8集
+人生是道选择题,https://v.cdnlz3.com/20250104/31837_082905ed/index.m3u8$第9集
+人生是道选择题,https://v.cdnlz3.com/20250104/31843_3a201b33/index.m3u8$第10集
+人生是道选择题,https://v.cdnlz3.com/20250104/31836_1a2248ae/index.m3u8$第11集
+人生是道选择题,https://v.cdnlz12.com/20250104/18013_9de34c44/index.m3u8$第12集
+人生是道选择题,https://v.cdnlz12.com/20250104/18012_1f104661/index.m3u8$第13集
+人生是道选择题,https://v.cdnlz3.com/20250105/31865_aad5975d/index.m3u8$第14集
+人生是道选择题,https://v.cdnlz3.com/20250105/31864_96f42f60/index.m3u8$第15集
+人生是道选择题,https://v.cdnlz12.com/20250106/18052_227109b8/index.m3u8$第16集
+人生是道选择题,https://v.cdnlz12.com/20250106/18051_d05f9adb/index.m3u8$第17集
+人生是道选择题,https://v.cdnlz3.com/20250107/31927_a78ba378/index.m3u8$第18集
+人生是道选择题,https://v.cdnlz3.com/20250107/31926_b9b8c4c6/index.m3u8$第19集
+人生是道选择题,https://v.cdnlz3.com/20250108/31969_b6d53043/index.m3u8$第20集
+人生是道选择题,https://v.cdnlz3.com/20250108/31968_952e92d4/index.m3u8$第21集
+人生是道选择题,https://v.cdnlz3.com/20250109/32034_5378cc11/index.m3u8$第22集
+人生是道选择题,https://v.cdnlz3.com/20250109/32033_5753391c/index.m3u8$第23集大结局
+
+小戏骨：包青天之秦香莲与陈世美,https://yzzy.play-cdn11.com/20221119/9893_b5f88efc/index.m3u8$第1集
+小戏骨：包青天之秦香莲与陈世美,https://yzzy.play-cdn11.com/20221119/9896_b3e5c8c0/index.m3u8$第2集
+小戏骨：包青天之秦香莲与陈世美,https://yzzy.play-cdn11.com/20221119/9894_ec74ca88/index.m3u8$第3集
+小戏骨：包青天之秦香莲与陈世美,https://yzzy.play-cdn11.com/20221119/9895_7460ff08/index.m3u8$第4集
+小戏骨：包青天之秦香莲与陈世美,https://yzzy.play-cdn11.com/20221119/9898_e54e9432/index.m3u8$第5集
+小戏骨：黄飞鸿,https://yzzy.play-cdn17.com/20230719/11734_57f6a01d/index.m3u8$第1集
+小戏骨：水浒传,https://yzzy1.play-cdn16.com/20231024/24782_bc1c0ed9/index.m3u8$第1集
+小戏骨：水浒传,https://yzzy1.play-cdn16.com/20231024/24783_6510062b/index.m3u8$第2集
+小戏骨：水浒传,https://yzzy1.play-cdn16.com/20231024/24784_09ed29b8/index.m3u8$第3集
+小戏骨：水浒传,https://yzzy1.play-cdn16.com/20231024/24785_fe8abf5a/index.m3u8$第4集
+小戏骨：水浒传,https://yzzy1.play-cdn16.com/20231024/24786_0341541e/index.m3u8$第5集
+小戏骨：水浒传,https://yzzy1.play-cdn16.com/20231024/24787_c346b3f0/index.m3u8$第6集
+小戏骨：水浒传,https://yzzy1.play-cdn16.com/20231024/24788_75ae28d6/index.m3u8$第7集
+小戏骨：水浒传,https://yzzy1.play-cdn16.com/20231024/24789_4daeefdf/index.m3u8$第8集
+小戏骨：水浒传,https://yzzy1.play-cdn16.com/20231024/24790_6f16d98c/index.m3u8$第9集
+小戏骨：水浒传,https://yzzy1.play-cdn16.com/20231024/24791_87c3f241/index.m3u8$第10集全
+小戏骨：降妖记,https://yzzy.play-cdn11.com/20221119/9873_e73f9b28/index.m3u8
+小戏骨：花木兰,https://yzzy.play-cdn11.com/20221119/9872_9c527307/index.m3u8$第1集
+小戏骨：花木兰,https://yzzy.play-cdn11.com/20221119/9871_587b54e5/index.m3u8$第2集
+小戏骨：花木兰,https://yzzy.play-cdn11.com/20221119/9874_a73f3b2a/index.m3u8$第3集
+小戏骨：西游记之红孩儿,https://yzzy.play-cdn11.com/20221119/9866_78c23b7d/index.m3u8$第1集
+小戏骨：西游记之红孩儿,https://yzzy.play-cdn11.com/20221119/9867_7bd494af/index.m3u8$第2集
+小戏骨：西游记之红孩儿,https://yzzy.play-cdn11.com/20221119/9869_9ac52a73/index.m3u8$第3集
+小戏骨：西游记之红孩儿,https://yzzy.play-cdn11.com/20221119/9868_aac13abf/index.m3u8$第4集
+小戏骨：西游记之红孩儿,https://yzzy.play-cdn11.com/20221119/9870_8c70fd15/index.m3u8$第5集
+小戏骨：放开那三国,https://yzzy.play-cdn11.com/20221119/9861_b6e27a61/index.m3u8$第1集
+小戏骨：放开那三国,https://yzzy.play-cdn11.com/20221119/9863_082b0b45/index.m3u8$第2集
+小戏骨：放开那三国,https://yzzy.play-cdn11.com/20221119/9862_e1111aad/index.m3u8$第3集
+小戏骨：放开那三国,https://yzzy.play-cdn11.com/20221119/9864_fa1455bd/index.m3u8$第4集
+小戏骨：放开那三国,https://yzzy.play-cdn11.com/20221119/9865_9b55e996/index.m3u8$第5集
+天真派：杨门女将,https://yzzy.play-cdn11.com/20221119/9932_04322a44/index.m3u8$第1集
+天真派：杨门女将,https://yzzy.play-cdn11.com/20221119/9931_75b5e21f/index.m3u8$第2集
+天真派：杨门女将,https://yzzy.play-cdn11.com/20221119/9935_00d30b04/index.m3u8$第3集
+天真派：杨门女将,https://yzzy.play-cdn11.com/20221119/9934_80467e99/index.m3u8$第4集
+天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9914_52cdd0bd/index.m3u8$第1集
+天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9915_19bc8621/index.m3u8$第2集
+天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9918_d7edaf7b/index.m3u8$第3集
+天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9916_329c167f/index.m3u8$第4集
+天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9917_783437ff/index.m3u8$第5集
+天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9919_f1d86bdc/index.m3u8$第6集
+天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9921_84e9ac5e/index.m3u8$第7集
+天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9920_11def7a3/index.m3u8$第8集
+天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9922_a658ede2/index.m3u8$第9集
+天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9924_3a896d8f/index.m3u8$第10集
+天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9925_5287453c/index.m3u8$第11集
+天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9923_7c97871f/index.m3u8$第12集
+天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9926_0d42e2fd/index.m3u8$第13集
+天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9928_16f9f3e1/index.m3u8$第14集
+天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9929_b4c92b03/index.m3u8$第15集
+天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9927_5e27c305/index.m3u8$第16集
+天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9930_ee931674/index.m3u8$第17集
+天真派：武林外传,https://yzzy.play-cdn11.com/20221119/9933_fdd33e33/index.m3u8$第18集
+小戏骨：八仙过海,https://yzzy.play-cdn11.com/20221119/9879_a66497df/index.m3u8$第1集
+小戏骨：八仙过海,https://yzzy.play-cdn11.com/20221119/9880_33829ec8/index.m3u8$第2集
+小戏骨：八仙过海,https://yzzy.play-cdn11.com/20221119/9881_b5306273/index.m3u8$第3集
+小戏骨：八仙过海,https://yzzy.play-cdn11.com/20221119/9882_c72fe6d0/index.m3u8$第4集
+小戏骨：八仙过海,https://yzzy.play-cdn11.com/20221119/9883_d2609ed4/index.m3u8$第5集
+小戏骨：八仙过海,https://yzzy.play-cdn11.com/20221119/9885_cf93a59c/index.m3u8$第6集
+小戏骨：八仙过海,https://yzzy.play-cdn11.com/20221119/9884_daa08d75/index.m3u8$第7集
+小戏骨：八仙过海,https://yzzy.play-cdn11.com/20221119/9887_0ed604ef/index.m3u8$第8集
+小戏骨：八仙过海,https://yzzy.play-cdn11.com/20221119/9886_975d17c2/index.m3u8$第9集
+小戏骨：八仙过海,https://yzzy.play-cdn11.com/20221119/9888_5525cbcc/index.m3u8$第10集
+
+小戏骨：红楼梦之刘姥姥进大观园,https://yzzy.play-cdn11.com/20221119/9852_97807e3f/index.m3u8$第1集
+小戏骨：红楼梦之刘姥姥进大观园,https://yzzy.play-cdn11.com/20221119/9853_deb63d6d/index.m3u8$第2集
+小戏骨：红楼梦之刘姥姥进大观园,https://yzzy.play-cdn11.com/20221119/9854_cf83a6e9/index.m3u8$第3集
+小戏骨：红楼梦之刘姥姥进大观园,https://yzzy.play-cdn11.com/20221119/9855_b3218359/index.m3u8$第4集
+小戏骨：红楼梦之刘姥姥进大观园,https://yzzy.play-cdn11.com/20221119/9856_4320ee81/index.m3u8$第5集
+小戏骨：红楼梦之刘姥姥进大观园,https://yzzy.play-cdn11.com/20221119/9857_cb48dc97/index.m3u8$第6集
+小戏骨：红楼梦之刘姥姥进大观园,https://yzzy.play-cdn11.com/20221119/9859_249a3803/index.m3u8$第7集
+小戏骨：红楼梦之刘姥姥进大观园,https://yzzy.play-cdn11.com/20221119/9858_97a38b0e/index.m3u8$第8集
+小戏骨：红楼梦之刘姥姥进大观园,https://yzzy.play-cdn11.com/20221119/9860_a6792852/index.m3u8$第9集
+小戏骨：补锅,https://yzzy.play-cdn11.com/20221119/9849_0521cd64/index.m3u8$第1集
+小戏骨：补锅,https://yzzy.play-cdn11.com/20221119/9850_9c0f062a/index.m3u8$第2集
+小戏骨：补锅,https://yzzy.play-cdn11.com/20221119/9851_0614b74e/index.m3u8$第3集
+小戏骨：白蛇传,https://yzzy.play-cdn11.com/20221119/9843_37db529c/index.m3u8$第1集
+小戏骨：白蛇传,https://yzzy.play-cdn11.com/20221119/9844_8fc2e53b/index.m3u8$第2集
+小戏骨：白蛇传,https://yzzy.play-cdn11.com/20221119/9846_6e846376/index.m3u8$第3集
+小戏骨：白蛇传,https://yzzy.play-cdn11.com/20221119/9847_f11b37ae/index.m3u8$第4集
+小戏骨：白蛇传,https://yzzy.play-cdn11.com/20221119/9848_0bd5a4b7/index.m3u8$第5集
+小戏骨：刘三姐,https://yzzy.play-cdn11.com/20221119/9840_1061aafd/index.m3u8$第1集
+小戏骨：刘三姐,https://yzzy.play-cdn11.com/20221119/9841_4c234495/index.m3u8$第2集
+小戏骨：刘三姐,https://yzzy.play-cdn11.com/20221119/9842_14a50ed3/index.m3u8$第3集
+小戏骨：三笑寻亲记,https://yzzy.play-cdn11.com/20221119/9837_a5862221/index.m3u8$第1集
+小戏骨：三笑寻亲记,https://yzzy.play-cdn11.com/20221119/9839_ef29f17e/index.m3u8$第2集
+小戏骨：三笑寻亲记,https://yzzy.play-cdn11.com/20221119/9838_77bc2456/index.m3u8$第3集
+小戏骨：洪湖赤卫队,https://yzzy.play-cdn11.com/20221119/9836_43997da8/index.m3u8
+小戏骨：焦裕禄,https://yzzy.play-cdn11.com/20221119/9835_7ee7097e/index.m3u8
+
+
+折腰,https://cdn.yzzy27-play.com/20250513/3159_99ef04eb/index.m3u8$第1集
+折腰,https://cdn.yzzy27-play.com/20250513/3162_d60678e8/index.m3u8$第2集
+折腰,https://cdn.yzzy27-play.com/20250513/3160_9808ae38/index.m3u8$第3集
+折腰,https://cdn.yzzy27-play.com/20250513/3161_29539ed9/index.m3u8$第4集
+折腰,https://cdn.yzzy27-play.com/20250514/3174_45c166d6/index.m3u8$第5集
+折腰,https://cdn.yzzy27-play.com/20250515/3303_f24ad6f7/index.m3u8$第6集
+折腰,https://cdn.yzzy27-play.com/20250515/3338_2de7cf20/index.m3u8$第7集
+折腰,https://cdn.yzzy27-play.com/20250516/3477_6d6968d8/index.m3u8$第8集
+折腰,https://vvip.high26-playback.com/20250516/7222_3c5be632/index.m3u8$第9集
+折腰,https://cdn.yzzy27-play.com/20250517/3624_5ee0070c/index.m3u8$第10集
+折腰,https://cdn.yzzy28-play.com/20250516/52_9a115815/index.m3u8$第11集
+折腰,https://cdn.yzzy28-play.com/20250517/162_82aa4b0a/index.m3u8$第12集
+折腰,https://cdn.yzzy28-play.com/20250517/188_9dcb88e0/index.m3u8$第13集
+折腰,https://vvip.high26-playback.com/20250519/7580_62326dc7/index.m3u8$第14集
+折腰,https://cdn.yzzy28-play.com/20250518/270_39059724/index.m3u8$第15集
+折腰,https://cdn.yzzy28-play.com/20250519/316_3fe94a00/index.m3u8$第16集
+折腰,https://cdn.yzzy27-play.com/20250520/3831_cac8e130/index.m3u8$第17集
+折腰,https://cdn.yzzy27-play.com/20250521/3884_8dcf2420/index.m3u8$第18集
+折腰,https://cdn.yzzy28-play.com/20250520/392_f73b76ce/index.m3u8$第19集
+折腰,https://cdn.yzzy28-play.com/20250522/552_94c7bb58/index.m3u8$第20集
+折腰,https://cdn.yzzy28-play.com/20250522/557_6e2713a6/index.m3u8$第21集
+折腰,https://cdn.yzzy27-play.com/20250524/4136_93da579a/index.m3u8$第22集
+折腰,https://cdn.yzzy28-play.com/20250523/700_e5841df2/index.m3u8$第23集
+折腰,https://cdn.yzzy28-play.com/20250524/836_ab88b157/index.m3u8$第24集
+折腰,https://vvip.high26-playback.com/20250525/8291_e2a08f2e/index.m3u8$第25集
+刑侦12,https://cdn.ryplay11.com/20250519/178652_85088cd1/index.m3u8$第1集
+刑侦12,https://cdn.ryplay11.com/20250519/178651_83b5e577/index.m3u8$第2集
+刑侦12,https://cdn.ryplay11.com/20250519/178650_e1f885bc/index.m3u8$第3集
+刑侦12,https://cdn.ryplay11.com/20250519/178649_9ddd1bd3/index.m3u8$第4集
+刑侦12,https://cdn.ryplay11.com/20250520/178719_b5cc4275/index.m3u8$第5集
+刑侦12,https://cdn.ryplay11.com/20250520/178718_b8de1e5c/index.m3u8$第6集
+刑侦12,https://cdn.ryplay11.com/20250521/178771_0e2863d1/index.m3u8$第7集
+刑侦12,https://cdn.ryplay11.com/20250521/178770_c5927ea0/index.m3u8$第8集
+刑侦12,https://cdn.ryplay11.com/20250522/178821_6fc3c863/index.m3u8$第9集
+刑侦12,https://cdn.ryplay11.com/20250522/178820_ac9a6f32/index.m3u8$第10集
+刑侦12,https://cdn.ryplay11.com/20250523/178882_01029911/index.m3u8$第11集
+刑侦12,https://cdn.ryplay11.com/20250524/178935_707ee53f/index.m3u8$第12集
+刑侦12,https://cdn.ryplay11.com/20250525/178973_646f08d9/index.m3u8$第13集
+刑侦12,https://cdn.ryplay11.com/20250526/179014_fcff8d53/index.m3u8$第14集
+刑侦12,https://cdn.ryplay11.com/20250526/179013_37de7907/index.m3u8$第15集
+刑侦12,https://cdn.ryplay11.com/20250527/179095_3f3ad74a/index.m3u8$第16集
+刑侦12,https://cdn.ryplay11.com/20250527/179094_288e8923/index.m3u8$第17集
+刑侦12,https://cdn.ryplay11.com/20250528/179152_997b8b1f/index.m3u8$第18集
+刑侦12,https://cdn.ryplay11.com/20250528/179151_3c906a2b/index.m3u8$第19集
+刑侦12,https://cdn.ryplay11.com/20250529/179306_440663dd/index.m3u8$第20集
+刑侦12,https://cdn.ryplay11.com/20250530/179360_4edd959c/index.m3u8$第21集
+刑侦12,https://cdn.ryplay11.com/20250530/179359_cde6a597/index.m3u8$第22集
+刑侦12,https://cdn.ryplay11.com/20250530/179358_6845bd21/index.m3u8$第23集
+刑侦12,https://cdn.ryplay11.com/20250530/179357_6167f463/index.m3u8$第24集
+刑侦12,https://cdn.ryplay11.com/20250530/179356_14a240d6/index.m3u8$第25集
 🎬电影合集,#genre#
 电影加载慢,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 多等几秒,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
@@ -6677,19 +6699,67 @@ CCTV-14少儿,http://t.061899.xyz/tl/tl.php?id=cctv14
 熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
 狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 超然动漫,http://113.45.240.129:35455/douyu/1174353
-
+名侦探柯南,http://113.45.240.129:35455/huya/30080236
+火影忍者,http://113.45.240.129:35455/huya/29465866
+海贼王,http://113.45.240.129:35455/huya/29982634
+宫崎骏,http://113.45.240.129:35455/huya/21059614
+黑子的篮球,http://113.45.240.129:35455/huya/30080253
+瑞克与莫蒂,http://113.45.240.129:35455/huya/29982655
+星辰变,http://113.45.240.129:35455/huya/24514506
+成龙历险记,http://113.45.240.129:35455/huya/11352946
+飞天小女警,http://113.45.240.129:35455/huya/11601958
+蜡笔小新,http://113.45.240.129:35455/huya/11352970
+樱桃小丸子,http://113.45.240.129:35455/huya/11342394
+猫和老鼠,http://113.45.240.129:35455/huya/11352879
+七龙珠,http://113.45.240.129:35455/huya/11601966
+全职高手,http://113.45.240.129:35455/huya/21059628
+哆啦A梦,http://113.45.240.129:35455/huya/11601963
+海绵宝宝,http://113.45.240.129:35455/huya/11352919
+魔法少女,http://113.45.240.129:35455/huya/21059587
+全职猎人,http://113.45.240.129:35455/huya/30080254
+四驱兄弟,http://113.45.240.129:35455/huya/11352922
+一人之上,http://113.45.240.129:35455/huya/11602065
+头文字D,http://113.45.240.129:35455/huya/11352889
+网球王子,http://113.45.240.129:35455/huya/11352882
+埋堆堆直播1,http://113.45.240.129:35455/huya/23734246
+埋堆堆直播2,http://113.45.240.129:35455/huya/23734256
 🥇体育频道,#genre# 
 风云足球,http://173.208.187.18:82/live/fyzq.m3u8?jsbt=1760355398&jsbk=d838949ce8ba43fabfa8e16a02449bcf
 风云足球,http://173.208.187.18:82/live/fyzq.m3u8?jsbt=1760496962&jsbk=5b91869c876cff30aa885075cffa7b45
 五星体育,https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8
 极限体育,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 CCTV5体育,http://106.5.78.168:4022/rtp/239.252.220.211:5140
+广东体育,http://r.jdshipin.com/LiYdg
 四海钓鱼,http://112.254.55.106:22222/rtp/239.253.254.118:8000
 赛事睛彩广场,http://171.213.213.126:4000/rtp/239.10.0.131:5140
 赛事睛彩竞技,http://171.213.213.126:4000/rtp/239.10.0.224:5140
 赛事睛彩篮球,http://171.213.213.126:4000/rtp/239.11.0.122:5140
 赛事睛彩青少,http://171.213.213.126:4000/rtp/239.10.0.130:5140
 咪咕体育直播,http://171.213.213.126:4000/rtp/239.10.0.232:5140
+篮球专场,http://113.45.240.129:35455/huya/20072708
+羽毛球专场,http://113.45.240.129:35455/huya/880221
+乒乓球专场,http://113.45.240.129:35455/huya/30020997
+斯诺克专场,http://113.45.240.129:35455/huya/880214
+摔跤专场,http://113.45.240.129:35455/huya/20072812
+拳击专场,http://113.45.240.129:35455/huya/18152380
+格斗专场,http://113.45.240.129:35455/huya/20072796
+柔道专场,http://113.45.240.129:35455/huya/20072837
+WWE专场,http://113.45.240.129:35455/huya/30021023
+屿风体育,http://i.iill.top:12838/douyu/10329889
+拳击大王,http://i.iill.top:12838/douyu/9385340
+经典拳赛,http://i.iill.top:12838/douyu/9412138
+日本女子摔跤,http://i.iill.top:12838/douyu/425809
+篮球人物,http://i.iill.top:12838/douyu/8434598
+篮球小人物,http://i.iill.top:12838/douyu/9184257
+篮球过人技巧,http://i.iill.top:12838/douyu/9406897
+篮球长镜头,http://i.iill.top:12838/douyu/9399887
+只关于篮球的只老师,http://i.iill.top:12838/douyu/9367541
+篮球之家老李,http://i.iill.top:12838/douyu/9170147
+HOOPPAPK篮球公园,http://i.iill.top:12838/douyu/10228726
+乔丹/科比,http://113.45.240.129:35455/huya/30806125
+看球不费电,http://113.45.240.129:35455/huya/29982603
+超燃球场,http://113.45.240.129:35455/huya/29982597
+篮球五分位,http://113.45.240.129:35455/huya/29982598
 赛事睛彩竞技,https://zby.130519.xyz/PLTV/11/224/3221226116/index.m3u8
 赛事睛彩篮球,https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8
 赛事睛彩广场,https://zby.130519.xyz/PLTV/11/224/3221226139/index.m3u8
@@ -6738,39 +6808,33 @@ CCTV5体育,http://106.5.78.168:4022/rtp/239.252.220.211:5140
 英雄联盟1,http://113.45.240.129:35455/bilibili/6
 英雄联盟2,http://113.45.240.129:35455/huya/660000
 英雄联盟3,http://113.45.240.129:35455/huya/660001
-英雄联盟4,http://113.45.240.129:35455/douyu/288016
-英雄联盟5,http://113.45.240.129:35455/douyu/424559
+
 王者荣耀,http://113.45.240.129:35455/huya/660002
 王者荣耀2,http://113.45.240.129:35455/huya/660164
 王者荣耀3,http://113.45.240.129:35455/douyu/1863767
 王者荣耀4,http://113.45.240.129:35455/douyu/1984839
 绝地求生1,http://113.45.240.129:35455/huya/660004
-绝地求生2,http://113.45.240.129:35455/huya/660005
+
 绝地求生3,http://113.45.240.129:35455/douyu/100
-绝地求生4,http://113.45.240.129:35455/douyu/5818871
+
 和平精英,http://113.45.240.129:35455/huya/660006
 和平精英2,http://113.45.240.129:35455/douyu/999
 金铲铲之战,http://113.45.240.129:35455/huya/660579
 金铲铲之战2,http://113.45.240.129:35455/douyu/9715241
 1DOTA2,http://113.45.240.129:35455/huya/660118
-2DOTA2,http://113.45.240.129:35455/douyu/3811559
+
 云顶之弈,http://113.45.240.129:35455/douyu/522423
 永劫无间,http://113.45.240.129:35455/huya/660115
-永劫无间2,http://113.45.240.129:35455/huya/9662891
-使命召唤手游,http://113.45.240.129:35455/bilibili/22741849
+
 使命召唤手游2,http://113.45.240.129:35455/huya/11718629
 使命召唤手游3,http://113.45.240.129:35455/douyu/9223245
 穿越火线,http://113.45.240.129:35455/huya/660101
-穿越火线 𝟙,http://113.45.240.129:35455/douyu/605964
-穿越火线 𝟚,http://113.45.240.129:35455/douyu/5388537
 第五人格,http://113.45.240.129:35455/huya/idvesports
 第五人格,http://113.45.240.129:35455/douyu/3226194
 逆战,http://113.45.240.129:35455/huya/nsl2021
 无畏契约,http://113.45.240.129:35455/huya/660679
 QQ飞车手游,http://113.45.240.129:35455/douyu/5040227
 无畏契约,http://113.45.240.129:35455/douyu/4585645
-梦幻西游·手游,http://113.45.240.129:35455/huya/9163712
-原神,http://113.45.240.129:35455/douyu/10853239
 街霸,http://113.45.240.129:35455/huya/11437
 JJ斗地主,http://113.45.240.129:35455/douyu/488743
 我的世界,http://113.45.240.129:35455/douyu/738878
@@ -6788,7 +6852,42 @@ CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAut
 王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2 
 永劫无间3,http://tc-tct.douyucdn2.cn/dyliveflv1a/9662891rlaeIAP3A_2000.flv?wsAuth=07d3125e1ec93068330e14be22a09454&token=cpn-androidmpro-0-9662891-7de7dc707e1a51dddb241f8ecad4f36806d04b45752cbbd8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 游戏风云,https://zby.130519.xyz/PLTV/11/224/3221226117/index.m3u8
+BesTV游戏风云,https://zby.130519.xyz/PLTV/11/224/3221226117/index.m3u8
+穿越火线,http://tc-tct.douyucdn2.cn/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+穿越火线手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAuth=63d571126613feca6067da321aaf2df2&token=cpn-androidmpro-0-868191-846aacab1859214c037e4d0c263121580403540feea39901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+和平精英手游,http://tc-tct.douyucdn2.cn/dyliveflv1/999rx47n2pp8pKD_2000.flv?wsAuth=6c429f39afed615e842e02ad1a9b1c6e&token=cpn-androidmpro-0-999-d32d75306aab2a7980ad37445844bcccf012d2bb110b5c33&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+梦幻西游手游,http://tc-tct.douyucdn2.cn/dyliveflv1/9163712rMgvzHPS8.flv?wsAuth=08386df29327fb79ef1cf360dd01e99c&token=cpn-androidmpro-0-9163712-b202112df1a8ff8ce762e1d3561b3623df9da0ea0a74880e&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+跑跑卡丁车,http://i.iill.top:12838/douyu/7722576
+跑跑卡丁车手游,http://i.iill.top:12838/douyu/6672862
+云顶之弈,http://tc-tct.douyucdn2.cn/dyliveflv1/522423rw7NgKaYl9_2000p.flv?wsAuth=ce3c0d32c960ce39c10717b795f7ddf9&token=cpn-androidmpro-0-522423-99737a9b5bf363c27f62ed65c0f1025bd1ccd3a301de7e93&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+QQ飞车手游,http://tc-tct.douyucdn2.cn/dyliveflv1a/5040227raXQRnvWY_2000.flv?wsAuth=0654cc930e81f0d2b58264196ded38af&token=cpn-androidmpro-0-5040227-432528579fe947129e217c8f3c39d0a94c81c1426c347bfb&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+端游/CS2专场,http://113.45.240.129:35455/huya/18525061
+端游/无畏契约专场,http://113.45.240.129:35455/huya/660679
+端游/云顶之弈专场,http://113.45.240.129:35455/huya/24423598
+端游/穿越火线专场,http://113.45.240.129:35455/huya/660101
+端游/炉石传说专场,http://113.45.240.129:35455/huya/21103932
+端游/永劫无间专场,http://113.45.240.129:35455/huya/660115
+端游/逆战专场,http://113.45.240.129:35455/huya/12149051
+端游/DOTA2专场,http://113.45.240.129:35455/huya/476318
+端游/地下城与勇士专场,http://113.45.240.129:35455/huya/21103948
+端游/QQ飞车专场,http://113.45.240.129:35455/huya/660219
+手游/王者荣耀专场,http://113.45.240.129:35455/huya/660002
+手游/天天吃鸡专场,http://113.45.240.129:35455/huya/660004
+手游/三角洲行动专场,http://113.45.240.129:35455/huya/29701539
+手游/和平精英专场,http://113.45.240.129:35455/huya/660135
+手游/英雄联盟专场,http://113.45.240.129:35455/huya/24318577
+手游/CF专场,http://113.45.240.129:35455/huya/660102
+手游/QQ飞车专场,http://dns.yiandrive.com:13571/huya/660117
+手游/DNF专场,http://113.45.240.129:35455/huya/29886331
+手游/火影忍者专场,http://113.45.240.129:35455/huya/25567648
+手游/第5人格专场,http://113.45.240.129:35455/huya/461698
+手游/JJ斗地主专场,http://113.45.240.129:35455/huya/30814433
+JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
+手游/欢乐斗地主专场,http://113.45.240.129:35455/huya/21103928
+单机/我的世界专场,http://113.45.240.129:35455/huya/667788
+单机/拳皇专场,http://113.45.240.129:35455/huya/17167271
+单机/小霸王专场,http://113.45.240.129:35455/huya/24723731
 💥历年春晚,#genre#
 1983年,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 1983年,https://vd2.bdstatic.com/mda-nmgf0aiczefpbjyv/360p/h264/1671273368681637465/mda-nmgf0aiczefpbjyv.mp4
@@ -7539,6 +7638,13 @@ Alin精选16首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v03
 ❥增加更多,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 画面比例,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 设置默认原始,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+直播1,http://i.iill.top:12838/douyu/17732
+直播2,http://i.iill.top:12838/douyu/113158
+直播3,http://i.iill.top:12838/douyu/10308234
+直播4,http://i.iill.top:12838/douyu/9805480
+直播5,http://i.iill.top:12838/douyu/9837104
+直播6,http://i.iill.top:12838/douyu/10118209
+T台秀,http://113.45.240.129:35455/huya/18501378
 以下频道可以,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 按上下换视频,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥新金碟豹,http://xjj2.716888.xyz/fenlei/mvmn/mvmn.php
@@ -7670,7 +7776,6 @@ Alin精选16首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v03
 小哥哥没人看,https://api.e1e1.top/xgg/g.php 
 ❥打赏留言,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥增加更多,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-
 
 
 
