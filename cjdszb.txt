@@ -12,35 +12,24 @@ CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
 凤凰中文HD,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰咨询HD,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-HBO 2,http://panelguys.top:8080/txd7Fd/030774/57438
 操作说明,https://i.uik.cc/view.php/85d53def32766e1edd7d16d069632fd3.mp4
 打赏留言加频道,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
 🎶点歌台频道1,http://huanqiuzhibo.cn/manifest/douyu.php?id=20415 
 🎶点歌台频道2,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 🎶周杰伦MV,http://113.45.240.129:35455/douyu/122402
 ❤️4K视频,http://xjj1.716888.xyz/fenlei/4k/4k.php
+❤️T台秀,http://113.45.240.129:35455/huya/18501378
+❥抖音女神,https://api.e1e1.top/crosswise/cw.php
+❥韩国舞曲,https://xn--vusr00g.v.nxog.top/m/tv/xjj.php?id=0
+❥法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 觉得好用,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 请打赏观看,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 湖南4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-
-北京卫视,http://110.42.37.69:6688/zb/btime.php?token=ZY-147fbBJa%2FSypf8k%2FYo7td8CEhRgdjDZUv%2Fzd80fzIpZq%2BQ&id=bjws&zy.m3u8
-东方卫视,http://110.42.37.69:6688/zb/sh.php?token=ZY-ea6cP3J7Hc4q%2Bx4F6%2F5YuV3ePrlCtwgi%2F%2BuyS%2FwzrjmYOg&id=dfws&zy.m3u8
 湖南卫视,https://migu.188766.xyz/?migutoken=f3efed7fadf6baa1b1f74046312b5ab5&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
 浙江卫视,https://migu.188766.xyz/?migutoken=d0546d05f01cc612f09953f1d8b6996d&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
-浙江卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=zjws
 点播影院,http://jiaojirentv.top/2020/dy.php?id=4246519
-龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
-龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
-龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
-龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
-龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-龙华电影,http://108.181.21.27:27347/livehttpplay?channel_id=10129
-龙华洋片,http://108.181.21.27:27347/livehttpplay?channel_id=20090
 航拍中国,http://113.45.240.129:35455/huya/22414123
-❥韩国舞曲,https://xn--vusr00g.v.nxog.top/m/tv/xjj.php?id=0
-❥法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 音乐石榴[音乐],http://113.45.240.129:35455/huya/17091681
 治愈放松[音乐],http://113.45.240.129:35455/huya/21241811
 阅读学习[音乐],http://113.45.240.129:35455/huya/21241813
@@ -49,30 +38,13 @@ HBO 2,http://panelguys.top:8080/txd7Fd/030774/57438
 
 🚀港澳台,#genre#
 ‼️必看说明,https://cccimg.com/view.php/7b6219260a9ec0036d8f7f28e09c4281.mp4
+更新反馈回复,https://i.uik.cc/view.php/f83ac7f235adec732e793e4c95064c4f.mp4
 凤凰按两次OK刷新,https://i.uik.cc/view.php/7b6219260a9ec0036d8f7f28e09c4281.mp4
 凤凰中文1,http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文
 凤凰资讯1,http://iptv.4666888.xyz/iptv2A.php?id=凤凰资讯
 凤凰香港1,http://iptv.4666888.xyz/iptv2A.php?id=凤凰香港
-凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014
-凤凰资讯,http://vallest.uk/livehttpplay?channel_id=30015
-凤凰香港,http://vallest.uk/livehttpplay?channel_id=30016
-有线综合,http://vallest.uk/livehttpplay?channel_id=20152
-无线新闻,http://vallest.uk/livehttpplay?channel_id=30024
-无线翡翠,http://vallest.uk/livehttpplay?channel_id=20124
-无线明珠,http://vallest.uk/livehttpplay?channel_id=30026
-VIUTV粤,http://vallest.uk/livehttpplay?channel_id=30032
-VIUTV英,http://vallest.uk/livehttpplay?channel_id=30033
-RTHK-31,http://vallest.uk/livehttpplay?channel_id=30066
-RTHK-32,http://vallest.uk/livehttpplay?channel_id=30067
-
-美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-美亚电影,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
-美亚电影,https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
-美亚电影,https://cdn9.163189.xyz/smt1.1.php?id=meiyamovie_twn
-凤凰中文HD,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰咨询HD,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-TVB翡翠,http://iptv.4666888.xyz/iptv2A.php?id=TVB翡翠
-TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=TVB明珠
+TVB翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=TVB翡翠
+TVB明珠台,http://iptv.4666888.xyz/iptv2A.php?id=TVB明珠
 TVBPLUS,http://iptv.4666888.xyz/iptv2A.php?id=TVBPLUS
 NOW新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
 VIUTV,http://iptv.4666888.xyz/iptv2A.php?id=VIUTV
@@ -81,7 +53,7 @@ TVB1,http://iptv.4666888.xyz/iptv2A.php?id=TVB1
 TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 中天新闻,http://iptv.4666888.xyz/iptv2A.php?id=中天新闻
 星空卫视,http://iptv.4666888.xyz/iptv2A.php?id=星空卫视
-星空卫视备,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
 重温经典,http://iptv.4666888.xyz/iptv2A.php?id=重温经典
 八度空间,http://iptv.4666888.xyz/iptv2A.php?id=八度空间
@@ -89,11 +61,51 @@ TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=爱奇艺
 TVBS台剧,http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
 纬来戏剧,http://iptv.4666888.xyz/iptv2A.php?id=纬来戏剧
-翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
-翡翠台,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
-华丽翡翠台,http://api.mg.itv888.cn:8080/streams/3mt9hea4ijk/index.m3u8
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰中文http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+TVB翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
+TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe###HLS\\n
+TVB娱乐新闻台,http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+TVBS,http://220.133.220.232:8576/http/220.130.214.23:8088/hls/75/817/ch58.m3u8
+TVBS,https://live.tvfix.org/live/tvbs/index.m3u8
+TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+VIUTV,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
+RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+天映频道,http://php.jdshipin.com/smt.php?id=Celestial
+天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+亚洲卫视,https://fenghuang.tv12.xyz/173.m3u8
+明珠台,http://o12.1678520.xyz/hls/mzt/playlist.m3u8
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+美亚电影,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
+美亚电影,https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
+美亚电影,https://cdn9.163189.xyz/smt1.1.php?id=meiyamovie_twn
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
-TVB翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
@@ -210,13 +222,6 @@ GOOD2 TV,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveeven
 爱奇艺1,http://php.jdshipin.com/smt.php?id=Qiyi
 有限财经,http://61.10.2.140/live_freedirect/freehd208_h.live/playlist.m3u8
 翡翠4K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-凤凰中文备,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯备,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰香港备,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰香港备,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
-凤凰资讯备,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
-凤凰资讯备,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰中文备,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 RTHK 31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 RTHK 32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 RTHK 33,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -239,7 +244,16 @@ RTHK 33,https://cdn6.101.qzz.io/163189/cctv1
 澳视资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
 澳视综艺,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
 澳门Macau,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
-
+中天新闻,http://jnzq.ohoyee.com:9080/live/fc.m3u8
+寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
+凤凰中文备,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文备,https://stream1.freetv.fun/08e5440bb83a804440e341ae792cffc38d6844b04d5a2c7a4fc5ee04a6fe6bc6.m3u8
+凤凰资讯备,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+凤凰香港备,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰香港备,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
+凤凰资讯备,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
+凤凰资讯备,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰中文备,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 🇨🇳CCTV频道,#genre#
 ❤️使用说明,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
 卡就按右换线,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
@@ -7374,6 +7388,8 @@ S H E《4EVER世界巡回演唱会 完整版》珍藏版,https://vd3.bdstatic.co
 宝丽金《成立25周年 群星演唱会完整版》,https://vd2.bdstatic.com/mda-pbq9cde2ii3ti6dc/hd/cae_h264/1677311810110678172/mda-pbq9cde2ii3ti6dc.mp4
 宝丽金《成立30周年 群星演唱会完整版》,https://vd2.bdstatic.com/mda-pbr4g2edssnu2heu/576p/h264/1677381478074490840/mda-pbr4g2edssnu2heu.mp4
 电视剧歌曲合集,https://alimov2.a.kwimgs.com/upic/2022/03/03/00/BMjAyMjAzMDMwMDA1MThfODI4NTk1NTQ0XzY4NzY0NTM0NTk3XzJfMw==_b_B657263864dc4be00e4943c7700e92685.mp4
+
+
 🎼 音乐MV频道,#genre#
 ❥打赏长久使用,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥感谢各位支持,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
@@ -8082,7 +8098,6 @@ T台秀,http://113.45.240.129:35455/huya/18501378
 小哥哥没人看,https://api.e1e1.top/xgg/g.php 
 ❥打赏留言,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥增加更多,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-
 
 
 
