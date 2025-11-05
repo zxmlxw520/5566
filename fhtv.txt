@@ -70,45 +70,26 @@ CCTV16-4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16
 🚀港澳台,#genre#
 ‼️必看说明,https://cccimg.com/view.php/7b6219260a9ec0036d8f7f28e09c4281.mp4
 更新反馈回复,https://i.uik.cc/view.php/f83ac7f235adec732e793e4c95064c4f.mp4
-
-凤凰中文1,http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文
-凤凰资讯1,http://iptv.4666888.xyz/iptv2A.php?id=凤凰资讯
-凤凰香港1,http://iptv.4666888.xyz/iptv2A.php?id=凤凰香港
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+加载慢耐心等待,https://i.uik.cc/view.php/f83ac7f235adec732e793e4c95064c4f.mp4
+卡顿换解码方式,https://cccimg.com/view.php/7b6219260a9ec0036d8f7f28e09c4281.mp4
 凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
+凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
+凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
 凤凰中文http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰香港,http://r.jdshipin.com/yDoTN
-TVB翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=TVB翡翠
 TVB明珠台,http://iptv.4666888.xyz/iptv2A.php?id=TVB明珠
-TVBPLUS,http://iptv.4666888.xyz/iptv2A.php?id=TVBPLUS
-NOW新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
-VIUTV,http://iptv.4666888.xyz/iptv2A.php?id=VIUTV
-TVB千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=TVB千禧经典
 TVB1,http://iptv.4666888.xyz/iptv2A.php?id=TVB1
-TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
-中天新闻,http://iptv.4666888.xyz/iptv2A.php?id=中天新闻
+中天新闻,rtmp://123.161.179.74/live/yifatv-ztxw01
 星空卫视,http://iptv.4666888.xyz/iptv2A.php?id=星空卫视
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
-重温经典,http://iptv.4666888.xyz/iptv2A.php?id=重温经典
-八度空间,http://iptv.4666888.xyz/iptv2A.php?id=八度空间
-综艺玩很大,http://iptv.4666888.xyz/iptv2A.php?id=综艺玩很大
 爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=爱奇艺
-TVBS台剧,http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
-纬来戏剧,http://iptv.4666888.xyz/iptv2A.php?id=纬来戏剧
-
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰中文http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰香港,http://r.jdshipin.com/yDoTN
 
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
@@ -8503,6 +8484,7 @@ T台秀,http://113.45.240.129:35455/huya/18501378
 小哥哥没人看,https://api.e1e1.top/xgg/g.php 
 ❥打赏留言,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥增加更多,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+
 
 
 
