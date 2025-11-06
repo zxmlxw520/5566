@@ -1983,7 +1983,11 @@ Ftv2时代,P2p://starvod.xyz:19806/dd3cb3133b9d4ab38fb4b2c321a727a2.ts
 凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass$襄阳联通
 凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass$襄阳联通
 
-
+tvbs闽南,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmagtvbskks.flv
+Now爆谷,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmaguidanow02kks.flv
+Now星影,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmaguidanow01kks.flv
+无线功夫,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmaguidatvb01kks.flv
+无线生活,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmaguidatvb02kks.flv
 RTHK 31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 RTHK 32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 RTHK 33,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2009,6 +2013,12 @@ RTHK 33,https://cdn6.101.qzz.io/163189/cctv1
 
 🇹🇼台湾,#genre#
 温馨提醒:设置超时30秒最佳,https://i.uik.cc/view.php/8caad869728113dfca6f8f1e99d54379.mp4
+中天新闻,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmagztxwkks.flv
+中天新闻,rtmp://123.161.179.74/live/yifatv-ztxw02
+中天新闻,https://smt.passwdword.xyz/Smart.php?id=ctinews
+中天新闻,http://tw-ty-line-11-1-5.sudatech.store:20319/of-4gtv-4gtv009/index.m3u8?proxy=true
+中天新闻,rtmp://123.161.179.74/live/yifatv-ztxw01
+
 中天新闻,http://xtvantsc.xyz/Smart.php?id=ctinews
 中天新闻,https://smt.passwdword.xyz/Smart.php?id=ctinews
 中天亚洲,P2p://starvod.xyz:19806/cd11642fed21436aae33a4a2ad34d222.ts
@@ -4947,6 +4957,7 @@ F1：狂飙飞车,https://cdn.yzzy29-play.com/20250629/184_6cdd60ea/2000k/hls/mi
 
 ❤️制作不易,https://i.uik.cc/view.php/8caad869728113dfca6f8f1e99d54379.mp4
 ☕给点支持,https://i.uik.cc/view.php/8caad869728113dfca6f8f1e99d54379.mp4
+
 
 
 
