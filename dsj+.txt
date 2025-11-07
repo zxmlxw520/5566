@@ -2,6 +2,8 @@
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
 湖南4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+浙江4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
@@ -10,7 +12,7 @@ CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8f
 河北4K,http://106.53.99.30/tv/api.php?id=hebtv4k
 苏州4K,http://106.53.99.30/tv/api.php?id=sztv4k
 广东4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
-深圳4K,http://ikuai.haleeyo.cn:9003/udp/239.77.1.14:5146
+
 广东4K,http://go.bkpcp.top:80/mg/gdws
 广东4K,http://119.32.12.12:2901/udp/225.1.101.86:7523
 广州南国都市4K,https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
@@ -20,11 +22,7 @@ CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8f
 浙江4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 东方4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_DONGFANG-4K/G_DONGFANG-4K.m3u8
 东方4K,http://cdn.jdshipin.com/kkxw.php?id=1
-深圳4K,http://ikuai.haleeyo.cn:9003/udp/239.77.1.14:5146
 深圳4K,https://cdn3.163189.xyz/163189/szws4k
-北京4K,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s110/index.m3u8?time=1762002619&sign=0443260e8e48a90e2a4ef4c3bf105b54
-北京4K,http://110.42.63.57:158/live/dft/beijing/beijing.php?id=bjws4k
-广东4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
 四川4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_SICHUAN-4K/G_SICHUAN-4K.m3u8
 山东4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_SHANDONG-4K/G_SHANDONG-4K.m3u8
 河南4K,http://115.58.216.210:4000/rtp/225.1.4.254:1300$河南电信
@@ -36,6 +34,9 @@ CCTV16-4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16
 广东4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_GUANGDONG-4K/G_GUANGDONG-4K.m3u8
 深圳4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_SHENZHEN-4K/G_SHENZHEN-4K.m3u8
 浙江4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_ZHEJIANG-4K/G_ZHEJIANG-4K.m3u8
+北京卫视频4k,http://106.53.99.30/tv/bj.php?id=bjws4k
+东方卫视频4k,http://106.53.99.30/tv/api.php?id=dfws4k
+深圳卫视频4k,http://106.53.99.30/tv/api.php?id=szws4k
 航拍中国,http://113.45.240.129:35455/huya/22414123
 音乐石榴[音乐],http://113.45.240.129:35455/huya/17091681
 治愈放松[音乐],http://113.45.240.129:35455/huya/21241811
@@ -3056,6 +3057,7 @@ POPC,http://bxtv.3a.ink/api.php?id=popc
 星光综合y,http://data.3g.yy.com/live/hls/1353422557/1353422557
 崇明功夫台,http://1.95.83.42:8081/yy/1507716299.flv#http://data.3g.yy.com/live/hls/1507716299/1507716299
 龙腾功夫,http://120.24.172.11:50001/yy/1356261006
+
 
 
 
