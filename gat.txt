@@ -104,19 +104,24 @@ TVB-獎門人,http://iptv.4666888.xyz/iptv2A.php?id=TVB-獎門人
 
 TVB1,http://iptv.4666888.xyz/iptv2A.php?id=TVB1
 
-中天新闻,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmagztxwkks.flv
-中天新闻,rtmp://123.161.179.74/live/yifatv-ztxw02
+中天新闻,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkks.flv
 中天新闻,https://smt.passwdword.xyz/Smart.php?id=ctinews
 中天新闻,http://tw-ty-line-11-1-5.sudatech.store:20319/of-4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,rtmp://123.161.179.74/live/yifatv-ztxw01
-tvbs闽南,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmagtvbskks.flv
-Now爆谷,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmaguidanow02kks.flv
-Now星影,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmaguidanow01kks.flv
-无线功夫,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmaguidatvb01kks.flv
-无线生活,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmaguidatvb02kks.flv
-东森电影,https://mgzb-al-pull.migucloud.com/live/11-FK84lHwjya3668gYtRE1KGvv4fHeZ912j6vkjEJjOjSd38uQcbKKnBtO8pED7pwGKCNGM9Upw8lM8KlGZKV7Tc.flv
-龙祥电影,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmaguidanlzzlkks.flv
-龙祥时代,https://mgzb-al-pull.migucloud.com/live/14-56AO80fvKVuUwYMc2VSOxVl9EadalNsAKSbdospGoDceFe6w5Cx23vRycP3XFYVfRct5ggbxFP9kFDV0P8wh6J.flv
+tvbs闽南,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkgjrkltjggrtlmagtvbskks.flv
+tvbs新话,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkgjrkltjggrtlmagxytwkks.flv
+pₒₚc电影,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkgjrkltjggrtlmagPopCkks.flv
+Now爆谷,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidanow02kks.flv
+Now星影,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidanow01kks.flv
+美亚电影,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidanmyhkkbb.flv
+美亚电影,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidanmytwkbb.flv
+无线功夫,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidatvb01kks.flv
+无线星河,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidatvb66kks.flv
+无线生活,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidatvb02kks.flv
+天映经典,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidazyxckks.flv
+东森电影,https://mgzb-al-pull.migucloud.com/live/11-OhDH0PBZvzonNfGgqWrfyrQtm33aaq8yLpPixeJuQNyfDj2QSqy3Ao4BD93elT00u060S9FeD8HgFvSqRC5co3r8.flv
+龙祥电影,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidanlzzlkbb.flv
+龙祥时代,https://mgzb-al-pull.migucloud.com/live/14-Xb7FPjBfQhdfxvcd0ypHEYfoGOrlzCuJ4XToNZEONAl0eLs5RDCR96L1YjEHHHW4TrIyGhmcXnks5KQpSRS9GY31.flv
 星空卫视,http://iptv.4666888.xyz/iptv2A.php?id=星空卫视
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
@@ -8657,6 +8662,7 @@ T台秀,http://113.45.240.129:35455/huya/18501378
 小哥哥没人看,https://api.e1e1.top/xgg/g.php 
 ❥打赏留言,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥增加更多,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+
 
 
 
