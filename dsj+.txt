@@ -1,6 +1,7 @@
 4K测试频道,#genre#
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
+APP推荐2C36,https://i.uik.cc/view.php/13e0c70ae7250428e2642e2b0aec113a.mp4
 湖南4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 
@@ -3325,6 +3326,7 @@ POPC,http://bxtv.3a.ink/api.php?id=popc
 星光综合y,http://data.3g.yy.com/live/hls/1353422557/1353422557
 崇明功夫台,http://1.95.83.42:8081/yy/1507716299.flv#http://data.3g.yy.com/live/hls/1507716299/1507716299
 龙腾功夫,http://120.24.172.11:50001/yy/1356261006
+
 
 
 
