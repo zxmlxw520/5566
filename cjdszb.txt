@@ -3,12 +3,15 @@
 //永久免费꙰严禁商业꙰仅供测试꙰违者自负!꙰//
 
 //来源网络，免费分享，请勿追究，谢谢！//
-📢11.11公告,#genre#
+
+📢11.18公告,#genre#
 打赏才能长久,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 打赏才能长久,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ‼️必看说明,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
 APP推荐2C36,https://i.uik.cc/view.php/13e0c70ae7250428e2642e2b0aec113a.mp4
-更新反馈回复,https://i.uik.cc/view.php/f83ac7f235adec732e793e4c95064c4f.mp4
+最新野草B5FE,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+优化卡顿情况,https://i.uik.cc/view.php/f83ac7f235adec732e793e4c95064c4f.mp4
+增加攒劲节目,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 境外频道加载慢,https://i.uik.cc/view.php/f83ac7f235adec732e793e4c95064c4f.mp4
 能看属实不易,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
 尽量保证稳定看,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
@@ -99,7 +102,16 @@ APP推荐2C36,https://i.uik.cc/view.php/13e0c70ae7250428e2642e2b0aec113a.mp4
 中天新闻,http://smtp.tcxlife.com:8080/live/yifatv-ztxw01.m3u8
 中天新闻,http://smtp.tcxlife.com:8080/live/yifatv-ztxw02.m3u8
 
-
+TVBS,http://220.135.64.124:5050/4gtv-4gtv073/index.m3u8?proxy=true
+TVBS新聞,http://220.135.64.124:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
+中天新闻,http://220.135.64.124:5050/4gtv-4gtv009/index.m3u8?proxy=true
+寰宇新聞,http://220.135.64.124:5050/litv-longturn14/index.m3u8?proxy=true
+东森新闻,http://220.135.64.124:5050/4gtv-4gtv152/index.m3u8?proxy=true
+台視新聞,http://220.135.64.124:5050/4gtv-4gtv051/index.m3u8?proxy=true
+華視新聞,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
+中視新聞,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
+民視新聞,http://220.135.64.124:5050/li-litv-ftv13/index.m3u8?proxy=true
+三立新闻,http://220.135.64.124:5050/iNEWS/index.m3u8?proxy=true
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
 
@@ -272,28 +284,10 @@ RTHK-32频加,http://vallest.uk/livehttpplay?channel_id=30028
 公视闽南地波,http://211.72.174.95:8116/0.ts
 民视闽南地波,http://211.72.174.95:8115/0.ts
 台视闽南地波,http://211.72.174.95:8112/0.ts
-民视新闻地波,http://123.51.136.80:8310/0.ts 
-中视新闻地波,http://123.51.136.80:8302/0.ts 
-华视新闻地波,http://123.51.136.80:8319/0.ts 
-台视新闻地波,http://123.51.136.80:8314/0.ts 
-公视闽南地波,http://123.51.136.80:8305/0.ts 
-民视闽南地波,http://123.51.136.80:8308/0.ts 
-中视闽南地波,http://123.51.136.80:8301/0.ts 
-华视闽南地波,http://123.51.136.80:8317/0.ts 
-台视闽南地波,http://123.51.136.80:8313/0.ts 
-公视闽语地波,http://123.51.136.80:8306/0.ts 
-民视第一地波,http://123.51.136.80:8309/0.ts 
-民视闽语地波,http://123.51.136.80:8311/0.ts 
-中视经典地波,http://123.51.136.80:8321/0.ts 
-中视菁采地波,http://123.51.136.80:8322/0.ts 
-华视教育地波,http://123.51.136.80:8318/0.ts 
-台视综合地波,http://123.51.136.80:8316/0.ts 
-台视财经地波,http://123.51.136.80:8315/0.ts 
-TITv综合地波,http://123.51.136.80:8303/0.ts 
-HakkaTv地波,http://123.51.136.80:8307/0.ts 
-PTS'xs综地波,http://123.51.136.80:8312/0.ts 
-VIUTV,http://beishan008.asuscomm.com:8889/bysid/99.m3u8
-VIU6,http://beishan008.asuscomm.com:8889/bysid/96.m3u8
+
+
+
+
 Now新闻,P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts
 无线新闻,P2p://starvod.xyz:19806/557d5098116e4e1f9b14008ed764cc71.ts
 无线生活,P2p://starvod.xyz:19806/f4650e7cb54645f79ea52469b84ef3c4.ts
@@ -338,8 +332,7 @@ momoTV,rtmp://f13h.mine.nu/sat/tv761
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 唯心电视,https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8 
-GOOD  TV,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
-GOOD2 TV,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+
 
 有限财经,http://61.10.2.140/live_freedirect/freehd208_h.live/playlist.m3u8
 翡翠4K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
@@ -391,61 +384,7 @@ TVB Plus,http://hls.168.us.kg/u/82/master.m3u8
 Now直播,http://hls.168.us.kg/u/331/master.m3u8
 Now新闻,http://hls.168.us.kg/u/332/master.m3u8
 Now财经,http://hls.168.us.kg/u/333/master.m3u8
-↓加载慢,http://hls.168.us.kg/u
-台视新闻,http://gotv.k.vu/api.php?id=ttvnews_twn
-时尚频道,http://gotv.k.vu/api.php?id=fashiontv_twn
-中天综合,http://gotv.k.vu/api.php?id=ctizhonghe
-中天亚洲,http://gotv.k.vu/api.php?id=ctiasia_twn
-中天娱乐,http://gotv.k.vu/api.php?id=ctient
-中天新闻,http://gotv.k.vu/api.php?id=ctinews
-中视新闻,http://gotv.k.vu/api.php?id=ca73a13c37
-亚洲旅游台,http://gotv.k.vu/api.php?id=asiatravel_twn
-三立综合台,http://gotv.k.vu/api.php?id=sanlizhonghe
-三立戏剧,http://gotv.k.vu/api.php?id=sanlixiju_twn
-三立台湾台,http://gotv.k.vu/api.php?id=sanlitaiwan
-年代新闻,http://gotv.k.vu/api.php?id=niandainews_twn
-民视新闻台,http://gotv.k.vu/api.php?id=ftvnew_taiwan
-民视台湾台,http://gotv.k.vu/api.php?id=ftvtaiwan_twn
-民视第一台,http://gotv.k.vu/api.php?id=lunghuajingdian_twn
-民视,http://gotv.k.vu/api.php?id=ftvhd_taiwan
-美亚电影台,http://gotv.k.vu/api.php?id=meiyamovie_twn
-寰宇新闻台,http://gotv.k.vu/api.php?id=huanyuxinwen_twn
-华艺moc,http://gotv.k.vu/api.php?id=weishichinese_twn
-华艺moc,http://gotv.k.vu/api.php?id=weishichinese_twn
-华纳TV,http://gotv.k.vu/api.php?id=WarnerTV
-好莱坞电影台,http://gotv.k.vu/api.php?id=hollywoodmovies_twn
-非凡新闻,http://gotv.k.vu/api.php?id=feifannews_twn
-动物星球,http://gotv.k.vu/api.php?id=animalplanet_twn
-東森新闻,http://gotv.k.vu/api.php?id=ettvnews
-東森戏剧,http://gotv.k.vu/api.php?id=ettvdrama
-東森电影台,http://gotv.k.vu/api.php?id=ettvmovie
-东森综合台,http://gotv.k.vu/api.php?id=ettvzhonghe
-东森洋片,http://gotv.k.vu/api.php?id=ettvwestern
-东森超视,http://gotv.k.vu/api.php?id=ettvsuper
-东森财经新闻,http://gotv.k.vu/api.php?id=ettvcaijing_twn
-大爱,http://gotv.k.vu/api.php?id=daai_twn
-博斯运动II,http://gotv.k.vu/api.php?id=bosisport2_twn
-博斯网球,http://gotv.k.vu/api.php?id=bositennis_twn
-博斯魅力,http://gotv.k.vu/api.php?id=bosisport1_twn
-博斯高球II,http://gotv.k.vu/api.php?id=bosigolf2_twn
-博斯高球I,http://gotv.k.vu/api.php?id=bosigolf1_twn
-八大综合台,http://gotv.k.vu/api.php?id=badazhonghe
-八大戏剧台,http://gotv.k.vu/api.php?id=badadrama
-八大第1台,http://gotv.k.vu/api.php?id=badafirst
-公视,http://gotv.k.vu/api.php?id=ctv_taiwan
-爱奇艺,http://gotv.k.vu/api.php?id=Qiyi
-WWE,http://gotv.k.vu/api.php?id=Wwe
-TVBS新闻台,http://gotv.k.vu/api.php?id=tvbs_n
-TVBS欢乐台,http://gotv.k.vu/api.php?id=tvbshuanle_twn
-TVBS,http://gotv.k.vu/api.php?id=tvbs
-EYE戏剧,http://gotv.k.vu/api.php?id=eyetvxiju_twn
-EYE旅游,http://gotv.k.vu/api.php?id=eyetvtravel_twn
-ELTA综合,http://gotv.k.vu/api.php?id=eltazonghe
-ELTA影剧,http://gotv.k.vu/api.php?id=eltadrama_twn
-ELTA体育1台,http://gotv.k.vu/api.php?id=eltasport1_twn
-ELTA体育2台,http://gotv.k.vu/api.php?id=eltasport2_twn
-ELTA体育3台,http://gotv.k.vu/api.php?id=eltasport3_twn
-ELTA体育4台,http://gotv.k.vu/api.php?id=natgeowild_twn
+
 
 云鳳凰中文,http://iptv.4666888.xyz/iptv2A.php?id=鳳凰中文
 云TVB翡翠(馬來),http://iptv.4666888.xyz/iptv2A.php?id=TVB翡翠(馬來)
@@ -8719,6 +8658,8 @@ Alin精选16首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v03
 许嵩经典合集,https://txmov2.a.kwimgs.com/bs3/video-hls/5246693673328160378_hlsb.m3u8
 
 🌸女团频道,#genre#
+不适合小孩看,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+可设置隐藏频道,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥打赏留言,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥增加更多,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 画面比例,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
@@ -8731,7 +8672,7 @@ Alin精选16首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v03
 直播6,http://i.iill.top:12838/douyu/10118209
 T台秀,http://113.45.240.129:35455/huya/18501378
 以下频道可以,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-按上下换视频,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+按OK换视频,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥新金碟豹,http://xjj2.716888.xyz/fenlei/mvmn/mvmn.php
 ❥抖音主播,http://s4bkc.716888.xyz/fenlei/djxjj/dj1.php
 ❥抖音女神,https://api.e1e1.top/crosswise/cw.php
@@ -8862,10 +8803,27 @@ T台秀,http://113.45.240.129:35455/huya/18501378
 ❥打赏留言,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥增加更多,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 🌸攒劲节目,#genre#
+不适合小孩看,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+可设置隐藏频道,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+❥打赏留言,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+❥增加更多,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 纯音乐欣赏,https://i.uik.cc/view.php/8af00881b55d20ca0de04b59ae54c560.mp4
-
-
-
-
-
-
+穿搭,https://i.uik.cc/view.php/a7a429d40ab9c07f798acaf1a2459a59.mp4
+穿搭1,https://i.uik.cc/view.php/93c31594307c7779f1b7d112e676312e.mp4
+穿搭2,https://i.uik.cc/view.php/c8b28c3ca466c8ff78be9dcdbcca783b.mp4
+穿搭3,https://i.uik.cc/view.php/ecb3639844bca4a39c98fd06645a0ed2.mp4
+穿搭4,https://i.uik.cc/view.php/52e6313c9b1244602ccbde55d3d8c218.mp4
+穿搭5,https://i.uik.cc/view.php/7a379d10a28d11456dca1cf59214a70c.mp4
+穿搭6,https://i.uik.cc/view.php/fa8998c02565cd7bfb9f41a0d5728648.mp4
+穿搭7,https://i.uik.cc/view.php/2de615cd7a2f3b7f5b3e4280d8e1db1f.mp4
+穿搭8,https://i.uik.cc/view.php/e0353586f7dbde34975641558e62d033.mp4
+穿搭9,https://i.uik.cc/view.php/865298a21161104631b48b100cbd1017.mp4
+穿搭10,https://i.uik.cc/view.php/cbef9c503f56812670c3e5b3ff9cdeb6.mp4
+穿搭11,https://i.uik.cc/view.php/e9e3c60d5eb7f613f421a46a9ece14bd.mp4
+穿搭12,https://i.uik.cc/view.php/c0b7c1bb737192becc52d42219d263c8.mp4
+穿搭13,https://i.uik.cc/view.php/b03b92b3224433cd3cf6e403936e2091.mp4
+穿搭14,https://i.uik.cc/view.php/23b13dfeeafc28d021438c733fa12aa5.mp4
+穿搭15,https://i.uik.cc/view.php/080b40f74ecc374310d5b06d3c16e204.mp4
+穿搭16,https://i.uik.cc/view.php/41adfe35829186725fc7a15bd88f68e4.mp4
+写真集,https://i.uik.cc/view.php/40870ac97ee94ec7b81a05b5e2be1d58.mp4
+陆续更新中,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
