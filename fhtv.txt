@@ -11,7 +11,6 @@
 APP推荐2C36,https://i.uik.cc/view.php/13e0c70ae7250428e2642e2b0aec113a.mp4
 最新野草B5FE,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 优化卡顿情况,https://i.uik.cc/view.php/f83ac7f235adec732e793e4c95064c4f.mp4
-增加攒劲节目,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 境外频道加载慢,https://i.uik.cc/view.php/f83ac7f235adec732e793e4c95064c4f.mp4
 能看属实不易,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
 尽量保证稳定看,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
@@ -8802,28 +8801,5 @@ T台秀,http://113.45.240.129:35455/huya/18501378
 小哥哥没人看,https://api.e1e1.top/xgg/g.php 
 ❥打赏留言,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥增加更多,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-🌸攒劲节目,#genre#
-不适合小孩看,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-可设置隐藏频道,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-❥打赏留言,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-❥增加更多,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-纯音乐欣赏,https://i.uik.cc/view.php/8af00881b55d20ca0de04b59ae54c560.mp4
-穿搭,https://i.uik.cc/view.php/a7a429d40ab9c07f798acaf1a2459a59.mp4
-穿搭1,https://i.uik.cc/view.php/93c31594307c7779f1b7d112e676312e.mp4
-穿搭2,https://i.uik.cc/view.php/c8b28c3ca466c8ff78be9dcdbcca783b.mp4
-穿搭3,https://i.uik.cc/view.php/ecb3639844bca4a39c98fd06645a0ed2.mp4
-穿搭4,https://i.uik.cc/view.php/52e6313c9b1244602ccbde55d3d8c218.mp4
-穿搭5,https://i.uik.cc/view.php/7a379d10a28d11456dca1cf59214a70c.mp4
-穿搭6,https://i.uik.cc/view.php/fa8998c02565cd7bfb9f41a0d5728648.mp4
-穿搭7,https://i.uik.cc/view.php/2de615cd7a2f3b7f5b3e4280d8e1db1f.mp4
-穿搭8,https://i.uik.cc/view.php/e0353586f7dbde34975641558e62d033.mp4
-穿搭9,https://i.uik.cc/view.php/865298a21161104631b48b100cbd1017.mp4
-穿搭10,https://i.uik.cc/view.php/cbef9c503f56812670c3e5b3ff9cdeb6.mp4
-穿搭11,https://i.uik.cc/view.php/e9e3c60d5eb7f613f421a46a9ece14bd.mp4
-穿搭12,https://i.uik.cc/view.php/c0b7c1bb737192becc52d42219d263c8.mp4
-穿搭13,https://i.uik.cc/view.php/b03b92b3224433cd3cf6e403936e2091.mp4
-穿搭14,https://i.uik.cc/view.php/23b13dfeeafc28d021438c733fa12aa5.mp4
-穿搭15,https://i.uik.cc/view.php/080b40f74ecc374310d5b06d3c16e204.mp4
-穿搭16,https://i.uik.cc/view.php/41adfe35829186725fc7a15bd88f68e4.mp4
-写真集,https://i.uik.cc/view.php/40870ac97ee94ec7b81a05b5e2be1d58.mp4
-陆续更新中,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+
+
