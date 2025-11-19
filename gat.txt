@@ -11,7 +11,6 @@
 APP推荐2C36,https://i.uik.cc/view.php/13e0c70ae7250428e2642e2b0aec113a.mp4
 最新野草B5FE,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 优化卡顿情况,https://i.uik.cc/view.php/f83ac7f235adec732e793e4c95064c4f.mp4
-
 境外频道加载慢,https://i.uik.cc/view.php/f83ac7f235adec732e793e4c95064c4f.mp4
 能看属实不易,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
 尽量保证稳定看,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
@@ -25,7 +24,9 @@ CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8f
 打赏留言加频道,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
 🎶点歌台频道1,http://huanqiuzhibo.cn/manifest/douyu.php?id=20415 
 🎶点歌台频道2,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
-🎶周杰伦MV,http://113.45.240.129:35455/douyu/122402
+🎶周杰伦MV,http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
+🎵音乐台长,http://www.douzhicloud.site:35455/douyu/9629943
+❤️舞蹈,http://lxajh.top/tv/douyu.php?id=10308225
 ❤️4K视频,http://xjj1.716888.xyz/fenlei/4k/4k.php
 ❤️T台秀,http://113.45.240.129:35455/huya/18501378
 ❥抖音女神,https://api.e1e1.top/crosswise/cw.php
@@ -44,15 +45,13 @@ CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8f
 河北4K,http://106.53.99.30/tv/api.php?id=hebtv4k
 苏州4K,http://106.53.99.30/tv/api.php?id=sztv4k
 广东4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
-
-广东4K,http://go.bkpcp.top:80/mg/gdws
 广东4K,http://119.32.12.12:2901/udp/225.1.101.86:7523
 广州南国都市4K,https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
 广州南国都市4K,http://i.iill.top:12838/gztv/shenghuo
 湖南4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_HUNAN-4K/G_HUNAN-4K.m3u8
 江苏4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_JIANGSU-4K/G_JIANGSU-4K.m3u8
 浙江4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
-东方4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_DONGFANG-4K/G_DONGFANG-4K.m3u8
+
 东方4K,http://cdn.jdshipin.com/kkxw.php?id=1
 深圳4K,https://cdn3.163189.xyz/163189/szws4k
 四川4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_SICHUAN-4K/G_SICHUAN-4K.m3u8
@@ -69,7 +68,15 @@ CCTV16-4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16
 北京卫视频4k,http://106.53.99.30/tv/bj.php?id=bjws4k
 东方卫视频4k,http://106.53.99.30/tv/api.php?id=dfws4k
 深圳卫视频4k,http://106.53.99.30/tv/api.php?id=szws4k
-
+北京4k,http://ddns.xryo.cn:8888/udp/239.111.205.51:5140
+东方4k,http://ddns.xryo.cn:8888/udp/239.111.205.67:5140
+浙江4k,http://ddns.xryo.cn:8888/udp/239.111.205.65:5140
+江苏4k,http://ddns.xryo.cn:8888/udp/239.111.205.64:5140
+湖南4k,http://ddns.xryo.cn:8888/udp/239.111.205.63:5140
+广东4k,http://ddns.xryo.cn:8888/udp/239.111.205.103:5140
+深圳4k,http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
+山东4k,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
+四川4k,http://ddns.xryo.cn:8888/udp/239.111.205.62:5140
 航拍中国,http://113.45.240.129:35455/huya/22414123
 音乐石榴[音乐],http://113.45.240.129:35455/huya/17091681
 治愈放松[音乐],http://113.45.240.129:35455/huya/21241811
@@ -82,7 +89,7 @@ CCTV16-4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16
 更新反馈回复,https://i.uik.cc/view.php/f83ac7f235adec732e793e4c95064c4f.mp4
 加载慢耐心等待,https://i.uik.cc/view.php/f83ac7f235adec732e793e4c95064c4f.mp4
 APP推荐2C36,https://i.uik.cc/view.php/13e0c70ae7250428e2642e2b0aec113a.mp4
-
+最新野草B5FE,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 凤凰中文,http://r.jdshipin.com/cCCzW
@@ -98,20 +105,11 @@ APP推荐2C36,https://i.uik.cc/view.php/13e0c70ae7250428e2642e2b0aec113a.mp4
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8$官网
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8$官网
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8$官网
-香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8$官网
+
 中天新闻,http://smtp.tcxlife.com:8080/live/yifatv-ztxw01.m3u8
 中天新闻,http://smtp.tcxlife.com:8080/live/yifatv-ztxw02.m3u8
 
-TVBS,http://220.135.64.124:5050/4gtv-4gtv073/index.m3u8?proxy=true
-TVBS新聞,http://220.135.64.124:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
-中天新闻,http://220.135.64.124:5050/4gtv-4gtv009/index.m3u8?proxy=true
-寰宇新聞,http://220.135.64.124:5050/litv-longturn14/index.m3u8?proxy=true
-东森新闻,http://220.135.64.124:5050/4gtv-4gtv152/index.m3u8?proxy=true
-台視新聞,http://220.135.64.124:5050/4gtv-4gtv051/index.m3u8?proxy=true
-華視新聞,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
-中視新聞,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
-民視新聞,http://220.135.64.124:5050/li-litv-ftv13/index.m3u8?proxy=true
-三立新闻,http://220.135.64.124:5050/iNEWS/index.m3u8?proxy=true
+
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
 
@@ -276,7 +274,10 @@ RTHK-32频加,http://vallest.uk/livehttpplay?channel_id=30028
 广东体育频加,http://vallest.uk/livehttpplay?channel_id=20130 
 广东体育频加,http://vallest.uk/livehttpplay?channel_id=30031 
 广东戏曲频加,http://vallest.uk/livehttpplay?channel_id=20142
-
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+台视,rtmp://f13h.mine.nu/sat/tv071
+民视,rtmp://f13h.mine.nu/sat/tv051
 东森新闻地波,http://211.72.174.95:8138/0.ts
 民视新闻地波,http://211.72.174.95:8117/0.ts
 中视闽南地波,http://211.72.174.95:8113/0.ts
@@ -4971,7 +4972,8 @@ Runningman,http://113.45.240.129:35455/douyu/131977
 妻子的浪漫旅行,https://cdn.yzzy27-play.com/20250508/2517_c5dc3e08/index.m3u8$第40集
 🍁短剧系列,#genre#
 画面比例设置默认,https://vd3.bdstatic.com/mda-pefi3w616b8ujr88/720p/h264/1684243271973602840/mda-pefi3w616b8ujr88.mp4
-随机直播,http://huanqiuzhibo.cn/manifest/douyu.php?id=6079455
+随机直播,http://www.douzhicloud.site:35455/douyu/4011851
+随机直播1,http://huanqiuzhibo.cn/manifest/douyu.php?id=6079455
 霸爱为奴(100集),https://vd4.bdstatic.com/mda-pe89k65is9xdwqen/sc/cae_h264/1683667911711262079/mda-pe89k65is9xdwqen.mp4
 都市逍遥神医(93集),https://vd4.bdstatic.com/mda-pe9f7u2qj8qi7r04/720p/h264/1683716481871424650/mda-pe9f7u2qj8qi7r04.mp4
 逆命神医(96集),https://vd3.bdstatic.com/mda-peds8afg0055s0nh/720p/h264/1684091269327297304/mda-peds8afg0055s0nh.mp4
@@ -8802,5 +8804,3 @@ T台秀,http://113.45.240.129:35455/huya/18501378
 小哥哥没人看,https://api.e1e1.top/xgg/g.php 
 ❥打赏留言,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥增加更多,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-
-
