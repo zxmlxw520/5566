@@ -933,273 +933,275 @@ CCTV怀旧剧场,http://b.tvbox6.icu/tv/ysp.php?id=23
 CGTN,http://b.tvbox6.icu/tv/ysp.php?id=66
 
 🇨🇳CCTV频道2,#genre#
-CCTV-01高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CCTV-1H265_4000.m3u8
-CCTV-02高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CCTV-2H265_4000.m3u8
-CCTV-03高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CCTV-3H265_4000.m3u8
-CCTV-04高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CCTV-4H265_4000.m3u8
-CCTV-05高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CCTV-5H265_4000.m3u8
-CCTV-5+高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CCTV-5plusH265_4000.m3u8
-CCTV-06高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CCTV-6H265_4000.m3u8
-CCTV-07高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CCTV-7H265_4000.m3u8
-CCTV-08高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CCTV-8H265_4000.m3u8
-CCTV-09高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CCTV-9H265_4000.m3u8
-CCTV-10高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CCTV-10H265_4000.m3u8
-CCTV-11高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CCTV-11-H265_4000.m3u8
-CCTV-12高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CCTV-12H265_4000.m3u8
-CCTV-13高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CCTV-xw_4000.m3u8
-CCTV-14高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CCTV-14H265_4000.m3u8
-CCTV-15高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CCTV-15-yyH265_4000.m3u8
-CCTV-16高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CCTV-16_4000.m3u8
-CCTV-17高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CCTV-17_4000.m3u8
-CCTV-4K超码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ys4Kcq_2000.m3u8
-CCTV16k超码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CCTV-16-4K_8000.m3u8
-凤凰中文标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/test1_4000.m3u8
-凤凰资讯标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/test2_4000.m3u8
-动作电影高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/wqCHCdzdyH265_4000.m3u8
-家庭影院高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
-影迷电影高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8
-重温经典高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CWJD_4000.m3u8
-北京卫视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/bjwsH265_4000.m3u8
-东方卫视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/dfwsH265_4000.m3u8
-浙江卫视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/zjwsH265_4000.m3u8
-江苏卫视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/jswsH265_4000.m3u8
-湖南卫视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/hnwsH265_4000.m3u8
-广东卫视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/gdwsH265_4000.m3u8
-深圳卫视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/szwsH265_4000.m3u8
-天津卫视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/tjwsH265_4000.m3u8
-安徽卫视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ahwsH265_4000.m3u8
-山东卫视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/sdwsH265_4000.m3u8
-山西卫视标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/sxws42_4000.m3u8
-辽宁卫视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/lnwsHDH264_4000.m3u8
-河南卫视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/hnws35_4000.m3u8
-江西卫视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/jxwsH265_4000.m3u8
-四川卫视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/scwsH265_4000.m3u8
-重庆卫视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/cqwsH265_4000.m3u8
-贵州卫视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/gzwsH265_4000.m3u8
-湖北卫视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/hbwsH265_4000.m3u8
-广西卫视标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/gxws_4000.m3u8
-云南卫视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ynws_4000.m3u8
-东南卫视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/dnwsfjwsH265_4000.m3u8
-海南卫视标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/hnws_4000.m3u8
-青海卫视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/qhwsH264_2000.m3u8
-康巴卫视标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/kbwsH264_2000.m3u8
-陕西卫视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/sxws_4000.m3u8
-甘肃卫视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/gsws_4000.m3u8
-新疆卫视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/xjws_4000.m3u8
-兵团卫视标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/btws_4000.m3u8
-吉林卫视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/jlwsH265_4000.m3u8
-西藏卫视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/xzwsH264_2000.m3u8
-内蒙古视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/nmgws_4000.m3u8
-黑龙江视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/hljwsH265_4000.m3u8
-Cgtn英语标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CGTN_4000.m3u8
-Cgtn西语标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/xbyy_2000.m3u8
-Cgtn法语标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/fy_2000.m3u8
-Cgtn俄语标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ey_2000.m3u8
-CETV-01高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CETV-1H264_4000.m3u8
-CETV-02标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CETV-2_4000.m3u8
-CETV-04标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CETV-4H264_2000.m3u8
-新视觉hd高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ycxsjH265_4000.m3u8
-中国天气高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/zgqx_4000.m3u8
-卡酷少儿高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/kkkt_4000.m3u8
-金鹰卡通高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/jykt_2000.m3u8
-嘉佳卡通标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/jjkt_2000.m3u8
-央老故事标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/lgs_2000.m3u8
-央中学生标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/zxs_4000.m3u8
-发现之旅标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/fxzl_2000.m3u8
-书画频道标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/sh_4000.m3u8
-四海钓鱼标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/shdy_4000.m3u8
-环球精选标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/hqgw_4000.m3u8
-动漫秀场高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/yybb-dmxc-H265_4000.m3u8
-都市剧场高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/yxfydsjcHDH265_4000.m3u8
-法治天地高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/fztx_4000.m3u8
-乐游频道高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/qjs-HDH265_4000.m3u8
-生活时尚高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/shssH265_4000.m3u8
-汽摩频道标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/qmpdH264_2000.m3u8
-家有购物标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/jygw_4000.m3u8
-优购频道标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ygw_4000.m3u8
-梨园频道高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ly_4000.m3u8
-武术世界高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/wssj_4000.m3u8
-文物宝库高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/wwbk_4000.m3u8
-茶道频道高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/cpd_4000.m3u8
-金鹰纪实高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/jyjsHDH265_4000.m3u8
-纪实科教标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/bjjs_2000.m3u8
-快乐垂钓高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/fyzqklcdHDH265_4000.m3u8
-先锋乒羽标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/xfpy_4000.m3u8
-财富天下标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/cftx_4000.m3u8
-天元围棋高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/tywq_2000.m3u8
-精品导一高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/jpdsH265_4000.m3u8
-精品导二标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/jpdsgq-hkkp_4000.m3u8
-川网导视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/cwdsHDH264_4000.m3u8
-东方财经高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/dfcj_4000.m3u8
-山东教育高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/sdjy_4000.m3u8
-青羊电视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/qyzh_4000.m3u8
-央广购物标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/yggw_2000.m3u8
-四川经济高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/SCTV-2-H265_4000.m3u8
-四川文化高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/SCTV-3-H265_4000.m3u8
-四川新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/SCTV-4H265_4000.m3u8
-四川影视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/SCTV-5-scysH265_4000.m3u8
-四川科教高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/SCTV-ggSCTV-8_4000.m3u8
-四川乡村高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/SCTV-kjSCTV-9-_4000.m3u8
-峨嵋电影高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/emdygqH265_4000.m3u8
-成都新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CDTV-1_4000.m3u8
-成都经济高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CDTV-2_4000.m3u8
-成都都市高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CDTV-3_4000.m3u8
-成都影视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CDTV-4_4000.m3u8
-成都公共高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CDTV-5_4000.m3u8
-成都少儿高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CDTV-6_2000.m3u8
-成都购物高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/mrgw_4000.m3u8
-成都高新高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/cdgxdstgq_2000.m3u8
-崇州综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/czyt_4000.m3u8
-大邑综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/dyytH265_4000.m3u8
-都江堰综标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/djyzh_4000.m3u8
-金牛综合标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/jnyx_2000.m3u8
-金堂综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/jtzhpd_2000.m3u8
-简阳新闻标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/jyxwzh_2000.m3u8
-龙泉新闻标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/lqxw_2000.m3u8
-郫都新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/pxds1_2000.m3u8
-蒲江综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/pjxw_4000.m3u8
-彭州综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/pzxwzh_2000.m3u8
-青白江综高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/qbjxwzh_2000.m3u8
-邛崃综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/qlds1t_2000.m3u8
-双流综合标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/slgq_2000.m3u8
-温江新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/wjytH264_2000.m3u8
-新都综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/xdzhpd_2000.m3u8
-新津综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/xjzh_4000.m3u8
-绵阳新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/myytH265_4000.m3u8
-绵阳科技高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/myetH265_4000.m3u8
-安州综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/azgq_2000.m3u8
-北川综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/bcxwHD_2000.m3u8
-涪城综合标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/fcgq_2000.m3u8
-江油综合标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/jyxwHD_2000.m3u8
-平武综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/pwgq_4000.m3u8
-盐亭综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ytzh_2000.m3u8
-梓潼综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ztgq_2000.m3u8
-攀枝花新闻高,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/pzhytH265_4000.m3u8
-攀钢新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/pgxwzh_2000.m3u8
-米易综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/myxwzh_2000.m3u8
-盐边综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ybtgq_2000.m3u8
-仁和新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/rhxwH264_2000.m3u8
-广元综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/gyzhH265_4000.m3u8
-朝天综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ctxwzh_2000.m3u8
-苍溪综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/cxxwgqH265_4000.m3u8
-剑阁综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/jgxwzhH265_4000.m3u8
-利州综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/lzxwzh_2000.m3u8
-青川综合标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/qcxwzhH265_4000.m3u8
-旺苍新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/wcxwzhH265_4000.m3u8
-昭化综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/zhxwzh_2000.m3u8
-古蔺新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/glxwzhgq_2000.m3u8
-合江新闻标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/hjxw_2000.m3u8
-泸县综合标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/lxxwzh_2000.m3u8
-纳溪综合标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/nxxw_2000.m3u8
-叙永综合标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/xyxw_2000.m3u8
-德阳新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/dyxwgq-HD-_2000.m3u8
-德阳文旅高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/dygggq-HD-_2000.m3u8
-广汉综合标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ghxwzh_2000.m3u8
-旌阳综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/jyxwgq-HD-_2000.m3u8
-罗江综合标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ljxwzh_2000.m3u8
-绵竹综合标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/mzxwzh_2000.m3u8
-中江新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/zjxwzh_2000.m3u8
-宜宾新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ybytH264_2000.m3u8
-宜宾公共高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ybetH264_2000.m3u8
-宜宾导视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ybds_2000.m3u8
-珙县新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/gxzh_2000.m3u8
-南溪综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/nxt_2000.m3u8
-屏山新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/psxwzh_2000.m3u8
-兴文综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/xwt_2000.m3u8
-叙州新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ybx_2000.m3u8
-筠连新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ylyt_2000.m3u8
-长宁综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/znzh_2000.m3u8
-宁新综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/snxwzhHDH265_4000.m3u8
-遂宁文化高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/sngggq_2000.m3u8
-安居综合标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ajxw_2000.m3u8
-大英新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/dyxwzhH265_4000.m3u8
-蓬溪新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/pxxw_2000.m3u8
-乐山新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/lsxwzh_4000.m3u8
-乐山文旅高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/lsggpd_4000.m3u8
-峨边综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ebdst_2000.m3u8
-夹江新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/jjxw_2000.m3u8
-金口河综高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/jkhdst_2000.m3u8
-井研新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/jyxwzh162_2000.m3u8
-马边综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/mbxwzh_2000.m3u8
-沐川综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/mcxw_2000.m3u8
-犍为新闻标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/qwxwzh_2000.m3u8
-沙湾融媒高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/swxwzh_2000.m3u8
-五通桥综高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/wtqxwzh_2000.m3u8
-内江综合标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/njzh_4000.m3u8
-内江公共标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/njgg_4000.m3u8
-隆昌综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/lcxw_2000.m3u8
-资中综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/zzzh_2000.m3u8
-南充科教高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/nckj_4000.m3u8
-阆中综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/lzxw_2000.m3u8
-南部综合标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/nbxw_2000.m3u8
-蓬安综合标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/pazh_2000.m3u8
-西充新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/xczh_2000.m3u8
-仪陇新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ylxw_2000.m3u8
-营山综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ysxw_2000.m3u8
-达州新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/dzxwzh_2000.m3u8
-达州文化高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/dzgg_2000.m3u8
-达州导视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/dzds_2000.m3u8
-达川新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/dcxwzh_2000.m3u8
-大竹新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/dzxwzh137_2000.m3u8
-开江新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/kjxwzh_2000.m3u8
-渠县新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/qxxwzh_2000.m3u8
-通川综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/xcxwzhH264_2000.m3u8
-万源综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/wyxwzh_2000.m3u8
-宣汉新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/xhxwzh_2000.m3u8
-雅安新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/yazh_2000.m3u8
-雅安公共高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/yagg_2000.m3u8
-雅安雨城标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ycpd_2000.m3u8
-宝兴综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/bxdst_2000.m3u8
-汉源新闻标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/hyxwzh_2000.m3u8
-芦山新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/lszh_2000.m3u8
-名山综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/msdstH265_2000.m3u8
-石棉综合标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/smxwzh_2000.m3u8
-天全新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/tqzh_2000.m3u8
-荥经综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/xjdst_2000.m3u8
-广安公共标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/gagg_2000.m3u8
-广安综合标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/gaqxw_2000.m3u8
-华蓥综合标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/hyxw_2000.m3u8
-邻水综合标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/lsxw_2000.m3u8
-前锋综合标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/qfxw_2000.m3u8
-武胜综合标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/wsxw_2000.m3u8
-岳池综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ycxw_2000.m3u8
-巴中综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/bzytH265_4000.m3u8
-巴中文旅高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/bzetH264_2000.m3u8
-巴州电视高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/bzxw_4000.m3u8
-恩阳新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/eyxw_2000.m3u8
-南江综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/njxw_2000.m3u8
-平昌综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/pcxw_2000.m3u8
-通江综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/tjxwH265_4000.m3u8
-眉山综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/msxwzhgq_2000.m3u8
-眉山文旅高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/msgg_2000.m3u8
-丹棱新闻标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/dlxwzhH265_4000.m3u8
-洪雅新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/hyzh_2000.m3u8
-彭山综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/pszh_2000.m3u8
-青神综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/qszh_2000.m3u8
-仁寿综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/msrszh_2000.m3u8
-凉山新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/lsxwHDH265_4000.m3u8
-德昌综合标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/dcxw_4000.m3u8
-会理新闻标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/hlyt_4000.m3u8
-冕宁综合标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/mnxw_2000.m3u8
-宁南综合标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/nnt_4000.m3u8
-普格新闻标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/pgt_4000.m3u8
-西昌综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/xctHD_2000.m3u8
-越西综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/yxt_4000.m3u8
-资阳新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/zyxwzh_2000.m3u8
-雁江综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/yjxw_2000.m3u8
-安岳新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ayxwzh_4000.m3u8
-自贡新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/zgxw_4000.m3u8
-自贡文化高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/zggg_4000.m3u8
-富顺综合标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/fszh_2000.m3u8
-荣县综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/rxzh_2000.m3u8
-甘孜新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/gzxwzh_2000.m3u8
-泸定综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ldxw_4000.m3u8
-康定综合高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/gzkdxwzh_2000.m3u8
-黑水新闻标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/hsxwzhpdH264_2000.m3u8
-松潘新闻高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/spxwzhpdH264_2000.m3u8
-三台一套标码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/stxwHD_2000.m3u8
-高县一套高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/gxt_2000.m3u8
-峨眉山综高码,http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/emsxw_2000.m3u8
+CCTV1,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-1H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV2,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-2H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV3,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-3H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV4,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-4H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV5,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV5+,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5plusH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV6,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-6H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV7,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-7H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV8,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-8H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV9,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-9H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV10,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-10H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV11,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-11-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV12,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-12H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV13,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-xw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV14,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-14H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV15,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-15-yyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV16,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV16 4K,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16-4K_800.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV17,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-17_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV4K,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/ys4Kcq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+4K超高清电影 4K,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_800.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+欢笑剧场4K,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/hxjc-4k_800.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+凤凰中文,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/test1_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+凤凰资讯,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/test2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+安徽卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/ahwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+北京卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/bjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+兵团卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/btws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+重庆卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/cqwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+东方卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/dfwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+东南卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/dnwsfjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+甘肃卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/gsws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+广东卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/gdwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+广西卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/gxws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+贵州卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/gzwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+海南卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+河南卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnws35_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+黑龙江卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/hljwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+湖北卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/hbwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+湖南卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+吉林卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jlwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+江苏卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jswsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+江西卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jxwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+康巴卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/kbwsH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+辽宁卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsHDH264_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+内蒙古卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/nmgws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+山东教育卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/sdjy_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+山东卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/sdwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+山西卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/sxws42_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+陕西卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/sxws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+深圳卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/szwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+四川卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/scwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+天津卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/tjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+西藏卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/xzwsH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+云南卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/ynws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+浙江卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/zjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CETV1,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CETV-1H264_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CETV4,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CETV-4H264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CBN风尚生活,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/fssh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CBN每日影院,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/mryy_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CBN幸福剧场,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/xfjc_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CBN幸福娱乐,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/xfyl_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CHC动作电影,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CHC高清电影,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CHC家庭影院,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+动漫秀场,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/yybb-dmxc-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+都市剧场,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/yxfydsjcHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+法治天地,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/fztx_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+极速汽车,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jsqcH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+纪实科教,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/bjjs_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+嘉佳卡通,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jjkt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+家庭理财,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jtlc_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+财富天下,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/cftx_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+金鹰纪实,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jyjsHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+金鹰卡通,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jykt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+劲爆体育,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/lqhxjcHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+聚鲨环球精选,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jshqjxHD_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+卡酷少儿,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/kkkt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+快乐垂钓,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/fyzqklcdHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+乐游,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/qjs-HDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+梨园频道,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/ly_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+魅力足球,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/mlyy_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+七彩戏剧,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/qcxj_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+摄影频道,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/sy_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+生活时尚,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/shssH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+四海钓鱼,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+天元围棋,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/tywq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+武术世界,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/wssj_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+先锋乒羽,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/xfpy_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+新视觉,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/ycxsjH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+证劵服务,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jz_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+中国天气,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/zgqx_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+中央新影-发现之旅,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/fxzl_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+中央新影-老故事,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/lgs_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+中央新影-中学生,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/zxs_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+川广融媒,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/cgrh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+川网导视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/cwdsHDH264_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+精品导视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jpdsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+沙湾融媒,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/swxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+四川文化,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/SCTV-2-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+四川经济,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/SCTV-3-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+四川新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/SCTV-4H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+四川影视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/SCTV-5-scysH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+四川妇女,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/SCTV-7-_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+四川科教,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/SCTV-ggSCTV-8_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+四川乡村,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/SCTV-kjSCTV-9-_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+峨嵋电影,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdygqH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+成都新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-1_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+成都经济,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+成都都市,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-3_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+成都影视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-4_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+成都公共,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-5_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+成都高新区,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/cdgxdstgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+成都购物,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/mrgw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+阿坝州TV,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/abxwzhpdgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+阿坝州藏语,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/wypdgqH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+安居综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/ajxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+安岳综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/ayxwzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+安州综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/azgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+巴中文旅,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/bzetH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+巴中综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/bzytH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+巴州电视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/bzxw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+宝兴综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/bxdst_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+北川综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/bcxwHD_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+苍溪综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/cxxwgqH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+长宁综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/znzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+朝天综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/ctxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+崇州,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/czyt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+船山综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/csxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+达川新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/dcxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+达州导视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/dzds_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+达州公共,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/dzgg_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+达州通川,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/tcq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+达州新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/dzxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+大邑电视台,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/dyytH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+大英新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/dyxwzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+丹棱综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/dlxwzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+德昌,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/dcxw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+东兴综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/dxxwzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+都江堰,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/djyzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+峨边,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/ebdst_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+峨眉综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/emsxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+恩阳新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/eyxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+涪城综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/fcgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+富顺综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/fszh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+甘洛,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/glt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+甘孜综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/gzxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+高县-1,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/gxt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+古蔺新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/glxwzhgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+广安公共,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/gagg_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+广安区,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/gaqxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+广安新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/gaxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+广汉综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/ghxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+广元文化,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/gyggH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+广元综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/gyzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+汉源综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/hyxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+合江新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/hjxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+黑水,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/hsxwzhpdH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+洪雅新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/hyzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+华蓥综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/hyxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+会理新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/hlyt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+夹江新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jjxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+简阳新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jyxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+剑阁综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jgxwzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+江安,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jat_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+江油综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jyxwHD_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+金口河综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jkhdst_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+金牛,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jnyx_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+金堂,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jtzhpd_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+开江新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/kjxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+乐山公共,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/lsggpd_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+乐山新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/lsxwzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+利州综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/lzxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+凉山新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/lsxwHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+凉山彝语,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/yyzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+邻水,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/lsxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+龙泉综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/lqxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+隆昌综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/lcxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+芦山综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/lszh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+罗江,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/ljxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+马边综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/mbxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+马尔康,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/mekxwzhpd_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+眉山综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/msxwzhgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+米易综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/myxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+绵阳科技,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/myetH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+绵阳新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/myytH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+绵竹,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/mzxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+冕宁综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/mnxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+名山,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/msdstH265_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+木里,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/mltHD_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+纳溪1,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/nxxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+南部综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/nbxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+南充综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/ncxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+南江,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/njxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+南溪综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/nxt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+内江公共,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/njgg_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+内江综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/njzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+宁南综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/nnt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+攀钢新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/pgxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+攀枝花新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/pzhytH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+彭山综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/pszh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+彭州综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/pzxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+蓬安综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/pazh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+蓬溪新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/pxxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+平昌综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/pcxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+平武综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/pwgq_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+屏山综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/psxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+蒲江综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/pjxw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+普格综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/pgt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+前锋,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/qfxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+青白江综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/qbjxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+青川综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/qcxwzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+青神综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/qszh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+渠县新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/qxxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+仁和新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/rhxwH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+荣县综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/rxzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+三台TV,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/stxwHD_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+射洪综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/shzhH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+石棉,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/smxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+什邡新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/sfx_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+双流综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/slgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+松潘,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/spxwzhpdH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+遂宁综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/snxwzhHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+天全新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/tqzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+通川区,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/xcxwzhH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+通江综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/tjxwH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+万源,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/wyxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+旺苍新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/wcxwzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+温江综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/wjytH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+武胜综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/wsxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+五通桥,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/wtqxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+西昌,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/xctHD_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+西充综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/xczh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+喜德,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/xdxw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+新都综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/xdzhpd_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+新津,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/xjzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+兴文台,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/xwt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+叙永,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/xyxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+叙州新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/ybx_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+宣汉综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/xhxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+雅安公共,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/yagg_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+雅安新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/yazh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+雅安雨城,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/ycpd_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+盐边电视台,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/ybtgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+盐亭1,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/ytzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+雁江,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/yjxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+仪陇新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/ylxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+宜宾公共,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/ybetH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+宜宾新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/ybytH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+营山,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/ysxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+越西综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/yxt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+岳池,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/ycxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+昭化综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/zhxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+中江新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/zjxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+资阳新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/zyxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+资中综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/zzzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+自贡文化,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/zggg_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+自贡综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/zgxw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+郫县新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/pxds1_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+荥经,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/xjdst_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+阆中综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/lzxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+沐川综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/mcxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+泸定综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/ldxw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+泸县综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/lxxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+泸州公共,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/lzgg_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+珙县新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/gxzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+梓潼综合,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/ztgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+犍为新闻,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/qwxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+筠连,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/ylyt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+
 
 📺央卫备用,#genre#
 卡就按右换线,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
@@ -9262,3 +9264,4 @@ T台秀,http://113.45.240.129:35455/huya/18501378
 穿搭16,https://i.uik.cc/view.php/41adfe35829186725fc7a15bd88f68e4.mp4
 写真集,https://i.uik.cc/view.php/40870ac97ee94ec7b81a05b5e2be1d58.mp4
 陆续更新中
+
