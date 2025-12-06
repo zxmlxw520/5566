@@ -103,7 +103,7 @@ TVBS大白话,http://rihou.cc:8/tvbs新话
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰香港,http://r.jdshipin.com/yDoTN
-PopC电影,http://tl.061833.xyz/tl/popc
+
 PopC电影,P2p://starvod.xyz:19806/688bba7c000da6943214e2280ad91465.ts
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial
 
@@ -9600,4 +9600,5 @@ T台秀,http://113.45.240.129:35455/huya/18501378
 写真花絮,https://cccimg.com/view.php/5596bbc9f75e7c1390faaaedcd0ec835.mp4
 喜欢什么类型,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 陆续更新中,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+
 
