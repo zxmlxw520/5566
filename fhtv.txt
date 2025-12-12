@@ -1306,38 +1306,56 @@ CETV1,http://218.206.221.78:90/hls/19/index.m3u8
 
 🇨🇳CCTV频道2,#genre#
 
-CCTV1,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMS9pbmRleC5tM3U4
-CCTV1,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDAvaW5kZXgubTN1OA==
-CCTV2,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMi9pbmRleC5tM3U4
-CCTV3,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMy9pbmRleC5tM3U4
-CCTV4,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNC9pbmRleC5tM3U4
-CCTV5,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNS9pbmRleC5tM3U4
-CCTV6,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNi9pbmRleC5tM3U4
-CCTV7,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNy9pbmRleC5tM3U4
-CCTV8,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvOC9pbmRleC5tM3U4
-CCTV10,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvOS9pbmRleC5tM3U4
-CCTV11,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTAvaW5kZXgubTN1OA==
-CCTV12,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTEvaW5kZXgubTN1OA==
-CCTV13,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTIvaW5kZXgubTN1OA==
-CCTV14,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTMvaW5kZXgubTN1OA==
-CCTV15,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTQvaW5kZXgubTN1OA==
-CCTV17,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTUvaW5kZXgubTN1OA==
-浙江卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTgvaW5kZXgubTN1OA==
-江苏卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTkvaW5kZXgubTN1OA==
-东方卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMzgvaW5kZXgubTN1OA==
-湖南卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTcvaW5kZXgubTN1OA==
-云南卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMzUvaW5kZXgubTN1OA==
-安徽卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMjAvaW5kZXgubTN1OA==
-北京卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMjkvaW5kZXgubTN1OA==
-贵州卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTYvaW5kZXgubTN1OA==
-山东卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDMvaW5kZXgubTN1OA==
-河南卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMjcvaW5kZXgubTN1OA==
-河北卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDEvaW5kZXgubTN1OA==
-四川卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDYvaW5kZXgubTN1OA==
-四川卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDcvaW5kZXgubTN1OA==
-江西卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDQvaW5kZXgubTN1OA==
-海南卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDIvaW5kZXgubTN1OA==
-黑龙江卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDUvaW5kZXgubTN1OA==
+CCTV1综合,http://tvlist.top/jd/index.php?id=cctv1&qt=183.224.122.114:8014
+CCTV2-财经,http://tvlist.top/jd/index.php?id=cctv2&qt=183.224.122.114:8014
+CCTV3-综艺,http://tvlist.top/jd/index.php?id=cctv3&qt=183.224.122.114:8014
+CCTV4-中文国际,http://tvlist.top/jd/index.php?id=cctv4&qt=183.224.122.114:8014
+CCTV5-体育,http://tvlist.top/jd/index.php?id=cctv5&qt=183.224.122.114:8014
+CCTV6-电影,http://tvlist.top/jd/index.php?id=cctv6&qt=183.224.122.114:8014
+CCTV7-军事农业,http://tvlist.top/jd/index.php?id=cctv7&qt=183.224.122.114:8014
+CCTV8-电视剧,http://tvlist.top/jd/index.php?id=cctv8&qt=183.224.122.114:8014
+CCTV9-记录,http://tvlist.top/jd/index.php?id=cctv9&qt=183.224.122.114:8014
+CCTV-10,http://tvlist.top/jd/index.php?id=cctv10&qt=183.224.122.114:8014
+CCTV11-戏曲,http://tvlist.top/jd/index.php?id=cctv11&qt=183.224.122.114:8014
+CCTV12-社会与法,http://tvlist.top/jd/index.php?id=cctv12&qt=183.224.122.114:8014
+CCTV13-新闻,http://tvlist.top/jd/index.php?id=cctv13&qt=183.224.122.114:8014
+CCTV14-少儿,http://tvlist.top/jd/index.php?id=cctv14&qt=183.224.122.114:8014
+CCTV15-音乐,http://tvlist.top/jd/index.php?id=cctv15&qt=183.224.122.114:8014
+CCTV16,http://tvlist.top/jd/index.php?id=cctv16&qt=183.224.122.114:8014
+CCTV5+,http://tvlist.top/jd/index.php?id=cctv5p&qt=183.224.122.114:8014
+安徽卫视,http://tvlist.top/jd/index.php?id=ahws&qt=183.224.122.114:8014
+北京卫视,http://tvlist.top/jd/index.php?id=bjws&qt=183.224.122.114:8014
+重庆卫视,http://tvlist.top/jd/index.php?id=cqws&qt=183.224.122.114:8014
+东方卫视,http://tvlist.top/jd/index.php?id=dfws&qt=183.224.122.114:8014
+东南卫视,http://tvlist.top/jd/index.php?id=dnws&qt=183.224.122.114:8014
+甘肃卫视,http://tvlist.top/jd/index.php?id=gsws&qt=183.224.122.114:8014
+广西卫视,http://tvlist.top/jd/index.php?id=gxws&qt=183.224.122.114:8014
+贵州卫视,http://tvlist.top/jd/index.php?id=gzws&qt=183.224.122.114:8014
+河北卫视,http://tvlist.top/jd/index.php?id=hebeiws&qt=183.224.122.114:8014
+河南卫视,http://tvlist.top/jd/index.php?id=hnws&qt=183.224.122.114:8014
+黑龙江卫视,http://tvlist.top/jd/index.php?id=hljws&qt=183.224.122.114:8014
+湖北卫视,http://tvlist.top/jd/index.php?id=hbws&qt=183.224.122.114:8014
+湖南卫视,http://tvlist.top/jd/index.php?id=hunanws&qt=183.224.122.114:8014
+吉林卫视,http://tvlist.top/jd/index.php?id=jlws&qt=183.224.122.114:8014
+江苏卫视,http://tvlist.top/jd/index.php?id=jsws&qt=183.224.122.114:8014
+江西卫视,http://tvlist.top/jd/index.php?id=jxws&qt=183.224.122.114:8014
+康巴卫视,http://tvlist.top/jd/index.php?id=live4468&qt=183.224.122.114:8014
+辽宁卫视,http://tvlist.top/jd/index.php?id=lnws&qt=183.224.122.114:8014
+内蒙古卫视,http://tvlist.top/jd/index.php?id=neimenggu&qt=183.224.122.114:8014
+宁夏卫视,http://tvlist.top/jd/index.php?id=linxws&qt=183.224.122.114:8014
+农林卫视,http://tvlist.top/jd/index.php?id=live3843&qt=183.224.122.114:8014
+青海卫视,http://tvlist.top/jd/index.php?id=qhws&qt=183.224.122.114:8014
+厦门卫视,http://tvlist.top/jd/index.php?id=xmws&qt=183.224.122.114:8014
+山东卫视,http://tvlist.top/jd/index.php?id=sdws&qt=183.224.122.114:8014
+山西卫视,http://tvlist.top/jd/index.php?id=sxws&qt=183.224.122.114:8014
+陕西卫视,http://tvlist.top/jd/index.php?id=shxws&qt=183.224.122.114:8014
+深圳卫视,http://tvlist.top/jd/index.php?id=szws&qt=183.224.122.114:8014
+四川卫视,http://tvlist.top/jd/index.php?id=scws&qt=183.224.122.114:8014
+天津卫视,http://tvlist.top/jd/index.php?id=tjws&qt=183.224.122.114:8014
+西藏卫视,http://tvlist.top/jd/index.php?id=xzws&qt=183.224.122.114:8014
+新疆卫视,http://tvlist.top/jd/index.php?id=xjws&qt=183.224.122.114:8014
+云南卫视,http://tvlist.top/jd/index.php?id=ynws&qt=183.224.122.114:8014
+浙江卫视,http://tvlist.top/jd/index.php?id=zjws&qt=183.224.122.114:8014
 📺央卫备用,#genre#
 卡就按右换线,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
 请在公告页打赏,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
@@ -3818,6 +3836,24 @@ RNA,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 ❥打赏长久使用,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥感谢各位支持,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 卡顿切换解码,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+雪中悍刀行剧,http://cfss.cc/cdn/hy/11336592.m3u8
+庆余年一轮播,http://cfss.cc/cdn/hy/11352960.m3u8
+庆余年二轮播,http://cfss.cc/cdn/hy/23740156.m3u8
+传闻中的芊芊,http://cfss.cc/cdn/hy/21059608.m3u8
+如懿传电视剧,http://cfss.cc/cdn/hy/29465868.m3u8
+芈月传电视剧,http://cfss.cc/cdn/hy/11352975.m3u8
+延禧攻略轮播,http://cfss.cc/cdn/hy/26355864.m3u8
+与凤行电视剧,http://cfss.cc/cdn/hy/26355866.m3u8
+柳舟记电视剧,http://cfss.cc/cdn/hy/23860039.m3u8
+开端电视轮播,http://cfss.cc/cdn/hy/11342397.m3u8
+我爱男保姆播,http://cfss.cc/cdn/hy/29581262.m3u8
+渗透电视轮播,http://cfss.cc/cdn/hy/30080244.m3u8
+亮剑电视轮播,http://cfss.cc/cdn/hy/30080238.m3u8
+雪豹电视轮播,http://cfss.cc/cdn/hy/29580970.m3u8
+科幻梦工场播,http://cfss.cc/cdn/hy/15152155.m3u8
+脱口秀大会肆,http://cfss.cc/cdn/hy/30080243.m3u8
+脱口秀大会伍,http://cfss.cc/cdn/hy/11352875.m3u8
+粤语星爷电影,http://cfss.cc/cdn/hy/11336587.m3u8
 电视剧一频道,http://cfss.cc/cdn/hy/29465862.m3u8 
 电视剧二频道,http://cfss.cc/cdn/hy/11336591.m3u8 
 电视剧三频道,http://cfss.cc/cdn/hy/21059563.m3u8 
@@ -4223,7 +4259,611 @@ TVB剧场2,http://huanqiuzhibo.cn/manifest/douyu.php?id=5522351
 🎰直播频道,#genre#
 ❥赏个鸡腿行不,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 卡顿切换解码,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-万合出品,http://huanqiuzhibo.cn/manifest/douyu.php?id=9220456 
+超精彩武打场景,http://tv.ximix.us/yy/1354936131
+【鹿鼎记】金庸经典,http://tv.ximix.us/yy/28265277
+武林外传 超清,http://tv.ximix.us/yy/21092633
+弹幕天团 下饭神剧,http://tv.ximix.us/yy/23512910
+少年包青天,http://tv.ximix.us/yy/1356043677
+纪晓岚,http://tv.ximix.us/yy/1354143978
+靓剑,http://tv.ximix.us/yy/1356043643
+港片 喜剧 动作,http://tv.ximix.us/yy/1355480591
+宋小宝小品合集,http://tv.ximix.us/yy/1354931577
+林正英-经典电影,http://tv.ximix.us/yy/34229877
+古惑仔,http://tv.ximix.us/yy/1458015189
+绝版电影 港片女鬼,http://tv.ximix.us/yy/1455988450
+封神榜,http://tv.ximix.us/yy/1353426319
+雪中悍刀行,http://tv.ximix.us/yy/1462996362
+豪哥带我们发财,http://tv.ximix.us/yy/23402146
+宰相刘罗锅,http://tv.ximix.us/yy/1353892468
+燕双鹰,http://tv.ximix.us/yy/1352227153
+武林外传,http://tv.ximix.us/yy/1355652820
+赵本山《超清版》,http://tv.ximix.us/yy/1382683959
+济公,http://tv.ximix.us/yy/1355265814
+狄仁杰,http://tv.ximix.us/yy/1351755386
+纪晓岚,http://tv.ximix.us/yy/1352227227
+地下交通站,http://tv.ximix.us/yy/1382736795
+康熙微服私访记,http://tv.ximix.us/yy/1352811698
+雍正王朝,http://tv.ximix.us/yy/1356043620
+如沐春风,http://tv.ximix.us/yy/1382736810
+欢乐集结号-每天笑不停,http://tv.ximix.us/yy/1382741642
+【新三国】萌儿陪看,http://tv.ximix.us/yy/29216766
+神探狄仁杰1,http://tv.ximix.us/yy/1382851575
+正阳门下,http://tv.ximix.us/yy/1382851588
+康熙王朝,http://tv.ximix.us/yy/1382851583
+赌神 港片 喜剧,http://tv.ximix.us/yy/1355112116
+港剧-警犬巴打,http://tv.ximix.us/yy/1354932397
+时光的海,http://tv.ximix.us/yy/1382736885
+鹊刀门,http://tv.ximix.us/yy/1355344777
+经典鬼片3000部,http://tv.ximix.us/yy/29460894
+河伯的新娘：奇幻爱情,http://tv.ximix.us/yy/1354936249
+爆笑电影！王牌大贱谍2-3,http://tv.ximix.us/yy/1382735556
+纪晓岚,http://tv.ximix.us/yy/1382781415
+玄幻道墓,http://tv.ximix.us/yy/1459714870
+热度榜1.包青天,http://tv.ximix.us/yy/22701868
+水浒传,http://tv.ximix.us/yy/1353873252
+【林正英经典】玄幻电影,http://tv.ximix.us/yy/1462895099
+神探狄仁杰,http://tv.ximix.us/yy/38338029
+进来 陪你看动漫,http://tv.ximix.us/yy/1352866135
+影视小艺,http://tv.ximix.us/yy/1382737886
+神医喜来乐,http://tv.ximix.us/yy/1382714119
+经典鬼片,http://tv.ximix.us/yy/1460889796
+经典电影 港片枪战,http://tv.ximix.us/yy/1355076627
+惊恐盗暮鬼怪,http://tv.ximix.us/yy/1382749525
+知否知否应是绿肥红瘦,http://tv.ximix.us/yy/21881901
+恐怖电影,http://tv.ximix.us/yy/24066336
+天龙八部,http://tv.ximix.us/yy/1351814644
+经典港片电影,http://tv.ximix.us/yy/1461889059
+隋唐英雄传,http://tv.ximix.us/yy/1352475619
+林正英经典,http://tv.ximix.us/yy/1351505899
+刘旸教主脱口秀合集,http://tv.ximix.us/yy/1354930189
+赵本山《蓝光版》,http://tv.ximix.us/yy/32160832
+神雕侠侣,http://tv.ximix.us/yy/1351762426
+83射雕英雄传,http://tv.ximix.us/yy/1354210357
+新白娘子传奇,http://tv.ximix.us/yy/1354490667
+大家车言论,http://tv.ximix.us/yy/1382570702
+薛仁贵传奇,http://tv.ximix.us/yy/1355260662
+天龙神雕经典回忆,http://tv.ximix.us/yy/68260522
+战狼7吴京退役,http://tv.ximix.us/yy/1382773714
+星爷经典-百看不厌,http://tv.ximix.us/yy/1382736808
+正阳门下,http://tv.ximix.us/yy/1354931580
+情满四合院-高分电视剧,http://tv.ximix.us/yy/1382735541
+少年包青天第三部,http://tv.ximix.us/yy/1382851540
+神探狄仁杰1,http://tv.ximix.us/yy/1354930934
+宰相刘罗锅,http://tv.ximix.us/yy/1382745191
+鹿鼎记-周星驰版,http://tv.ximix.us/yy/1354658049
+神探狄仁杰2,http://tv.ximix.us/yy/1382828767
+天道-9.2高分好剧,http://tv.ximix.us/yy/1382735574
+法证先锋,http://tv.ximix.us/yy/1354930939
+西游记后传,http://tv.ximix.us/yy/1382736846
+大话西游至尊宝,http://tv.ximix.us/yy/1382851590
+父母爱情,http://tv.ximix.us/yy/1354926650
+国内玄幻电影-林正英,http://tv.ximix.us/yy/1354932444
+每天都要快乐哦！,http://tv.ximix.us/yy/1354930909
+华子系列,http://tv.ximix.us/yy/1354888726
+情满四合院-小人物的悲欢离合,http://tv.ximix.us/yy/1382851601
+父母爱情,http://tv.ximix.us/yy/1382851594
+寻秦记-穿越剧经典,http://tv.ximix.us/yy/1382749900
+经典电影重温,http://tv.ximix.us/yy/1382793140
+【康熙微服私访记】,http://tv.ximix.us/yy/1382702247
+好先生,http://tv.ximix.us/yy/79382500
+炊事班的故事II,http://tv.ximix.us/yy/1382851579
+24h高分电影,http://tv.ximix.us/yy/1355171357
+炊事班的故事III,http://tv.ximix.us/yy/1382736716
+法证先锋Ⅱ,http://tv.ximix.us/yy/1382851597
+鹿鼎记-高清全集,http://tv.ximix.us/yy/1382704650
+李连杰功夫 经典武侠,http://tv.ximix.us/yy/74613175
+动漫《火影疾风传》,http://tv.ximix.us/yy/1459675153
+少年包青天第三部,http://tv.ximix.us/yy/1382736814
+鬼经典老片,http://tv.ximix.us/yy/1463783198
+朵宝陪你看狄仁杰,http://tv.ximix.us/yy/1353753252
+绝版电影 港片女鬼,http://tv.ximix.us/yy/1461579859
+恐怖诡异墓穴,http://tv.ximix.us/yy/1382748585
+【经典港片】佟瑶,http://tv.ximix.us/yy/23531261
+鹊刀门妈祖,http://tv.ximix.us/yy/22089862
+血色浪漫,http://tv.ximix.us/yy/1354926676
+欢乐集结号3,http://tv.ximix.us/yy/1382736822
+疯狂动漫 正在直播,http://tv.ximix.us/yy/1353937086
+魔幻手机,http://tv.ximix.us/yy/1382851541
+24h唐朝诡实录,http://tv.ximix.us/yy/1353913646
+【知否】,http://tv.ximix.us/yy/1354806550
+动漫,http://tv.ximix.us/yy/26664495
+精彩动漫,http://tv.ximix.us/yy/1420843376
+笑傲江湖 4K超清,http://tv.ximix.us/yy/1354282410
+雯子：港剧,http://tv.ximix.us/yy/1456829119
+动漫,http://tv.ximix.us/yy/1354768831
+18动漫,http://tv.ximix.us/yy/1354076248
+燕双鹰,http://tv.ximix.us/yy/1354143942
+每天都等你,http://tv.ximix.us/yy/1353215589
+小美美 正在直播,http://tv.ximix.us/yy/1354143966
+《仙侠》开局无敌了,http://tv.ximix.us/yy/29600150
+动漫,http://tv.ximix.us/yy/1354143938
+真实案件系列,http://tv.ximix.us/yy/1382671124
+国漫 一起看正在直播,http://tv.ximix.us/yy/1351417866
+奇缘港台影院,http://tv.ximix.us/yy/1354889234
+《武林外传》武侠,http://tv.ximix.us/yy/1394000563
+【新三国】,http://tv.ximix.us/yy/1382851415
+【新三国】日版,http://tv.ximix.us/yy/1382851457
+少年歌行,http://tv.ximix.us/yy/1450556636
+8090年的热血与回忆,http://tv.ximix.us/yy/1356243352
+二号交通站,http://tv.ximix.us/yy/1382851582
+超喜剧地下交通站男神贾贵,http://tv.ximix.us/yy/1353428972
+24h 我爱我家 纯音频,http://tv.ximix.us/yy/1356212303
+天龙 神雕金庸,http://tv.ximix.us/yy/1356043609
+花千骨,http://tv.ximix.us/yy/1354943110
+你最爱的宋小宝,http://tv.ximix.us/yy/1354936198
+易中天品三国,http://tv.ximix.us/yy/1354931498
+金牌配角达叔系列,http://tv.ximix.us/yy/1354888728
+破案港剧,http://tv.ximix.us/yy/1350670730
+赌神-发哥,http://tv.ximix.us/yy/1354889044
+夏洛特烦恼-国内电影-喜剧,http://tv.ximix.us/yy/1354936201
+大家都在看的电视剧,http://tv.ximix.us/yy/1354930964
+成龙系列,http://tv.ximix.us/yy/1354888751
+张国荣与周润发的兄弟情,http://tv.ximix.us/yy/1354930961
+双月之城-国漫,http://tv.ximix.us/yy/1382736907
+寻秦记-穿越剧经典,http://tv.ximix.us/yy/1382851591
+变形金刚,http://tv.ximix.us/yy/1382736803
+震撼！国内功夫大片,http://tv.ximix.us/yy/1382736902
+倚天屠龙记,http://tv.ximix.us/yy/33300793
+德爷单挑荒野,http://tv.ximix.us/yy/27772604
+三国演义94年经典版,http://tv.ximix.us/yy/1354936241
+单挑荒野第一季,http://tv.ximix.us/yy/1354933535
+新白娘子传奇-女神赵雅芝,http://tv.ximix.us/yy/1354930969
+许多多,http://tv.ximix.us/yy/1382736818
+越越爱影视,http://tv.ximix.us/yy/1382736886
+鱼美美隋唐英雄传,http://tv.ximix.us/yy/1355102749
+西游记张卫健版,http://tv.ximix.us/yy/1354936155
+情满四合院,http://tv.ximix.us/yy/1382851524
+洪金宝福星系列,http://tv.ximix.us/yy/1354924839
+流行古装剧—知否知否应是绿肥红瘦,http://tv.ximix.us/yy/1354936134
+甜甜的恋爱 这狗粮我吃了,http://tv.ximix.us/yy/1354932438
+小敏,http://tv.ximix.us/yy/1382736890
+欢乐一起看,http://tv.ximix.us/yy/1354930926
+欢乐集结号,http://tv.ximix.us/yy/1354931582
+我的体育老师,http://tv.ximix.us/yy/1382745169
+仙剑奇侠传-神仙姐姐驾到,http://tv.ximix.us/yy/1382749903
+神探狄仁杰2,http://tv.ximix.us/yy/1382851146
+爆笑小品大合集,http://tv.ximix.us/yy/1382736821
+宝莲灯前传,http://tv.ximix.us/yy/1354931631
+魔幻手机,http://tv.ximix.us/yy/1382735544
+新三国 ~24经典好剧,http://tv.ximix.us/yy/1354744544
+憨豆先生-经典喜剧,http://tv.ximix.us/yy/1354936239
+郝蕾演绎-情满四合院,http://tv.ximix.us/yy/1382745089
+抹茶少女,http://tv.ximix.us/yy/1382737888
+超清鬼片 港片,http://tv.ximix.us/yy/1335509613
+�逋鞠盗�-国产喜剧,http://tv.ximix.us/yy/1382736856
+老妖私影院,http://tv.ximix.us/yy/1354952229
+金婚,http://tv.ximix.us/yy/1382828768
+科幻惊悚片-异形,http://tv.ximix.us/yy/1382735543
+经典大片合集,http://tv.ximix.us/yy/1382749895
+发哥系列,http://tv.ximix.us/yy/1354888733
+����������,http://tv.ximix.us/yy/1382851578
+快来呀好剧在等你,http://tv.ximix.us/yy/1331686180
+YY用户,http://tv.ximix.us/yy/1382745117
+【周星驰】搞笑电影,http://tv.ximix.us/yy/38670875
+国内喜剧,http://tv.ximix.us/yy/1382736862
+法证先锋Ⅲ,http://tv.ximix.us/yy/1382736802
+【破案 悬疑 港剧】,http://tv.ximix.us/yy/1382800083
+宋小宝春晚小品合集,http://tv.ximix.us/yy/1382736866
+搞笑经典电影,http://tv.ximix.us/yy/1351537467
+我爱我家,http://tv.ximix.us/yy/1382735557
+倚天屠龙记,http://tv.ximix.us/yy/1507704566
+小甜甜    闯关东,http://tv.ximix.us/yy/1354689861
+刑事侦缉档案I,http://tv.ximix.us/yy/1382851585
+进来 陪你看电视,http://tv.ximix.us/yy/1353518742
+一笑倾城,http://tv.ximix.us/yy/1382735553
+蔡明春晚小品,http://tv.ximix.us/yy/1354936177
+甜心 正在直播,http://tv.ximix.us/yy/1454732419
+中国味道 第4季-美食纪录片,http://tv.ximix.us/yy/1382736845
+鬼片喜剧动作港剧,http://tv.ximix.us/yy/1355269576
+迷糊不迷糊 正在直播,http://tv.ximix.us/yy/1461931969
+狂飙,http://tv.ximix.us/yy/1382627144
+小兵张嘎,http://tv.ximix.us/yy/1354930225
+老卓电影,http://tv.ximix.us/yy/1354770516
+少年包青天,http://tv.ximix.us/yy/1414846486
+[新三国】,http://tv.ximix.us/yy/1508456184
+国漫动漫,http://tv.ximix.us/yy/1354768828
+【新三国】吕布,http://tv.ximix.us/yy/1382851459
+24小时循环播电视剧,http://tv.ximix.us/yy/53320802
+《石敢当》六耳猕猴,http://tv.ximix.us/yy/1394156613
+西游记后传 蓝光,http://tv.ximix.us/yy/1353392400
+士兵突击,http://tv.ximix.us/yy/1382851600
+经典动漫,http://tv.ximix.us/yy/24180320
+电影百团大战,http://tv.ximix.us/yy/1382736871
+智取威虎山,http://tv.ximix.us/yy/1382736843
+士兵突击,http://tv.ximix.us/yy/1382828766
+和你不见不散,http://tv.ximix.us/yy/1355635293
+一剑开天门,http://tv.ximix.us/yy/34313906
+鬼片恐怖私家影院,http://tv.ximix.us/yy/1354209316
+国内高分悬疑剧-风筝,http://tv.ximix.us/yy/1354931585
+粟裕大将-影视,http://tv.ximix.us/yy/1354926542
+电影,http://tv.ximix.us/yy/37454459
+军旅剧（回忆经典）,http://tv.ximix.us/yy/1356306672
+伪装者,http://tv.ximix.us/yy/1382851593
+电影电影电影电影电影电影,http://tv.ximix.us/yy/1351496216
+欢乐颂,http://tv.ximix.us/yy/1382735624
+恋歌,http://tv.ximix.us/yy/1382746276
+漫威十年老粉福利来了,http://tv.ximix.us/yy/1354930233
+侏罗纪世界-国外科幻大片合集,http://tv.ximix.us/yy/1382736851
+绗��叉�婀�,http://tv.ximix.us/yy/1382851576
+妖神记,http://tv.ximix.us/yy/1382745171
+经典港片动作搞笑,http://tv.ximix.us/yy/1459869766
+亲爱的热爱的,http://tv.ximix.us/yy/1354932433
+密子君,http://tv.ximix.us/yy/1382736717
+速度与激情全集,http://tv.ximix.us/yy/1382749892
+炊事班的故事,http://tv.ximix.us/yy/1382749901
+笑傲帮,http://tv.ximix.us/yy/1382735555
+转角遇到爱,http://tv.ximix.us/yy/1382745085
+超英集结,http://tv.ximix.us/yy/1382745091
+宫锁珠帘,http://tv.ximix.us/yy/1354926666
+寻秦记,http://tv.ximix.us/yy/1354658048
+陪你看电影,http://tv.ximix.us/yy/1382745084
+啊咧,http://tv.ximix.us/yy/1459243913
+法证先锋,http://tv.ximix.us/yy/1382851599
+情满四合院,http://tv.ximix.us/yy/1382736848
+小师妹rua,http://tv.ximix.us/yy/1382736975
+笑声传奇,http://tv.ximix.us/yy/1382736880
+灌篮高手,http://tv.ximix.us/yy/1382735626
+东海龙棺,http://tv.ximix.us/yy/1354930968
+大汉贤后卫子夫,http://tv.ximix.us/yy/1382735569
+农家小菜,http://tv.ximix.us/yy/1382736894
+宫心计,http://tv.ximix.us/yy/1354932429
+流金岁月-经典港剧,http://tv.ximix.us/yy/1382736891
+宫心计,http://tv.ximix.us/yy/1382828769
+小鬼当家-童年回忆,http://tv.ximix.us/yy/1382745104
+海洋幻梦-泰剧,http://tv.ximix.us/yy/1382749889
+溏心风暴之家好月圆,http://tv.ximix.us/yy/1354888747
+爱笑仙子,http://tv.ximix.us/yy/1382736838
+舌尖上的中国第一季,http://tv.ximix.us/yy/1354930952
+渴望,http://tv.ximix.us/yy/1354930963
+动作大片-热血开打,http://tv.ximix.us/yy/1354936168
+我爱我家,http://tv.ximix.us/yy/1382851580
+最美的青春,http://tv.ximix.us/yy/1382851530
+速度与激情系列！-精彩大片,http://tv.ximix.us/yy/1382736911
+金星脱口秀-爆笑回归,http://tv.ximix.us/yy/1382749951
+非诚勿扰,http://tv.ximix.us/yy/1382745100
+最美的青春,http://tv.ximix.us/yy/1382745116
+娆�涔�棰�,http://tv.ximix.us/yy/1382851577
+这部剧你居然没看过？,http://tv.ximix.us/yy/1354932355
+读心神探,http://tv.ximix.us/yy/1382851589
+回家的诱惑,http://tv.ximix.us/yy/1354658043
+超燃警匪片,http://tv.ximix.us/yy/1382735576
+编辑部的故事,http://tv.ximix.us/yy/1354936120
+老广的味道-美食之旅,http://tv.ximix.us/yy/1354932375
+超精彩！系列动作电影,http://tv.ximix.us/yy/1382745096
+熊出没之探险日记S1-国漫,http://tv.ximix.us/yy/1354930977
+金玉满堂：精彩港剧,http://tv.ximix.us/yy/1382736881
+宫心计-港剧-古装,http://tv.ximix.us/yy/1354933540
+重生之超级赛亚人,http://tv.ximix.us/yy/1354936124
+真心想让你幸福,http://tv.ximix.us/yy/1382736876
+电影黑豹,http://tv.ximix.us/yy/1382736816
+舌尖上的中国第2季,http://tv.ximix.us/yy/1354930943
+老广的味道 第3季-美食纪录片,http://tv.ximix.us/yy/1382735565
+国内喜剧,http://tv.ximix.us/yy/1382851598
+读心神探,http://tv.ximix.us/yy/1382736875
+大江大河-高分影视推荐,http://tv.ximix.us/yy/1382736806
+欢乐集结号,http://tv.ximix.us/yy/1382735550
+北京爱情故事，心动不打烊,http://tv.ximix.us/yy/1382744423
+法证先锋2,http://tv.ximix.us/yy/1382736870
+非诚勿扰,http://tv.ximix.us/yy/1382735583
+哈利波特全集,http://tv.ximix.us/yy/1382745105
+无敌县令,http://tv.ximix.us/yy/1354932390
+大明王朝,http://tv.ximix.us/yy/1382736879
+院线动作大片,http://tv.ximix.us/yy/1382736900
+法证先锋Ⅱ,http://tv.ximix.us/yy/1354888736
+我的前半生,http://tv.ximix.us/yy/1382735564
+巩汉林春晚小品合集,http://tv.ximix.us/yy/1354889035
+大江大河2-高分影视推荐,http://tv.ximix.us/yy/1382736797
+陈情令,http://tv.ximix.us/yy/1382745121
+复仇者联盟全季,http://tv.ximix.us/yy/1354936167
+小太阳 正在直播,http://tv.ximix.us/yy/29067083
+探秘中华美食,http://tv.ximix.us/yy/1354930954
+高分科幻动作片,http://tv.ximix.us/yy/1382749948
+名媛望族-精彩港剧,http://tv.ximix.us/yy/1354932431
+杭小妞,http://tv.ximix.us/yy/1382736910
+公主嫁到,http://tv.ximix.us/yy/1382736915
+辉煌或疯狂-韩剧,http://tv.ximix.us/yy/1382749902
+怦然心动,http://tv.ximix.us/yy/1382745110
+田园生活,http://tv.ximix.us/yy/1382736898
+人生必看的科幻片,http://tv.ximix.us/yy/1382745114
+无厘头的出处,http://tv.ximix.us/yy/1354930891
+强悍“杀猪婆”的励志人生,http://tv.ximix.us/yy/1354658062
+美国队长史蒂夫,http://tv.ximix.us/yy/1382736813
+第8号当铺,http://tv.ximix.us/yy/1382736905
+加勒比海盗系列,http://tv.ximix.us/yy/1382749914
+向日葵的爱恋-泰剧,http://tv.ximix.us/yy/1382749898
+黄大妮-电视剧,http://tv.ximix.us/yy/1354930904
+超越种族的爱恋-暮光之城,http://tv.ximix.us/yy/1382745179
+国产大片电影,http://tv.ximix.us/yy/1354926655
+国外院线动作大片,http://tv.ximix.us/yy/1382735570
+惊悚，恐怖欢迎点播,http://tv.ximix.us/yy/67857780
+非诚勿扰,http://tv.ximix.us/yy/1382745106
+笑傲江湖 第2季,http://tv.ximix.us/yy/1382736914
+请回答1988,http://tv.ximix.us/yy/1354932362
+国产喜剧,http://tv.ximix.us/yy/1382735584
+高分动作大片-热血出击,http://tv.ximix.us/yy/1382736909
+猩球崛起-怪兽片合集,http://tv.ximix.us/yy/1354930181
+父母的爱情,http://tv.ximix.us/yy/1382768483
+香港院线大片-最新,http://tv.ximix.us/yy/1354936242
+本山快乐营,http://tv.ximix.us/yy/1354933529
+都挺好-电视剧,http://tv.ximix.us/yy/1382736892
+金婚,http://tv.ximix.us/yy/1382736832
+保护我家蓉儿,http://tv.ximix.us/yy/1370293254
+哑巴竟然会说话,http://tv.ximix.us/yy/1354932427
+TVB收视爆剧-溏心风暴,http://tv.ximix.us/yy/1382736916
+缺宅男女-精彩港剧,http://tv.ximix.us/yy/1382745088
+以家人之名,http://tv.ximix.us/yy/1382736908
+小宝让你乐翻天：6到9集,http://tv.ximix.us/yy/1354930971
+来自星星的你,http://tv.ximix.us/yy/1354930976
+穿越时空的爱恋,http://tv.ximix.us/yy/1382735567
+俺娘田小草,http://tv.ximix.us/yy/1382741638
+岳云鹏宋小宝也来演电影了？,http://tv.ximix.us/yy/1354926612
+闲暇观看综艺,http://tv.ximix.us/yy/1354932379
+苦乐村官,http://tv.ximix.us/yy/1382736864
+萌萌爱追剧,http://tv.ximix.us/yy/1382745093
+你的开心果,http://tv.ximix.us/yy/1382745113
+8090.电影一哥,http://tv.ximix.us/yy/29197808
+今夜欢乐颂,http://tv.ximix.us/yy/1382735572
+非常保镖-经典港剧,http://tv.ximix.us/yy/1382736903
+YY用户,http://tv.ximix.us/yy/1382736888
+国外黑色喜剧：冷幽默小剧场,http://tv.ximix.us/yy/1382745175
+国产电影-就是闹着玩的,http://tv.ximix.us/yy/1354931503
+距离你500米,http://tv.ximix.us/yy/37264974
+你的回忆有我吗,http://tv.ximix.us/yy/1354889024
+科幻片：来看神奇的地球,http://tv.ximix.us/yy/1354930897
+施公奇案1-欧阳震华,http://tv.ximix.us/yy/1382749918
+动物世界-领略原始野性,http://tv.ximix.us/yy/1382743138
+风味原产地潮汕,http://tv.ximix.us/yy/1382745178
+娘亲舅大,http://tv.ximix.us/yy/1354932360
+心理追凶-烧脑港剧,http://tv.ximix.us/yy/1354936207
+超炫科幻大片,http://tv.ximix.us/yy/1382736840
+小生物的故事,http://tv.ximix.us/yy/1382736834
+燃爆动作片,http://tv.ximix.us/yy/1382736801
+科幻电影,http://tv.ximix.us/yy/1354930209
+缺宅男女,http://tv.ximix.us/yy/1354930937
+国外动作大片,http://tv.ximix.us/yy/1382735540
+国内喜剧,http://tv.ximix.us/yy/1382735563
+贾玲春晚小品,http://tv.ximix.us/yy/1382736720
+末日系列-外国电影合集,http://tv.ximix.us/yy/1354889019
+飞虎之潜行极战,http://tv.ximix.us/yy/1354932420
+不可能的任务-碟中谍4,http://tv.ximix.us/yy/1354930967
+精彩动作电影,http://tv.ximix.us/yy/1382736823
+外国科幻大片,http://tv.ximix.us/yy/1382747628
+大唐双龙传,http://tv.ximix.us/yy/1354930979
+周星星系列,http://tv.ximix.us/yy/1354888671
+国外科幻,http://tv.ximix.us/yy/1382736800
+谈判专家,http://tv.ximix.us/yy/1382735560
+热门喜剧,http://tv.ximix.us/yy/1354931495
+本山快乐营-爆笑小品,http://tv.ximix.us/yy/1354930948
+妖神记-全集,http://tv.ximix.us/yy/1382735551
+24 小时电影,http://tv.ximix.us/yy/1356051105
+忠烈杨家将,http://tv.ximix.us/yy/1382749909
+三国演义【1994】,http://tv.ximix.us/yy/1354930932
+Lisa丽莎,http://tv.ximix.us/yy/1382736807
+钟馗传说,http://tv.ximix.us/yy/1382736839
+陪你一起看好剧,http://tv.ximix.us/yy/1354932359
+盗慕笔记,http://tv.ximix.us/yy/1354555195
+热血动作电影,http://tv.ximix.us/yy/1382736804
+莉萨,http://tv.ximix.us/yy/1382736918
+来看修牛蹄,http://tv.ximix.us/yy/1382749887
+施公奇案2-欧阳震华,http://tv.ximix.us/yy/1382736824
+飓风营救,http://tv.ximix.us/yy/1382735547
+少年四大名捕,http://tv.ximix.us/yy/1354936203
+大明王朝,http://tv.ximix.us/yy/1382741637
+经典港片电影,http://tv.ximix.us/yy/1459801818
+银河护卫队-国外科幻巨作,http://tv.ximix.us/yy/1382736815
+笑傲江湖 第1季,http://tv.ximix.us/yy/1382749896
+欢乐集结号58-70,http://tv.ximix.us/yy/1382745119
+了不起的萝莉小玲,http://tv.ximix.us/yy/1382736799
+漫画解说,http://tv.ximix.us/yy/1382735568
+原始人大挑战,http://tv.ximix.us/yy/1382736884
+毒液：致命守护者,http://tv.ximix.us/yy/1382745095
+清风入梦,http://tv.ximix.us/yy/1382745103
+当旺爸爸-港剧,http://tv.ximix.us/yy/1354936208
+三叔的笔记世界,http://tv.ximix.us/yy/1449912492
+鸭子天空-翱翔于篮球的梦想,http://tv.ximix.us/yy/1354930894
+漫威超级英雄系列,http://tv.ximix.us/yy/1354932402
+动作大片,http://tv.ximix.us/yy/1354888739
+一起来笑吧,http://tv.ximix.us/yy/1454859415
+今晚80后脱口秀,http://tv.ximix.us/yy/1382745098
+你最爱的小龙女-神雕侠侣,http://tv.ximix.us/yy/1354926637
+百家讲坛――之明太祖朱元璋,http://tv.ximix.us/yy/1354936149
+高分港剧合集,http://tv.ximix.us/yy/1382735542
+本山快乐营1,http://tv.ximix.us/yy/1354936209
+YUKI雨淇,http://tv.ximix.us/yy/1382735545
+空谷幽兰,http://tv.ximix.us/yy/1382745182
+欢迎光临,http://tv.ximix.us/yy/1355532933
+能耐大了！德云社演技爆棚,http://tv.ximix.us/yy/1354930915
+黑衣人1、2—动作喜剧大片,http://tv.ximix.us/yy/1354930936
+精彩动作电影享不停,http://tv.ximix.us/yy/1382736809
+百家讲坛-红楼梦篇,http://tv.ximix.us/yy/1382741639
+趣味小品合集,http://tv.ximix.us/yy/1382736853
+橙子味少女,http://tv.ximix.us/yy/1382736869
+风靡全球的谍战片,http://tv.ximix.us/yy/1382736817
+大进军全集：红色系列电影,http://tv.ximix.us/yy/1382745083
+国家宝藏：历史角色的N重人生,http://tv.ximix.us/yy/1382735573
+欧美配音电影！！！,http://tv.ximix.us/yy/1354693629
+法证先锋Ⅳ,http://tv.ximix.us/yy/1354932426
+新三国2,http://tv.ximix.us/yy/1461396681
+太空生命？高分科幻电影开播,http://tv.ximix.us/yy/1382851586
+【武林客栈】,http://tv.ximix.us/yy/1382773728
+探案！探案！,http://tv.ximix.us/yy/1382829413
+热烈的玫瑰,http://tv.ximix.us/yy/1382736798
+什么会让你快乐,http://tv.ximix.us/yy/54886912
+不用加班真开心,http://tv.ximix.us/yy/1354930924
+不良街区-边缘生存记,http://tv.ximix.us/yy/1382749890
+太空荒野求生记-火星救援,http://tv.ximix.us/yy/1354930957
+国内科幻片来袭,http://tv.ximix.us/yy/1354930821
+欢乐集结号4,http://tv.ximix.us/yy/1382736889
+疯狂的契约-荒诞之旅,http://tv.ximix.us/yy/1382736715
+小爽东北菇凉，求守护,http://tv.ximix.us/yy/1382609850
+新白娘子4K高清观看,http://tv.ximix.us/yy/1508902755
+百家讲坛-之女皇武则天,http://tv.ximix.us/yy/1354889015
+爱情呼叫等待：相亲奇缘,http://tv.ximix.us/yy/1382851137
+神厨小福贵,http://tv.ximix.us/yy/1382736860
+活宝夫妻-笑闹日常,http://tv.ximix.us/yy/1382745124
+史密斯夫妇-婚姻生活的童话演绎,http://tv.ximix.us/yy/1382736874
+揭秘！经典传奇背后的未解之谜,http://tv.ximix.us/yy/1382736912
+国内经典动作电影,http://tv.ximix.us/yy/1382851522
+笑傲江湖-电视剧,http://tv.ximix.us/yy/1354936128
+爱丽丝2：镜中奇遇,http://tv.ximix.us/yy/1354930903
+蜀山传：剑仙传奇,http://tv.ximix.us/yy/1382736825
+国外经典—小鬼当家,http://tv.ximix.us/yy/1354658064
+降魔传-神魔大战,http://tv.ximix.us/yy/1354932371
+紫霞仙子被揍了,http://tv.ximix.us/yy/1382656234
+小云云,http://tv.ximix.us/yy/1382736805
+蝙蝠侠：侠影之谜,http://tv.ximix.us/yy/1382736719
+一分钟学道菜,http://tv.ximix.us/yy/1382736901
+永远的经典系列,http://tv.ximix.us/yy/1354930204
+萌鸡小队S1-国漫,http://tv.ximix.us/yy/1382736904
+熊出没之探险日记-森林探险记,http://tv.ximix.us/yy/1382745122
+老夫少妻搞笑忘年恋,http://tv.ximix.us/yy/1354932391
+二号交通站,http://tv.ximix.us/yy/1382735582
+1930年代经典电影,http://tv.ximix.us/yy/1356363815
+嫌疑人X的献身-悬疑,http://tv.ximix.us/yy/1382749953
+国产动作电影,http://tv.ximix.us/yy/1382736858
+小朋友可爱到家了,http://tv.ximix.us/yy/1354930887
+欢乐集结号2,http://tv.ximix.us/yy/1354930919
+小石块并不小,http://tv.ximix.us/yy/1337860633
+国外高分大片,http://tv.ximix.us/yy/1382736867
+国内动作大片,http://tv.ximix.us/yy/1382749917
+海王-院线大片,http://tv.ximix.us/yy/1354936142
+致敬星爷致敬经典,http://tv.ximix.us/yy/1354889048
+风筝,http://tv.ximix.us/yy/1382828770
+伪装者,http://tv.ximix.us/yy/1354936244
+马丽主演戏剧片-东北虎,http://tv.ximix.us/yy/1354936199
+本山快乐营2,http://tv.ximix.us/yy/1382736718
+勇敢的心：战火爱情,http://tv.ximix.us/yy/1354932405
+反斗谜局等你破-反斗神偷,http://tv.ximix.us/yy/1382736917
+天下无贼-纯真守护,http://tv.ximix.us/yy/1382741640
+电视剧-流金岁月,http://tv.ximix.us/yy/1382749906
+的直播间,http://tv.ximix.us/yy/1354129442
+名不虚传-韩剧,http://tv.ximix.us/yy/1382749904
+霹雳火：速度与激情,http://tv.ximix.us/yy/1382736895
+女医明妃传,http://tv.ximix.us/yy/1382736861
+能耐大了第1季,http://tv.ximix.us/yy/1354930195
+邻家小妹妹,http://tv.ximix.us/yy/1382735578
+新世界,http://tv.ximix.us/yy/1382736850
+真心英雄-无畏前行,http://tv.ximix.us/yy/1354889042
+珍珠港-电影,http://tv.ximix.us/yy/1354936234
+播放影视为主,http://tv.ximix.us/yy/1353454489
+电视剧老酒馆-一坛老酒品百态人生,http://tv.ximix.us/yy/1382736872
+治愈电影阳光小美女-一家人的寻梦之旅,http://tv.ximix.us/yy/1382736920
+战狼10086,http://tv.ximix.us/yy/1382773686
+多力特的奇幻冒险-和动物对话,http://tv.ximix.us/yy/1354930927
+鹊刀门传奇,http://tv.ximix.us/yy/1461033197
+星际穿越：虫洞冒险,http://tv.ximix.us/yy/1354930945
+王的盛宴：楚汉争霸,http://tv.ximix.us/yy/1354933556
+国产家庭电视剧-如果岁月可回头,http://tv.ximix.us/yy/1382736883
+无限复活-张柏芝主演爱情电影,http://tv.ximix.us/yy/1382745190
+诺兰影片-敦刻尔克大撤退,http://tv.ximix.us/yy/1382749910
+喜剧闹翻天,http://tv.ximix.us/yy/1382735548
+王牌特工：特工学院,http://tv.ximix.us/yy/1354936195
+【科幻电影】,http://tv.ximix.us/yy/1355065896
+金牌喜剧班,http://tv.ximix.us/yy/1354889009
+燃情岁月,http://tv.ximix.us/yy/1354926643
+史诗级科幻电影-阿凡达,http://tv.ximix.us/yy/1382735577
+超燃科幻大片：明日边缘,http://tv.ximix.us/yy/1382736835
+鲨口逃生-绝境求生,http://tv.ximix.us/yy/1354932407
+不日成婚：婚恋喜剧,http://tv.ximix.us/yy/1354936214
+【少年包青天】乐乐陪看,http://tv.ximix.us/yy/1352946111
+你看与不看我都在,http://tv.ximix.us/yy/1353422557
+匹诺曹：奇幻冒险,http://tv.ximix.us/yy/1382749912
+组团上chun wan：喜剧选拔,http://tv.ximix.us/yy/1382745111
+鲛珠传-奇幻之旅,http://tv.ximix.us/yy/1354936231
+红河谷-爱恨交响曲,http://tv.ximix.us/yy/1354936181
+妖神记之黑狱篇,http://tv.ximix.us/yy/1382745173
+天龙八部（国语版）,http://tv.ximix.us/yy/1382736855
+宇宙护卫队--国漫,http://tv.ximix.us/yy/1382736837
+科幻佳片-银翼杀手2049,http://tv.ximix.us/yy/1354936136
+蚁人-微观世界大冒险,http://tv.ximix.us/yy/1382736913
+前任攻略：爱情喜剧,http://tv.ximix.us/yy/1354932409
+叛逆者,http://tv.ximix.us/yy/1382736868
+冰河追凶：极寒之地的真相,http://tv.ximix.us/yy/1382736841
+最后的武士（普通话）,http://tv.ximix.us/yy/1382851148
+港剧里的生活哲学-好日子,http://tv.ximix.us/yy/1354936217
+漫才合集-轻松一笑,http://tv.ximix.us/yy/1382745099
+杨门少年-少年英雄梦,http://tv.ximix.us/yy/1354936178
+我的父亲我的兵,http://tv.ximix.us/yy/1353413714
+鹿鼎记,http://tv.ximix.us/yy/1353852605
+少年包青天美黑之旅,http://tv.ximix.us/yy/1354936141
+本山选谁上-喜剧人选拔,http://tv.ximix.us/yy/1382749878
+悬疑剧-河神,http://tv.ximix.us/yy/1353413683
+探秘自然奇境-纪录片合集,http://tv.ximix.us/yy/1382749913
+生存大战，尽显人性,http://tv.ximix.us/yy/1414864186
+港剧：银楼金粉,http://tv.ximix.us/yy/1354930984
+英伦犯罪喜剧-两杆大烟枪,http://tv.ximix.us/yy/1354658051
+时代剧，黄土高天,http://tv.ximix.us/yy/1414864180
+国内动作大片,http://tv.ximix.us/yy/1382745176
+缉魂-科幻悬疑电影,http://tv.ximix.us/yy/1382745090
+机械战警1-3,http://tv.ximix.us/yy/1382736854
+河山,http://tv.ximix.us/yy/1382749952
+郑恺主演运动喜剧-超越,http://tv.ximix.us/yy/1382736863
+调音师-旋律奇遇,http://tv.ximix.us/yy/1382749911
+锦衣卫之残阳如血-血色使命,http://tv.ximix.us/yy/1382736882
+喜剧小品：兴风作浪,http://tv.ximix.us/yy/1382745094
+经典武侠电影-如来神掌,http://tv.ximix.us/yy/1382749944
+小爽儿,http://tv.ximix.us/yy/1382736819
+征服,http://tv.ximix.us/yy/1461655788
+电影兴风作浪系列播放,http://tv.ximix.us/yy/1382736857
+小儿难养-影视剧,http://tv.ximix.us/yy/1382735559
+分手木马计,http://tv.ximix.us/yy/1354936228
+沉睡魔咒-不一样的童话视觉,http://tv.ximix.us/yy/1382736849
+喜剧电影：冒牌天神1-2,http://tv.ximix.us/yy/1354936210
+一条狗的使命1,http://tv.ximix.us/yy/1382745092
+都市情感剧-那些我爱过的人,http://tv.ximix.us/yy/1382736820
+科幻电影-环太平洋,http://tv.ximix.us/yy/1354936170
+贫民窟的百万富翁,http://tv.ximix.us/yy/1382735561
+港剧-守护神之保险调查,http://tv.ximix.us/yy/1354936160
+高分喜剧-横冲直撞出重围,http://tv.ximix.us/yy/1354936157
+超能疯人院,http://tv.ximix.us/yy/1354932441
+超人女友-超级能力的甜蜜爱情,http://tv.ximix.us/yy/1382736893
+爱情片合集-童梦奇缘,http://tv.ximix.us/yy/1354926622
+捉妖战记：江湖除魔,http://tv.ximix.us/yy/1382736865
+经典科幻电影-2001漫游太空,http://tv.ximix.us/yy/1354926671
+动物宝宝大盘点-大波可爱动物来袭,http://tv.ximix.us/yy/1382736723
+陈翔六点半之拳王妈妈,http://tv.ximix.us/yy/1382851602
+穿越大吉岭-三个男人的心灵之旅,http://tv.ximix.us/yy/1382749950
+明天和你-韩剧,http://tv.ximix.us/yy/1382749905
+东北奇缘：江湖情缘,http://tv.ximix.us/yy/1354936238
+精武英雄-李连杰主演经典动作片,http://tv.ximix.us/yy/1382736873
+野山鹰-影视剧,http://tv.ximix.us/yy/1354932395
+洪大哥系列,http://tv.ximix.us/yy/1354888743
+抗日神片，燃爆抗战热血魂,http://tv.ximix.us/yy/1354926600
+上海滩,http://tv.ximix.us/yy/1382745184
+远去的飞鹰-影视剧,http://tv.ximix.us/yy/1354930912
+24h三生三世,http://tv.ximix.us/yy/1355171231
+巾帼枭雄之义海豪情,http://tv.ximix.us/yy/1382736859
+包青天,http://tv.ximix.us/yy/1356158015
+小米粒Mili,http://tv.ximix.us/yy/1382736842
+伯爵的复仇之旅,http://tv.ximix.us/yy/1382735581
+怪医文三块-影视剧,http://tv.ximix.us/yy/1354936154
+果酱熊的萌愈之力-帕丁顿熊2,http://tv.ximix.us/yy/1382735627
+孔子：圣人传记,http://tv.ximix.us/yy/1354932365
+职场言情剧：浮沉,http://tv.ximix.us/yy/1382735552
+重返青春-回到过去拥抱你,http://tv.ximix.us/yy/1382749940
+白鹿原-国内经典战争片,http://tv.ximix.us/yy/1354931488
+十亿少女的噩梦,http://tv.ximix.us/yy/1354921392
+爆笑来袭-小品欢乐集结号,http://tv.ximix.us/yy/1382735558
+热血战争巨作,http://tv.ximix.us/yy/1382745087
+仙灵儿,http://tv.ximix.us/yy/1382736887
+欢喜冤家的爱情-夏日乐悠悠,http://tv.ximix.us/yy/1354936191
+爱情不NG：剧组情缘,http://tv.ximix.us/yy/1382749888
+爆笑电影！王牌大贱谍2-3,http://tv.ximix.us/yy/1354936169
+梦华MM,http://tv.ximix.us/yy/1382736852
+不要先生，好的女士,http://tv.ximix.us/yy/1382745181
+纪录片-最美中国1,http://tv.ximix.us/yy/1382745189
+笑中带泪-开心鬼上身,http://tv.ximix.us/yy/1382736844
+风再起时,http://tv.ximix.us/yy/1354936221
+热血抗日电影,http://tv.ximix.us/yy/1382749907
+学生兵,http://tv.ximix.us/yy/1354658003
+小麦麦,http://tv.ximix.us/yy/1382735579
+电波传情-生死密电,http://tv.ximix.us/yy/1382735571
+体验另一种生活！,http://tv.ximix.us/yy/1354936229
+九层妖塔,http://tv.ximix.us/yy/1354936116
+先锋之那时青春-热血年代,http://tv.ximix.us/yy/1382736833
+传奇之王-影视剧,http://tv.ximix.us/yy/1354926735
+章子怡主演-浮生如梦,http://tv.ximix.us/yy/1382735566
+带你领略四季的变化,http://tv.ximix.us/yy/1354930816
 
 美剧解说轮播,http://lxajh.top/tv/douyu.php?id=9643264
 经典美剧解说,http://lxajh.top/tv/douyu.php?id=9123570
@@ -5600,6 +6240,180 @@ YUKI雨淇,http://tv.ximix.us/yy/1382735545
 不要信广告,https://cccimg.com/view.php/7b6219260a9ec0036d8f7f28e09c4281.mp4
 按设置选集,https://cccimg.com/view.php/7b6219260a9ec0036d8f7f28e09c4281.mp4
 
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251108/8063_8d1f1aac/index.m3u8$第1集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251108/8064_fa40b385/index.m3u8$第2集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251108/8065_320e4df8/index.m3u8$第3集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251108/8066_8b519f19/index.m3u8$第4集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251108/8067_53253027/index.m3u8$第5集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251108/8068_a7d92770/index.m3u8$第6集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251109/8220_7c0e0e8d/index.m3u8$第7集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251109/8221_d4ca950d/index.m3u8$第8集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251110/6034_78421a2e/index.m3u8$第9集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251110/6035_4639475d/index.m3u8$第10集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251111/6143_de9621d4/index.m3u8$第11集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251111/6144_197f76fe/index.m3u8$第12集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251112/6250_94701864/index.m3u8$第13集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251112/6251_9ac1382f/index.m3u8$第14集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251113/6342_adad9e1c/index.m3u8$第15集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251113/6343_a3a3e8b3/index.m3u8$第16集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251114/6444_8a36dfc6/index.m3u8$第17集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251114/6445_59139a91/index.m3u8$第18集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251115/6587_2e2c4bf7/index.m3u8$第19集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251115/6588_565e8a41/index.m3u8$第20集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251116/6645_b8fd7211/index.m3u8$第21集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251116/6646_510f2318/index.m3u8$第22集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251117/6697_ad554d8c/index.m3u8$第23集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251117/6698_ad067202/index.m3u8$第24集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251118/8956_82039d16/index.m3u8$第25集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251118/8957_90a82bf9/index.m3u8$第26集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251119/6852_6e96be83/index.m3u8$第27集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251119/6853_f26ecc6e/index.m3u8$第28集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251120/9147_16475e51/index.m3u8$第29集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251120/9148_aad5adc3/index.m3u8$第30集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251121/8_c9f0f895/index.m3u8$第31集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251121/9_45c48cce/index.m3u8$第32集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251122/95_812b4ba2/index.m3u8$第33集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251122/96_26657d5f/index.m3u8$第34集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251123/188_9dcb88e0/index.m3u8$第35集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251123/189_a2557a7b/index.m3u8$第36集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251123/9477_d7f6db68/index.m3u8$第37集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251123/9478_0527b1b4/index.m3u8$第38集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251123/199_84d9ee44/index.m3u8$第39集
+唐朝诡事录,http://cjx.999315.xyz/yzzy/20251123/200_3644a684/index.m3u8$第40集
+
+他依然单身,http://cjx.999315.xyz/yzzy/20251116/6647_8ce8b102/index.m3u8$第1集
+他依然单身,http://cjx.999315.xyz/yzzy/20251116/6649_0baf163c/index.m3u8$第2集
+他依然单身,http://cjx.999315.xyz/yzzy/20251116/6650_126c2da1/index.m3u8$第3集
+他依然单身,http://cjx.999315.xyz/yzzy/20251117/8886_c165ed49/index.m3u8$第4集
+他依然单身,http://cjx.999315.xyz/yzzy/20251117/6696_d1ff1ec8/index.m3u8$第5集
+他依然单身,http://cjx.999315.xyz/yzzy/20251118/23502_bc9ebb08/index.m3u8$第6集
+他依然单身,http://cjx.999315.xyz/yzzy/20251118/8955_1c824be2/index.m3u8$第7集
+他依然单身,http://cjx.999315.xyz/yzzy/20251119/6826_0ec04cb3/index.m3u8$第8集
+他依然单身,http://cjx.999315.xyz/yzzy/20251119/6851_478d0444/index.m3u8$第9集
+他依然单身,http://cjx.999315.xyz/yzzy/20251119/6863_53edebc5/index.m3u8$第10集
+他依然单身,http://cjx.999315.xyz/yzzy/20251119/6863_53edebc5/index.m3u8$第11集
+他依然单身,http://cjx.999315.xyz/yzzy/20251121/46_d9d4f495/index.m3u8$第12集
+他依然单身,http://cjx.999315.xyz/yzzy/20251122/62_44f683a8/index.m3u8$第13集
+他依然单身,http://cjx.999315.xyz/yzzy/20251122/63_03afdbd6/index.m3u8$第14集
+他依然单身,http://cjx.999315.xyz/yzzy/20251122/64_ea5d2f1c/index.m3u8$第15集
+他依然单身,http://cjx.999315.xyz/yzzy/20251122/65_fc490ca4/index.m3u8$第16集
+
+水龙吟,http://cjx.999315.xyz/yzzy/20251024/3680_2122c699/index.m3u8$第1集
+水龙吟,http://cjx.999315.xyz/yzzy/20251024/3681_9426c311/index.m3u8$第2集
+水龙吟,http://cjx.999315.xyz/yzzy/20251024/3682_898aef09/index.m3u8$第3集
+水龙吟,http://cjx.999315.xyz/yzzy/20251024/3683_acb5d112/index.m3u8$第4集
+水龙吟,http://cjx.999315.xyz/yzzy/20251025/3903_9d949c3d/index.m3u8$第5集
+水龙吟,http://cjx.999315.xyz/yzzy/20251025/3904_c09f9caf/index.m3u8$第6集
+水龙吟,http://cjx.999315.xyz/yzzy/20251026/4017_621c090c/index.m3u8$第7集
+水龙吟,http://cjx.999315.xyz/yzzy/20251026/4018_455cb265/index.m3u8$第8集
+水龙吟,http://cjx.999315.xyz/yzzy/20251027/6944_ba51e615/index.m3u8$第9集
+水龙吟,http://cjx.999315.xyz/yzzy/20251027/6945_0d98b597/index.m3u8$第10集
+水龙吟,http://cjx.999315.xyz/yzzy/20251028/7007_78efce20/index.m3u8$第11集
+水龙吟,http://cjx.999315.xyz/yzzy/20251028/7008_decc2e06/index.m3u8$第12集
+水龙吟,http://cjx.999315.xyz/yzzy/20251029/7124_64986d86/index.m3u8$第13集
+水龙吟,http://cjx.999315.xyz/yzzy/20251029/7125_80f7325f/index.m3u8$第14集
+水龙吟,http://cjx.999315.xyz/yzzy/20251030/7181_99c83c90/index.m3u8$第15集
+水龙吟,http://cjx.999315.xyz/yzzy/20251031/21866_86f48b1d/index.m3u8$第16集
+水龙吟,http://cjx.999315.xyz/yzzy/20251031/21867_8854e852/index.m3u8$第17集
+水龙吟,http://cjx.999315.xyz/yzzy/20251031/21868_c05a343d/index.m3u8$第18集
+水龙吟,http://cjx.999315.xyz/yzzy/20251103/5016_7e3315fe/index.m3u8$第19集
+水龙吟,http://cjx.999315.xyz/yzzy/20251104/22263_832f64b0/index.m3u8$第20集
+水龙吟,http://cjx.999315.xyz/yzzy/20251105/7775_412decf7/index.m3u8$第21集
+水龙吟,http://cjx.999315.xyz/yzzy/20251106/7865_4d1a65f1/index.m3u8$第22集
+水龙吟,http://cjx.999315.xyz/yzzy/20251106/7866_1963bd51/index.m3u8$第23集
+水龙吟,http://cjx.999315.xyz/yzzy/20251107/7972_b5507f51/index.m3u8$第24集
+水龙吟,http://cjx.999315.xyz/yzzy/20251107/7971_cc225865/index.m3u8$第25集
+水龙吟,http://cjx.999315.xyz/yzzy/20251108/5840_61d009da/index.m3u8$第26集
+水龙吟,http://cjx.999315.xyz/yzzy/20251108/5841_5fc34ed3/index.m3u8$第27集
+水龙吟,http://cjx.999315.xyz/yzzy/20251109/8224_ecd1b059/index.m3u8$第28集
+水龙吟,http://cjx.999315.xyz/yzzy/20251110/8336_32b683d9/index.m3u8$第29集
+水龙吟,http://cjx.999315.xyz/yzzy/20251111/8452_a1ada994/index.m3u8$第30集
+水龙吟,http://cjx.999315.xyz/yzzy/20251112/8548_832688ff/index.m3u8$第31集
+水龙吟,http://cjx.999315.xyz/yzzy/20251113/23016_5c9dc137/index.m3u8$第32集
+水龙吟,http://cjx.999315.xyz/yzzy/20251113/23017_1a3bdfab/index.m3u8$第33集
+水龙吟,http://cjx.999315.xyz/yzzy/20251114/8717_9fb2c3bd/index.m3u8$第34集
+水龙吟,http://cjx.999315.xyz/yzzy/20251114/8718_e7a561a2/index.m3u8$第35集
+水龙吟,http://cjx.999315.xyz/yzzy/20251114/8719_9b1fc5df/index.m3u8$第36集
+水龙吟,http://cjx.999315.xyz/yzzy/20251114/8720_39d6530e/index.m3u8$第37集
+水龙吟,http://cjx.999315.xyz/yzzy/20251114/23158_321f53d2/index.m3u8$第38集
+水龙吟,http://cjx.999315.xyz/yzzy/20251114/23159_089d388e/index.m3u8$第39集
+水龙吟,http://cjx.999315.xyz/yzzy/20251114/23160_74d14200/index.m3u8$第40集
+
+天地剑心,http://cjx.999315.xyz/yzzy/20251025/3800_63c6598e/index.m3u8$第1集
+天地剑心,http://cjx.999315.xyz/yzzy/20251025/3801_95323660/index.m3u8$第2集
+天地剑心,http://cjx.999315.xyz/yzzy/20251025/3802_d3614f46/index.m3u8$第3集
+天地剑心,http://cjx.999315.xyz/yzzy/20251025/3803_e9739927/index.m3u8$第4集
+天地剑心,http://cjx.999315.xyz/yzzy/20251025/3804_37968ad1/index.m3u8$第5集
+天地剑心,http://cjx.999315.xyz/yzzy/20251026/4015_58752483/index.m3u8$第6集
+天地剑心,http://cjx.999315.xyz/yzzy/20251026/4016_f04cd739/index.m3u8$第7集
+天地剑心,http://cjx.999315.xyz/yzzy/20251027/21516_e64860da/index.m3u8$第8集
+天地剑心,http://cjx.999315.xyz/yzzy/20251027/21517_4496bd92/index.m3u8$第9集
+天地剑心,http://cjx.999315.xyz/yzzy/20251028/4179_91f5738a/index.m3u8$第10集
+天地剑心,http://cjx.999315.xyz/yzzy/20251028/4180_96b250a9/index.m3u8$第11集
+天地剑心,http://cjx.999315.xyz/yzzy/20251029/21690_649e7bd4/index.m3u8$第12集
+天地剑心,http://cjx.999315.xyz/yzzy/20251029/21691_006b9646/index.m3u8$第13集
+天地剑心,http://cjx.999315.xyz/yzzy/20251030/4387_6b4e2b93/index.m3u8$第14集
+天地剑心,http://cjx.999315.xyz/yzzy/20251030/4388_473803f0/index.m3u8$第15集
+天地剑心,http://cjx.999315.xyz/yzzy/20251031/4517_7109af32/index.m3u8$第16集
+天地剑心,http://cjx.999315.xyz/yzzy/20251031/4518_597c7b40/index.m3u8$第17集
+天地剑心,http://cjx.999315.xyz/yzzy/20251101/21994_84106259/index.m3u8$第18集
+天地剑心,http://cjx.999315.xyz/yzzy/20251101/21995_6c0ffea2/index.m3u8$第19集
+天地剑心,http://cjx.999315.xyz/yzzy/20251102/22119_6ed94d74/index.m3u8$第20集
+天地剑心,http://cjx.999315.xyz/yzzy/20251102/22120_fd03f619/index.m3u8$第21集
+天地剑心,http://cjx.999315.xyz/yzzy/20251103/22188_c1a79e7f/index.m3u8$第22集
+天地剑心,http://cjx.999315.xyz/yzzy/20251103/22189_56f1b961/index.m3u8$第23集
+天地剑心,http://cjx.999315.xyz/yzzy/20251104/7661_2ec0274c/index.m3u8$第24集
+天地剑心,http://cjx.999315.xyz/yzzy/20251104/7662_de8aa43e/index.m3u8$第25集
+天地剑心,http://cjx.999315.xyz/yzzy/20251105/5397_01daa090/index.m3u8$第26集
+天地剑心,http://cjx.999315.xyz/yzzy/20251105/5398_faefec47/index.m3u8$第27集
+天地剑心,http://cjx.999315.xyz/yzzy/20251106/7862_a6b964c0/index.m3u8$第28集
+天地剑心,http://cjx.999315.xyz/yzzy/20251106/7863_0ef037ce/index.m3u8$第29集
+天地剑心,http://cjx.999315.xyz/yzzy/20251107/22595_e0132a0c/index.m3u8$第30集
+天地剑心,http://cjx.999315.xyz/yzzy/20251107/22596_745b601f/index.m3u8$第31集
+天地剑心,http://cjx.999315.xyz/yzzy/20251108/22654_a5e48462/index.m3u8$第32集
+天地剑心,http://cjx.999315.xyz/yzzy/20251109/8222_532923f1/index.m3u8$第33集
+天地剑心,http://cjx.999315.xyz/yzzy/20251109/5966_95c8f422/index.m3u8$第34集
+天地剑心,http://cjx.999315.xyz/yzzy/20251109/5967_8682cc30/index.m3u8$第35集
+天地剑心,http://cjx.999315.xyz/yzzy/20251109/5968_8c97dbee/index.m3u8$第36集
+
+暗河传,http://jx.999315.xyz/yzzy/20251020/6128_b72a5a09/index.m3u8$第1集
+暗河传,http://jx.999315.xyz/yzzy/20251020/3116_58191d2a/index.m3u8$第2集
+暗河传,http://jx.999315.xyz/yzzy/20251020/3117_8b313cbf/index.m3u8$第3集
+暗河传,http://jx.999315.xyz/yzzy/20251020/20816_d6f7f74d/index.m3u8$第4集
+暗河传,http://jx.999315.xyz/yzzy/20251020/20817_3be09591/index.m3u8$第5集
+暗河传,http://jx.999315.xyz/yzzy/20251021/3205_9ef2ed4b/index.m3u8$第6集
+暗河传,http://jx.999315.xyz/yzzy/20251021/20922_7048c496/index.m3u8$第7集
+暗河传,http://jx.999315.xyz/yzzy/20251022/6249_bcb7c13f/index.m3u8$第8集
+暗河传,https://cdn.yzzy28-play.com/20251022/21003_cfb5325c/index.m3u8$第9集
+暗河传,http://jx.999315.xyz/yzzy/20251023/21083_b991e1dc/index.m3u8$第10集
+暗河传,http://cjx.999315.xyz/yzzy/20251024/3674_f35fd567/index.m3u8$第11集
+暗河传,http://cjx.999315.xyz/yzzy/20251024/3675_845f3cb4/index.m3u8$第12集
+暗河传,http://cjx.999315.xyz/yzzy/20251025/3825_c24fe9f7/index.m3u8$第13集
+暗河传,http://cjx.999315.xyz/yzzy/20251025/3826_a292f1c5/index.m3u8$第14集
+暗河传,http://cjx.999315.xyz/yzzy/20251026/3997_abec16f4/index.m3u8$第15集
+暗河传,http://cjx.999315.xyz/yzzy/20251026/3998_74306eef/index.m3u8$第16集
+暗河传,http://cjx.999315.xyz/yzzy/20251027/6936_4a300d3a/index.m3u8$第17集
+暗河传,https://cdn.yzzy28-play.com/20251028/21647_0ef8fec8/index.m3u8$第18集
+暗河传,https://cdn.yzzy28-play.com/20251028/21648_4238fc46/index.m3u8$第19集
+暗河传,http://cjx.999315.xyz/yzzy/20251029/21682_a819d065/index.m3u8$第20集
+暗河传,http://cjx.999315.xyz/yzzy/20251030/21729_21b64b53/index.m3u8$第21集
+暗河传,http://cjx.999315.xyz/yzzy/20251030/21730_0c8fc7ad/index.m3u8$第22集
+暗河传,http://cjx.999315.xyz/yzzy/20251031/4509_f8ea2e84/index.m3u8$第23集
+暗河传,http://cjx.999315.xyz/yzzy/20251101/4571_bfd2308e/index.m3u8$第24集
+暗河传,http://cjx.999315.xyz/yzzy/20251101/4572_df6c9756/index.m3u8$第25集
+暗河传,http://cjx.999315.xyz/yzzy/20251102/7514_2c29d89c/index.m3u8$第26集
+暗河传,http://cjx.999315.xyz/yzzy/20251102/7515_a3c36d0c/index.m3u8$第27集
+暗河传,http://cjx.999315.xyz/yzzy/20251103/22180_422be4bc/index.m3u8$第28集
+暗河传,http://cjx.999315.xyz/yzzy/20251104/22257_c95cb8f9/index.m3u8$第29集
+暗河传,http://cjx.999315.xyz/yzzy/20251104/22258_dd7d6462/index.m3u8$第30集
+暗河传,http://cjx.999315.xyz/yzzy/20251105/22317_a047670f/index.m3u8$第31集
+暗河传,http://cjx.999315.xyz/yzzy/20251106/22423_71f78523/index.m3u8$第32集
+暗河传,http://cjx.999315.xyz/yzzy/20251106/22423_71f78523/index.m3u8$第33集
+暗河传,http://cjx.999315.xyz/yzzy/20251107/7949_5fedcaff/index.m3u8$第34集
+暗河传,http://cjx.999315.xyz/yzzy/20251108/5770_4b7a5550/index.m3u8$第35集
+暗河传,http://cjx.999315.xyz/yzzy/20251108/5771_d156d483/index.m3u8$第36集
+暗河传,http://cjx.999315.xyz/yzzy/20251108/5772_f6a8dd1c/index.m3u8$第37集
+暗河传,http://cjx.999315.xyz/yzzy/20251108/5773_7e448ed9/index.m3u8$第38集
 
 凡人修仙传,http://jx.999315.xyz/yzzy/20250727/16714_a69d15dc/index.m3u8$第1集
 凡人修仙传,http://jx.999315.xyz/yzzy/20250727/16721_6226c5b0/index.m3u8$第2集 
@@ -8128,7 +8942,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
                                                                                                                                                                                                                                                                
 
 🐬少儿动漫,#genre#
-名侦探柯南剧场版,http://cfss.cc/cdn/hy/30080236.m3u8
+
 火影忍者,http://cfss.cc/cdn/hy/29465866.m3u8
 海贼王,http://cfss.cc/cdn/hy/29982634.m3u8
 宫崎骏系列,http://cfss.cc/cdn/hy/21059614.m3u8
@@ -8150,15 +8964,23 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 一人之上,http://cfss.cc/cdn/hy/11602065.m3u8
 头文字D,http://cfss.cc/cdn/hy/11352889.m3u8
 网球王子,http://cfss.cc/cdn/hy/11352882.m3u8
-卡酷少儿,https://zby.130519.xyz/PLTV/11/224/3221226019/index.m3u8
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$浙江官方
-北京少儿,http://m.061899.xyz/mg/bjkk
+头文字D剧集,http://cfss.cc/cdn/hy/11352889.m3u8
+一人之上漫剧,http://cfss.cc/cdn/hy/11602065.m3u8
+叮当全集剧集,http://cfss.cc/cdn/hy/11601963.m3u8
+四驱兄弟剧集,http://cfss.cc/cdn/hy/11352922.m3u8
+樱桃小丸子剧,http://cfss.cc/cdn/hy/11342394.m3u8
+猫和老鼠剧集,http://cfss.cc/cdn/hy/11352879.m3u8
+蜡笔小新剧集,http://cfss.cc/cdn/hy/11352970.m3u8
+Q版-三国剧集,http://cfss.cc/cdn/hy/29465871.m3u8
 少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-乐游频道,https://zby.130519.xyz/PLTV/11/224/3221226157/index.m3u8
-哈哈炫动,https://zby.130519.xyz/PLTV/11/224/3221226161/index.m3u8
-动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221225764/index.m3u8
-卡酷少儿,https://zby.130519.xyz/PLTV/11/224/3221226019/index.m3u8
-金鹰卡通,https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8
+龙珠全集解壹,http://cfss.cc/cdn/hy/10279885.m3u8
+龙珠全集解贰,http://cfss.cc/cdn/hy/19757963.m3u8
+龙珠全集剧叁,http://cfss.cc/cdn/hy/11601966.m3u8
+龙珠全集剧肆,http://cfss.cc/cdn/hy/16755322.m3u8
+斌哥解说漫壹,http://cfss.cc/cdn/hy/18632116.m3u8
+斌哥解说漫贰,http://cfss.cc/cdn/hy/21059621.m3u8
+圣斗士集解壹,http://cfss.cc/cdn/hy/27817468.m3u8
+圣斗士集解贰,http://cfss.cc/cdn/hy/11352904.m3u8
 CCTV-14少儿,http://t.061899.xyz/tl/tl.php?id=cctv14
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 内蒙少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
@@ -8218,25 +9040,12 @@ CCTV-14少儿,http://t.061899.xyz/tl/tl.php?id=cctv14
 埋堆堆直播1,http://113.45.240.129:35455/huya/23734246
 埋堆堆直播2,http://113.45.240.129:35455/huya/23734256
 🥇体育频道,#genre# 
+请在公告页打赏,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 风云足球,http://173.208.187.18:82/live/fyzq.m3u8?jsbt=1760355398&jsbk=d838949ce8ba43fabfa8e16a02449bcf
 风云足球,http://173.208.187.18:82/live/fyzq.m3u8?jsbt=1760496962&jsbk=5b91869c876cff30aa885075cffa7b45
-五星体育,https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8
-极限体育,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 CCTV5体育,http://live2.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=10bd15e08aa7c4de538b767ae2618279a6213e3e
 广东体育,http://r.jdshipin.com/LiYdg
 四海钓鱼,http://112.254.55.106:22222/rtp/239.253.254.118:8000
-赛事睛彩竞技,https://zby.130519.xyz/PLTV/11/224/3221226116/index.m3u8
-赛事睛彩篮球,https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8
-赛事睛彩广场,https://zby.130519.xyz/PLTV/11/224/3221226139/index.m3u8
-篮球专场,http://113.45.240.129:35455/huya/20072708
-羽毛球专场,http://113.45.240.129:35455/huya/880221
-乒乓球专场,http://113.45.240.129:35455/huya/30020997
-斯诺克专场,http://113.45.240.129:35455/huya/880214
-摔跤专场,http://113.45.240.129:35455/huya/20072812
-拳击专场,http://113.45.240.129:35455/huya/18152380
-格斗专场,http://113.45.240.129:35455/huya/20072796
-柔道专场,http://113.45.240.129:35455/huya/20072837
-WWE专场,http://113.45.240.129:35455/huya/30021023
 屿风体育,http://i.iill.top:12838/douyu/10329889
 拳击大王,http://i.iill.top:12838/douyu/9385340
 经典拳赛,http://i.iill.top:12838/douyu/9412138
@@ -8247,98 +9056,80 @@ WWE专场,http://113.45.240.129:35455/huya/30021023
 篮球长镜头,http://i.iill.top:12838/douyu/9399887
 只关于篮球的只老师,http://i.iill.top:12838/douyu/9367541
 篮球之家老李,http://i.iill.top:12838/douyu/9170147
-HOOPPAPK篮球公园,http://i.iill.top:12838/douyu/10228726
-乔丹/科比,http://113.45.240.129:35455/huya/30806125
-看球不费电,http://113.45.240.129:35455/huya/29982603
-超燃球场,http://113.45.240.129:35455/huya/29982597
-篮球五分位,http://113.45.240.129:35455/huya/29982598
-
-赛事咪咕播01,https://zby.130519.xyz/PLTV/11/224/3221225636/index.m3u8
-赛事咪咕播02,https://zby.130519.xyz/PLTV/11/224/3221225637/index.m3u8
-赛事咪咕播03,https://zby.130519.xyz/PLTV/11/224/3221225638/index.m3u8
-赛事咪咕播04,https://zby.130519.xyz/PLTV/11/224/3221225639/index.m3u8
-赛事咪咕播05,https://zby.130519.xyz/PLTV/11/224/3221225640/index.m3u8
-赛事咪咕播06,https://zby.130519.xyz/PLTV/11/224/3221225641/index.m3u8
-赛事咪咕播07,https://zby.130519.xyz/PLTV/11/224/3221225643/index.m3u8
-赛事咪咕播08,https://zby.130519.xyz/PLTV/11/224/3221225644/index.m3u8
-赛事咪咕播09,https://zby.130519.xyz/PLTV/11/224/3221225646/index.m3u8
-赛事咪咕播10,https://zby.130519.xyz/PLTV/11/224/3221225657/index.m3u8
-赛事咪咕播11,https://zby.130519.xyz/PLTV/11/224/3221225674/index.m3u8
-赛事咪咕播12,https://zby.130519.xyz/PLTV/11/224/3221225676/index.m3u8
-赛事咪咕播13,https://zby.130519.xyz/PLTV/11/224/3221225678/index.m3u8
-赛事咪咕播14,https://zby.130519.xyz/PLTV/11/224/3221225679/index.m3u8
-赛事咪咕播15,https://zby.130519.xyz/PLTV/11/224/3221225680/index.m3u8
-赛事咪咕播16,https://zby.130519.xyz/PLTV/11/224/3221225681/index.m3u8
-赛事咪咕播17,https://zby.130519.xyz/PLTV/11/224/3221225682/index.m3u8
-赛事咪咕播18,https://zby.130519.xyz/PLTV/11/224/3221225683/index.m3u8
-赛事咪咕播19,https://zby.130519.xyz/PLTV/11/224/3221225684/index.m3u8
-赛事咪咕播20,https://zby.130519.xyz/PLTV/11/224/3221225685/index.m3u8
-赛事咪咕播21,https://zby.130519.xyz/PLTV/11/224/3221225686/index.m3u8
-赛事咪咕播22,https://zby.130519.xyz/PLTV/11/224/3221225688/index.m3u8
-赛事咪咕播23,https://zby.130519.xyz/PLTV/11/224/3221225689/index.m3u8
-赛事咪咕播24,https://zby.130519.xyz/PLTV/11/224/3221225690/index.m3u8
-赛事咪咕播25,https://zby.130519.xyz/PLTV/11/224/3221225692/index.m3u8
-赛事咪咕播26,https://zby.130519.xyz/PLTV/11/224/3221225693/index.m3u8
-赛事咪咕播27,https://zby.130519.xyz/PLTV/11/224/3221225694/index.m3u8
-赛事咪咕播28,https://zby.130519.xyz/PLTV/11/224/3221225695/index.m3u8
-赛事咪咕播29,https://zby.130519.xyz/PLTV/11/224/3221225696/index.m3u8
-赛事咪咕播30,https://zby.130519.xyz/PLTV/11/224/3221225697/index.m3u8
-赛事咪咕播31,https://zby.130519.xyz/PLTV/11/224/3221225699/index.m3u8
-赛事咪咕播32,https://zby.130519.xyz/PLTV/11/224/3221226125/index.m3u8
-赛事百视通33,https://zby.130519.xyz/PLTV/11/224/3221225663/index.m3u8
-赛事咪咕播4k,https://zby.130519.xyz/PLTV/11/224/3221226080/index.m3u8
-赛事至臻视界,https://zby.130519.xyz/PLTV/11/224/3221225687/index.m3u8
-
+赛事睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011528
+赛事睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011530
+赛事睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000004193
+赛事睛彩篮球,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011529
+赛事睛彩篮球,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011531
+赛事睛彩篮球,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000021904
+赛事睛彩青少,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011525
+赛事睛彩青少,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000031315
+赛事睛彩青少,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000011297
+赛事睛彩广场,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011523
+赛事睛彩广场,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011524
+赛事睛彩广场,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000006658
+军事国防央七,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000011518
+军事国防央七,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011522
+赛事咪咕播01,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000005308
+赛事咪咕播02,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000005969
+赛事咪咕播03,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000007218
+赛事咪咕播04,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000008001
+赛事咪咕播05,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000008176
+赛事咪咕播06,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000008379
+赛事咪咕播07,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000010129
+赛事咪咕播08,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000010948
+赛事咪咕播09,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000028638
+赛事咪咕播10,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000031494
+赛事咪咕播11,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000000097
+赛事咪咕播12,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000002019
+赛事咪咕播13,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000002809
+赛事咪咕播14,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000003915
+赛事咪咕播15,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000005837
+赛事咪咕播16,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000006077
+赛事咪咕播17,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000009788
+赛事咪咕播18,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000010833
+赛事咪咕播19,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000012558
+赛事咪咕播20,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000012616
+赛事咪咕播21,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000015470
+赛事咪咕播22,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000015560
+赛事咪咕播23,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000017678
+赛事咪咕播24,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000019839
+赛事咪咕播25,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000023434
+赛事咪咕播26,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000025380
+赛事咪咕播27,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000027691
+赛事咪咕播28,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000031669
+赛事咪咕播29,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011518
+赛事咪咕播30,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011519
+赛事咪咕播31,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011520
+赛事咪咕播32,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011521
+赛事咪咕播4k,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000005180
+赛事至臻视界,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000015686
 🎮游戏频道,#genre# 
 ❥打赏长久使用,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥感谢各位支持,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 加频道留言,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-
 虎牙CS 2,https://live.iill.top/huya/483917
-B站英雄联盟,https://live.iill.top/bilibili/6
 虎牙英雄联盟 𝟙,https://live.iill.top/huya/660000
 虎牙英雄联盟 𝟚,https://live.iill.top/huya/660001
-斗鱼英雄联盟 𝟙,https://live.iill.top/douyu/288016
-斗鱼英雄联盟 𝟚,https://live.iill.top/douyu/424559
-B站英雄联盟•手游,https://live.iill.top/bilibili/23138275
-B站王者荣耀 𝟙,https://live.iill.top/bilibili/55
-B站王者荣耀 𝟚,https://live.iill.top/bilibili/21654762
-虎牙王者荣耀 𝟙,https://live.iill.top/huya/660002
-虎牙王者荣耀 𝟚,https://live.iill.top/huya/660164
-斗鱼王者荣耀 𝟙,https://live.iill.top/douyu/1863767
-斗鱼王者荣耀 𝟚,https://live.iill.top/douyu/1984839
-B站绝地求生,https://live.iill.top/bilibili/98
-虎牙绝地求生 𝟙,https://live.iill.top/huya/660004
-虎牙绝地求生 𝟚,https://live.iill.top/huya/660005
-斗鱼绝地求生,https://live.iill.top/douyu/100
-虎牙和平精英,https://live.iill.top/huya/660006
-斗鱼和平精英,https://live.iill.top/douyu/999
-虎牙金铲铲之战,https://live.iill.top/huya/660579
-斗鱼金铲铲之战,https://live.iill.top/douyu/9715241
-虎牙DOTA2,https://live.iill.top/huya/660118
-斗鱼DOTA2,https://live.iill.top/douyu/3811559
-斗鱼云顶之弈,https://live.iill.top/douyu/522423
 虎牙永劫无间,https://live.iill.top/huya/660115
-斗鱼永劫无间,https://live.iill.top/huya/9662891
-B站使命召唤•手游,https://live.iill.top/bilibili/22741849
-虎牙使命召唤•手游,https://live.iill.top/huya/11718629
-斗鱼使命召唤•手游,https://live.iill.top/douyu/9223245
-虎牙穿越火线,https://live.iill.top/huya/660101
+英雄联盟 𝟙,https://live.iill.top/douyu/288016
+王者荣耀 𝟙,https://live.iill.top/douyu/1863767
+绝地求生,https://live.iill.top/bilibili/98
+绝地求生1,https://live.iill.top/douyu/100
+和平精英,https://live.iill.top/douyu/999
+DOTA2,https://live.iill.top/douyu/3811559
+永劫无间,https://live.iill.top/huya/9662891
+B站JJ斗地主,https://live.iill.top/bilibili/22021983
+斗鱼JJ斗地主,https://live.iill.top/douyu/488743
+使命召唤•手游,https://live.iill.top/douyu/9223245
 斗鱼穿越火线 𝟙,https://live.iill.top/douyu/605964
 斗鱼穿越火线 𝟚,https://live.iill.top/douyu/5388537
-虎牙穿越火线•手游,https://live.iill.top/huya/660102
-B站第五人格,https://live.iill.top/bilibili/5555
-虎牙第五人格,https://live.iill.top/huya/idvesports
 斗鱼第五人格,https://live.iill.top/douyu/3226194
-虎牙逆战,https://live.iill.top/huya/nsl2021
 B站无畏契约,https://live.iill.top/bilibili/22908869
-虎牙无畏契约,https://live.iill.top/huya/660679
 斗鱼无畏契约,https://live.iill.top/douyu/4585645
 斗鱼原神,https://live.iill.top/douyu/10853239
-B站QQ飞车•手游,https://live.iill.top/bilibili/21743919
 斗鱼QQ飞车•手游,https://live.iill.top/douyu/5040227
 斗鱼梦幻西游·手游,https://live.iill.top/huya/9163712
-斗鱼街霸,https://live.iill.top/huya/11437
 B站JJ斗地主,https://live.iill.top/bilibili/22021983
 斗鱼JJ斗地主,https://live.iill.top/douyu/488743
 斗鱼我的世界,https://live.iill.top/douyu/738878
@@ -8355,8 +9146,8 @@ QQ飞车·手游,http://tc-tct.douyucdn2.cn/dyliveflv1a/5040227raXQRnvWY_2000.fl
 CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAuth=63d571126613feca6067da321aaf2df2&token=cpn-androidmpro-0-868191-846aacab1859214c037e4d0c263121580403540feea39901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1 
 王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2 
 永劫无间3,http://tc-tct.douyucdn2.cn/dyliveflv1a/9662891rlaeIAP3A_2000.flv?wsAuth=07d3125e1ec93068330e14be22a09454&token=cpn-androidmpro-0-9662891-7de7dc707e1a51dddb241f8ecad4f36806d04b45752cbbd8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-游戏风云,https://zby.130519.xyz/PLTV/11/224/3221226117/index.m3u8
-BesTV游戏风云,https://zby.130519.xyz/PLTV/11/224/3221226117/index.m3u8
+
+
 穿越火线,http://tc-tct.douyucdn2.cn/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 穿越火线手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAuth=63d571126613feca6067da321aaf2df2&token=cpn-androidmpro-0-868191-846aacab1859214c037e4d0c263121580403540feea39901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 和平精英手游,http://tc-tct.douyucdn2.cn/dyliveflv1/999rx47n2pp8pKD_2000.flv?wsAuth=6c429f39afed615e842e02ad1a9b1c6e&token=cpn-androidmpro-0-999-d32d75306aab2a7980ad37445844bcccf012d2bb110b5c33&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
