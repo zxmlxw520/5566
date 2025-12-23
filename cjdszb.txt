@@ -95,7 +95,7 @@ PopC电影,P2p://starvod.xyz:19806/688bba7c000da6943214e2280ad91465.ts
 星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 /
-
+翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
@@ -10258,3 +10258,4 @@ T台秀,http://113.45.240.129:35455/huya/18501378
 写真花絮,https://cccimg.com/view.php/5596bbc9f75e7c1390faaaedcd0ec835.mp4
 喜欢什么类型,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 陆续更新中,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+
