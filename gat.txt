@@ -4,14 +4,14 @@
 
 //来源网络，免费分享，请勿追究，谢谢！//
 
-📢12.04公告,#genre#
+📢12.23公告,#genre#
 打赏才能长久,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 打赏才能长久,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ‼️必看说明,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
 更新攒劲频道,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-最新野草CC43,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-比例建议设置原始,https://i.uik.cc/view.php/f83ac7f235adec732e793e4c95064c4f.mp4
-放2秒就卡顿的,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
+最新野草7EFE,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+日常维护,https://i.uik.cc/view.php/f83ac7f235adec732e793e4c95064c4f.mp4
+月底了支援一下,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
 换解码方式,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
@@ -20,12 +20,10 @@ CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8f
 操作说明,https://i.uik.cc/view.php/85d53def32766e1edd7d16d069632fd3.mp4
 打赏留言加频道,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
 🎶点歌台频道1,http://huanqiuzhibo.cn/manifest/douyu.php?id=20415 
-🎶点歌台频道2,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 🎶周杰伦MV,http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
 🎵音乐台长,http://www.douzhicloud.site:35455/douyu/9629943
 ❤️舞蹈,http://lxajh.top/tv/douyu.php?id=10308225
 ❤️4K视频,http://xjj1.716888.xyz/fenlei/4k/4k.php
-❤️T台秀,http://113.45.240.129:35455/huya/18501378
 ❥抖音女神,https://api.e1e1.top/crosswise/cw.php
 ❥韩国舞曲,https://xn--vusr00g.v.nxog.top/m/tv/xjj.php?id=0
 ❥法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
@@ -33,7 +31,6 @@ CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8f
 请打赏观看,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 湖南4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
-
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
@@ -41,27 +38,15 @@ CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8f
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 河北4K,http://106.53.99.30/tv/api.php?id=hebtv4k
 苏州4K,http://106.53.99.30/tv/api.php?id=sztv4k
-广东4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
-广东4K,http://119.32.12.12:2901/udp/225.1.101.86:7523
 广州南国都市4K,https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
-广州南国都市4K,http://i.iill.top:12838/gztv/shenghuo
 湖南4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_HUNAN-4K/G_HUNAN-4K.m3u8
 江苏4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_JIANGSU-4K/G_JIANGSU-4K.m3u8
 浙江4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
-
 东方4K,http://cdn.jdshipin.com/kkxw.php?id=1
 深圳4K,https://cdn3.163189.xyz/163189/szws4k
-四川4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_SICHUAN-4K/G_SICHUAN-4K.m3u8
-山东4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_SHANDONG-4K/G_SHANDONG-4K.m3u8
-河南4K,http://115.58.216.210:4000/rtp/225.1.4.254:1300$河南电信
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 湖南4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 CCTV4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8
-CCTV16-4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8
-北京4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_BEIJING-4K/G_BEIJING-4K.m3u8
-广东4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_GUANGDONG-4K/G_GUANGDONG-4K.m3u8
-深圳4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_SHENZHEN-4K/G_SHENZHEN-4K.m3u8
-浙江4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_ZHEJIANG-4K/G_ZHEJIANG-4K.m3u8
 北京卫视频4k,http://106.53.99.30/tv/bj.php?id=bjws4k
 东方卫视频4k,http://106.53.99.30/tv/api.php?id=dfws4k
 深圳卫视频4k,http://106.53.99.30/tv/api.php?id=szws4k
@@ -74,18 +59,16 @@ CCTV16-4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16
 深圳4k,http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
 山东4k,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
 四川4k,http://ddns.xryo.cn:8888/udp/239.111.205.62:5140
-航拍中国,http://113.45.240.129:35455/huya/22414123
-音乐石榴[音乐],http://113.45.240.129:35455/huya/17091681
-治愈放松[音乐],http://113.45.240.129:35455/huya/21241811
-阅读学习[音乐],http://113.45.240.129:35455/huya/21241813
+
+
 ❤️感谢支持,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❤️感谢支持,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 
 🚀港澳台频,#genre#
 ‼️必看说明,https://cccimg.com/view.php/7b6219260a9ec0036d8f7f28e09c4281.mp4
 加载慢耐心等待,https://i.uik.cc/view.php/f83ac7f235adec732e793e4c95064c4f.mp4
-最新野草CC43,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-卡顿换解码试试,https://cccimg.com/view.php/7b6219260a9ec0036d8f7f28e09c4281.mp4
+最新野草7EFE,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+月底了支援一下,https://cccimg.com/view.php/7b6219260a9ec0036d8f7f28e09c4281.mp4
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 凤凰中文,http://r.jdshipin.com/cCCzW
@@ -101,19 +84,20 @@ CCTV16-4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰香港,http://r.jdshipin.com/yDoTN
-Now星影,http://hls-pull-wicketpw.speedws.com/live/hktv-tvzvezdamow142.flv
-Now爆谷,http://hls-pull-wicketpw.speedws.com/live/hktv-tvzvezdamow141.flv
+
 PopC电影,P2p://starvod.xyz:19806/688bba7c000da6943214e2280ad91465.ts
 亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8$官网
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8$官网
 中天新聞台,http://dungou.szius.com:8080/live/yifatv-ztxw01.flv
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+星空卫视频道,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 /
-翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
+
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
+
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
 NOW新闻台,https://yang-1989.eu.org/live/now-332
@@ -121,6 +105,7 @@ NOW财经台,https://yang-1989.eu.org/live/now-333
 VIUTV,https://yang-1989.eu.org/live/ViuTV
 VIUTVsix,https://yang-1989.eu.org/live/ViuTVsix
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
+翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 千禧经典台,http://php.jdshipin.com/smt.php?id=Tvbclassic
 TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial
@@ -3754,6 +3739,9 @@ RNA,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 
 📺中国风景,#genre#
 请我喝瓶水吧,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+2025-9-3阅兵,http://jx.999315.xyz/yzzy/20250903/20785_ad349260/index.m3u8
+正义必胜晚会,http://jx.999315.xyz/yzzy/20250905/21018_6395ac11/index.m3u8
+阅兵装备详解,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8bc3d97bc5b9e4f037001991f54f4f9_258.mp4
 熊猫直播,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 安徽黄山飞来石,https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
 安徽黟县芦村远眺,https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
@@ -3836,9 +3824,25 @@ RNA,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 ❥打赏长久使用,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥感谢各位支持,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 卡顿切换解码,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-雪中悍刀行剧,http://cfss.cc/cdn/hy/11336592.m3u8
-庆余年一轮播,http://cfss.cc/cdn/hy/11352960.m3u8
-庆余年二轮播,http://cfss.cc/cdn/hy/23740156.m3u8
+我的体育老师,http://iptv77.iptv66.eu.org:35455/yy/1382745169
+如果岁月轮播,http://iptv77.iptv66.eu.org:35455/yy/1382736883
+流金岁月轮播,http://iptv77.iptv66.eu.org:35455/yy/1382749906
+我的前半生剧,http://iptv77.iptv66.eu.org:35455/yy/1382735564
+伪装者电视剧,http://iptv77.iptv66.eu.org:35455/yy/1354936244
+火蓝刀锋轮播,http://iptv77.iptv66.eu.org:35455/yy/1382737892
+二炮手电视剧,http://iptv77.iptv66.eu.org:35455/yy/1354930964
+炮神电视轮播,http://iptv77.iptv66.eu.org:35455/yy/22089862
+风筝电视轮播,http://iptv77.iptv66.eu.org:35455/yy/1354931585
+83射雕英雄传,http://iptv77.iptv66.eu.org:35455/yy/1354210357
+95神雕侠侣粤,http://iptv77.iptv66.eu.org:35455/yy/1354926637
+87经典红楼梦,http://iptv77.iptv66.eu.org:35455/yy/1382745084
+新白娘子轮播,http://iptv77.iptv66.eu.org:35455/yy/1354930969
+仙剑奇侠传剧,http://iptv77.iptv66.eu.org:35455/yy/1382749903
+花千骨电视剧,http://iptv77.iptv66.eu.org:35455/yy/1354943110
+鹊刀门传奇剧,http://iptv77.iptv66.eu.org:35455/yy/1355344777
+96笑傲江湖粤,http://81.70.10.196:35455/douyu/8912325
+第一滴血全集,http://iptv77.iptv66.eu.org:35455/yy/1354932355
+速度与激情集,http://iptv77.iptv66.eu.org:35455/yy/1382736911
 传闻中的芊芊,http://cfss.cc/cdn/hy/21059608.m3u8
 如懿传电视剧,http://cfss.cc/cdn/hy/29465868.m3u8
 芈月传电视剧,http://cfss.cc/cdn/hy/11352975.m3u8
@@ -10225,7 +10229,10 @@ T台秀,http://113.45.240.129:35455/huya/18501378
 丝丝18,https://cccimg.com/view.php/33a76d979dc4545900f3aa102f0756f6.mp4
 丝丝19,https://cccimg.com/view.php/2717eb545edc3578768206feca8d05fc.mp4
 丝丝20,https://cccimg.com/view.php/f244cfc393e6d0cbd8e6c81ac21df901.mp4
-
+诱惑,https://cccimg.com/view.php/2764d6063d2a9ac2d9061aa4442b0a98.mp4
+诱惑1,https://cccimg.com/view.php/dbda0de11baae96f757006982b0e5e3a.mp4
+诱惑2,https://cccimg.com/view.php/be39df094a4f02a142c283784a4b588b.mp4
+诱惑3,https://cccimg.com/view.php/46ad32d7d03dd6682cf3319da872e958.mp4
 可爱,https://cccimg.com/view.php/cdae38977d4b688c02619569e94cadb4.mp4
 纯欲,https://cccimg.com/view.php/fa2e71d2125fde4b3fc708e6ce07705b.mp4
 朱朱,https://cccimg.com/view.php/e9e3c60d5eb7f613f421a46a9ece14bd.mp4
@@ -10244,6 +10251,10 @@ T台秀,http://113.45.240.129:35455/huya/18501378
 写真7,https://cccimg.com/view.php/3c3514af39e5aeb86613aeeff28796ef.mp4
 写真8,https://cccimg.com/view.php/ebecd37d4f3c906d103aad9d70f4ac2e.mp4
 写真9,https://cccimg.com/view.php/4484b8c50dd8bca86cab13e084f51c94.mp4
+写真10,https://cccimg.com/view.php/1c32b25a5c19f38ba983db6115b98bd5.mp4
+写真11,https://cccimg.com/view.php/91b2a54bc5be4645a58609b34223703c.mp4
+写真12,https://cccimg.com/view.php/26c6c2c6e0359a05893bb464efed826e.mp4
+写真13,https://cccimg.com/view.php/09067c3a40f104d873daaaf164343b4b.mp4
 写真花絮,https://cccimg.com/view.php/5596bbc9f75e7c1390faaaedcd0ec835.mp4
 喜欢什么类型,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 陆续更新中,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
