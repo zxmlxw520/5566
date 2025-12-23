@@ -12,7 +12,7 @@
 最新野草7EFE,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 日常维护,https://i.uik.cc/view.php/f83ac7f235adec732e793e4c95064c4f.mp4
 月底了支援一下,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
-换解码方式,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
+卡换解码方式,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
 凤凰中文HD,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -95,7 +95,7 @@ PopC电影,P2p://starvod.xyz:19806/688bba7c000da6943214e2280ad91465.ts
 星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 /
-
+翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
@@ -10258,3 +10258,4 @@ T台秀,http://113.45.240.129:35455/huya/18501378
 写真花絮,https://cccimg.com/view.php/5596bbc9f75e7c1390faaaedcd0ec835.mp4
 喜欢什么类型,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 陆续更新中,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+
