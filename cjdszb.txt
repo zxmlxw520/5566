@@ -4,38 +4,27 @@
 
 //来源网络，免费分享，请勿追究，谢谢！//
 
-📢01.27公告,#genre#
+📢02.06公告,#genre#
 打赏才能长久,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-最新野草7EFE,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+最新野草AEF6,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 操作说明,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
 常见问题,https://i.uik.cc/view.php/f83ac7f235adec732e793e4c95064c4f.mp4
 部分频道无资源,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-月底了支援一波,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-攒劲频道更新,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-支付宝红包活动,https://i.uik.cc/view.php/ff528d9d5f4208e02225d723613b5733.mp4
 K歌软件推广,https://i.uik.cc/view.php/2b0238dc0d48dfccfb405acecd571de3.mp4
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
-CCTV4K,https://iptv.catvod.com/live.php?id=CCTV4K 
-CCTV8K,https://iptv.catvod.com/live.php?id=CCTV8K 
-凤凰中文HD,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰咨询HD,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-
 打赏留言加频道,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
 🎶点歌台频道,https://live.iill.top/douyu/85894
 🎶周杰伦MV,https://live.iill.top/douyu/122402
 🎵音乐台长,http://www.douzhicloud.site:35455/douyu/9629943
-
 ❤️4K视频,http://xjj1.716888.xyz/fenlei/4k/4k.php
 ❥抖音女神,https://api.e1e1.top/crosswise/cw.php
-
 ❥韩国舞曲,https://xn--vusr00g.v.nxog.top/m/tv/xjj.php?id=0
 ❥法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 环球直播,https://live.iill.top/douyu/9036111
 觉得好用,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 请打赏观看,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 短剧设置默认比例,https://live.iill.top/douyu/4011851
-
 湖南4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 北京卫视频4k,http://106.53.99.30/tv/bj.php?id=bjws4k
 东方卫视频4k,http://106.53.99.30/tv/api.php?id=dfws4k
@@ -43,7 +32,6 @@ CCTV8K,https://iptv.catvod.com/live.php?id=CCTV8K
 江苏卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.64:5140
 湖南卫视频4k,http://106.53.99.30/tv/api.php?id=hnws4k
 广东卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.103:5140 
-深圳卫视频4k,http://106.53.99.30/tv/api.php?id=szws4k
 山东卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.66:5140
 四川卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.62:5140
 浙江4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
@@ -54,7 +42,6 @@ CCTV8K,https://iptv.catvod.com/live.php?id=CCTV8K
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 河北4K,http://106.53.99.30/tv/api.php?id=hebtv4k
 苏州4K,http://106.53.99.30/tv/api.php?id=sztv4k
-深圳卫视4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
 广州南国都市4K,
 
 江苏4K,
@@ -81,36 +68,51 @@ CCTV4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD
 
 🚀港澳台频,#genre#
 加载慢耐心等待,https://i.uik.cc/view.php/f83ac7f235adec732e793e4c95064c4f.mp4
-最新野草7EFE,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+最新野草AEF6,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 支付宝红包活动,https://i.uik.cc/view.php/ff528d9d5f4208e02225d723613b5733.mp4
 K歌软件推广,https://i.uik.cc/view.php/2b0238dc0d48dfccfb405acecd571de3.mp4
 月底了支援一波,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰中文http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014
 凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
 凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
-中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-1.m3u8
-中天新闻2,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
+翡翠台,http://r.jdshipin.com/qrfbg
+中天新闻,
+中天新闻2,
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰香港,http://r.jdshipin.com/yDoTN
-NOW星影,http://74.91.26.218:82/live/nowxy.m3u8
-Now爆谷,http://74.91.26.218:82/live/nowbg.m3u8
+NOW星影,
+Now爆谷,
 
 PopC电影,
-亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+亚洲武侠,
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8$官网
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8$官网
-
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-
 星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
-爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
+/
+华丽翡翠,https://o11.163189.xyz/stream/live/hlt/#https://smt.1678520.xyz/smt3.2.3.php?id=Tvbjade$马来
+无线新闻,https://smt.1678520.xyz/smt3.2.3.php?id=inews_twn
+Now新闻,http://cdn.163189.xyz/163189/now
+HOY77,http://cdn.163189.xyz/163189/hoy
+VIUTV,https://cdn.163189.xyz/163189/viu 
+TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
+TVB星河(马来),https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
+TVB千禧经典,https://o11.163189.xyz/stream/live/tvbc/#https://smt.1678520.xyz/smt3.2.5.php?id=Tvbclassic
+TVB武侠,https://cdn6.163189.xyz/163189/yzwx
+天映频道,http://hls.sohu.blog/my.php?id=23
+天映经典,http://hls.sohu.blog/my.php?id=22
+功夫台,http://tl.061833.xyz/tl/null-17
+黄金翡翠台,http://tl.061833.xyz/tl/null-2
+RTHK 31,http://cdn.163189.xyz/163189/rthk31
+RTHK 32,http://cdn.163189.xyz/163189/rthk32
+RTHK 33,http://cdn.163189.xyz/163189/rthk33
+爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
+Astro AEC,https://o11.163189.xyz/stream/live/aec/
+Astro AOD,https://o11.163189.xyz/stream/live/aod/
+Astro QJ,https://o11.163189.xyz/stream/live/qj/ 
+
 凤凰电影频道,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 凤凰电影频道,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 星空电影频道,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
@@ -119,15 +121,19 @@ PopC电影,
 亚洲卫视频道,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 香港卫视频道,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港C+_-频道,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-重温经典频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-中天娱乐频道,http://61.221.215.25:8800/hls/47/index.m3u8
-纬来精彩频道,http://61.221.215.25:8800/hls/48/index.m3u8
-动物星球频道,http://61.221.215.25:8800/hls/57/index.m3u8
+重温经典频道,
 新视觉hd频道,http://120.76.248.139/live/bfgd/4200000249.m3u8             
 /
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+Hoy76,http://hls.168.us.kg/u/76/master.m3u8
+Hoy77,http://hls.168.us.kg/u/77/master.m3u8
+Hoy78,http://hls.168.us.kg/u/78/master.m3u8
+翡翠台,http://hls.168.us.kg/u/81/master.m3u8
+TVB Plus,http://hls.168.us.kg/u/82/master.m3u8
+无线新闻,http://hls.168.us.kg/u/83/master.m3u8
+Now直播,http://hls.168.us.kg/u/331/master.m3u8
+Now新闻,http://hls.168.us.kg/u/332/master.m3u8
+Now财经,http://hls.168.us.kg/u/333/master.m3u8
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
-TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 TVB翡翠台,http://aipyou.com:8080/live/yifatv-jade01.m3u8
 无线新闻台,http://aipyou.com:8080/live/yifatv-wxxw01.m3u8
 中天新聞台,
@@ -157,60 +163,31 @@ HOY77,http://r.jdshipin.com/sFw4S
 海峡卫视,http://r.jdshipin.com/WtYt3
 咪咕视频4K,http://r.jdshipin.com/ln4xk
 咪咕视频4K-2,http://r.jdshipin.com/Lqdwf
-
+无线新闻台,http://74.91.26.218:82/live/inews.m3u8
+TVB Plus,http://74.91.26.218:82/live/j2.m3u8
+天映经典,http://74.91.26.218:82/live/tyjd.m3u8
 NOW新闻台,https://yang-1989.eu.org/live/now-332
 NOW财经台,https://yang-1989.eu.org/live/now-333
-
-翡翠台,https://yang-1989.eu.org/live/TVB-Jade
-
 无线新闻台,
 NOW新闻台,https://yang-1989.eu.org/live/now-332
 NOW财经台,https://yang-1989.eu.org/live/now-333
 VIUTV,https://yang-1989.eu.org/live/ViuTV
 VIUTVsix,https://yang-1989.eu.org/live/ViuTVsix
-翡翠台,https://yang-1989.eu.org/live/TVB-Jade
-翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 千禧经典台,
 TVB娱乐新闻台,
 天映频道,
 天映经典,
 Astro AOD,
 Astro AEC,
-爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
-
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台4k,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 翡翠台北美版(TVB J1),
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 
 靖天电影,
 靖天戏剧,P2p://starvod.xyz:19806/840e84aa0a114e108edcaf6137177c4a.ts
 龙华电影,
 靖洋戏剧,P2p://147.135.39.171:9906/6867a22a000b7799949ca28717b451f5.ts
 
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
-澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
-RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
@@ -230,64 +207,28 @@ ViuTV,http://r.jdshipin.com/vSJvl
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://r.jdshipin.com/NfC0f
 澳视澳门,http://r.jdshipin.com/n2YZI
-TVB翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
-TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-
-
-
 
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-VIUTV,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
-RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 凤凰电影频道,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 凤凰电影频道,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 星空电影频道,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-天映频道,http://php.jdshipin.com/smt.php?id=Celestial
-天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
+
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 亚洲卫视,https://fenghuang.tv12.xyz/173.m3u8
 亚洲新闻台,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 明珠台,http://o12.1678520.xyz/hls/mzt/playlist.m3u8
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 美亚电影,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
 美亚电影,https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
 美亚电影,https://cdn9.163189.xyz/smt1.1.php?id=meiyamovie_twn
-澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
-澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
-翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
-华丽翡翠,http://php.jdshipin.com/smt.php?id=Tvbjade
-无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
+
 Now新闻,http://hls.168.us.kg/u/332/master.m3u8 
 Now新闻,http://cdn.163189.xyz/163189/now
 Now直播台,http://hls.168.us.kg/u/331/master.m3u8
 Now财经,http://hls.168.us.kg/u/333/master.m3u8
-TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
-千禧经典台,http://php.jdshipin.com/smt.php?id=Tvbclassic
-TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-天映频道,http://php.jdshipin.com/smt.php?id=Celestial
-天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
-Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
-Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
-爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
-Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
-Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
-八度空间,http://php.jdshipin.com/smt.php?id=TV8
-ViuTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 /
 
 新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
@@ -296,10 +237,6 @@ TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 唯心电视,https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8 
 
-翡翠4K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-RTHK 31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-RTHK 32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-RTHK 33,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 TVB星河,http://117.141.162.238:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0$广西联通
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
@@ -314,6 +251,12 @@ RTHK 33,https://cdn6.101.qzz.io/163189/cctv1
 澳视综艺,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
 澳门Macau,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
 /
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+台视,rtmp://f13h.mine.nu/sat/tv071
+民视,rtmp://f13h.mine.nu/sat/tv051
+pₒₚc电影欣赏,http://rihou.cc:555/tv/[Hv]pₒₚc电影
+pₒₚc电影欣赏,http://rihou.cc:555/tv/[Bx]pₒₚc电影
 民视新闻,http://211.72.174.95:8117/0.ts
 中视,http://211.72.174.95:8113/0.ts
 华视,http://211.72.174.95:8114/0.ts
@@ -329,20 +272,7 @@ RTHK 33,https://cdn6.101.qzz.io/163189/cctv1
 /
 TVB翡翠,http://mytv.cdn.loc.cc/o12.php?id=fct
 TVB明珠,http://mytv.cdn.loc.cc/o12.php?id=mzt
-娱乐新闻,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 
-/
-
-Hoy76,http://hls.168.us.kg/u/76/master.m3u8
-Hoy77,http://hls.168.us.kg/u/77/master.m3u8
-Hoy78,http://hls.168.us.kg/u/78/master.m3u8
-翡翠台,http://hls.168.us.kg/u/81/master.m3u8
-TVB Plus,http://hls.168.us.kg/u/82/master.m3u8
-无线新闻,http://hls.168.us.kg/u/83/master.m3u8
-Now直播,http://hls.168.us.kg/u/331/master.m3u8
-Now新闻,http://hls.168.us.kg/u/332/master.m3u8
-Now财经,http://hls.168.us.kg/u/333/master.m3u8
 🚀港澳风云,#genre#
 ↓按两次OK可看,http://bxtv.3a.ink/api.php?id=ztxw
 月底了支援一波,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
@@ -408,23 +338,44 @@ Now新聞台,http://hls.168.us.kg/u/332/master.m3u8
 Now財經台,http://hls.168.us.kg/u/333/master.m3u8
 Now Sports 精選,http://hls.168.us.kg/u/630/master.m3u8
 /
-中天新闻,http://free.cnlive.club/channel/41d8a09d.m3u8
-无线翡翠,http://free.cnlive.club/channel/n7549189d.m3u8
-无线明珠,http://free.cnlive.club/channel/n75ab7db0.m3u8
-无线娱乐,http://free.cnlive.club/channel/nac85e88.m3u8
-VIUTV'粤,http://free.cnlive.club/channel/78204936.m3u8
-VIUTV'英,http://free.cnlive.club/channel/necd2834.m3u8
-美亚电影,http://free.cnlive.club/channel/5824ef5e.m3u8
-寰宇新闻,http://free.cnlive.club/channel/n43c34be8.m3u8
-东森新闻,http://free.cnlive.club/channel/n88aa83.m3u8
-tvbs闽南,http://free.cnlive.club/channel/154f9d73.m3u8
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+台视,rtmp://f13h.mine.nu/sat/tv071
+民视,rtmp://f13h.mine.nu/sat/tv051
 pₒₚc电影欣赏,http://rihou.cc:555/tv/[Hv]pₒₚc电影
 pₒₚc电影欣赏,http://rihou.cc:555/tv/[Bx]pₒₚc电影
-Now星影国赏,http://rihou.cc:555/tv/[Hv]Now星影
-Now星影粤赏,http://rihou.cc:555/tv/[Bx]Now星影
-Now爆谷国赏,http://rihou.cc:555/tv/[Hv]Now爆谷
-Now爆谷粤赏,http://rihou.cc:555/tv/[Bx]Now爆谷
-
+凤凰资讯Uktv,http://rihou.cc:555/tv/[Uk]凤凰资讯
+Plus综合Uktv,http://rihou.cc:555/tv/[Uk]Plus综合
+Now星影Uktv,http://rihou.cc:555/tv/[Uk]Now星影
+Now爆谷Uktv,http://rihou.cc:555/tv/[Uk]Now爆谷
+Now财经Uktv,http://rihou.cc:555/tv/[Uk]Now财经
+有线新闻Uktv,http://rihou.cc:555/tv/[Uk]有线新闻
+无线新闻Uktv,http://rihou.cc:555/tv/[Uk]无线新闻
+中天新闻Uktv,http://rihou.cc:555/tv/[Uk]中天新聞
+寰宇新闻Uktv,http://rihou.cc:555/tv/[Uk]寰宇新闻
+民视新闻Uktv,http://rihou.cc:555/tv/[Uk]民视新闻
+有线综合Uktv,http://rihou.cc:555/tv/[Uk]有线综合
+无线翡翠Uktv,http://rihou.cc:555/tv/[Uk]无线翡翠
+无线明珠Uktv,http://rihou.cc:555/tv/[Uk]无线明珠
+无线娱乐Uktv,http://rihou.cc:555/tv/[Uk]无线娱乐
+无线经典Uktv,http://rihou.cc:555/tv/[Uk]无线经典
+无线亚剧Uktv,http://rihou.cc:555/tv/[Uk]无线亚剧
+无线戏曲Uktv,http://rihou.cc:555/tv/[Uk]无线戏曲
+无线粤片Uktv,http://rihou.cc:555/tv/[Uk]无线粤片
+黄金翡翠Uktv,http://rihou.cc:555/tv/[Uk]黄金翡翠
+美亚电影Uktv,http://rihou.cc:555/tv/[Uk]美亚电影
+纬来电影Uktv,http://rihou.cc:555/tv/[Uk]纬来电影
+闽壹电影Uktv,http://rihou.cc:555/tv/[Uk]闽壹电影
+天映经典Uktv,http://rihou.cc:555/tv/[Uk]天映经典
+无线体育Uktv,http://rihou.cc:555/tv/[Uk]无线体育
+广东体育Uktv,http://rihou.cc:555/tv/[Uk]广东体育
+博斯高贰Uktv,http://rihou.cc:555/tv/[Uk]博斯高贰
+ELta体壹Uktv,http://rihou.cc:555/tv/[Uk]ELta体壹
+VIUTV'粤Uktv,http://rihou.cc:555/tv/[Uk]VIUTV粤
+VIUTV'英Uktv,http://rihou.cc:555/tv/[Uk]VIUTV英
+RTHK-31Uktv,http://rihou.cc:555/tv/[Uk]RTHK-31
+RTHK-32Uktv,http://rihou.cc:555/tv/[Uk]RTHK-32
+KTSF_26Uktv,http://rihou.cc:555/tv/[Uk]KTSF26
 
 🇨🇳CCTV频道,#genre#
 ❤️使用说明,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
@@ -433,7 +384,7 @@ Now爆谷粤赏,http://rihou.cc:555/tv/[Bx]Now爆谷
 K歌软件推广,https://i.uik.cc/view.php/2b0238dc0d48dfccfb405acecd571de3.mp4
 CCTV1,http://live2.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=10bd15e08aa7c4de538b767ae2618279a6213e3e
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
-CCTV8K,https://iptv.catvod.com/live.php?id=CCTV8K 
+
 CCTV2,http://live2.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=10bd15e08aa7c4de538b767ae2618279a6213e3e
 CCTV3,http://live2.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=10bd15e08aa7c4de538b767ae2618279a6213e3e
 CCTV4,http://live2.rxip.sc96655.com/live/CCTV-4H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=10bd15e08aa7c4de538b767ae2618279a6213e3e
@@ -709,56 +660,94 @@ CCTV17,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW4
 海南卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDIvaW5kZXgubTN1OA==
 黑龙江卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDUvaW5kZXgubTN1OA==
 📺央卫备用,#genre#
-CCTV1综合,http://119.91.7.169:2026/ysws.php?id=CCTV1
-CCTV2-财经,http://119.91.7.169:2026/ysws.php?id=CCTV2
-CCTV3-综艺,http://119.91.7.169:2026/ysws.php?id=CCTV3
-CCTV4-中文国际,http://119.91.7.169:2026/ysws.php?id=CCTV4
-CCTV5-体育,http://119.91.7.169:2026/ysws.php?id=CCTV5
-CCTV6-电影,http://119.91.7.169:2026/ysws.php?id=CCTV6
-CCTV7-军事农业,http://119.91.7.169:2026/ysws.php?id=CCTV7
-CCTV8-电视剧,http://119.91.7.169:2026/ysws.php?id=CCTV8
-CCTV9-记录,http://119.91.7.169:2026/ysws.php?id=CCTV9
-CCTV-10,http://119.91.7.169:2026/ysws.php?id=CCTV10
-CCTV11-戏曲,http://119.91.7.169:2026/ysws.php?id=CCTV11
-CCTV12-社会与法,http://119.91.7.169:2026/ysws.php?id=CCTV12
-CCTV13-新闻,http://119.91.7.169:2026/ysws.php?id=CCTV13
-CCTV14-少儿,http://119.91.7.169:2026/ysws.php?id=CCTV14
-CCTV15-音乐,http://119.91.7.169:2026/ysws.php?id=CCTV15
-CCTV16,http://119.91.7.169:2026/ysws.php?id=CCTV16
-CCTV5+,http://119.91.7.169:2026/ysws.php?id=CCTV5p
-安徽卫视,http://119.91.7.169:2026/ysws.php?id=安徽卫视
-北京卫视,http://119.91.7.169:2026/ysws.php?id=北京卫视
-重庆卫视,http://119.91.7.169:2026/ysws.php?id=重庆卫视
-东方卫视,http://119.91.7.169:2026/ysws.php?id=东方卫视
-东南卫视,http://119.91.7.169:2026/ysws.php?id=东南卫视
-甘肃卫视,http://119.91.7.169:2026/ysws.php?id=甘肃卫视
-广西卫视,http://119.91.7.169:2026/ysws.php?id=广西卫视
-贵州卫视,http://119.91.7.169:2026/ysws.php?id=贵州卫视
-河北卫视,http://119.91.7.169:2026/ysws.php?id=河北卫视
-河南卫视,http://119.91.7.169:2026/ysws.php?id=河南卫视
-黑龙江卫视,http://119.91.7.169:2026/ysws.php?id=黑龙江卫视
-湖北卫视,http://119.91.7.169:2026/ysws.php?id=湖北卫视
-湖南卫视,http://119.91.7.169:2026/ysws.php?id=湖南卫视
-吉林卫视,http://119.91.7.169:2026/ysws.php?id=吉林卫视
-江苏卫视,http://119.91.7.169:2026/ysws.php?id=江苏卫视
-江西卫视,http://119.91.7.169:2026/ysws.php?id=江西卫视
-康巴卫视,http://119.91.7.169:2026/ysws.php?id=康巴卫视
-辽宁卫视,http://119.91.7.169:2026/ysws.php?id=辽宁卫视
-内蒙古卫视,http://119.91.7.169:2026/ysws.php?id=内蒙古卫视
-宁夏卫视,http://119.91.7.169:2026/ysws.php?id=宁夏卫视
-农林卫视,http://119.91.7.169:2026/ysws.php?id=农林卫视
-青海卫视,http://119.91.7.169:2026/ysws.php?id=青海卫视
-厦门卫视,http://119.91.7.169:2026/ysws.php?id=厦门卫视
-山东卫视,http://119.91.7.169:2026/ysws.php?id=山东卫视
-山西卫视,http://119.91.7.169:2026/ysws.php?id=山西卫视
-陕西卫视,http://119.91.7.169:2026/ysws.php?id=陕西卫视
-深圳卫视,http://119.91.7.169:2026/ysws.php?id=深圳卫视
-四川卫视,http://119.91.7.169:2026/ysws.php?id=四川卫视
-天津卫视,http://119.91.7.169:2026/ysws.php?id=天津卫视
-西藏卫视,http://119.91.7.169:2026/ysws.php?id=西藏卫视
-新疆卫视,http://119.91.7.169:2026/ysws.php?id=新疆卫视
-云南卫视,http://119.91.7.169:2026/ysws.php?id=云南卫视
-浙江卫视,http://119.91.7.169:2026/ysws.php?id=浙江卫视
+CCTV1综合,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=cctv1
+CCTV2-财经,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=cctv2
+CCTV3-综艺,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=cctv3
+CCTV4-中文国际,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=cctv4
+CCTV5-体育,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=cctv5
+CCTV6-电影,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=cctv6
+CCTV7-军事农业,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=cctv7
+CCTV8-电视剧,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=cctv8
+CCTV9-记录,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=cctv9
+CCTV-10,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=cctv10
+CCTV11-戏曲,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=cctv11
+CCTV12-社会与法,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=cctv12
+CCTV13-新闻,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=cctv13
+CCTV14-少儿,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=cctv14
+CCTV15-音乐,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=cctv15
+CCTV16,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=cctv16
+CCTV5+,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=cctv5p
+安徽卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=ahws
+北京卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=bjws
+重庆卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=cqws
+东方卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=dfws
+东南卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=dnws
+甘肃卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=gsws
+广西卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=gxws
+贵州卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=gzws
+河北卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=hebeiws
+河南卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=hnws
+黑龙江卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=hljws
+湖北卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=hbws
+湖南卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=hunanws
+吉林卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=jlws
+江苏卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=jsws
+江西卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=jxws
+康巴卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=live4468
+辽宁卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=lnws
+内蒙古卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=neimenggu
+宁夏卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=linxws
+农林卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=live3843
+青海卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=qhws
+厦门卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=xmws
+山东卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=sdws
+山西卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=sxws
+陕西卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=shxws
+深圳卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=szws
+四川卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=scws
+天津卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=tjws
+西藏卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=xzws
+新疆卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=xjws
+云南卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=ynws
+浙江卫视,http://nn.7x9d.cn/mk.php?ip=183.224.122.114:8014&id=zjws
+CCTV-01咪咕,http://rihou.cc:555/tv/[mg]CCTV-01
+CCTV-02咪咕,http://rihou.cc:555/tv/[mg]CCTV-02
+CCTV-03咪咕,http://rihou.cc:555/tv/[mg]CCTV-03
+CCTV-04咪咕,http://rihou.cc:555/tv/[mg]CCTV-04
+CCTV-05咪咕,http://rihou.cc:555/tv/[mg]CCTV-05
+CCTV-5+咪咕,http://rihou.cc:555/tv/[mg]CCTV-5p
+CCTV-06咪咕,http://rihou.cc:555/tv/[mg]CCTV-06
+CCTV-07咪咕,http://rihou.cc:555/tv/[mg]CCTV-07
+CCTV-08咪咕,http://rihou.cc:555/tv/[mg]CCTV-08
+CCTV-09咪咕,http://rihou.cc:555/tv/[mg]CCTV-09
+CCTV-10咪咕,http://rihou.cc:555/tv/[mg]CCTV-10
+CCTV-11咪咕,http://rihou.cc:555/tv/[mg]CCTV-11
+CCTV-12咪咕,http://rihou.cc:555/tv/[mg]CCTV-12
+CCTV-13咪咕,http://rihou.cc:555/tv/[mg]CCTV-13
+CCTV-14咪咕,http://rihou.cc:555/tv/[mg]CCTV-14
+CCTV-15咪咕,http://rihou.cc:555/tv/[mg]CCTV-15
+CCTV-16咪咕,http://rihou.cc:555/tv/[mg]CCTV-16
+CCTV-17咪咕,http://rihou.cc:555/tv/[mg]CCTV-17
+cct4欧洲咪咕,http://rihou.cc:555/tv/[mg]cct4欧洲
+cct4美洲咪咕,http://rihou.cc:555/tv/[mg]cct4美洲
+CGTN-西咪咕,http://rihou.cc:555/tv/[mg]CGTN-西
+CGTN-阿咪咕,http://rihou.cc:555/tv/[mg]CGTN-阿
+CGTN-法咪咕,http://rihou.cc:555/tv/[mg]CGTN-法
+北京卫视咪咕,http://rihou.cc:555/tv/[mg]北京卫视
+东方卫视咪咕,http://rihou.cc:555/tv/[mg]东方卫视
+浙江卫视咪咕,http://rihou.cc:555/tv/[mg]浙江卫视
+江苏卫视咪咕,http://rihou.cc:555/tv/[mg]江苏卫视
+湖南卫视咪咕,http://rihou.cc:555/tv/[mg]湖南卫视
+广东卫视咪咕,http://rihou.cc:555/tv/[mg]广东卫视
+深圳卫视咪咕,http://rihou.cc:555/tv/[mg]深圳卫视
+山东卫视咪咕,http://rihou.cc:555/tv/[mg]山东卫视
+河南卫视咪咕,http://rihou.cc:555/tv/[mg]河南卫视
+江西卫视咪咕,http://rihou.cc:555/tv/[mg]江西卫视
+湖北卫视咪咕,http://rihou.cc:555/tv/[mg]湖北卫视
+海南卫视咪咕,http://rihou.cc:555/tv/[mg]海南卫视
+陕西卫视咪咕,http://rihou.cc:555/tv/[mg]陕西卫视
+兵团卫视咪咕,http://rihou.cc:555/tv/[mg]兵团卫视
+黑龙江视咪咕,http://rihou.cc:555/tv/[mg]黑龙江视
 📺央卫备用2,#genre#
 
 卡就按右换线,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
@@ -842,63 +831,9 @@ CCTV7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
 CCTV8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
 CCTV9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 CCTV13,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
-CCTV1,http://b.tvbox6.icu/tv/ysp.php?id=1
-CCTV2,http://b.tvbox6.icu/tv/ysp.php?id=2
-CCTV3,http://b.tvbox6.icu/tv/ysp.php?id=3
-CCTV4,http://b.tvbox6.icu/tv/ysp.php?id=4
-CCTV5,http://b.tvbox6.icu/tv/ysp.php?id=5
-CCTV5+,http://b.tvbox6.icu/tv/ysp.php?id=6
-CCTV6,http://b.tvbox6.icu/tv/ysp.php?id=7
-CCTV7,http://b.tvbox6.icu/tv/ysp.php?id=8
-CCTV8,http://b.tvbox6.icu/tv/ysp.php?id=9
-CCTV9,http://b.tvbox6.icu/tv/ysp.php?id=10
-CCTV10,http://b.tvbox6.icu/tv/ysp.php?id=11
-CCTV11,http://b.tvbox6.icu/tv/ysp.php?id=12
-CCTV12,http://b.tvbox6.icu/tv/ysp.php?id=13
-CCTV13,http://b.tvbox6.icu/tv/ysp.php?id=14
-CCTV14,http://b.tvbox6.icu/tv/ysp.php?id=15
-CCTV15,http://b.tvbox6.icu/tv/ysp.php?id=16
-CCTV16,http://b.tvbox6.icu/tv/ysp.php?id=17
-CCTV17,http://b.tvbox6.icu/tv/ysp.php?id=18
-CCTV4K,http://b.tvbox6.icu/tv/ysp.php?id=19
-CCTV8K,http://b.tvbox6.icu/tv/ysp.php?id=20
-CCTV第一剧场,http://b.tvbox6.icu/tv/ysp.php?id=21
-CCTV风云剧场,http://b.tvbox6.icu/tv/ysp.php?id=22
-CCTV怀旧剧场,http://b.tvbox6.icu/tv/ysp.php?id=23
-北京卫视,http://b.tvbox6.icu/tv/ysp.php?id=33
-东方卫视,http://b.tvbox6.icu/tv/ysp.php?id=34
-江苏卫视,http://b.tvbox6.icu/tv/ysp.php?id=35
-浙江卫视,http://b.tvbox6.icu/tv/ysp.php?id=36
-湖南卫视,http://b.tvbox6.icu/tv/ysp.php?id=37
-湖北卫视,http://b.tvbox6.icu/tv/ysp.php?id=38
-广东卫视,http://b.tvbox6.icu/tv/ysp.php?id=39
-广西卫视,http://b.tvbox6.icu/tv/ysp.php?id=40
-黑龙江卫视,http://b.tvbox6.icu/tv/ysp.php?id=41
-海南卫视,http://b.tvbox6.icu/tv/ysp.php?id=42
-重庆卫视,http://b.tvbox6.icu/tv/ysp.php?id=43
-深圳卫视,http://b.tvbox6.icu/tv/ysp.php?id=44
-四川卫视,http://b.tvbox6.icu/tv/ysp.php?id=45
-河南卫视,http://b.tvbox6.icu/tv/ysp.php?id=46
-东南卫视,http://b.tvbox6.icu/tv/ysp.php?id=47
-贵州卫视,http://b.tvbox6.icu/tv/ysp.php?id=48
-江西卫视,http://b.tvbox6.icu/tv/ysp.php?id=49
-辽宁卫视,http://b.tvbox6.icu/tv/ysp.php?id=50
-安徽卫视,http://b.tvbox6.icu/tv/ysp.php?id=51
-河北卫视,http://b.tvbox6.icu/tv/ysp.php?id=52
-山东卫视,http://b.tvbox6.icu/tv/ysp.php?id=53
-天津卫视,http://b.tvbox6.icu/tv/ysp.php?id=54
-吉林卫视,http://b.tvbox6.icu/tv/ysp.php?id=55
-陕西卫视,http://b.tvbox6.icu/tv/ysp.php?id=56
-甘肃卫视,http://b.tvbox6.icu/tv/ysp.php?id=57
-宁夏卫视,http://b.tvbox6.icu/tv/ysp.php?id=58
-内蒙古卫视,http://b.tvbox6.icu/tv/ysp.php?id=59
-云南卫视,http://b.tvbox6.icu/tv/ysp.php?id=60
-山西卫视,http://b.tvbox6.icu/tv/ysp.php?id=61
-青海卫视,http://b.tvbox6.icu/tv/ysp.php?id=62
-中国教育1台,http://b.tvbox6.icu/tv/ysp.php?id=63
-新疆卫视,http://b.tvbox6.icu/tv/ysp.php?id=64
-兵团卫视,http://b.tvbox6.icu/tv/ysp.php?id=65
-CGTN,http://b.tvbox6.icu/tv/ysp.php?id=66
+
+
+
 CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
 CCTV2,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
 CCTV3,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
@@ -1161,65 +1096,7 @@ CCTV15,http://120.202.94.181:9446/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&
 哈哈炫动,http://sh.lnott.top:880/dx89.m3u8
 风云剧场,http://sh.lnott.top:880/dx94.m3u8
 怀旧剧场,http://sh.lnott.top:880/dx95.m3u8
-辽宁教育青少,http://sh.lnott.top:880/dx24.m3u8
-辽宁体育休闲,http://sh.lnott.top:880/dx22.m3u8
-CCTV-1综合,http://b.tvbox6.icu/tv/ysp.php?id=1
-CCTV-2财经,http://b.tvbox6.icu/tv/ysp.php?id=2
-CCTV-3综艺,http://b.tvbox6.icu/tv/ysp.php?id=3
-CCTV-4中文国际,http://b.tvbox6.icu/tv/ysp.php?id=4
-CCTV-5体育,http://b.tvbox6.icu/tv/ysp.php?id=5
-CCTV-5+体育赛事,http://b.tvbox6.icu/tv/ysp.php?id=6
-CCTV-6电影,http://b.tvbox6.icu/tv/ysp.php?id=7
-CCTV-7国防军事,http://b.tvbox6.icu/tv/ysp.php?id=8
-CCTV-8电视剧,http://b.tvbox6.icu/tv/ysp.php?id=9
-CCTV-9纪录,http://b.tvbox6.icu/tv/ysp.php?id=10
-CCTV-10科教,http://b.tvbox6.icu/tv/ysp.php?id=11
-CCTV-11戏曲,http://b.tvbox6.icu/tv/ysp.php?id=12
-CCTV-12社会与法,http://b.tvbox6.icu/tv/ysp.php?id=13
-CCTV-13新闻,http://b.tvbox6.icu/tv/ysp.php?id=14
-CCTV-14少儿,http://b.tvbox6.icu/tv/ysp.php?id=15
-CCTV-15音乐,http://b.tvbox6.icu/tv/ysp.php?id=16
-CCTV-16奥林匹克,http://b.tvbox6.icu/tv/ysp.php?id=17
-CCTV-17农业农村,http://b.tvbox6.icu/tv/ysp.php?id=18
-CCTV-4K超高清,http://b.tvbox6.icu/tv/ysp.php?id=19
-CCTV-8K超高清,http://b.tvbox6.icu/tv/ysp.php?id=20
-CCTV第一剧场,http://b.tvbox6.icu/tv/ysp.php?id=21
-CCTV风云剧场,http://b.tvbox6.icu/tv/ysp.php?id=22
-CCTV怀旧剧场,http://b.tvbox6.icu/tv/ysp.php?id=23
-北京卫视,http://b.tvbox6.icu/tv/ysp.php?id=33
-东方卫视,http://b.tvbox6.icu/tv/ysp.php?id=34
-江苏卫视,http://b.tvbox6.icu/tv/ysp.php?id=35
-浙江卫视,http://b.tvbox6.icu/tv/ysp.php?id=36
-湖南卫视,http://b.tvbox6.icu/tv/ysp.php?id=37
-湖北卫视,http://b.tvbox6.icu/tv/ysp.php?id=38
-广东卫视,http://b.tvbox6.icu/tv/ysp.php?id=39
-广西卫视,http://b.tvbox6.icu/tv/ysp.php?id=40
-黑龙江卫视,http://b.tvbox6.icu/tv/ysp.php?id=41
-海南卫视,http://b.tvbox6.icu/tv/ysp.php?id=42
-重庆卫视,http://b.tvbox6.icu/tv/ysp.php?id=43
-深圳卫视,http://b.tvbox6.icu/tv/ysp.php?id=44
-四川卫视,http://b.tvbox6.icu/tv/ysp.php?id=45
-河南卫视,http://b.tvbox6.icu/tv/ysp.php?id=46
-东南卫视,http://b.tvbox6.icu/tv/ysp.php?id=47
-贵州卫视,http://b.tvbox6.icu/tv/ysp.php?id=48
-江西卫视,http://b.tvbox6.icu/tv/ysp.php?id=49
-辽宁卫视,http://b.tvbox6.icu/tv/ysp.php?id=50
-安徽卫视,http://b.tvbox6.icu/tv/ysp.php?id=51
-河北卫视,http://b.tvbox6.icu/tv/ysp.php?id=52
-山东卫视,http://b.tvbox6.icu/tv/ysp.php?id=53
-天津卫视,http://b.tvbox6.icu/tv/ysp.php?id=54
-吉林卫视,http://b.tvbox6.icu/tv/ysp.php?id=55
-陕西卫视,http://b.tvbox6.icu/tv/ysp.php?id=56
-甘肃卫视,http://b.tvbox6.icu/tv/ysp.php?id=57
-宁夏卫视,http://b.tvbox6.icu/tv/ysp.php?id=58
-内蒙古卫视,http://b.tvbox6.icu/tv/ysp.php?id=59
-云南卫视,http://b.tvbox6.icu/tv/ysp.php?id=60
-山西卫视,http://b.tvbox6.icu/tv/ysp.php?id=61
-青海卫视,http://b.tvbox6.icu/tv/ysp.php?id=62
-中国教育1台,http://b.tvbox6.icu/tv/ysp.php?id=63
-新疆卫视,http://b.tvbox6.icu/tv/ysp.php?id=64
-兵团卫视,http://b.tvbox6.icu/tv/ysp.php?id=65
-CGTN,http://b.tvbox6.icu/tv/ysp.php?id=66
+
 📺四川频道,#genre#
 四川卫视,http://live2.rxip.sc96655.com/live/scwsH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
 
@@ -4362,7 +4239,6 @@ YY李连杰台,http://jiaojirentv.top/2020/yy.php?id=1459869766
 🍁短剧系列,#genre#
 画面比例设置默认,https://vd3.bdstatic.com/mda-pefi3w616b8ujr88/720p/h264/1684243271973602840/mda-pefi3w616b8ujr88.mp4
 随机直播,http://www.douzhicloud.site:35455/douyu/4011851
-随机直播1,http://huanqiuzhibo.cn/manifest/douyu.php?id=6079455
 霸爱为奴(100集),https://vd4.bdstatic.com/mda-pe89k65is9xdwqen/sc/cae_h264/1683667911711262079/mda-pe89k65is9xdwqen.mp4
 都市逍遥神医(93集),https://vd4.bdstatic.com/mda-pe9f7u2qj8qi7r04/720p/h264/1683716481871424650/mda-pe9f7u2qj8qi7r04.mp4
 逆命神医(96集),https://vd3.bdstatic.com/mda-peds8afg0055s0nh/720p/h264/1684091269327297304/mda-peds8afg0055s0nh.mp4
@@ -4496,6 +4372,170 @@ YY李连杰台,http://jiaojirentv.top/2020/yy.php?id=1459869766
 🎬追电视剧,#genre#
 不要信广告,https://cccimg.com/view.php/7b6219260a9ec0036d8f7f28e09c4281.mp4
 按设置选集,https://cccimg.com/view.php/7b6219260a9ec0036d8f7f28e09c4281.mp4
+
+太平年,http://cjx.999315.xyz/yzzy/20260123/5986_fd45c64e/index.m3u8$第1集
+太平年,http://cjx.999315.xyz/yzzy/20260123/5987_7f9d88fe/index.m3u8$第2集
+太平年,http://cjx.999315.xyz/yzzy/20260123/12093_8864b99d/index.m3u8$第3集
+太平年,http://cjx.999315.xyz/yzzy/20260123/12094_7f7ed8ec/index.m3u8$第4集
+太平年,http://cjx.999315.xyz/yzzy/20260124/12382_9a1d8e7d/index.m3u8$第5集
+太平年,http://cjx.999315.xyz/yzzy/20260124/12383_47e03d48/index.m3u8$第6集
+太平年,http://cjx.999315.xyz/yzzy/20260125/12456_6a9edcb7/index.m3u8$第7集
+太平年,http://cjx.999315.xyz/yzzy/20260125/12457_842efe84/index.m3u8$第8集
+太平年,http://cjx.999315.xyz/yzzy/20260126/6152_92ae5cfe/index.m3u8$第9集
+太平年,http://cjx.999315.xyz/yzzy/20260126/6153_a4d5fad8/index.m3u8$第10集
+太平年,http://cjx.999315.xyz/yzzy/20260127/12577_a01ef14c/index.m3u8$第11集
+太平年,http://cjx.999315.xyz/yzzy/20260127/12578_fdd73fe6/index.m3u8$第12集
+太平年,http://cjx.999315.xyz/yzzy/20260128/12705_0780e8f5/index.m3u8$第13集
+太平年,http://cjx.999315.xyz/yzzy/20260128/12706_785a4b39/index.m3u8$第14集
+太平年,http://cjx.999315.xyz/yzzy/20260129/12830_eaf90ea9/index.m3u8$第15集
+太平年,http://cjx.999315.xyz/yzzy/20260129/12831_d0e7244b/index.m3u8$第16集
+太平年,http://cjx.999315.xyz/yzzy/20260129/12832_1dfe2574/index.m3u8$第17集
+太平年,http://cjx.999315.xyz/yzzy/20260130/6443_c03afab5/index.m3u8$第18集
+太平年,http://cjx.999315.xyz/yzzy/20260130/6444_8a36dfc6/index.m3u8$第19集
+太平年,http://cjx.999315.xyz/yzzy/20260130/6445_59139a91/index.m3u8$第20集
+太平年,http://cjx.999315.xyz/yzzy/20260201/16442_cd3b6e78/index.m3u8$第21集
+太平年,http://cjx.999315.xyz/yzzy/20260202/13272_fd7fb6f8/index.m3u8$第22集
+太平年,http://cjx.999315.xyz/yzzy/20260202/13273_8954b3ee/index.m3u8$第23集
+太平年,http://cjx.999315.xyz/yzzy/20260202/6651_06ccc6fa/index.m3u8$第24集
+太平年,http://cjx.999315.xyz/yzzy/20260203/13341_dc506560/index.m3u8$第25集
+太平年,http://cjx.999315.xyz/yzzy/20260203/13342_05c41063/index.m3u8$第26集
+太平年,http://cjx.999315.xyz/yzzy/20260203/13343_e5cb9cf7/index.m3u8$第27集
+太平年,http://cjx.999315.xyz/yzzy/20260204/13406_ad246a29/index.m3u8$第28集
+太平年,http://cjx.999315.xyz/yzzy/20260204/13407_3ac20ac7/index.m3u8$第29集
+太平年,http://cjx.999315.xyz/yzzy/20260204/13408_4c109426/index.m3u8$第30集
+太平年,http://cjx.999315.xyz/yzzy/20260205/13517_088d6dc6/index.m3u8$第31集
+太平年,http://cjx.999315.xyz/yzzy/20260205/13518_f419f44d/index.m3u8$第32集
+太平年,http://cjx.999315.xyz/yzzy/20260205/13519_4843444b/index.m3u8$第33集
+突然的喜欢,http://cjx.999315.xyz/yzzy/20260122/12005_aa624581/index.m3u8$第1集
+突然的喜欢,http://cjx.999315.xyz/yzzy/20260122/12006_ef126722/index.m3u8$第2集
+突然的喜欢,http://cjx.999315.xyz/yzzy/20260122/12007_5c142c3b/index.m3u8$第3集
+突然的喜欢,http://cjx.999315.xyz/yzzy/20260122/12008_b6c8cf4c/index.m3u8$第4集
+突然的喜欢,http://cjx.999315.xyz/yzzy/20260123/15245_772d3166/index.m3u8$第5集
+突然的喜欢,http://cjx.999315.xyz/yzzy/20260123/12082_1831d62b/index.m3u8$第6集
+突然的喜欢,http://cjx.999315.xyz/yzzy/20260123/12095_f7eb4129/index.m3u8$第7集
+突然的喜欢,http://cjx.999315.xyz/yzzy/20260124/12371_3b153deb/index.m3u8$第8集
+突然的喜欢,http://cjx.999315.xyz/yzzy/20260124/15472_53a738be/index.m3u8$第9集
+突然的喜欢,http://cjx.999315.xyz/yzzy/20260125/6106_6933b564/index.m3u8$第10集
+突然的喜欢,http://cjx.999315.xyz/yzzy/20260125/6110_5460b9ea/index.m3u8$第11集
+突然的喜欢,http://cjx.999315.xyz/yzzy/20260126/6154_3bf07985/index.m3u8$第12集
+突然的喜欢,http://cjx.999315.xyz/yzzy/20260127/12576_75ddbac9/index.m3u8$第13集
+突然的喜欢,http://cjx.999315.xyz/yzzy/20260128/15794_fc133194/index.m3u8$第14集
+突然的喜欢,http://cjx.999315.xyz/yzzy/20260128/12704_f01287d4/index.m3u8$第15集
+突然的喜欢,http://cjx.999315.xyz/yzzy/20260129/12803_bbf514d1/index.m3u8$第16集
+突然的喜欢,http://cjx.999315.xyz/yzzy/20260129/6352_9f16b57b/index.m3u8$第17集
+突然的喜欢,http://cjx.999315.xyz/yzzy/20260130/12911_136aa7fe/index.m3u8$第18集
+突然的喜欢,http://cjx.999315.xyz/yzzy/20260130/16185_19337360/index.m3u8$第19集
+突然的喜欢,http://cjx.999315.xyz/yzzy/20260131/16355_9f482bc6/index.m3u8$第20集
+突然的喜欢,http://cjx.999315.xyz/yzzy/20260131/13065_fed02ce0/index.m3u8$第21集
+突然的喜欢,http://cjx.999315.xyz/yzzy/20260201/16366_53b1ab0f/index.m3u8$第22集
+突然的喜欢,http://cjx.999315.xyz/yzzy/20260201/16367_ff4d70de/index.m3u8$第23集
+突然的喜欢,http://cjx.999315.xyz/yzzy/20260201/16368_ec5c931c/index.m3u8$第24集
+
+沉默的荣耀,http://jx.999315.xyz/yzzy/20250930/17683_08474286/index.m3u8$第1集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20250930/17684_0023daa5/index.m3u8$第2集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20250930/744_0537fb40/index.m3u8$第3集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20250930/745_5f0f5e5f/index.m3u8$第4集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251001/3840_dfa037a5/index.m3u8$第5集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251001/3841_7da18d03/index.m3u8$第6集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251002/1073_390e9825/index.m3u8$第7集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251002/1074_708f3cf8/index.m3u8$第8集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251003/18225_2890f648/index.m3u8$第9集
+沉默的荣耀,http://jx.999315.xyz/ffzy/20251003/46035_ef591ef2/index.m3u8$第10集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251004/4231_dd1016d6/index.m3u8$第11集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251004/4232_3b24156a/index.m3u8$第12集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251005/4385_65f148c8/index.m3u8$第13集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251005/4386_4bb948d5/index.m3u8$第14集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251006/4472_103303dd/index.m3u8$第15集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251006/4473_f8151fdd/index.m3u8$第16集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251007/18490_2dc78e60/index.m3u8$第17集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251007/18491_04e35ab5/index.m3u8$第18集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251008/4654_6abba5d8/index.m3u8$第19集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251008/4655_ab3f9cab/index.m3u8$第20集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251009/1865_69d1fc78/index.m3u8$第21集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251009/1866_19de10ad/index.m3u8$第22集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251010/1946_1f71e393/index.m3u8$第23集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251010/1947_de03beff/index.m3u8$第24集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251011/5084_a714ec67/index.m3u8$第25集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251011/5085_9ce3c52f/index.m3u8$第26集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251012/19441_c273330b/index.m3u8$第27集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251012/19442_9f6baa1a/index.m3u8$第28集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251013/5273_205e7357/index.m3u8$第29集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251013/5274_59ab3ba9/index.m3u8$第30集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251014/19630_e3a41360/index.m3u8$第31集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251014/19631_c45bec92/index.m3u8$第32集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251015/19676_ebddf459/index.m3u8$第33集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251015/19677_ebce60fa/index.m3u8$第34集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251016/2680_220a7f49/index.m3u8$第35集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251016/2681_dcda54e2/index.m3u8$第36集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251016/20459_7cf65e31/index.m3u8$第37集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251016/20460_69910d61/index.m3u8$第38集
+沉默的荣耀,http://jx.999315.xyz/yzzy/20251016/20461_331715f2/index.m3u8$第39集
+
+轧戏,http://cjx.999315.xyz/yzzy/20260109/10939_5a678411/index.m3u8$第1集
+轧戏,http://cjx.999315.xyz/yzzy/20260109/10940_4f3fcf17/index.m3u8$第2集
+轧戏,http://cjx.999315.xyz/yzzy/20260109/4075_e3b21256/index.m3u8$第3集
+轧戏,http://cjx.999315.xyz/yzzy/20260109/4076_a3147b88/index.m3u8$第4集
+轧戏,http://cjx.999315.xyz/yzzy/20260110/11001_64254db8/index.m3u8$第5集
+轧戏,http://cjx.999315.xyz/yzzy/20260110/11002_30777b47/index.m3u8$第6集
+轧戏,http://cjx.999315.xyz/yzzy/20260111/11079_21f2a5c3/index.m3u8$第7集
+轧戏,http://cjx.999315.xyz/yzzy/20260111/11080_3f13cf4d/index.m3u8$第8集
+轧戏,http://cjx.999315.xyz/yzzy/20260112/4317_d290dc6c/index.m3u8$第9集
+轧戏,http://cjx.999315.xyz/yzzy/20260112/4318_3e6ad89f/index.m3u8$第10集
+轧戏,http://cjx.999315.xyz/yzzy/20260113/11239_178930ab/index.m3u8$第11集
+轧戏,http://cjx.999315.xyz/yzzy/20260113/11240_dc2ff5f1/index.m3u8$第12集
+轧戏,http://cjx.999315.xyz/yzzy/20260114/4501_1a15d419/index.m3u8$第13集
+轧戏,http://cjx.999315.xyz/yzzy/20260114/4502_767b2cc8/index.m3u8$第14集
+轧戏,http://cjx.999315.xyz/yzzy/20260115/11402_49c2694a/index.m3u8$第15集
+轧戏,http://cjx.999315.xyz/yzzy/20260115/11403_09859012/index.m3u8$第16集
+轧戏,http://cjx.999315.xyz/yzzy/20260116/11535_86d5cf1c/index.m3u8$第17集
+轧戏,http://cjx.999315.xyz/yzzy/20260117/4768_1a77befc/index.m3u8$第18集
+轧戏,http://cjx.999315.xyz/yzzy/20260117/4769_dab10c50/index.m3u8$第19集
+轧戏,http://cjx.999315.xyz/yzzy/20260118/11747_2af1e9ea/index.m3u8$第20集
+轧戏,http://cjx.999315.xyz/yzzy/20260119/4916_f5e62af8/index.m3u8$第21集
+轧戏,http://cjx.999315.xyz/yzzy/20260119/4917_cf8d8c66/index.m3u8$第22集
+轧戏,http://cjx.999315.xyz/yzzy/20260120/5446_3d3d286a/index.m3u8$第23集
+轧戏,http://cjx.999315.xyz/yzzy/20260120/5447_623a1f8e/index.m3u8$第24集
+轧戏,http://cjx.999315.xyz/yzzy/20260120/5448_dd325446/index.m3u8$第25集
+轧戏,http://cjx.999315.xyz/yzzy/20260120/5449_67fe0f66/index.m3u8$第26集
+轧戏,http://cjx.999315.xyz/yzzy/20260120/11863_fb9832b8/index.m3u8$第27集
+轧戏,http://cjx.999315.xyz/yzzy/20260120/11864_3a901648/index.m3u8$第28集
+
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20251229/28375_61204932/index.m3u8$第1集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20251229/28376_9b72f364/index.m3u8$第2集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20251229/28377_36677a1d/index.m3u8$第3集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20251229/28378_daf94f1c/index.m3u8$第4集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20251230/9808_f5b2aa92/index.m3u8$第5集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20251230/9807_a3fefe83/index.m3u8$第6集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20251231/12387_73eae46e/index.m3u8$第7集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20251231/12384_20d534ef/index.m3u8$第8集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20260101/9936_482b31ee/index.m3u8$第9集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20260101/9937_ad80947c/index.m3u8$第10集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20260102/12872_83b7e1c6/index.m3u8$第11集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20260102/12873_08b90c2e/index.m3u8$第12集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20260104/29111_ad041f9b/index.m3u8$第13集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20260105/13214_46cf7456/index.m3u8$第14集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20260105/13215_e6c19a87/index.m3u8$第15集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20260106/10670_5631e6ee/index.m3u8$第16集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20260106/10671_ea4c796c/index.m3u8$第17集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20260107/13419_7436b0dc/index.m3u8$第18集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20260107/13420_ae97cad2/index.m3u8$第19集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20260108/13601_b7ead1d0/index.m3u8$第20集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20260108/13602_d7419ae0/index.m3u8$第21集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20260109/13635_e87152a7/index.m3u8$第22集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20260110/4119_1b69ebed/index.m3u8$第23集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20260111/13761_0e78a1b0/index.m3u8$第24集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20260112/4255_87db7e71/index.m3u8$第25集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20260112/4256_ec99dd0b/index.m3u8$第26集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20260113/11210_de1b8f4b/index.m3u8$第27集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20260113/11211_68dfff28/index.m3u8$第28集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20260114/14026_f3f22264/index.m3u8$第29集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20260114/14027_e394c4fc/index.m3u8$第30集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20260115/11343_d7b0a6a7/index.m3u8$第31集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20260115/11344_2e87d147/index.m3u8$第32集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20260115/11345_997ddfb4/index.m3u8$第33集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20260115/4541_2f3c6a4c/index.m3u8$第34集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20260115/4542_7c33e57e/index.m3u8$第35集
+玉茗茶骨,http://cjx.999315.xyz/yzzy/20260115/4543_da974f5e/index.m3u8$第36集
 
 逍遥之第,http://cjx.999315.xyz/yzzy/20251227/28032_e4160531/index.m3u8$第1集
 逍遥之第,http://cjx.999315.xyz/yzzy/20251227/28034_1e5afce2/index.m3u8$第2集
@@ -7379,52 +7419,13 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 
 🐬少儿动漫,#genre#
 
-火影忍者,http://cfss.cc/cdn/hy/29465866.m3u8
-海贼王,http://cfss.cc/cdn/hy/29982634.m3u8
-宫崎骏系列,http://cfss.cc/cdn/hy/21059614.m3u8
-黑子的篮球,http://cfss.cc/cdn/hy/30080253.m3u8
-瑞克与莫蒂,http://cfss.cc/cdn/hy/29982655.m3u8
-星辰变,http://cfss.cc/cdn/hy/24514506.m3u8
-成龙历险记,http://cfss.cc/cdn/hy/11352946.m3u8
-飞天小女警,http://cfss.cc/cdn/hy/11601958.m3u8
-蜡笔小新,http://cfss.cc/cdn/hy/11352970.m3u8
-樱桃小丸子,http://cfss.cc/cdn/hy/11342394.m3u8
-猫和老鼠,http://cfss.cc/cdn/hy/11352879.m3u8
-龙珠,http://cfss.cc/cdn/hy/11601966.m3u8
-全职高手,http://cfss.cc/cdn/hy/21059628.m3u8
-哆啦A梦,http://cfss.cc/cdn/hy/11601963.m3u8
-海绵宝宝,http://cfss.cc/cdn/hy/11352919.m3u8
-魔法少女,http://cfss.cc/cdn/hy/21059587.m3u8
-全职猎人,http://cfss.cc/cdn/hy/30080254.m3u8
-四驱兄弟,http://cfss.cc/cdn/hy/11352922.m3u8
-一人之上,http://cfss.cc/cdn/hy/11602065.m3u8
-头文字D,http://cfss.cc/cdn/hy/11352889.m3u8
-网球王子,http://cfss.cc/cdn/hy/11352882.m3u8
-头文字D剧集,http://cfss.cc/cdn/hy/11352889.m3u8
-一人之上漫剧,http://cfss.cc/cdn/hy/11602065.m3u8
-叮当全集剧集,http://cfss.cc/cdn/hy/11601963.m3u8
-四驱兄弟剧集,http://cfss.cc/cdn/hy/11352922.m3u8
-樱桃小丸子剧,http://cfss.cc/cdn/hy/11342394.m3u8
-猫和老鼠剧集,http://cfss.cc/cdn/hy/11352879.m3u8
-蜡笔小新剧集,http://cfss.cc/cdn/hy/11352970.m3u8
-Q版-三国剧集,http://cfss.cc/cdn/hy/29465871.m3u8
 少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-龙珠全集解壹,http://cfss.cc/cdn/hy/10279885.m3u8
-龙珠全集解贰,http://cfss.cc/cdn/hy/19757963.m3u8
-龙珠全集剧叁,http://cfss.cc/cdn/hy/11601966.m3u8
-龙珠全集剧肆,http://cfss.cc/cdn/hy/16755322.m3u8
-斌哥解说漫壹,http://cfss.cc/cdn/hy/18632116.m3u8
-斌哥解说漫贰,http://cfss.cc/cdn/hy/21059621.m3u8
-圣斗士集解壹,http://cfss.cc/cdn/hy/27817468.m3u8
-圣斗士集解贰,http://cfss.cc/cdn/hy/11352904.m3u8
 CCTV-14少儿,http://t.061899.xyz/tl/tl.php?id=cctv14
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 内蒙少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
 少儿频道,rtmp://livein.gstv.com.cn/49048r/4o7e76
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$
 内蒙少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
-开心锤锤,http://huanqiuzhibo.cn/manifest/douyu.php?id=9018297 
-爆笑虫子,http://huanqiuzhibo.cn/manifest/douyu.php?id=9942574 
 葫芦兄弟,http://jsmov2.a.yximgs.com/bs3/video-hls/5223049779458999093_hlsb.m3u8 
 成龙历险记,http://cdn.jdshipin.com:8880/huya.php?id=11352946
 海绵宝宝,http://cdn.jdshipin.com:8880/huya.php?id=11352919
