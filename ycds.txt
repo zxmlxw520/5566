@@ -77,28 +77,26 @@ K歌软件推广,https://i.uik.cc/view.php/2b0238dc0d48dfccfb405acecd571de3.mp4
 
 凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
 翡翠台,http://r.jdshipin.com/qrfbg
-中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞
-
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰香港,http://r.jdshipin.com/yDoTN
-NOW星影,
-中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞
-Now爆谷,http://rihou.cc:555/tv/[Bx]Now爆谷
-东森新闻,http://rihou.cc:555/tv/[Hk]东森新闻
-中视新闻,http://rihou.cc:555/tv/[Hk]中视新闻
-Now华剧,http://rihou.cc:555/tv/[Hv]Now华剧
-Now剧集,http://rihou.cc:555/tv/[Hv]Now剧集
-Now紫金,http://rihou.cc:555/tv/[Hv]Now紫金
-Now星影,http://rihou.cc:555/tv/[Hv]Now星影
-Now爆谷国,http://rihou.cc:555/tv/[Hv]Now爆谷
-pₒₚc电影Hktv,http://rihou.cc:555/tv/[Hv]pₒₚc电影
-PopC电影,
-亚洲武侠,
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8$官网
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8$官网
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
+中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞
+中天新闻1,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
+Now爆谷,http://rihou.cc:555/tv/[Bx]Now爆谷
+龙华电影,http://rihou.cc:555/tv/[Pd]龙华电影
+龙华经典,http://rihou.cc:555/tv/[Pd]龙华经典
+龙华偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
+龙华日韩,http://rihou.cc:555/tv/[Pd]龙华日韩
+龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
+Now星影,http://rihou.cc:555/tv/[Hv]Now星影
+pₒₚc电影,http://rihou.cc:555/tv/[Hv]pₒₚc电影
+美亚电影,http://rihou.cc:555/tv/[Hv]美亚电影|
+广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=19
+广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
 /
 华丽翡翠,https://o11.163189.xyz/stream/live/hlt/#https://smt.1678520.xyz/smt3.2.3.php?id=Tvbjade$马来
 无线新闻,https://smt.1678520.xyz/smt3.2.3.php?id=inews_twn
@@ -120,7 +118,7 @@ RTHK 33,http://cdn.163189.xyz/163189/rthk33
 Astro AEC,https://o11.163189.xyz/stream/live/aec/
 Astro AOD,https://o11.163189.xyz/stream/live/aod/
 Astro QJ,https://o11.163189.xyz/stream/live/qj/ 
-
+无线功夫国,http://rihou.cc:555/tv/[Hv]无线功夫
 凤凰电影频道,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 凤凰电影频道,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 星空电影频道,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
