@@ -72,9 +72,13 @@ CCTV4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD
 支付宝红包活动,https://i.uik.cc/view.php/ff528d9d5f4208e02225d723613b5733.mp4
 K歌软件推广,https://i.uik.cc/view.php/2b0238dc0d48dfccfb405acecd571de3.mp4
 月底了支援一波,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+凤凰中文,http://rihou.cc:555/tv/[SX]凤凰中文
+凤凰资讯,http://rihou.cc:555/tv/[SX]凤凰资讯
+凤凰香港,http://rihou.cc:555/tv/[SX]凤凰香港
+凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
-凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
+
 凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
@@ -83,9 +87,9 @@ K歌软件推广,https://i.uik.cc/view.php/2b0238dc0d48dfccfb405acecd571de3.mp4
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8$官网
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
-中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞
-中天新聞1,http://rihou.cc:555/tv/[Us]中天新聞
 
+中天新聞1,http://rihou.cc:555/tv/[Us]中天新聞
+翡翠台,http://hls.168.us.kg/u/81/master.m3u8
 Now爆谷,http://rihou.cc:555/tv/[Bx]Now爆谷
 龙华电影,http://rihou.cc:555/tv/[Pd]龙华电影
 龙华经典,http://rihou.cc:555/tv/[Pd]龙华经典
@@ -140,7 +144,7 @@ Astro QJ,https://o11.163189.xyz/stream/live/qj/
 Hoy76,http://hls.168.us.kg/u/76/master.m3u8
 Hoy77,http://hls.168.us.kg/u/77/master.m3u8
 Hoy78,http://hls.168.us.kg/u/78/master.m3u8
-翡翠台,http://hls.168.us.kg/u/81/master.m3u8
+
 TVB Plus,http://hls.168.us.kg/u/82/master.m3u8
 无线新闻,http://hls.168.us.kg/u/83/master.m3u8
 Now直播,http://hls.168.us.kg/u/331/master.m3u8
