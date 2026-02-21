@@ -89,8 +89,11 @@ K歌软件推广,https://i.uik.cc/view.php/2b0238dc0d48dfccfb405acecd571de3.mp4
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8$官网
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
-
-中天新聞1,http://rihou.cc:555/tv/[Us]中天新聞
+美亚电影,http://tl.061833.xyz/tl/null-5
+中国电影,http://tl.061833.xyz/tl/null-6
+AXN电影,http://tl.061833.xyz/tl/axn
+KIX_韩综,http://tl.061833.xyz/tl/kix
+中天新聞1,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 翡翠台,http://hls.168.us.kg/u/81/master.m3u8
 Now爆谷,http://rihou.cc:555/tv/[Bx]Now爆谷
 龙华电影,http://rihou.cc:555/tv/[Pd]龙华电影
@@ -99,7 +102,7 @@ Now爆谷,http://rihou.cc:555/tv/[Bx]Now爆谷
 龙华日韩,http://rihou.cc:555/tv/[Pd]龙华日韩
 龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
 Now星影,http://rihou.cc:555/tv/[Hv]Now星影
-pₒₚc电影,http://rihou.cc:555/tv/[Hv]pₒₚc电影
+pₒₚc电影,http://tl.061833.xyz/tl/popc
 美亚电影,http://rihou.cc:555/tv/[Hv]美亚电影|
 寰宇新闻,http://rihou.cc:555/tv/[Us]寰宇新闻
 东森新闻,http://rihou.cc:555/tv/[Us]东森新闻
