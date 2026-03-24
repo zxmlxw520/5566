@@ -72,7 +72,18 @@ CCTV4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD
 实时更新好看的,https://i.uik.cc/view.php/8d9d37a2fc11480442b8fd8b2fd70ace.mp4
 按设置可以选集,https://d6.qyshare.store/s/TBVWTxUNFQEGBQEDVQNRGgZUBQKFCVA50aKFCVA50wUKFCVA50KFCVA50RpWD1ECGlIBUQ9WVFIPDgKFCVA50OVRUbFVhERH9YREMVDRVYREQZRk5CWRlYRVKFCVA50VGxVYRER8Uk4VDRVCR1tYVlMYBQcFKFCVA50RgHBBgFBBgHBFIHBVMOKFCVA50hoED1UGGgMCVQIaVgICDhoEDw8GB1MDVg4FDg4ZVV5ZFRsVVlQVDRUGUgFSUQIBBxpSBKFCVA50UGGgNWBFEaVVIGVRpVKFCVA50w8PUQMHVVYBKFCVA50gUVGxVZVlpSFQ0VBgYEBBlaRwMVGxVUWFlDUllDY05HUhUNFUFeU1JYGFpHKFCVA50xUbFVZTFQ0VDwRVBKFCVA50MDUQ4aUg5WBhoDKFCVA50FEBGlYEUg8aDlUCVFIPKFCVA50wKFCVA50FKFCVA501IGFUo=
 
-纪录片⬇️,https://d6.qyshare.store/s/TBVWTxUNFQEGBQEDVQNRGgZUBQKFCVA50aKFCVA50wUKFCVA50KFCVA50RpWD1ECGlIBUQ9WVFIPDgKFCVA50OVRUbFVhERH9YREMVDRVYREQZRk5CWRlYRVKFCVA50VGxVYRER8Uk4VDRVCR1tYVlMYBQcFKFCVA50RgHBBgFBBgHBFIHBVMOKFCVA50hoED1UGGgMCVQIaVgICDhoEDw8GB1MDVg4FDg4ZVV5ZFRsVVlQVDRUGUgFSUQIBBxpSBKFCVA50UGGgNWBFEaVVIGVRpVKFCVA50w8PUQMHVVYBKFCVA50gUVGxVZVlpSFQ0VBgYEBBlaRwMVGxVUWFlDUllDY05HUhUNFUFeU1JYGFpHKFCVA50xUbFVZTFQ0VDwRVBKFCVA50MDUQ4aUg5WBhoDKFCVA50FEBGlYEUg8aDlUCVFIPKFCVA50wKFCVA50FKFCVA501IGFUo=
+电影寻秦记,https://119.91.61.181:906/hls/%E5%AF%BB%E7%A7%A6%E8%AE%B0%E6%99%AE%E9%80%9A%E8%AF%9D%E7%89%88.m3u8
+电影三滴血,https://119.91.61.181:906/hls/3di.m3u8
+电影风火山林,https://119.91.61.181:906/hls/%E9%A3%8E%E6%9E%97%E7%81%AB%E5%B1%B1.m3u8
+电影疯狂动物城2,https://media-qhxn-fj-person.qh6oss.ctyunxs.cn/PERSONCLOUD/88ee2c51-9371-4fc0-bf3e-59cb2526f01b.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=yPySeUDW6JolLinanQ0A&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001793460858&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22Zootopia.2.2025.1080P.mp4%22%3Bfilename*%3DUTF-8%27%27Zootopia.2.2025.1080P.mp4&x-amz-OPERID=300001793451018&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=wxSbGYvPu1yp1noXABz7fr9e8lk%3D&Expires=1774338185&x-amz-FSIZE=1603488052&x-amz-UFID=823031238762070868
+电影志愿军,https://119.91.61.181:906/hls/%E5%BF%97%E6%84%BF%E5%86%9B%EF%BC%9A%E6%B5%B4%E8%A1%80%E5%92%8C%E5%B9%B3.m3u8
+电影731,https://119.91.61.181:906/yun/731.m3u8
+电影南京照相馆,https://119.91.61.181:906/hls/%E5%8D%97%E4%BA%AC%E7%85%A7%E7%9B%B8%E9%A6%86.m3u8
+电影色即是空,https://vip.lz-cdn7.com/20221126/12048_50ff26ef/index.m3u8
+最后的棒棒解说,https://vd3.bdstatic.com/mda-mf3efqtuivf0fmme/hd/cae_h264_nowatermark/1622942010944175878/mda-mf3efqtuivf0fmme.mp4
+最后的棒棒解说2,https://vd4.bdstatic.com/mda-pj675ahuej5aeuqq/sc/cae_h264/1696788022849164798/mda-pj675ahuej5aeuqq.mp4
+三和大神,https://vd4.bdstatic.com/mda-qhm7d85y5jh6hjbx/sc/cae_h264/1724340198074353952/mda-qhm7d85y5jh6hjbx.mp4
+农村婚礼记录,https://vdept3.bdstatic.com/mda-schvfnamt62bnerh/720p_frame30/h264_cae/1773866995586742280/mda-schvfnamt62bnerh.mp4?v_from_s=hkapp-haokan-hna&auth_key=1774282214-0-0-6236eb7d0e62eb8b3471c72ac787ba29&bcevod_channel=searchbox_feed&cr=2&cd=0&pd=1&pt=3&logid=0614530447&vid=24019293555609982&klogid=0614530447&abtest=
 
 希望之路,https://vdept3.bdstatic.com/mda-qcckf59rb45arrgz/1080p/cae_h264/1710341746438567331/mda-qcckf59rb45arrgz.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1774279420-0-0-d211879cb8fc072e745a76329765455e&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=1420689651&vid=8377027171092156347&klogid=1420689651&abtest=
 小伙双重人生,https://vdept3.bdstatic.com/mda-pjwm5z1cxfxs40kq/1080p/cae_h264/1698773765873246135/mda-pjwm5z1cxfxs40kq.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1774279594-0-0-069a59e6ed8ef7ac8a9a9ba1bb00608f&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=1594442063&vid=11244196761795655744&klogid=1594442063&abtest=
