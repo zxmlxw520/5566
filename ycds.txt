@@ -74,8 +74,11 @@ CCTV4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD
 小品主角与配角,https://baikevideo.cdn.bcebos.com/media/mda-OmVI2kNvb4QWwVgf/036b641c89c184745449d65bf03e8721.mp4
 小品吃面条,https://baikevideo.cdn.bcebos.com/media/mda-Om9VtXY16SVdPBHF/8d5ce66e789c9d1328e05ec4602ca173.mp4
 小品警察与小偷,https://baikevideo.cdn.bcebos.com/media/mda-Om9VDOML8EqV0Umy/053fabef54a2f763b1c98d7dc76feeb4.mp4
+小品羊肉串,https://baikevideo.cdn.bcebos.com/media/mda-Om99UdPNjvL51hpe/ebe082abb57621fa1d73d129c71548ea.mp4
 小品相亲,https://baikevideo.cdn.bcebos.com/media/mda-OmVqzXY16SVdPBHF/c114eba314706a096ee5ef04bb3d9175.mp4
-
+电影风暴,https://vip.dytt-film.com/20250127/2994_ec47a5de/index.m3u8
+电影风暴,https://vip.dytt-film.com/20250127/2994_ec47a5de/3000k/hls/mixed.m3u8
+电影毒战,https://vodcnd06.f0cwe.com/20250119/3jJJKPfM/index.m3u8
 最后的棒棒合集,https://baikevideo.cdn.bcebos.com/media/mda-OmVl4meZEwxyMv5u/4da20f26ec7dc03d34a242ce257edb82.mp4$第1集
 最后的棒棒合集,https://baikevideo.cdn.bcebos.com/media/mda-OmVlT0kPaBN7yOxV/c4795a5c0f24e29693348661becec0b7.mp4$第2集
 最后的棒棒合集,https://baikevideo.cdn.bcebos.com/media/mda-OmVSgczOmPXU0VoI/71102fd8a43f71576e7771b0db1c8b14.mp4$第3集
