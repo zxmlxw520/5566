@@ -136,8 +136,8 @@ CCTV4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD
 八千里路云和月更新,https://vip.dytt-tvs.com/20260409/15891_20631644/3000k/hls/mixed.m3u8$第8集
 八千里路云和月更新,https://vip.dytt-tvs.com/20260411/16164_767a4087/3000k/hls/mixed.m3u8$第9集
 八千里路云和月更新,https://vip.dytt-tvs.com/20260411/16165_24a1cf9a/3000k/hls/mixed.m3u8$第10集
-八千里路云和月更新,
-八千里路云和月更新,
+八千里路云和月更新,https://vip.dytt-tvs.com/20260412/16278_a3c1e64a/3000k/hls/mixed.m3u8$第11集
+八千里路云和月更新,https://vip.dytt-tvs.com/20260412/16277_39f17b08/3000k/hls/mixed.m3u8$第12集
 八千里路云和月更新,
 八千里路云和月更新,
 八千里路云和月更新,
@@ -240,8 +240,8 @@ CCTV4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD
 白日提灯更新,https://vip.dytt-tvs.com/20260410/16062_20dd77ae/3000k/hls/mixed.m3u8$第29集
 白日提灯更新,https://vip.dytt-tvs.com/20260411/16146_b996f960/3000k/hls/mixed.m3u8$第30集
 白日提灯更新,https://vip.dytt-tvs.com/20260411/16168_8d566a33/3000k/hls/mixed.m3u8$第31集
-白日提灯更新,
-白日提灯更新,
+白日提灯更新,https://vip.dytt-tvs.com/20260412/16267_b1ae47b5/3000k/hls/mixed.m3u8$第32集
+白日提灯更新,https://vip.dytt-tvs.com/20260412/16282_a99868f5/3000k/hls/mixed.m3u8$第33集
 白日提灯更新,
 白日提灯更新,
 白日提灯更新,
@@ -268,7 +268,7 @@ CCTV4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD
 月鳞绮纪更新,https://vip.dytt-tvs.com/20260409/15869_069802d4/3000k/hls/mixed.m3u8$第17集
 月鳞绮纪更新,https://vip.dytt-tvs.com/20260410/15974_eba7fcab/3000k/hls/mixed.m3u8$第18集
 月鳞绮纪更新,https://vip.dytt-tvs.com/20260411/16129_d1aaa6c4/3000k/hls/mixed.m3u8$第19集
-月鳞绮纪更新,
+月鳞绮纪更新,https://vip.dytt-tvs.com/20260412/16254_7464d29c/3000k/hls/mixed.m3u8$第20集
 月鳞绮纪更新,
 月鳞绮纪更新,
 月鳞绮纪更新,
