@@ -6125,73 +6125,7 @@ NewKID4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=872
 RNA,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 🇯🇵日本频道,#genre# 
 
-NHK G,https://jp.9kds.com/NHK_G/index.m3u8
-NHK E,https://jp.9kds.com/NHK_E/index.m3u8
-NTV,https://jp.9kds.com/Nippon_TV/index.m3u8
-TBS,https://jp.9kds.com/TBS/index.m3u8
-Fuji TV,https://jp.9kds.com/Fuji_TV/index.m3u8
-TV Asahi,https://jp.9kds.com/TV_Asahi/index.m3u8
-TV Tokyo,https://jp.9kds.com/TV_Tokyo/index.m3u8
-TOKYO MX1,https://jp.9kds.com/Tokyo_MX1/index.m3u8
-TOKYO MX2,https://jp.9kds.com/Tokyo_MX2/index.m3u8
-MBS,https://jp.9kds.com/mbs/index.m3u8
-ABC,https://jp.9kds.com/abc/index.m3u8
-TV Osaka,https://jp.9kds.com/tvo/index.m3u8
-Kansai TV,https://jp.9kds.com/kansaitv/index.m3u8
-YTV,https://jp.9kds.com/ytv/index.m3u8
-KBS,https://jp.9kds.com/kbs/index.m3u8
-SUN,https://jp.9kds.com/suntv/index.m3u8
-NHK BS,https://jp.9kds.com/NHK_BS/index.m3u8
-BS NTV,https://jp.9kds.com/bsntv/index.m3u8
-BS Asahi,https://jp.9kds.com/bsasahi/index.m3u8
-BS TBS,https://jp.9kds.com/bstbs/index.m3u8
-BS TV Tokyo,https://jp.9kds.com/bstvtokyo/index.m3u8
-BS Fuji,https://jp.9kds.com/bsfuji/index.m3u8
-BS11,https://jp.9kds.com/BS11/index.m3u8
-NHK BS4K,https://jp.9kds.com/bsp4k/index.m3u8
-WOWOW Prime,https://jp.9kds.com/wprime/index.m3u8
-WOWOW Cinema,https://jp.9kds.com/wcinema/index.m3u8
-WOWOW Live,https://jp.9kds.com/wlive/index.m3u8
-BS 10 Star Channel,https://jp.9kds.com/bs10_star/index.m3u8
-JSport 1,https://jp.9kds.com/js1/index.m3u8
-JSport 2,https://jp.9kds.com/js2/index.m3u8
-JSport 3,https://jp.9kds.com/js3/index.m3u8
-JSport 4,https://jp.9kds.com/js4/index.m3u8
-Green Channel,https://jp.9kds.com/green/index.m3u8
-Animax,https://jp.9kds.com/Animax/index.m3u8
-Nihon Eiga Senmon,https://jp.9kds.com/nihoneiga/index.m3u8
-Sky A,https://jp.9kds.com/skya/index.m3u8
-Gaora Sports,https://jp.9kds.com/gaora/index.m3u8
-AT-X,https://jp.9kds.com/AT-X/index.m3u8
-Space Shower TV,https://jp.9kds.com/spaceshower/index.m3u8
-MTV,https://jp.9kds.com/mtv/index.m3u8
-Kayo Pops,https://jp.9kds.com/kayopops/index.m3u8
-Kids Station,https://jp.9kds.com/kids_station/index.m3u8
-Disney Channel,https://jp.9kds.com/disneychan/index.m3u8
-Cartoon Network,https://jp.9kds.com/cartoon_network/index.m3u8
-Nittele G+,https://jp.9kds.com/ntvgplus/index.m3u8
-Family Gekijyo,https://jp.9kds.com/familygeki/index.m3u8
-Mondo TV,https://jp.9kds.com/mondo/index.m3u8
-Music ON TV,https://jp.9kds.com/musicon/index.m3u8
-Mnet,https://jp.9kds.com/mnet/index.m3u8
-TBS Channel 1,https://jp.9kds.com/tbsch1/index.m3u8
-TBS Channel 2,https://jp.9kds.com/tbsch2/index.m3u8
-TV Asahi Channel 1,https://jp.9kds.com/ex_ch1/index.m3u8
-TV Asahi Channel 2,https://jp.9kds.com/ex_ch2/index.m3u8
-Fuji TV ONE,https://jp.9kds.com/fuji_one/index.m3u8
-Fuji TV TWO,https://jp.9kds.com/fuji_two/index.m3u8
-Fuji TV NEXT,https://jp.9kds.com/fuji_next/index.m3u8
-Neco Channel,https://jp.9kds.com/neco/index.m3u8
-Dlife,https://jp.9kds.com/dlife/index.m3u8
-Toei Channel,https://jp.9kds.com/toei/index.m3u8
-Fighting TV Samurai,https://jp.9kds.com/fighting_tv/index.m3u8
-Entermei Tele,https://jp.9kds.com/entermei_tele/index.m3u8
-Sport Live Plus,https://jp.9kds.com/sport_live_plus/index.m3u8
-Home Drama Channel,https://jp.9kds.com/homedrama/index.m3u8
-Channel Ginga,https://jp.9kds.com/gingach/index.m3u8
-Tabi Channel,https://jp.9kds.com/tabi/index.m3u8
-Pigoo,https://jp.9kds.com/pigoo/index.m3u8
-V Paradise,https://jp.9kds.com/v_paradise/index.m3u8
+
 QVC JAPAN,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
 QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
