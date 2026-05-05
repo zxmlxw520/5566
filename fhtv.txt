@@ -4,7 +4,7 @@
 
 //来源网络，免费分享，请勿追究，谢谢！//
 
-5.3五一快乐,#genre#
+5.5五一快乐,#genre#
 
 
 打赏才能长久,https://i.uik.cc/view.php/8d9d37a2fc11480442b8fd8b2fd70ace.mp4
@@ -31,7 +31,7 @@
 K歌软件购买加YXMV525,https://i.uik.cc/view.php/2b0238dc0d48dfccfb405acecd571de3.mp4
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
-CCTV-8K超高清,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
+广告多按几次OK,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 打赏留言加频道,https://i.uik.cc/view.php/8d9d37a2fc11480442b8fd8b2fd70ace.mp4
 🎶点歌台频道,
 🎶周杰伦MV,
@@ -118,9 +118,9 @@ CCTV-8K超高清,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 乘风2026,https://vip.ffzy-online3.com/20260425/43815_490d3a9d/3000k/hls/mixed.m3u8$第23集
 乘风2026,https://vip.ffzy-online3.com/20260426/43836_5c802f93/3000k/hls/mixed.m3u8$第24集
 乘风2026,https://vip.ffzy-online3.com/20260430/43942_bafca278/3000k/hls/mixed.m3u8$第25集
-乘风2026,
-乘风2026,
-乘风2026,
+乘风2026,https://vip.ffzy-online3.com/20260501/43970_c8c3df7e/3000k/hls/mixed.m3u8$第26集
+乘风2026,https://vip.ffzy-online3.com/20260502/44013_46b58cc6/3000k/hls/mixed.m3u8$第27集
+乘风2026,https://vip.ffzy-online3.com/20260503/44031_b8ab596f/3000k/hls/mixed.m3u8$第28集
 乘风2026,
 乘风2026,
 乘风2026,
@@ -163,9 +163,9 @@ CCTV-8K超高清,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 哈哈哈哈哈6,https://vip.ffzy-online3.com/20260426/43837_0a463a86/3000k/hls/mixed.m3u8$第15集
 哈哈哈哈哈6,https://vip.ffzy-online3.com/20260427/43867_712f265e/3000k/hls/mixed.m3u8$第16集
 哈哈哈哈哈6,https://vip.ffzy-online3.com/20260430/43950_4e714dc7/3000k/hls/mixed.m3u8$第17集
-哈哈哈哈哈6,
-哈哈哈哈哈6,
-哈哈哈哈哈6,
+哈哈哈哈哈6,https://vip.ffzy-online3.com/20260501/43977_b2257789/3000k/hls/mixed.m3u8$第18集
+哈哈哈哈哈6,https://vip.ffzy-online3.com/20260502/44001_d5eac06f/3000k/hls/mixed.m3u8$第19集
+哈哈哈哈哈6,https://vip.ffzy-online3.com/20260503/44032_a2b4ca7e/3000k/hls/mixed.m3u8$第20集
 哈哈哈哈哈6,
 哈哈哈哈哈6,
 哈哈哈哈哈6,
@@ -197,9 +197,9 @@ CCTV-8K超高清,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 奔跑吧10,https://vip.ffzy-online3.com/20260427/43872_96e1da3b/3000k/hls/mixed.m3u8$第4集
 奔跑吧10,https://vip.ffzy-online3.com/20260428/43895_12cf4a73/3000k/hls/mixed.m3u8$第5集
 奔跑吧10,https://vip.ffzy-online3.com/20260430/43949_0d046bfb/3000k/hls/mixed.m3u8$第6集
-奔跑吧10,
-奔跑吧10,
-奔跑吧10,
+奔跑吧10,https://vip.ffzy-online3.com/20260502/43997_91cd93e0/3000k/hls/mixed.m3u8$第7集
+奔跑吧10,https://vip.ffzy-online3.com/20260504/44085_8c4c4c79/3000k/hls/mixed.m3u8$第8集
+奔跑吧10,https://vip.ffzy-online3.com/20260504/44086_6c3b14f6/3000k/hls/mixed.m3u8$第9集
 奔跑吧10,
 
 黑夜告白,https://vip.ffzy-plays.com/20260426/52851_d045c3b6/3000k/hls/mixed.m3u8$第1集
@@ -216,6 +216,15 @@ CCTV-8K超高清,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 黑夜告白,https://vip.ffzy-plays.com/20260501/53045_38da564a/3000k/hls/mixed.m3u8$第12集
 黑夜告白,https://vip.ffzy-plays.com/20260502/53071_d2e2db7f/3000k/hls/mixed.m3u8$第13集
 黑夜告白,https://vip.ffzy-plays.com/20260502/53072_493ad663/3000k/hls/mixed.m3u8$第14集
+黑夜告白,https://vip.ffzy-plays.com/20260503/53114_59fec0e5/3000k/hls/mixed.m3u8$第15集
+黑夜告白,https://vip.ffzy-plays.com/20260503/53115_7ed553e9/3000k/hls/mixed.m3u8$第16集
+黑夜告白,https://vip.ffzy-plays.com/20260504/53169_325c9a93/3000k/hls/mixed.m3u8$第17集
+黑夜告白,
+黑夜告白,
+黑夜告白,
+黑夜告白,
+黑夜告白,
+黑夜告白,
 黑夜告白,
 黑夜告白,
 
@@ -259,10 +268,10 @@ CCTV-8K超高清,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 佳偶天成,https://vip.ffzy-video.com/20260501/42702_c2a6300a/2000k/hls/mixed.m3u8$第18集
 佳偶天成,https://vip.ffzy-video.com/20260502/42752_0b7f82d5/2000k/hls/mixed.m3u8$第19集
 佳偶天成,https://vip.ffzy-video.com/20260502/42753_d23fa735/2000k/hls/mixed.m3u8$第20集
-佳偶天成,
-佳偶天成,
-佳偶天成,
-佳偶天成,
+佳偶天成,https://vip.ffzy-video.com/20260503/42787_102b91e7/2000k/hls/mixed.m3u8$第21集
+佳偶天成,https://vip.ffzy-video.com/20260503/42788_213334eb/2000k/hls/mixed.m3u8$第22集
+佳偶天成,https://vip.ffzy-video.com/20260504/42821_14ea0c66/2000k/hls/mixed.m3u8$第23集
+佳偶天成,https://vip.ffzy-video.com/20260504/42822_21284d06/2000k/hls/mixed.m3u8$第24集
 佳偶天成,
 佳偶天成,
 佳偶天成,
@@ -336,7 +345,7 @@ TVBDRA,http://cdn6.163189.xyz/163189/tvbd
 中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
 中天新闻,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
 中天新聞台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv009&token=xiatianshigou
-中天新聞台,https://a3f1b2.kylintv.tv/live/cti_iphone.m3u8
+中天新聞台,http://85.237.207.150:50007/of-4gtv-4gtv009/index.m3u8
 TVBS新闻,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
 TVB PLUS,http://o11.163189.xyz/stream/tvb/tvbp/
 寰宇新闻,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
