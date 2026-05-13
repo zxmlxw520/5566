@@ -4,21 +4,16 @@
 
 //来源网络，免费分享，请勿追究，谢谢！//
 
-5.8更新公告,#genre#
-
-
+5.13更新公告,#genre#
 打赏才能长久,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-跳频道的试试,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-最新口令9F50,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+推荐2个版本,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+低配口令7089,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+高配口令9F50,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+软件卡下低配版,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 操作说明,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
-攒劲节目移动到,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
-女团频道了,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
 地区运营商不同,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
 所以有的台很卡,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
 收藏自己不卡的看,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
-港台容易崩溃,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
-服务器太小了,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
-后续有条件了换,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
 黑屏的扫码查新版本,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
 残疾人制作不易,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
 求大佬勿打压,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
@@ -27,11 +22,8 @@
 不要信视频的广告3,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
 觉得好用,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 请打赏观看,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-月底支援一波,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
-广告多按几次OK,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 打赏留言加频道,https://i.uik.cc/view.php/8d9d37a2fc11480442b8fd8b2fd70ace.mp4
 🎵点歌台,http://cfss.cc/cdn/du/85894.flv
 🎵周杰伦MV,http://cfss.cc/cdn/du/122402.flv
@@ -117,14 +109,27 @@ CHC家庭影院,http://rihou.cc:555/tv/CHC家庭影院
 不要信视频的广告,https://i.uik.cc/view.php/8d9d37a2fc11480442b8fd8b2fd70ace.mp4
 黑屏卡顿频道,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
 可切换解码方式,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
+CHC动作电影,http://rihou.cc:555/tv/CHC动作电影
+CHC影迷电影,http://rihou.cc:555/tv/CHC影迷电影
+CHC家庭影院,http://rihou.cc:555/tv/CHC家庭影院
+CHC家庭影院,https://live.264788.xyz/channel/chcjiatingyingyuan?streamid=793fab686a474d798d627cd73c70d613&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CHC家庭影院,https://live.264788.xyz/channel/chcjiatingyingyuan?streamid=136f530a61d26dc0f670f39f05291586&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CHC影迷电影,https://live.264788.xyz/channel/chcyingmidianying?streamid=cba6f50f29e98905aa48ac42cd5864c8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CHC影迷电影,https://live.264788.xyz/channel/chcyingmidianying?streamid=af62547c4c8be0ef4a658f4b4853388f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CHC动作电影,https://live.264788.xyz/channel/chcdongzuodianying?streamid=93acb2d859f1483a3fe6f3a46516506f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CHC动作电影,https://live.264788.xyz/channel/chcdongzuodianying?streamid=87c13b6e841ed5039d4c2ce8f266f9ef&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+1905国内,http://115.190.194.179:82/1905.php?id=1905a
+1905国外,http://115.190.194.179:82/1905.php?id=1905b
+经典电影,http://222.214.208.34:59901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+华语影院,http://222.214.208.34:59901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 新剧追更⬇️,https://d6.qyshare.store/s/TBVWTxUNFQEGBQEDVQNRGgZUBQKFCVA50aKFCVA50wUKFCV
 主角,https://vip.ffzy-video.com/20260510/43127_43df159d/2000k/hls/mixed.m3u8$第1集
 主角,https://vip.ffzy-video.com/20260510/43128_7998e8b2/2000k/hls/mixed.m3u8$第2集
 主角,https://vip.ffzy-video.com/20260510/43129_6f9f6925/2000k/hls/mixed.m3u8$第3集
 主角,https://vip.ffzy-video.com/20260511/43180_fabab19a/2000k/hls/mixed.m3u8$第4集
 主角,https://vip.ffzy-video.com/20260511/43181_010ed37e/2000k/hls/mixed.m3u8$第5集
-主角,
-主角,
+主角,https://vip.ffzy-video.com/20260512/43233_b344649a/2000k/hls/mixed.m3u8$第6集
+主角,https://vip.ffzy-video.com/20260512/43234_b255836a/2000k/hls/mixed.m3u8$第7集
 主角,
 主角,
 主角,
@@ -201,7 +206,7 @@ CHC家庭影院,http://rihou.cc:555/tv/CHC家庭影院
 低智商犯罪,https://cnvod.jimxtc.com/20260510/19602_2404d480/3000k/hls/mixed.m3u8$第17集
 低智商犯罪,https://cnvod.jimxtc.com/20260511/19740_273e1856/3000k/hls/mixed.m3u8$第18集
 低智商犯罪,https://cnvod.jimxtc.com/20260511/19739_efbff9ca/3000k/hls/mixed.m3u8$第19集
-低智商犯罪,
+低智商犯罪,https://cnvod.jimxtc.com/20260512/19840_896f3d76/3000k/hls/mixed.m3u8$第20集
 低智商犯罪,
 低智商犯罪,
 低智商犯罪,
@@ -242,8 +247,8 @@ CHC家庭影院,http://rihou.cc:555/tv/CHC家庭影院
 爱情没有神话,https://vip.ffzy-video.com/20260510/43126_0b81962e/2000k/hls/mixed.m3u8$第28集
 爱情没有神话,https://vip.ffzy-video.com/20260511/43178_7c677ff4/2000k/hls/mixed.m3u8$第29集
 爱情没有神话,https://vip.ffzy-video.com/20260511/43179_0ad5d0c8/2000k/hls/mixed.m3u8$第30集
-爱情没有神话,
-爱情没有神话,
+爱情没有神话,https://vip.ffzy-video.com/20260512/43232_35d2f91f/2000k/hls/mixed.m3u8$第31集
+爱情没有神话,https://vip.ffzy-video.com/20260512/43235_18557941/2000k/hls/mixed.m3u8$第32集
 爱情没有神话,
 爱情没有神话,
 爱情没有神话,
@@ -380,7 +385,7 @@ CHC家庭影院,http://rihou.cc:555/tv/CHC家庭影院
 哈哈哈哈哈6,https://vip.ffzy-online3.com/20260507/44157_7a2c5f44/3000k/hls/mixed.m3u8$第22集
 哈哈哈哈哈6,https://vip.ffzy-online3.com/20260508/44185_6d3a5f2d/3000k/hls/mixed.m3u8$第23集
 哈哈哈哈哈6,https://vip.ffzy-online3.com/20260510/44254_22e003fc/3000k/hls/mixed.m3u8$第24集
-哈哈哈哈哈6,
+哈哈哈哈哈6,https://vip.ffzy-online3.com/20260511/44272_17619ffd/3000k/hls/mixed.m3u8$第25集
 哈哈哈哈哈6,
 哈哈哈哈哈6,
 哈哈哈哈哈6,
@@ -447,7 +452,7 @@ CHC家庭影院,http://rihou.cc:555/tv/CHC家庭影院
 黑夜告白,https://vip.ffzy-plays.com/20260509/53344_66a6fa1a/3000k/hls/mixed.m3u8$第22集
 黑夜告白,https://vip.ffzy-plays.com/20260510/53391_97630c35/3000k/hls/mixed.m3u8$第23集
 黑夜告白,https://vip.ffzy-plays.com/20260511/53420_6a8006b6/3000k/hls/mixed.m3u8$第24集
-黑夜告白,
+黑夜告白,https://vip.ffzy-video.com/20260512/43234_b255836a/2000k/hls/mixed.m3u8$第25集
 黑夜告白,
 黑夜告白,
 黑夜告白,
@@ -513,6 +518,14 @@ CHC家庭影院,http://rihou.cc:555/tv/CHC家庭影院
 佳偶天成,https://vip.ffzy-video.com/20260509/43085_769fa2ba/2000k/hls/mixed.m3u8$第31集
 佳偶天成,https://vip.ffzy-video.com/20260510/43123_417ac904/2000k/hls/mixed.m3u8$第32集
 佳偶天成,https://vip.ffzy-video.com/20260510/43124_199d7809/2000k/hls/mixed.m3u8$第33集
+佳偶天成,https://vip.ffzy-video.com/20260511/43171_8ed420bd/2000k/hls/mixed.m3u8$第34集
+佳偶天成,https://vip.ffzy-video.com/20260511/43172_448f8db6/2000k/hls/mixed.m3u8$第35集
+佳偶天成,https://vip.ffzy-video.com/20260511/43173_db6812fe/2000k/hls/mixed.m3u8$第36集
+佳偶天成,https://vip.ffzy-video.com/20260511/43174_46ab5450/2000k/hls/mixed.m3u8$第37集
+佳偶天成,https://vip.ffzy-video.com/20260511/43175_7c78b126/2000k/hls/mixed.m3u8$第38集
+佳偶天成,https://vip.ffzy-video.com/20260511/43176_f070a8b1/2000k/hls/mixed.m3u8$第39集
+佳偶天成,https://vip.ffzy-video.com/20260511/43177_ec8cb5c7/2000k/hls/mixed.m3u8$第40集
+佳偶天成,
 佳偶天成,
 佳偶天成,
 佳偶天成,
@@ -545,6 +558,8 @@ CHC家庭影院,http://rihou.cc:555/tv/CHC家庭影院
 🚀测试频道,#genre#
 加载慢耐心等待,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 可多按几次OK,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+FIGHT SPORTS,https://iptv.707626.xyz/ch/4a60d42b902d9825f9a14f143a7bf5bc/master.m3u8
+beIN Sports ,https://iptv.707626.xyz/ch/8a2742ca6f44887706dc2cd75a458de3/master.m3u8
 HOYTV,https://iptv.707626.xyz/ch/6d72308eed709c8c883fe93daebddd95/master.m3u8
 HOY资讯台,https://iptv.707626.xyz/ch/f87fbca6f344f30626f5913f801b13a2/master.m3u8
 Nick Jr,https://iptv.707626.xyz/ch/7378138d7df213f3e16411960dbd2322/master.m3u8
@@ -598,6 +613,7 @@ Love Nature 4K CA,https://iptv.707626.xyz/ch/a859f84951d60ea32d52e414fe95bf4e/ma
 NESN 4K,https://iptv.707626.xyz/ch/4213d7c43e94f427ba46fe8d513eeb87/master.m3u8
 ky Sports F1 4K UK,https://iptv.707626.xyz/ch/d66d2b3cb0bf682e1198a3d33f9d5ef4/master.m3u8
 体育
+Hub Sports 1,https://iptv.707626.xyz/ch/b9ca32abe8f6c8e0e913ae7fb7b76e7c/master.m3u8
 Altitude Sports,https://iptv.707626.xyz/ch/78211070648680044214a9af60354ca0/master.m3u8
 Big Ten Network,https://iptv.707626.xyz/ch/5f40c4c1ce39f8641a96adc541d12f18/master.m3u8
 CBS Sports Network,https://iptv.707626.xyz/ch/ea517bff4402ffda8d3e00a3c9886b8f/master.m3u8
