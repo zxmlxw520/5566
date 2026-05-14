@@ -123,16 +123,16 @@ CHC动作电影,https://live.264788.xyz/channel/chcdongzuodianying?streamid=87c1
 经典电影,http://222.214.208.34:59901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 华语影院,http://222.214.208.34:59901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 新剧追更⬇️,https://d6.qyshare.store/s/TBVWTxUNFQEGBQEDVQNRGgZUBQKFCVA50aKFCVA50wUKFCV
-主角,https://vip.ffzy-video.com/20260510/43127_43df159d/2000k/hls/mixed.m3u8$第1集
-主角,https://vip.ffzy-video.com/20260510/43128_7998e8b2/2000k/hls/mixed.m3u8$第2集
-主角,https://vip.ffzy-video.com/20260510/43129_6f9f6925/2000k/hls/mixed.m3u8$第3集
-主角,https://vip.ffzy-video.com/20260511/43180_fabab19a/2000k/hls/mixed.m3u8$第4集
-主角,https://vip.ffzy-video.com/20260511/43181_010ed37e/2000k/hls/mixed.m3u8$第5集
-主角,https://vip.ffzy-video.com/20260512/43233_b344649a/2000k/hls/mixed.m3u8$第6集
-主角,https://vip.ffzy-video.com/20260512/43234_b255836a/2000k/hls/mixed.m3u8$第7集
-主角,
-主角,
-主角,
+主角,https://cnvod.jimxtc.com/20260510/19606_6ddeeff7/3000k/hls/mixed.m3u8$第1集
+主角,https://cnvod.jimxtc.com/20260510/19605_8b1ecbd9/3000k/hls/mixed.m3u8$第2集
+主角,https://cnvod.jimxtc.com/20260510/19607_efaaba7b/3000k/hls/mixed.m3u8$第3集
+主角,https://cnvod.jimxtc.com/20260511/19625_08382dca/3000k/hls/mixed.m3u8$第4集
+主角,https://cnvod.jimxtc.com/20260511/19751_0876196f/3000k/hls/mixed.m3u8$第5集
+主角,https://cnvod.jimxtc.com/20260512/19773_0b61e0b5/3000k/hls/mixed.m3u8$第6集
+主角,https://cnvod.jimxtc.com/20260512/19841_1d5db17b/3000k/hls/mixed.m3u8$第7集
+主角,https://cnvod.jimxtc.com/20260512/19854_0867dcaa/3000k/hls/mixed.m3u8$第8集
+主角,https://cnvod.jimxtc.com/20260513/19972_f477b7bc/3000k/hls/mixed.m3u8$第9集
+主角,https://cnvod.jimxtc.com/20260513/19982_9a405a77/3000k/hls/mixed.m3u8$第10集
 主角,
 主角,
 主角,
@@ -207,10 +207,10 @@ CHC动作电影,https://live.264788.xyz/channel/chcdongzuodianying?streamid=87c1
 低智商犯罪,https://cnvod.jimxtc.com/20260511/19740_273e1856/3000k/hls/mixed.m3u8$第18集
 低智商犯罪,https://cnvod.jimxtc.com/20260511/19739_efbff9ca/3000k/hls/mixed.m3u8$第19集
 低智商犯罪,https://cnvod.jimxtc.com/20260512/19840_896f3d76/3000k/hls/mixed.m3u8$第20集
-低智商犯罪,
-低智商犯罪,
-低智商犯罪,
-低智商犯罪,
+低智商犯罪,https://cnvod.jimxtc.com/20260513/19941_7f049a08/3000k/hls/mixed.m3u8$第21集
+低智商犯罪,https://cnvod.jimxtc.com/20260513/19940_fa873e7f/3000k/hls/mixed.m3u8$第22集
+低智商犯罪,https://cnvod.jimxtc.com/20260513/19939_1747d1fa/3000k/hls/mixed.m3u8$第23集
+低智商犯罪,https://cnvod.jimxtc.com/20260513/19938_bea274dd/3000k/hls/mixed.m3u8$第24集
 低智商犯罪,
 低智商犯罪,
 低智商犯罪,
@@ -453,9 +453,9 @@ CHC动作电影,https://live.264788.xyz/channel/chcdongzuodianying?streamid=87c1
 黑夜告白,https://vip.ffzy-plays.com/20260510/53391_97630c35/3000k/hls/mixed.m3u8$第23集
 黑夜告白,https://vip.ffzy-plays.com/20260511/53420_6a8006b6/3000k/hls/mixed.m3u8$第24集
 黑夜告白,https://vip.ffzy-video.com/20260512/43234_b255836a/2000k/hls/mixed.m3u8$第25集
-黑夜告白,
-黑夜告白,
-黑夜告白,
+黑夜告白,https://vip.ffzy-plays.com/20260513/53516_8a7a2a13/3000k/hls/mixed.m3u8$第26集
+黑夜告白,https://vip.ffzy-plays.com/20260513/53517_22d5d332/3000k/hls/mixed.m3u8$第27集
+黑夜告白,https://vip.ffzy-plays.com/20260513/53518_c13de83d/3000k/hls/mixed.m3u8$第28集
 黑夜告白,
 黑夜告白,
 黑夜告白,
@@ -560,6 +560,8 @@ CHC动作电影,https://live.264788.xyz/channel/chcdongzuodianying?streamid=87c1
 可多按几次OK,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 FIGHT SPORTS,https://iptv.707626.xyz/ch/4a60d42b902d9825f9a14f143a7bf5bc/master.m3u8
 beIN Sports ,https://iptv.707626.xyz/ch/8a2742ca6f44887706dc2cd75a458de3/master.m3u8
+翡翠台,http://r.jdshipin.com/GeWKr
+翡翠台,http://r.jdshipin.com/qClQf
 HOYTV,https://iptv.707626.xyz/ch/6d72308eed709c8c883fe93daebddd95/master.m3u8
 HOY资讯台,https://iptv.707626.xyz/ch/f87fbca6f344f30626f5913f801b13a2/master.m3u8
 Nick Jr,https://iptv.707626.xyz/ch/7378138d7df213f3e16411960dbd2322/master.m3u8
@@ -1751,6 +1753,59 @@ CCTV-17农业农村,rtsp://183.59.56.116:554/PLTV/88888905/224/3221229870/100001
 广西卫视,rtsp://183.59.56.116:554/PLTV/88888905/224/3221229990/10000100000000060000000010232875_0.smil?0&accountinfo=%7E%7EV2.0%7E5_WBXEf9DsrAEr08Jx_i0A%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 📺联通专区,#genre#
 按右找不卡的,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+CCTV1,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-1H265
+CCTV2,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-2H265
+CCTV3,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-3H265
+CCTV4,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-4H265
+CCTV5,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-5H265
+CCTV5+,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-5plusH265
+CCTV6,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-6H265
+CCTV7,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-7H265
+CCTV8,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-8H265
+CCTV9,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-9H265
+CCTV10,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-10H265
+CCTV11,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-11-H265
+CCTV12,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-12H265
+CCTV13,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-xw
+CCTV14,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-14H265
+CCTV15,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-15-yyH265
+CCTV16,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-16
+CCTV17,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-17
+凤凰中文,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=test1
+凤凰资讯,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=test2
+安徽卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=ahwsH265
+北京卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=bjwsH265
+兵团卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=btws
+重庆卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=cqwsH265
+东方卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=dfwsH265
+东南卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=dnwsfjwsH265
+甘肃卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=gsws
+广东卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=gdwsH265
+广西卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=gxws
+贵州卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=gzwsH265
+海南卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=hnws
+河南卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=hnws35
+黑龙江卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=hljwsH265
+湖北卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=hbwsH265
+湖南卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=hnwsH265
+吉林卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=jlwsH265
+江苏卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=jswsH265
+江西卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=jxwsH265
+辽宁卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=lnwsHDH264
+内蒙古卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=nmgws
+山东教育卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=sdjy
+山东卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=sdwsH265
+山西卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=sxws42
+陕西卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=sxws
+深圳卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=szwsH265
+四川卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=scwsH265
+天津卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=tjwsH265
+云南卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=ynws
+浙江卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=zjwsH265
+CETV-1,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CETV-1H264
+CHC动作电影,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=wqCHCdzdyH265
+CHC高清电影,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=lnwsCHC-HDH265
+CHC家庭影院,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=jbtygqCHCjtyyH265
 CCTV1,http://69.30.245.50/live/cctv1.m3u8
 CCTV2,http://69.30.245.50/live/cctv2.m3u8
 CCTV3,http://69.30.245.50/live/cctv3.m3u8
@@ -13165,42 +13220,39 @@ Alin精选16首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v03
 ❥35,https://188sp.711888.xyz/188/video.php
 ❥36,https://api.e1e1.top/whole/w.php 
 ❥37,https://xn--vusr00g.v.nxog.top/m/tv/xjj.php?id=0
-☆PLAYBOY ING HD,http://nor2live.win:80/livehttpplay?channel_id=23201
-☆PLAYBOY ESPA HD,http://nor2live.win:80/livehttpplay?channel_id=23202
-☆song1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-☆song2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-☆song3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
-☆Anal,http://cdn.adultiptv.net/anal.m3u8
-☆Arab Girls,http://live.mycamtv.com/arab.m3u8
-☆Asian Girls,http://live.mycamtv.com/asian.m3u8
-☆Big Ass,http://live.redtraffic.xyz/bigass.m3u8
-☆Big Dick,http://live.redtraffic.xyz/bigdick.m3u8
+☆PLAYBOY ING HD,http://nor2live.win:80/livehttpplay?channel_id=2320
+☆PLAYBOY ESPA HD,http://nor2live.win:80/livehttpplay?channel_id=2320
+☆Anal,http://cdn.adultiptv.net/anal.m3u
+☆Arab Girls,http://live.mycamtv.com/arab.m3u
+☆Asian Girls,http://live.mycamtv.com/asian.m3u
+☆Big Ass,http://live.redtraffic.xyz/bigass.m3u
+☆Big Dick,http://live.redtraffic.xyz/bigdick.m3u
 ☆Big Tits,http://live.redtraffic.xyz/bigtits.m3u8
-☆Blowjob,http://live.redtraffic.xyz/blowjob.m3u8
-☆Blonde,http://live.redtraffic.xyz/blonde.m3u8
-☆Brunette,http://cdn.adultiptv.net/brunette.m3u8
-☆Brunette Girls,http://live.mycamtv.com/brunette.m3u8
-☆Cuckold HD,http://live.redtraffic.xyz/cuckold.m3u8
-☆Compilation,http://cdn.adultiptv.net/compilation.m3u8
-☆Ebony Girls,http://live.mycamtv.com/ebony.m3u8
-☆Hard Core,http://live.redtraffic.xyz/hardcore.m3u8
-☆Three Some,http://live.redtraffic.xyz/threesome.m3u8
-☆Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
-☆Latina HD,http://live.redtraffic.xyz/latina.m3u8
-☆Livecams,http://cdn.adultiptv.net/livecams.m3u8
-☆Fetish HD,http://live.redtraffic.xyz/fetish.m3u8
-☆Interracial HD,http://live.redtraffic.xyz/interracial.m3u8
-☆Milf HD,http://live.redtraffic.xyz/milf.m3u8
-☆Pornstar HD,http://live.redtraffic.xyz/pornstar.m3u8
-☆POV HD,http://live.redtraffic.xyz/pov.m3u8
-☆Russian HD,http://live.redtraffic.xyz/russian.m3u8
-☆Rough,http://cdn.adultiptv.net/rough.m3u8
-☆Teen,http://live.redtraffic.xyz/teen.m3u8
-☆Gangbang,http://cdn.adultiptv.net/gangbang.m3u8
-☆Young Girls,http://live.mycamtv.com/young.m3u8
-☆White Girls,http://live.mycamtv.com/white.m3u8
-☆Skinny Girls,http://live.mycamtv.com/skinny.m3u8
-☆Medium Girls,http://live.mycamtv.com/medium.m3u8
+☆Blowjob,http://live.redtraffic.xyz/blowjob.m3u
+☆Blonde,http://live.redtraffic.xyz/blonde.m3u
+☆Brunette,http://cdn.adultiptv.net/brunette.m3u
+☆Brunette Girls,http://live.mycamtv.com/brunette.m3u
+☆Cuckold HD,http://live.redtraffic.xyz/cuckold.m3u
+☆Compilation,http://cdn.adultiptv.net/compilation.m3u
+☆Ebony Girls,http://live.mycamtv.com/ebony.m3u
+☆Hard Core,http://live.redtraffic.xyz/hardcore.m3u
+☆Three Some,http://live.redtraffic.xyz/threesome.m3u
+☆Lesbian,http://live.redtraffic.xyz/lesbian.m3u
+☆Latina HD,http://live.redtraffic.xyz/latina.m3u
+☆Livecams,http://cdn.adultiptv.net/livecams.m3u
+☆Fetish HD,http://live.redtraffic.xyz/fetish.m3u
+☆Interracial HD,http://live.redtraffic.xyz/interracial.m3u
+☆Milf HD,http://live.redtraffic.xyz/milf.m3u
+☆Pornstar HD,http://live.redtraffic.xyz/pornstar.m3u
+☆POV HD,http://live.redtraffic.xyz/pov.m3u
+☆Russian HD,http://live.redtraffic.xyz/russian.m3u
+☆Rough,http://cdn.adultiptv.net/rough.m3u
+☆Teen,http://live.redtraffic.xyz/teen.m3u
+☆Gangbang,http://cdn.adultiptv.net/gangbang.m3u
+☆Young Girls,http://live.mycamtv.com/young.m3u
+☆White Girls,http://live.mycamtv.com/white.m3u
+☆Skinny Girls,http://live.mycamtv.com/skinny.m3u
+☆Medium Girls,http://live.mycamtv.com/medium.m3u
 
 韩国女团01,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
 韩国女团02,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
