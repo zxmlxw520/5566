@@ -12,14 +12,6 @@
       "searchable": 0
     },
     {
-      "key": "config",
-      "name": "配置｜中心",
-      "type": 3,
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0307/11/0f8ea2f30bb7607d0e4603fe999b64f6.jpg;md5;fb2c84ce1e3d69aa669be42e7fd3539b",
-      "api": "csp_Config",
-      "searchable": 0
-    },
-    {
       "key": "配置中心",
       "name": "❤配置｜中心",
       "type": 3,
@@ -63,14 +55,7 @@
         ]
       }
     },
-    {
-      "key": "啊哈DJ网",
-      "name": "🧿视频｜DJ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./lib/啊哈DJ.json",
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0307/11/98d51d4d95c5cf1b67e74af45cc4445f.jpg;md5;4d860d06ec233dbcb891b76055f099d5"
-    },
+   
     {
       "key": "呦呦DJ",
       "name": "🌸歌曲｜DJ",
@@ -108,14 +93,7 @@
       }
     },
 
-    {
-      "key": "3QQQ",
-      "name": "💡看看｜影视",
-      "type": 3,
-      "timeout": 15,
-      "api": "csp_App3Q",
-      "jar": "https://cdn2.wemiaow.com/20260401232042-14-Vwa30U.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3"
-    },
+   
     {
       "key": "热播影视",
       "name": "💡热播｜影视",
@@ -174,15 +152,7 @@
       "jar": "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
     },
-    {
-      "key": "柠檬",
-      "name": "💡柠檬｜影视",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "jar": "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
-      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
-    },
+    
     {
       "key": "剧评",
       "name": "💡剧评┃影视",
@@ -192,15 +162,7 @@
       "jar": "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
     },
-    {
-      "key": "特狗",
-      "name": "💡特狗┃影视",
-      "type": 3,
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0416/20/1fe667cd217a0c314b8ca59310dbf45d.jpg;md5;a4f403a000bc5e4ebdd9da27fcb05852",
-      "api": "csp_AppV6",
-      "playerType": 2,
-      "ext": "7lj763gg0939795l0264j881k412jji0g0k6980k98j36973020k0ll6lk184k400h9k4jgh8312j1912818glikl7lh1jk9k4222k1kg696igkk32ig6lhj3kl50j08lkl6j0h6gi7k2j31jj0k7i1784l25g757hhkl42i7jg68illihjh67l32g53532j62i92kljhj5llh498k24796l57j55ji0891479i557i3457992597ij298102k0l3k560g0k38h60089i5kh5035il7673li2956g705jh203il84368k049456igl0349h58ki85187568g1j70hk45jhi2697g3g65720h99k9054641i1j015k5238075665i14002jk320324503l4kj8g9ghi7k754483h64ljgk4783l185hhki8g8h9g8jkjj448g04jig78l7l6ik1hl7695hkkl5967760l298hg5ii058lg19133jj4k87lkh1g66h5k5ig1016kj1l7k9i61239031k7l031kli4g47l758543598331896i4jj65j269g7h9ki159gl13442h0hg08il93hi61732k7l4j645lj8935385j8jilj1gl53h52j7g35k455g15k02l1j0k82994547l670i595l340085010jh73h6ki6k6856h03jhgh97lil1j411983h8gkk4ik117jj885ih65k269l9k4h7h65li7151j9h0h8l76gih41kj3383045h67125h9hhglj9806118h17409k2lkh19i708i2g737g4lh66h5jh95klj749147702244j988137g16g087jh5690khk56863j7h8224h860k3i2k5l78gg7h7g492j1i897h3kl0lii808igik9j3j4k28k5l4l8k62j30k66ik62l9l30gg750jj866ll43llj4424g1h880l338hjg92i2i92h3g1g90g4089jj152402l035h94k042jgl4528g83g80k3864002li8j3hl59478j4h8561231778g877936l6li9k87kl27iig8ll081l1i39i7jlgi7h21363i909741j5781i2l9470i9h09gi81359igk7lg1j64k707h7i8i1l04jgh2i1l1k562h06j150ij32817k63845h317ggj9i460kl2g597li76h9h049852ig55059hg075k18g80l0k9819535j5j83h8639li4200145k898i7181742h63374h3kh7k80g26k1g30k14j679gh737j9hh74ii122l47g660g0i84hj749i90ik4i68j4jk42h1465300k753l8510554j3ji3ij6k4i700h824k71j912ii6098jk4i7i6177l7l0lj92kik8g1ghg7l0h7h5421hg3hh5l266l9282j47gl870j49610k96142834920617klhg608k5g8863l65321451jg94hlh7512j4ji26kli37j9k325j2g5i5h4582g505gj88907kg9i5253gk8h219kk7j1h4i1090i9lk5hj2j50hj1738ikh31g8lh9ig79gi273k464g799i46748502gkj0950gig43jl00445gi6i71j73300i6l396lli28gg71j01076lgki55h75kij59j2i55hlj1gj9kjkl871063hgikggi8i769h90g5399j835jg70420g517352k9927j8kik19h54k9l75g67h46k104k08k8l8h564j3k5lj2k4739l5hj926444321870988750787i4kg981hgh0010g39970932l5j9j4j511lj5jk7gl85l233979j622k533146k0gjh81h8k659h3ih1g7614j6i514690474967jh48343218l8jk32k2l52809168k851h62i344ik528jj1602h8ii7llg60079i68l7i72341i2146jilj35kj48167hi06h810jii4ll77jg18698ljg584815639g31hj01l6436ilg76gg3j5h5g631hglj9k1h437i9313526j375lj34lgl1ik21hh3kh424i92626l6ll431690h8098831gk19l2j57gh264552j7k08ii21686ll229gi96l715l487511kl76i19606hg80j12i067h163jhl21h1j754jj2i762j6258gih7jg04ilj98kjih3k744788385634156kg590103931g24ik4516li3hg93i438g1h743j6861hhi25l0hj7ih21gi41631lg06k9385j22h27617ik25905h5k1i7i2856hl248jg8gh27il8lj2hig55llk2604j5ig71hj5l1g413h34931j29k563633h38kijhhj6l52734h6k365h9gl4ji88j86k26297i26447j58k4jj47h8hj7l33lik7805hl540lk170959678125h90503jk3h8h3jh1g2i3326ij23ii9466i5kh267j078g9914j056112h644h6544kh50488ll287h6742541j8154k150kl133h7k5jhiklg221g62694l5gk5g584g03j039i26k1l3ij3058596g61lj1lh21k7j1924hh354268l5243i2k1ligkj8436kh3l3k737kji5k4k87gih2l3813098jh44240h9h3l71k5j9595jj7h2240084i75l9k142g78kk6h9l583k8493g947783j166jgi3276l5h55ihg6500hh21l780g742j4h0k71k2g85755k303j34i579g706i07123hg2hi3281i7i246j63j3gg979274ilh5564il63i12034g641g050945j30i148619j051183ijh6gi8li7844263lh6618gi02334178g68ih11g5i62i8866g8g694ljh29954i3630149li7l97ik0hl28l51kj44h8j955j069kl296hi4kj90j6i6l1ig3l6h7ljl45g4k97l2915gl613g15"
-    },
+    
     {
       "key": "大师兄",
       "name": "💡师兄┃影视",
@@ -509,18 +471,7 @@
         "ratio": 1.433
       }
     },
-    {
-      "key": "农民",
-      "name": "🧿农民｜影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0307/11/98d51d4d95c5cf1b67e74af45cc4445f.jpg;md5;4d860d06ec233dbcb891b76055f099d5",
-      "ext": {
-        "副标题": "专属",
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "分类url": "https://vip.wwgz.cn:5200/;;!H"
-      }
+    
     },
     {
       "key": "急救教学",
@@ -542,21 +493,7 @@
       "type": 3,
       "api": "csp_LocalFile"
     },
-    {
-      "key": "Huya",
-      "name": "🎮游戏┃直播",
-      "type": 3,
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0416/20/1fe667cd217a0c314b8ca59310dbf45d.jpg;md5;a4f403a000bc5e4ebdd9da27fcb05852",
-      "api": "csp_Huya",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 1,
-      "timeout": 10,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
+    
     },
     {
       "key": "Douyu",
