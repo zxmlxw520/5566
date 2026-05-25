@@ -4,15 +4,15 @@
   "sites": [
    {
       "key": "豆瓣",
-      "name": "悦享影仓",
+      "name": "豆瓣【复活版七星】",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
       "changeable": 1
     },
     {
-      "key": "网盘配置",
-      "name": "☀网盘配置☀",
+      "key": "配置中心",
+      "name": "☀配置中心☀",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -1845,18 +1845,18 @@
   ],
   "lives": [
     {
-      "name": "小微",
+      "name": "新线路",
       "type": 0,
-      "url": "https://git.yylx.win/https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/ycds.txt",
+      "url": "https://mpimg.cn/down.php/ac60d020c4b2c0d4d724a7a9574f814f.txt",
       "playerType": 2,
       "ua": "okhttp/3",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
     {
-      "name": "小微2",
+      "name": "线路①如失效切换其他线路",
       "type": 0,
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/ycds.txt",
+      "url": "http://rihou.cc:555/gggg.nzk",
       "playerType": 2,
       "ua": "okhttp/3",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
