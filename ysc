@@ -70,3 +70,16 @@
     }
   ]
 }
+ "lives": [
+    {
+      "name": "xiaowei",
+      "type": 0,
+      "url": "https://mpimg.cn/down.php/ac60d020c4b2c0d4d724a7a9574f814f.txt",
+      "playerType": 2,
+      "ua": "okhttp/3",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+  ],
+
+
