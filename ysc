@@ -65,16 +65,8 @@
       "name": "🚀雷霆线路"
     },
     {
-  "liveSources": [
-    {
-      "name": "主力直播源",
-      "url": "https://git.yylx.win/https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/ycds.txt",
-      "type": "txt"
-    },
-    {
-      "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
-      "name": "🚀CandyMu线路"
-    }
+  
+   
   ]
 }
  
