@@ -65,21 +65,18 @@
       "name": "🚀雷霆线路"
     },
     {
+  "liveSources": [
+    {
+      "name": "主力直播源",
+      "url": "https://git.yylx.win/https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/ycds.txt",
+      "type": "txt"
+    },
+    {
       "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
       "name": "🚀CandyMu线路"
     }
   ]
 }
- "lives": [
-    {
-      "name": "xiaowei",
-      "type": 0,
-      "url": "https://mpimg.cn/down.php/ac60d020c4b2c0d4d724a7a9574f814f.txt",
-      "playerType": 2,
-      "ua": "okhttp/3",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
-    },
-  ],
-
+ 
+    
 
