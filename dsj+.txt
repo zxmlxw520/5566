@@ -11,7 +11,6 @@ CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8f
 CCTV8K,http://192.151.150.154/live/cctv8k.m3u8
 CCTV16-4K,http://121.57.88.206:898/hls/16/index.m3u8
 湖南4K,http://rihou.cc:555/tv/湖南卫视4K
-江苏4K,http://171.213.199.159:4022/rtp/239.94.0.117:5140
 江苏4K,http://rihou.cc:555/tv/江苏卫视4K
 浙江4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 浙江4K,http://rihou.cc:555/tv/浙江卫视4K
@@ -29,27 +28,9 @@ CCTV16-4K,http://121.57.88.206:898/hls/16/index.m3u8
 山东4K,http://go.061899.xyz/mg/sdws
 广东4K,http://go.061899.xyz/mg/gdws
 深圳4K,http://go.061899.xyz/mg/szws
-CCTV4K,http://171.213.199.159:4022/rtp/239.94.0.20:5140
-北京4K,http://171.213.199.159:4022/rtp/239.94.0.111:5140
-北京4K,http://171.213.199.159:4022/rtp/239.94.0.112:5140
-东方4K,http://171.213.199.159:4022/rtp/239.94.0.119:5140
-广东4K,http://171.213.199.159:4022/rtp/239.94.0.114:5140
-深圳4K,http://171.213.199.159:4022/rtp/239.94.0.113:5140
-湖南4K,http://171.213.199.159:4022/rtp/239.94.0.116:5140
-山东4K,http://171.213.199.159:4022/rtp/239.94.0.120:5140
-四川4K,http://171.213.199.159:4022/rtp/239.94.0.115:5140
-浙江4K,http://171.213.199.159:4022/rtp/239.94.0.118:5140
-江苏4k,http://124.116.170.138:8081/rtp/239.111.205.64:5140
-广东4k,http://124.116.170.138:8081/rtp/239.111.205.103:5140 
-山东4k,http://124.116.170.138:8081/rtp/239.111.205.66:5140
-四川4k,http://124.116.170.138:8081/rtp/239.111.205.62:5140
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
-苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
-河北4K,http://106.53.99.30/tv/api.php?id=hebtv4k
-苏州4K,http://106.53.99.30/tv/api.php?id=sztv4k
 深圳4K,https://cdn3.163189.xyz/163189/szws4k
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 北京4k,http://ddns.xryo.cn:8888/udp/239.111.205.51:5140
@@ -1811,7 +1792,7 @@ CETV4,http://rihou.cc:555/tv/CETV4
 广东体育,http://r.jdshipin.com/LiYdg
 广东珠江,http://r.jdshipin.com/sE5vO
 📺央卫备用2,#genre#
-卡就按右换线,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
+可切换IJK解码,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
 请在公告页打赏,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
 
 
