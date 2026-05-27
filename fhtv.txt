@@ -6,9 +6,13 @@
 
 5.25更新公告,#genre#
 打赏才能长久,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-低配口令2841,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-高配口令617C,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+低配口令2C1F,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+高配口令BA24,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 软件卡下低配版,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+推荐保留高配版,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+频道加载更流畅,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+黑屏可修复版本,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+设置里换直播源,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 操作说明,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
 月底支援一下,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 地区运营商不同,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
@@ -42,7 +46,6 @@ CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8f
 CCTV8K,http://192.151.150.154/live/cctv8k.m3u8
 CCTV16-4K,http://121.57.88.206:898/hls/16/index.m3u8
 湖南4K,http://rihou.cc:555/tv/湖南卫视4K
-江苏4K,http://171.213.199.159:4022/rtp/239.94.0.117:5140
 江苏4K,http://rihou.cc:555/tv/江苏卫视4K
 浙江4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 浙江4K,http://rihou.cc:555/tv/浙江卫视4K
@@ -60,27 +63,9 @@ CCTV16-4K,http://121.57.88.206:898/hls/16/index.m3u8
 山东4K,http://go.061899.xyz/mg/sdws
 广东4K,http://go.061899.xyz/mg/gdws
 深圳4K,http://go.061899.xyz/mg/szws
-CCTV4K,http://171.213.199.159:4022/rtp/239.94.0.20:5140
-北京4K,http://171.213.199.159:4022/rtp/239.94.0.111:5140
-北京4K,http://171.213.199.159:4022/rtp/239.94.0.112:5140
-东方4K,http://171.213.199.159:4022/rtp/239.94.0.119:5140
-广东4K,http://171.213.199.159:4022/rtp/239.94.0.114:5140
-深圳4K,http://171.213.199.159:4022/rtp/239.94.0.113:5140
-湖南4K,http://171.213.199.159:4022/rtp/239.94.0.116:5140
-山东4K,http://171.213.199.159:4022/rtp/239.94.0.120:5140
-四川4K,http://171.213.199.159:4022/rtp/239.94.0.115:5140
-浙江4K,http://171.213.199.159:4022/rtp/239.94.0.118:5140
-江苏4k,http://124.116.170.138:8081/rtp/239.111.205.64:5140
-广东4k,http://124.116.170.138:8081/rtp/239.111.205.103:5140 
-山东4k,http://124.116.170.138:8081/rtp/239.111.205.66:5140
-四川4k,http://124.116.170.138:8081/rtp/239.111.205.62:5140
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
-苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
-河北4K,http://106.53.99.30/tv/api.php?id=hebtv4k
-苏州4K,http://106.53.99.30/tv/api.php?id=sztv4k
 深圳4K,https://cdn3.163189.xyz/163189/szws4k
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 北京4k,http://ddns.xryo.cn:8888/udp/239.111.205.51:5140
@@ -249,7 +234,7 @@ CHC动作电影,https://live.264788.xyz/channel/chcdongzuodianying?streamid=87c1
 主角,https://cnvod.jimxtc.com/20260524/21248_b8719842/3000k/hls/mixed.m3u8$第30集
 主角,https://cnvod.jimxtc.com/20260524/21260_3f2624ba/3000k/hls/mixed.m3u8$第31集
 主角,https://cnvod.jimxtc.com/20260525/21406_9fe06b33/3000k/hls/mixed.m3u8$第32集
-主角,
+主角,https://cdn.yzzy28-play.com/20260526/30718_5a7acc93/3000k/hls/mixed.m3u8$第33集
 主角,
 主角,
 主角,
@@ -13452,41 +13437,7 @@ Alin精选16首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v03
 ❥35,https://188sp.711888.xyz/188/video.php
 ❥36,https://api.e1e1.top/whole/w.php 
 ❥37,https://xn--vusr00g.v.nxog.top/m/tv/xjj.php?id=0
-☆PLAYBOY ING HD,http://nor2live.win:80/livehttpplay?channel_id=2320
-☆PLAYBOY ESPA HD,http://nor2live.win:80/livehttpplay?channel_id=2320
-☆Anal,http://cdn.adultiptv.net/anal.m3u
-☆Arab Girls,http://live.mycamtv.com/arab.m3u
-☆Asian Girls,http://live.mycamtv.com/asian.m3u
-☆Big Ass,http://live.redtraffic.xyz/bigass.m3u
-☆Big Dick,http://live.redtraffic.xyz/bigdick.m3u
-☆Big Tits,http://live.redtraffic.xyz/bigtits.m3u
-☆Blowjob,http://live.redtraffic.xyz/blowjob.m3u
-☆Blonde,http://live.redtraffic.xyz/blonde.m3u
-☆Brunette,http://cdn.adultiptv.net/brunette.m3u
-☆Brunette Girls,http://live.mycamtv.com/brunette.m3u
-☆Cuckold HD,http://live.redtraffic.xyz/cuckold.m3u
-☆Compilation,http://cdn.adultiptv.net/compilation.m3u
-☆Ebony Girls,http://live.mycamtv.com/ebony.m3u
-☆Hard Core,http://live.redtraffic.xyz/hardcore.m3u
-☆Three Some,http://live.redtraffic.xyz/threesome.m3u
-☆Lesbian,http://live.redtraffic.xyz/lesbian.m3u
-☆Latina HD,http://live.redtraffic.xyz/latina.m3u
-☆Livecams,http://cdn.adultiptv.net/livecams.m3u
-☆Fetish HD,http://live.redtraffic.xyz/fetish.m3u
-☆Interracial HD,http://live.redtraffic.xyz/interracial.m3u
-☆Milf HD,http://live.redtraffic.xyz/milf.m3u
-☆Pornstar HD,http://live.redtraffic.xyz/pornstar.m3u
-☆POV HD,http://live.redtraffic.xyz/pov.m3u
-☆Russian HD,http://live.redtraffic.xyz/russian.m3u
-☆Rough,http://cdn.adultiptv.net/rough.m3u
-☆Teen,http://live.redtraffic.xyz/teen.m3u
-☆Gangbang,http://cdn.adultiptv.net/gangbang.m3u
-☆Young Girls,http://live.mycamtv.com/young.m3u
-☆White Girls,http://live.mycamtv.com/white.m3u
-☆Skinny Girls,http://live.mycamtv.com/skinny.m3u
-☆Medium Girls,http://live.mycamtv.com/medium.m3u
-1,https://sex8sex811.com/20250726/gyeUh9IH/3000kb/hls/index.m3u
-2,https://vip.lzcdn2.com/20220525/7634_7f4228f1/1200k/hls/mixed.m3u8
+
 韩国女团01,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
 韩国女团02,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
 韩国女团03,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
