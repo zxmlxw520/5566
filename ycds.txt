@@ -5,32 +5,6 @@
 //来源网络，免费分享，请勿追究，谢谢！//
 
 5.25更新公告,#genre#
-打赏才能长久,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-低配口令2C1F,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-高配口令BA24,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-软件卡下低配版,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-推荐保留高配版,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-频道加载更流畅,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-黑屏可修复版本,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-设置里换直播源,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-操作说明,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
-月底支援一下,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-地区运营商不同,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
-所以有的台很卡,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
-收藏自己不卡的看,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
-黑屏的扫码查新版本,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
-部分地方台无资源,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
-后续有了会增加,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
-残疾人制作不易,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
-求大佬勿打压,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
-不要信视频的广告1,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
-不要信视频的广告2,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
-不要信视频的广告3,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
-觉得好用,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-请打赏观看,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
-CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
-打赏留言加频道,https://i.uik.cc/view.php/8d9d37a2fc11480442b8fd8b2fd70ace.mp4
 🎵点歌台,http://cfss.cc/cdn/du/85894.flv
 🎵周杰伦MV,http://cfss.cc/cdn/du/122402.flv
 🎵TDI Radio TV,https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
@@ -41,7 +15,8 @@ CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8f
 ❤️抖音女神,https://api.e1e1.top/crosswise/cw.php
 ❥韩国舞曲,https://xn--vusr00g.v.nxog.top/m/tv/xjj.php?id=0
 ❥法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-
+CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
+CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
 湖南4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 CCTV8K,http://192.151.150.154/live/cctv8k.m3u8
 CCTV16-4K,http://121.57.88.206:898/hls/16/index.m3u8
@@ -86,6 +61,31 @@ CHC影迷电影,http://rihou.cc:555/tv/CHC影迷电影
 CHC家庭影院,http://rihou.cc:555/tv/CHC家庭影院
 电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+打赏才能长久,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+低配口令5942,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+高配口令BA24,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+软件卡下低配版,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+推荐保留高配版,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+频道加载更流畅,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+黑屏可修复版本,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+设置里换直播源,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+操作说明,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
+月底支援一下,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+地区运营商不同,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
+所以有的台很卡,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
+收藏自己不卡的看,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
+黑屏的扫码查新版本,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
+部分地方台无资源,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
+后续有了会增加,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
+残疾人制作不易,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
+求大佬勿打压,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
+不要信视频的广告1,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
+不要信视频的广告2,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
+不要信视频的广告3,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
+觉得好用,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+请打赏观看,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+打赏留言加频道,https://i.uik.cc/view.php/8d9d37a2fc11480442b8fd8b2fd70ace.mp4
+
 ❤️感谢支持,https://i.uik.cc/view.php/8d9d37a2fc11480442b8fd8b2fd70ace.mp4
 ❤️感谢支持,https://i.uik.cc/view.php/8d9d37a2fc11480442b8fd8b2fd70ace.mp4
 
@@ -95,8 +95,7 @@ CHC家庭影院,http://rihou.cc:555/tv/CHC家庭影院
 按设置可以选集,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 画面比例自己调,https://d6.qyshare.store/s/TBVWTxUNFQEGBQEDVQNRGgZUBQKFCVA50aKFCVA50wUKFCVA50KFCVA50RpWD1ECGlIBUQ9WVFIPDgKFCVA50OVRUbFVhERH9YREMVDRVYREQZRk5CWRlYRVKFCVA50VGxVYRER8Uk4VDRVCR1tYVlMYBQcFKFCVA50RgHBBgFBBgHBFIHBVMOKFCVA50hoED1UGGgMCVQIaVgICDhoEDw8GB1MDVg4FDg4ZVV5ZFRsVVlQVDRUGUgFSUQIBBxpSBKFCVA50UGGgNWBFEaVVIGVRpVKFCVA50w8PUQMHVVYBKFCVA50gUVGxVZVlpSFQ0VBgYEBBlaRwMVGxVUWFlDUllDY05HUhUNFUFeU1JYGFpHKFCVA50xUbFVZTFQ0VDwRVBKFCVA50MDUQ4aUg5WBhoDKFCVA50FEBGlYEUg8aDlUCVFIPKFCVA50wKFCVA50FKFCVA501IGFUo=
 不要信视频的广告,https://i.uik.cc/view.php/8d9d37a2fc11480442b8fd8b2fd70ace.mp4
-黑屏卡顿频道,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
-可切换解码方式,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
+
 CHC动作电影,http://rihou.cc:555/tv/CHC动作电影
 CHC影迷电影,http://rihou.cc:555/tv/CHC影迷电影
 CHC家庭影院,http://rihou.cc:555/tv/CHC家庭影院
@@ -597,61 +596,7 @@ CMusic,https://cdn12.178.indevs.in/163189/d396cb84b6c89889
 DreamWorks梦工厂动画,https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
 精选动漫台,https://cdn12.178.indevs.in/163189/e1d66f74bd2d4894
 金光布袋戏,https://cdn12.178.indevs.in/163189/5479c245d9d580b5
-民視第一台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv003&token=https://t.me/GPT_858
-民視台灣台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv001&token=https://t.me/GPT_858
-中視,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv040&token=https://t.me/GPT_858
-華視,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv041&token=https://t.me/GPT_858
-客家電視台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv043&token=https://t.me/GPT_858
-八大綜藝台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv039&token=https://t.me/GPT_858
-愛爾達娛樂台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv070&token=https://t.me/GPT_858
-靖天綜合台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv046&token=https://t.me/GPT_858
-靖天日本台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv047&token=https://t.me/GPT_858
-阿里郎頻道,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv079&token=https://t.me/GPT_858
-達文西頻道,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv018&token=https://t.me/GPT_858
-靖天卡通台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv044&token=https://t.me/GPT_858
-靖洋卡通,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv057&token=https://t.me/GPT_858
-E1i-Fun動漫台,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv15&token=https://t.me/GPT_858
-東森新聞台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv152&token=https://t.me/GPT_858
-華視新聞,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv052&token=https://t.me/GPT_858
-民視新聞台,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv13&token=https://t.me/GPT_858
-東森財經新聞台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv153&token=https://t.me/GPT_858
-中視新聞,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv074&token=https://t.me/GPT_858
-中天新聞台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv009&token=https://t.me/GPT_858
-寰宇新聞台,https://litv.tzh911.qzz.io/litv.php?id=litv-longturn14&token=https://t.me/GPT_858
-民視綜藝台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv004&token=https://t.me/GPT_858
-豬哥亮歌廳秀,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv006&token=https://t.me/GPT_858
-靖天育樂台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv062&token=https://t.me/GPT_858
-靖天國際台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv063&token=https://t.me/GPT_858
-靖天歡樂台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv054&token=https://t.me/GPT_858
-靖天資訊台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv065&token=https://t.me/GPT_858
-古典樂,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv059&token=https://t.me/GPT_858
-智林體育台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv101&token=https://t.me/GPT_858
-時尚運動,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv014&token=https://t.me/GPT_858
-民視旅遊台,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv07&token=https://t.me/GPT_858
-環遊旅行家,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv016&token=https://t.me/GPT_858
-公視戲劇,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv042&token=https://t.me/GPT_858
-民視影劇台,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv09&token=https://t.me/GPT_858
-八大精彩台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv034&token=https://t.me/GPT_858
-靖天戲劇台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv058&token=https://t.me/GPT_858
-靖洋戲劇台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv045&token=https://t.me/GPT_858
-視納華仁紀實頻道,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv013&token=https://t.me/GPT_858
-采昌影劇台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv049&token=https://t.me/GPT_858
-靖天映畫,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv055&token=https://t.me/GPT_858
-靖天電影台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv061&token=https://t.me/GPT_858
-影迷數位電影台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv011&token=https://t.me/GPT_858
-好消息2台,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv17&token=https://t.me/GPT_858
-半島國際新聞台,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv10&token=https://t.me/GPT_858
-/
-功夫台,https://test.946985.filegear-sg.me/proxy/d1e9143b859804b8
-千禧經典台,https://test.946985.filegear-sg.me/proxy/31368ba8378b5adf
-娛樂新聞台,https://test.946985.filegear-sg.me/proxy/19a95b082c7372e5
-星河頻道,https://test.946985.filegear-sg.me/proxy/e4eda8b9fe5f6076
-無綫新聞台,https://test.946985.filegear-sg.me/proxy/0aea173d24cb1a67
-美亞電影台,https://test.946985.filegear-sg.me/proxy/bdc068338650cbe8
-翡翠台,https://test.946985.filegear-sg.me/proxy/5d5c47fa663940ad
-鳳凰衛視中文台,https://test.946985.filegear-sg.me/proxy/262c16de37dff45a
-鳳凰衛視資訊台,https://test.946985.filegear-sg.me/proxy/323659c69c899335
-鳳凰衛視香港台,https://test.946985.filegear-sg.me/proxy/ba40adf45ca80e66
+
 NOW体育1,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz
 NOW体育2,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382842&extension=ts&play_token=MCoDoR8s9G
 NOW体育3,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=ts&play_token=5uiKCGTNCF
@@ -704,30 +649,7 @@ NOW爆谷台,rtmp://digital-live-pull.zegonetwork.com/live/xiangjiaoge-bg
 龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
 Now星影,http://rihou.cc:555/tv/[Hv]Now星影
 
-廣東體育,http://67.220.71.199:2347/livehttpplay?channel_id=12028
-TVB亞洲劇臺,http://67.220.71.199:2347/livehttpplay?channel_id=13022
-無線新聞台 ,http://67.220.71.199:2347/livehttpplay?channel_id=20123
-明珠台,http://67.220.71.199:2347/livehttpplay?channel_id=20125
-廣東體育,http://67.220.71.199:2347/livehttpplay?channel_id=20130
-ViuTV,http://67.220.71.199:2347/livehttpplay?channel_id=20131
-ViuTV6,http://67.220.71.199:2347/livehttpplay?channel_id=20132
-嶺南戲曲,http://67.220.71.199:2347/livehttpplay?channel_id=20142
-珠江臺,http://67.220.71.199:2347/livehttpplay?channel_id=20144
-HOY TV,http://67.220.71.199:2347/livehttpplay?channel_id=20152
-港臺電視31,http://67.220.71.199:2347/livehttpplay?channel_id=20203
-TVB plus ,http://67.220.71.199:2347/livehttpplay?channel_id=30023
-無線新聞台,http://67.220.71.199:2347/livehttpplay?channel_id=30024
-無線新聞备用,http://cdn6.163189.xyz/163189/wxxw
-翡翠台,http://67.220.71.199:2347/livehttpplay?channel_id=30025
-明珠台,http://67.220.71.199:2347/livehttpplay?channel_id=30026
-港臺電視32,http://67.220.71.199:2347/livehttpplay?channel_id=30028
-CCTV 4K,http://67.220.71.199:2347/livehttpplay?channel_id=30029
 
-ViuTV +,http://67.220.71.199:2347/livehttpplay?channel_id=30032
-ViuTV6 +,http://67.220.71.199:2347/livehttpplay?channel_id=30033
-港臺電視31,http://67.220.71.199:2347/livehttpplay?channel_id=30066
-港臺電視32,http://67.220.71.199:2347/livehttpplay?channel_id=30067
-博斯網球,http://67.220.71.199:2347/livehttpplay?channel_id=42026
 
 rthk31,http://115.44.140.170:18180/TV00000000000000000019@HHZT
 rthk32,http://115.44.140.170:18180/TV00000000000000000017@HHZT
@@ -2137,7 +2059,7 @@ CETV4,http://rihou.cc:555/tv/CETV4
 广东体育,http://r.jdshipin.com/LiYdg
 广东珠江,http://r.jdshipin.com/sE5vO
 📺央卫备用2,#genre#
-卡就按右换线,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
+切换IJK能看
 请在公告页打赏,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
 
 
@@ -4466,9 +4388,6 @@ GCN教会,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklis
 RNA,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 
 
-
-
-
 📺中国风景,#genre#
 请我喝瓶水吧,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 2025-9-3阅兵,http://jx.999315.xyz/yzzy/20250903/20785_ad349260/index.m3u8
@@ -4507,9 +4426,7 @@ RNA,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 重庆渝中李子坝,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
 
 🔥经典轮播,#genre#
-❥维护不易,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-❥打赏长久使用,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-❥感谢各位支持,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+
 卡顿切换解码,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 成龙,http://cfss.cc/cdn/huya/11342386.flv
 黄渤,http://cfss.cc/cdn/huya/11352876.flv
@@ -6150,8 +6067,6 @@ w_400,https://live.ottiptv.cc/yy/1354693629
 🎬电视剧集,#genre#
 不要信广告,https://cccimg.com/view.php/7b6219260a9ec0036d8f7f28e09c4281.mp4
 按设置选集,https://cccimg.com/view.php/7b6219260a9ec0036d8f7f28e09c4281.mp4
-黑屏卡顿频道,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
-可切换解码方式,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
 八千里路云和月,https://vip.dytt-tvs.com/20260407/15657_e3524b4d/3000k/hls/mixed.m3u8$第1集
 八千里路云和月,https://vip.dytt-tvs.com/20260407/15658_7c2af8b8/3000k/hls/mixed.m3u8$第2集
 八千里路云和月,https://vip.dytt-tvs.com/20260407/15655_128482b5/3000k/hls/mixed.m3u8$第3集
@@ -9549,8 +9464,7 @@ w_400,https://live.ottiptv.cc/yy/1354693629
 刑侦12,https://cdn.ryplay11.com/20250530/179357_6167f463/index.m3u8$第24集
 刑侦12,https://cdn.ryplay11.com/20250530/179356_14a240d6/index.m3u8$第25集
 🎬韩剧美剧,#genre#
-黑屏卡顿频道,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
-可切换解码方式,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
+
 肖申克的救赎,https://vip.ffzy-play7.com/20221112/3323_ae6adba8/2000k/hls/mixed.m3u8
 狂怒,https://vip.ffzy-play2.com/20221122/1156_8de59172/2000k/hls/mixed.m3u8
 阿凡达火与烬,https://vip.dytt-network.com/20260329/21481_ea023e25/3000k/hls/mixed.m3u8
@@ -9871,11 +9785,7 @@ w_400,https://live.ottiptv.cc/yy/1354693629
 
 
 🎬电影合集,#genre#
-电影加载慢,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-多等几秒,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 按右键可快进,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-黑屏卡顿频道,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
-可切换解码方式,https://i.uik.cc/view.php/89382a6d307982b66cf7e52adec5fb10.mp4
 勿相信任何广告,https://us-xpc11.xpccdn.com/be8aea8f-295a-4d97-a3af-ce07603e22ef.mp4$防诈骗
 飞驰人生3,https://vip.ffzy-play10.com/20260429/59098_b9af3c11/2000k/hls/mixed.m3u8
 熊猫计划2,https://vip.ffzy-plays.com/20260424/52766_b08ae890/3000k/hls/mixed.m3u8
@@ -11139,8 +11049,7 @@ Hello！树先生,https://vip.ffzy-play6.com/20221019/130_28e143c8/3000k/hls/mix
 微爱之渐入佳境,https://vip.ffzy-play6.com/20221028/2472_36ce558e/3000k/hls/mixed.m3u8
 
 💃广场舞频,#genre#  
-广场舞U盘定制,https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/cae_h264/1630406994590156367/mda-mhwf07t27w3gi1y7.mp4
-加微YXMV525,https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/cae_h264/1630406994590156367/mda-mhwf07t27w3gi1y7.mp4
+
 转身不必说再会,https://alimov2.a.kwimgs.com/upic/2022/06/06/15/BMjAyMjA2MDYxNTM2MDhfOTU2MzA3MDg4Xzc2MTczOTQ0NjM5XzJfMw==_b_B3f9ff9967952626bd173f1954d5adf87.mp4 
 青青世界广场舞,https://alimov2.a.kwimgs.com/upic/2022/05/10/20/BMjAyMjA1MTAyMDE4MTBfOTU2MzA3MDg4Xzc0MTE0MjAxNTM5XzJfMw==_b_B47bd636e2f80429ceeda31ab774a20ea.mp4 
 青青世界广场舞2https://txmov2.a.kwimgs.com/upic/2022/05/26/05/BMjAyMjA1MjYwNTQwNDhfOTU2MzA3MDg4Xzc1MjYyNTM0ODAwXzJfMw==_b_B7fdec9006e5c36bf5c22ddc9f8c5e1b2.mp4 
@@ -11211,8 +11120,6 @@ Hello！树先生,https://vip.ffzy-play6.com/20221019/130_28e143c8/3000k/hls/mix
 ❥打赏长久使用,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥打赏长久使用,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥留言加频道,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-打赏增加频道,https://https://i.uik.cc/view.php/ca75fa4c318161d6a0cf117ad60b303f.mp4
-
 黄梅戏七仙女,http://gcw.bdcdn.shoujiduoduo.com/v/191211/9ed54cfd1c55624e227f28ca40c6a4ab.mp4
 黄梅戏春香传,http://gcw.bdcdn.shoujiduoduo.com/v/190221/6a38928efbe1f76f04f14a94197cc6d6.mp4
 牛郎织女-严凤英韩再芬周源源,http://gcw.bdcdn.shoujiduoduo.com/v/190702/ed2662b8d3d3a875e01a53c669f4af50.mp4
@@ -12285,7 +12192,7 @@ Big3专场,https://live.ottiptv.cc/huya/30847442
 🎮游戏频道,#genre# 
 ❥打赏长久使用,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 ❥感谢各位支持,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-加频道留言,https://cccimg.com/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+
 无畏契约专场,https://isus.cc/php/huya.php?id=660679
 云顶之弈专场,https://isus.cc/php/huya.php?id=24423598
 穿越火线专场,https://isus.cc/php/huya.php?id=660101
@@ -12538,8 +12445,7 @@ CNR15中国交通广播,https://satellitepull.cnr.cn/live/wxgsgljtgb/playlist.m3
 CNR16中国乡村之声,https://satellitepull.cnr.cn/live/wxxczs/playlist.m3u8
 CNR17哈萨克语广播,https://satellitepull.cnr.cn/live/wxhygb/playlist.m3u8
 🎸演唱会场,#genre#
-车载视频U盘定制,https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/cae_h264/1630406994590156367/mda-mhwf07t27w3gi1y7.mp4
-加微YXMV525,https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/cae_h264/1630406994590156367/mda-mhwf07t27w3gi1y7.mp4
+
 2025大湾区电影音乐晚会,https://vip.dytt-kan.com/20251002/7177_2723ad49/index.m3u8
 《周杰伦2002THE ONE台北演唱会 完整版》金曲版,https://vd3.bdstatic.com/mda-nmgdfvsm9kc46pcz/576p/h264/1671270120913302151/mda-nmgdfvsm9kc46pcz.mp4
 《周杰伦2004无与伦比演唱会完整版》,https://vd4.bdstatic.com/mda-nmbpre7yr8iug4m1/576p/h264/1670863877948761917/mda-nmbpre7yr8iug4m1.mp4
@@ -12657,12 +12563,9 @@ S H E《4EVER世界巡回演唱会 完整版》珍藏版,https://vd3.bdstatic.co
 
 
 🎼 音乐MV,#genre#
-❥打赏长久使用,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-❥感谢各位支持,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-打赏更新更多,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-车载视频U盘定制,https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/cae_h264/1630406994590156367/mda-mhwf07t27w3gi1y7.mp4
-加微YXMV525,https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/cae_h264/1630406994590156367/mda-mhwf07t27w3gi1y7.mp4
 K歌软件推广,https://i.uik.cc/view.php/2b0238dc0d48dfccfb405acecd571de3.mp4
+加微YXMV525,https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/cae_h264/1630406994590156367/mda-mhwf07t27w3gi1y7.mp4
+
 
 謝安琪-喜帖街,https://www.iesdouyin.com/aweme/v1/play/?video_id=v0200f580000bqulipikgg1hr4eidvvg&ratio=720p&line=0
 謝安琪-钟无艳,https://www.iesdouyin.com/aweme/v1/play/?video_id=v0d00fg10000chq2bsjc77uc3k8tcp5g&ratio=720p&line=0
@@ -13111,8 +13014,7 @@ dj,https://txmov2.a.kwimgs.com/upic/2022/03/21/19/BMjAyMjAzMjExOTA2MjRfMjYyNzI4M
 2022几首DJ串烧,https://vd3.bdstatic.com/mda-nck3tqzgjvj076vc/sc/cae_h264_delogo/1647833645083560959/mda-nck3tqzgjvj076vc.mp4
 
 🎸DJ舞曲,#genre#
-车载视频U盘定制,https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/cae_h264/1630406994590156367/mda-mhwf07t27w3gi1y7.mp4
-加微YXMV525,https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/cae_h264/1630406994590156367/mda-mhwf07t27w3gi1y7.mp4
+
 慢摇dj舞曲,https://vd2.bdstatic.com/mda-mkpi5r0xe92ja446/sc/cae_h264/1637775035132431598/mda-mkpi5r0xe92ja446.mp4
 慢摇dj舞曲,https://vd2.bdstatic.com/mda-mkpi5r0xe92ja446/sc/cae_h264/1637775035132431598/mda-mkpi5r0xe92ja446.mp4
 恨风恨雨我恨你,https://vdse.bdstatic.com//bf4bb1d82b2eb17681c49e745dc2da21.mp4
