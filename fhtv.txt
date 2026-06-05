@@ -27,3 +27,6 @@ CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8f
 CCTV8K,http://192.151.150.154/live/cctv8k.m3u8
 CCTV16-4K,http://121.57.88.206:898/hls/16/index.m3u8
 峨眉4K,http://live2.rxip.sc96655.com/live/emdy4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+
+私密频道_1996,#genre#
+CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
