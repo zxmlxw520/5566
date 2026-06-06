@@ -588,7 +588,100 @@ NOW体育6,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stre
 NOW体育7,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382837&extension=ts&play_token=rRmhe1TsX7
 NOW体育4K1,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382836&extension=ts&play_token=jSAYXQsMoY
 NOW体育,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382834&extension=ts&play_token=JBOlpsgTKU
-
+/
+⬇️不稳定,1
+Animaxa动漫,http://gat.xyys.site/cdnlive.php?mode=play;id=edd2e32a9c2c5d42b134991cb7c0f231;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+CN卡通,http://gat.xyys.site/cdnlive.php?mode=play;id=0933ea61f82c506885f7102fd876d8e9;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+龙华卡通,http://gat.xyys.site/cdnlive.php?mode=play;id=2ca1aff3f10b58c9ab8a000ef19ece17;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+靖洋卡通,http://gat.xyys.site/cdnlive.php?mode=play;id=9c768eda82635af68558fe93e04c1807;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+NickJr,http://gat.xyys.site/cdnlive.php?mode=play;id=03296de45ab958989b2df6e64f38f1ed;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+Nickelodeon,http://gat.xyys.site/cdnlive.php?mode=play;id=bc11e9fb5a4e5034a1fc11203482de23;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+DreamWorks梦工场动漫,http://gat.xyys.site/cdnlive.php?mode=play;id=5419f14ed0f65f60a5566e417f085d73;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+MOMO親子,http://gat.xyys.site/cdnlive.php?mode=play;id=b48858332dd554bb87f0f62ff2d3e977;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+經典卡通,http://gat.xyys.site/cdnlive.php?mode=play;id=336d853a91315373b82eb13deeb7ef50;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+精选动漫,http://gat.xyys.site/cdnlive.php?mode=play;id=e6247ce71ddc5a968f2f0a4a819f44ed;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+霹靂布袋戲,http://gat.xyys.site/cdnlive.php?mode=play;id=534abc9a3ece5b768d977fa0045514df;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+金光布袋戲,http://gat.xyys.site/cdnlive.php?mode=play;id=681d1870bf6e5db694a627ce28328b28;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+經典迪士尼,http://gat.xyys.site/cdnlive.php?mode=play;id=http%3A%2F%2Fjtds.88168138.xyz%2FmaguidanA.php%3Fid%3D20330;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+哆啦A夢,http://gat.xyys.site/cdnlive.php?mode=play;id=4a1aea1a9db7552c8d341b4b24928d68;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+DuckTV兒童卡通,http://gat.xyys.site/cdnlive.php?mode=play;id=e1aa1906e2b055c59945d4d41530de29;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+东森Yoyo,http://gat.xyys.site/cdnlive.php?mode=play;id=e5f6e3e55f545f988bfc05f222c12761;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+ViuTV,http://gat.xyys.site/cdnlive.php?mode=play;id=5d7aea0542755786b42da05c47ee49c4;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+HOY76,http://gat.xyys.site/cdnlive.php?mode=play;id=d0bba93d747550fe85a4463fddcbf264;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+HOY77,http://gat.xyys.site/cdnlive.php?mode=play;id=a87fa11c9ff45c3ca595eda4876bbe70;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+HOY78,http://gat.xyys.site/cdnlive.php?mode=play;id=a97ec0ee20f45b2d943425ed235a4254;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+RTHK31,http://gat.xyys.site/cdnlive.php?mode=play;id=ae9a42a3b8885fc1b16d1dc3507b2dfb;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+RTHK32,http://gat.xyys.site/cdnlive.php?mode=play;id=f40ab29993f15e5bbbbaae666136abba;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+TVB1,http://gat.xyys.site/cdnlive.php?mode=play;id=b9e2aa61f1705bcf89e2e47a35c8e6e8;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+TVBJ1,http://gat.xyys.site/cdnlive.php?mode=play;id=b9cad3c84fa650afa9b0e331f6ec4219;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+TVBE,http://gat.xyys.site/cdnlive.php?mode=play;id=436da767f1025e259e128ae75f4ede93;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+Now紫金,http://gat.xyys.site/cdnlive.php?mode=play;id=b56887c891545c35850d84c42da80218;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+TVB-EYT,http://gat.xyys.site/cdnlive.php?mode=play;id=c537ad0d9ceb57b3a8ff9216fe932985;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+TVB-Music,http://gat.xyys.site/cdnlive.php?mode=play;id=af6dc833843b5f4e9ba97918d7b5aaaa;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+TVB-Sports,http://gat.xyys.site/cdnlive.php?mode=play;id=185a42ac7a6c5291a91e67ea38015837;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+TVB-金曲,http://gat.xyys.site/cdnlive.php?mode=play;id=3595e262e279520c967aa1621e46da63;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+新加坡M5,http://gat.xyys.site/cdnlive.php?mode=play;id=7b3ae44709c956dca347350dfcc55ccc;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+MediaCorpU,http://gat.xyys.site/cdnlive.php?mode=play;id=fffb3f4479c553abb7bfd0a1cdbc8494;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+新加坡M8,http://gat.xyys.site/cdnlive.php?mode=play;id=c1e40813ecbf5a72b6f1878f14315dc5;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+八度空间(新加坡),http://gat.xyys.site/cdnlive.php?mode=play;id=40e6ac2195755a2a9e700dbeb57558c3;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+东森超视34.5,http://gat.xyys.site/cdnlive.php?mode=play;id=11bd8ed84b955f588bdc4e3b7c778b9c;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+东森美洲,http://gat.xyys.site/cdnlive.php?mode=play;id=f7f018ba3b055cddb02b651a38cfe9bd;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+TVBSHD,http://gat.xyys.site/cdnlive.php?mode=play;id=7f7f7e3e1e6651749c5ad27abdd4fa33;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+TVBS欢乐,http://gat.xyys.site/cdnlive.php?mode=play;id=d67eaf32f8a857fdaac50e3afdd6cba3;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+TVBS亚洲,http://gat.xyys.site/cdnlive.php?mode=play;id=34516350e49c5f8cb6adffd8343b44c0;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+TVBS精采,http://gat.xyys.site/cdnlive.php?mode=play;id=aabee36bbe3053bea25ee6fae888d99e;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+TVBS综艺,http://gat.xyys.site/cdnlive.php?mode=play;id=4df2840da48a531a81f11ad62379f210;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+八大综合,http://gat.xyys.site/cdnlive.php?mode=play;id=670f6e7fe95759a69f68a8b64d52427a;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+民视台湾,http://gat.xyys.site/cdnlive.php?mode=play;id=0850619f4de8521caaf4ab4d9593100d;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+民事第一,http://gat.xyys.site/cdnlive.php?mode=play;id=5c26bdbaeb7358028df7053a23387940;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+民事综艺,http://gat.xyys.site/cdnlive.php?mode=play;id=e73d530a9a745be184cdab01a09f3d3a;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+民视旅遊,http://gat.xyys.site/cdnlive.php?mode=play;id=48858280cbff5694990831f75c93d919;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+民视影剧,http://gat.xyys.site/cdnlive.php?mode=play;id=c18686262ed5536cb833becc5b7b0dea;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+台视综合,http://gat.xyys.site/cdnlive.php?mode=play;id=f5b4577583e05c9098df683f1df0f739;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+中视经典,http://gat.xyys.site/cdnlive.php?mode=play;id=ef46ecfe15875d18b01958bc74791f39;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+华艺中文,http://gat.xyys.site/cdnlive.php?mode=play;id=d378ecc013ad55bc91840facc2dfbf3a;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+爱尔达影剧,http://gat.xyys.site/cdnlive.php?mode=play;id=fc333d394248561083bd5087b354d274;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+爱尔达娱乐,http://gat.xyys.site/cdnlive.php?mode=play;id=57364e1e84ef5583b84704dc4f56ceae;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+爱尔达日韩,http://gat.xyys.site/cdnlive.php?mode=play;id=901063f5cc7e58e0a869f0427243689b;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+爱尔达综合,http://gat.xyys.site/cdnlive.php?mode=play;id=9c7fd04c570f59e38246fc5a1f5f4160;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+靖天国际,http://gat.xyys.site/cdnlive.php?mode=play;id=e10ce113af0b5530a6012d4b792395d9;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+靖天卡通,http://gat.xyys.site/cdnlive.php?mode=play;id=ed92125566465b3ab1543bb716fc809d;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+靖天综合,http://gat.xyys.site/cdnlive.php?mode=play;id=8d286b87935d5cbf911f0de8273354de;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+靖天欢乐,http://gat.xyys.site/cdnlive.php?mode=play;id=8bedd3aaf6fe54b5aafe96e6dd9d7ef4;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+爱尔达生活旅游,http://gat.xyys.site/cdnlive.php?mode=play;id=95791b4040195446b196b8c8f128d7c9;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+BBC_Earth,http://gat.xyys.site/cdnlive.php?mode=play;id=8063ac34a0e35ad1b1cf8ce1103ae6f6;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+BBC_Lifestyle,http://gat.xyys.site/cdnlive.php?mode=play;id=7af07617e59c501296018dc0fef1db7f;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+靖天资讯,http://gat.xyys.site/cdnlive.php?mode=play;id=0888c01f3e84529c8e2cc500cf056eaa;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+靖天日本,http://gat.xyys.site/cdnlive.php?mode=play;id=c409e32f2dc9566e8635ac9068830659;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+娛樂百分百,http://gat.xyys.site/cdnlive.php?mode=play;id=e8af942fef6a5a25bf7da1d784945815;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+綜藝大贏家,http://gat.xyys.site/cdnlive.php?mode=play;id=aeac1366898955829112117ee65ddf76;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+韓流美食料理秀,http://gat.xyys.site/cdnlive.php?mode=play;id=6ce2f5b79a5657c68c998b58030b4b51;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+影迷數位紀實,http://gat.xyys.site/cdnlive.php?mode=play;id=653851641b5e523daedd47624ad14b61;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+MagellanTV頻道,http://gat.xyys.site/cdnlive.php?mode=play;id=2b0b5bfb261a51babf86681876ddbece;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+HISTORY历史,http://gat.xyys.site/cdnlive.php?mode=play;id=4d210366f315504484adcc159abc91a2;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+TV5MONDESTYLEHD,http://gat.xyys.site/cdnlive.php?mode=play;id=4a92ec4131f956359ec6c1cb2792e2c8;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+CNEX視納華仁紀實,http://gat.xyys.site/cdnlive.php?mode=play;id=ca4408c0df385374a180188ff0678c30;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+ASIA亚洲旅游,http://gat.xyys.site/cdnlive.php?mode=play;id=ba0f99012964503f82d713ba67078172;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+DaVinci達文西頻道,http://gat.xyys.site/cdnlive.php?mode=play;id=bf8b822496fc51779bd41c474493d080;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+CinemaWorld,http://gat.xyys.site/cdnlive.php?mode=play;id=f71c744e16605ff18611280f427a6796;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+GlobalTrekker,http://gat.xyys.site/cdnlive.php?mode=play;id=0654b1af750b530ba0d945c0df2659bf;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+猪哥亮歌厅秀,http://gat.xyys.site/cdnlive.php?mode=play;id=0bc5c24f07ac50a3b6c1a244510800ca;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+Lifetime娱乐频道,http://gat.xyys.site/cdnlive.php?mode=play;id=7679b2ee8b825f37962e55652f7c1541;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+BloombergTV彭博财经,http://gat.xyys.site/cdnlive.php?mode=play;id=a4d3a4d3e633586083c661dd49f9f482;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+ELTV生活英語,http://gat.xyys.site/cdnlive.php?mode=play;id=94b86fabec645a799a669ec25724d54f;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+ABC互動英語,http://gat.xyys.site/cdnlive.php?mode=play;id=e882ceac187c56c5aa1aec0a7e96f894;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+TRACESportStars,http://gat.xyys.site/cdnlive.php?mode=play;id=63d1703e21cb54a785c448a7ef0609b9;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+幸福空间居家,http://gat.xyys.site/cdnlive.php?mode=play;id=8ef9c4505639581fa5a2486352f6c0f2;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+滾動力Rollor,http://gat.xyys.site/cdnlive.php?mode=play;id=88e6422470d75aec8395cc749073c656;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+時尚運動X,http://gat.xyys.site/cdnlive.php?mode=play;id=ecf6480095d65a26a8ff060019d76426;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+車迷TV,http://gat.xyys.site/cdnlive.php?mode=play;id=9596ee83fab651b2bc91058c2585ad74;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+GINXEsportsTV,http://gat.xyys.site/cdnlive.php?mode=play;id=6fe8fc7eef9652ebbfdefee03db20ec3;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+PetClubTV,http://gat.xyys.site/cdnlive.php?mode=play;id=70ef76c2930b539581b6aef3d8da4dbc;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+纬来日本,http://gat.xyys.site/cdnlive.php?mode=play;id=8545932d10f753c69feb6268863a16c1;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+纬来综合,http://gat.xyys.site/cdnlive.php?mode=play;id=b3907f50fc03577a87eeb24990145397;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+三立台湾,http://gat.xyys.site/cdnlive.php?mode=play;id=67c36f71f82053ebbae9103b8b6e710a;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+三立综合,http://gat.xyys.site/cdnlive.php?mode=play;id=85e69fb1627051fc9803c6638106af6f;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
+东森综合,http://gat.xyys.site/cdnlive.php?mode=play;id=5083d5e03ef05f43835b7a29dce023f9;token=q3ER3tR3XcMBvmDUsQAwGbaFEbpOU7Mn
 🚀港澳台频,#genre#
 加载慢耐心等待,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 凤凰中文,http://r.jdshipin.com/cCCzW
@@ -2355,7 +2448,7 @@ CETV4,http://rihou.cc:555/tv/CETV4
 广东体育,http://r.jdshipin.com/LiYdg
 广东珠江,http://r.jdshipin.com/sE5vO
 📺央卫备用2,#genre#
-切换IJK能看,https://cccimg.com/view.php/2f48310f470cb518da48a939728d75d5.mp4
+
 CCTV1,http://go.bkpcp.top/mg/cctv1
 CCTV2,http://go.bkpcp.top/mg/cctv2
 CCTV3,http://go.bkpcp.top/mg/cctv3
@@ -3914,110 +4007,15 @@ GCN教会,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklis
 🇯🇵日本频道,#genre# 
 Space Shower TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
 NHK,https://nhk4.mov3.co/hls/nhk.m3u8
-NHK G HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
-NHK E HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02
-NTV HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03
-TBS HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04
-Fuji TV HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05
-TV Asahi HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
-TV Tokyo HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd07
-TOKYO MX1 HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd08
-NHK G (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
-NHK E (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
-NTV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
-TBS (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
-Fuji TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
-TV Asahi (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
-TV Tokyo (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
-TOKYO MX1 (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
-Jidaigeki Senmon (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
- Toei Channel (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
- Eisei Gekijo (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
- Family Gekijyo (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
- Movie Plus (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
- Home Drama Channel (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
- Tabi Channel (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
- Fuji TV Next (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
- Sky A  (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
- GAORA SPORTS (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
- Golf Network (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
- Nittele G+ (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
- Mondo TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
- Channel Ginga (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
-NHK G Osaka (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
-MBS (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
-ABC (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
-Kansai TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
-ytv (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
-TV Osaka (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
-SUN (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
- Music Japan TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
- Kayo Pops (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
- MTV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
- LaLa TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
- Takarazuka Sky Stage (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
- Kids Staton TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
- Cartoon Network (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
- National Geographic Japan (Primehome) ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
- Disney Junior (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
- Discovery Channel (Primehome)  ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
- Animal Planet (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
- History (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
- CNNj (Primehome) ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
- BBC News (Primehome)  ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
-TBS News (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
-NHK BS (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
-BS NTV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
-BS Asahi (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
-BS TBS (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
-BS TV Tokyo (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
-BS Fuji (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
-NHK BS4K (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
-WOWOW Prime (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
-WOWOW Cinema (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
-WOWOW Live (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
-BS 10 Star Channel (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
-Jidaigeki Senmon (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
- Toei Channel (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
- Eisei Gekijo (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
- Family Gekijyo (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
- Movie Plus (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
- Home Drama Channel (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
- Tabi Channel (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
- Fuji TV Next (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
- Sky A  (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
- GAORA SPORTS (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
- Golf Network (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
- Nittele G+ (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
- Mondo TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
- Channel Ginga (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
- Space Shower TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
- Music Japan TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
- Kayo Pops (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
- MTV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
- LaLa TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
- Takarazuka Sky Stage (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
- Kids Staton TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
- Cartoon Network (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
- National Geographic Japan (Primehome) ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
- Disney Junior (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
- Discovery Channel (Primehome)  ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
- Animal Planet (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
- History (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
- CNNj (Primehome) ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
- BBC News (Primehome)  ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
-TBS News (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
-JSport 1 (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
-JSport 2 (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
-JSport 3 (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
-JSport 4 (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-Green Channel (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
-Animax (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
-Nihon Eiga Senmon (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
-Sky A (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
- Fishing Vision (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
- Disney Channel (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24 
- JCOM BS (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
+群马テレビ,https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
+ウェザーニュース,https://movie.mcas.jp/mcas/wn1_2/master.m3u8
+Tokyo MX 1,https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+Tokyo MX 2,https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+MX Live,https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+WeatherNews,https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
+QVC Japan,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
 🇺🇸美国频道,#genre# 
 国外加载慢,https://i.uik.cc/view.php/80bfa7db9c20f6a884fcc7cae7e36d04.mp4
 News max,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
