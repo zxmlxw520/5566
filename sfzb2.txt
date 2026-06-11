@@ -3,9 +3,9 @@
 //永久免费꙰严禁商业꙰仅供测试꙰违者自负!꙰//       18  98  168
 
 //来源网络，免费分享，请勿追究，谢谢！//
-套餐选择,https://gh-proxy.org/https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/6%E6%9C%881%E6%97%A5(1).mp4
 06.11更新公告,#genre#
 测试频道更新,http://cfss.cc/cdn/du/85894.flv
+套餐选择,https://gh-proxy.org/https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/6%E6%9C%881%E6%97%A5(1).mp4
 🎵点歌台,http://cfss.cc/cdn/du/85894.flv
 🎵周杰伦MV,http://cfss.cc/cdn/du/122402.flv
 🎵TDI Radio TV,https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
@@ -454,7 +454,6 @@ CHC动作电影,https://live.264788.xyz/channel/chcdongzuodianying?streamid=87c1
 凤凰香港,http://aikan.aikanurlzzzonline.top/00IIII/NNNNDSM/HHHHH歡喜/歡喜FC/FFFFFFFFFFRE.php?proxy=wqtl&id=3  
 凤凰电影,http://aikan.aikanurlzzzonline.top/00IIII/NNNNDSM/HHHHH歡喜/歡喜FC/FFFFFFFFFFRE.php?proxy=wqtl&id=4  
 凤凰澳洲,http://aikan.aikanurlzzzonline.top/00IIII/NNNNDSM/HHHHH歡喜/歡喜FC/FFFFFFFFFFRE.php?proxy=wqtl&id=5  
-星空卫视,http://aikan.aikanurlzzzonline.top/00IIII/NNNNDSM/HHHHH歡喜/歡喜FC/FFFFFFFFFFRE.php?proxy=wqtl&id=6  
 TVB翡翠台,http://aikan.aikanurlzzzonline.top/00IIII/NNNNDSM/HHHHH歡喜/歡喜FC/FFFFFFFFFFRE.php?proxy=wqtl&id=7  
 TVB黃金翡翠台,http://aikan.aikanurlzzzonline.top/00IIII/NNNNDSM/HHHHH歡喜/歡喜FC/FFFFFFFFFFRE.php?proxy=wqtl&id=8  
 TVB无线新闻台,http://aikan.aikanurlzzzonline.top/00IIII/NNNNDSM/HHHHH歡喜/歡喜FC/FFFFFFFFFFRE.php?proxy=wqtl&id=9  
@@ -914,16 +913,7 @@ CMusic,https://cdn12.178.indevs.in/163189/d396cb84b6c89889
 DreamWorks梦工厂动画,https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
 精选动漫台,https://cdn12.178.indevs.in/163189/e1d66f74bd2d4894
 金光布袋戏,https://cdn12.178.indevs.in/163189/5479c245d9d580b5
-/
-NOW体育1,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz
-NOW体育2,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382842&extension=ts&play_token=MCoDoR8s9G
-NOW体育3,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=ts&play_token=5uiKCGTNCF
-NOW体育4,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382840&extension=ts&play_token=eoeYdjrkUg
-NOW体育5,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382839&extension=ts&play_token=lu0NOftGgg
-NOW体育6,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382838&extension=ts&play_token=WQ4pi5DTy3
-NOW体育7,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382837&extension=ts&play_token=rRmhe1TsX7
-NOW体育4K1,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382836&extension=ts&play_token=jSAYXQsMoY
-NOW体育,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382834&extension=ts&play_token=JBOlpsgTKU
+
 /
 ⬇️不稳定,1
 HOY76,https://cdn11.163189.xyz/163189/hoy76
