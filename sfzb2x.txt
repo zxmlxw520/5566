@@ -482,7 +482,6 @@ CHC动作电影,https://live.264788.xyz/channel/chcdongzuodianying?streamid=87c1
 有线亚剧,https://cdn2.163189.xyz/163189/hoyjj
 无线新闻,https://cdn6.163189.xyz/163189/wxxw
 无线翡翠,https://cdn6.163189.xyz/163189/fct
-无线翡翠4K,https://cdn6.163189.xyz/163189/fct4k
 无线华丽,https://cdn6.163189.xyz/163189/hlfct
 无线明珠,https://cdn6.163189.xyz/163189/mzt
 无线星河,https://cdn6.163189.xyz/163189/tvbxh
@@ -509,23 +508,22 @@ Now新闻台,http://cdn.163189.xyz/163189/now
 明珠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=mzt
 明珠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=mzt2
 TVB J1,https://php.jdshipin.com:2096/TVOD/iptv.php?id=j1
-TVB Plus,https://php.jdshipin.com:2096/TVOD/iptv.php?id=j2
 TVB Plus,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbp
 无线新闻,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbxw
 无线新闻,https://php.jdshipin.com:2096/TVOD/iptv.php?id=wxxwt
 VIUTV,https://php.jdshipin.com:2096/TVOD/iptv.php?id=viutv
 VIUTV,https://php.jdshipin.com:2096/TVOD/iptv.php?id=viutv2
-HOY TV,https://php.jdshipin.com:2096/TVOD/iptv.php?id=hoytv
-HOY TV,https://php.jdshipin.com:2096/TVOD/iptv.php?id=hoytv2
-HOY资讯台,http://cdn.163189.xyz/163189/hoy78
-HOY剧集台,http://cdn.163189.xyz/163189/hoyjj
+HOY76,https://cdn11.163189.xyz/163189/hoy76
+HOY76,http://iptv.4666888.xyz/iptv2A.php?id=87
+HOY77,https://php.jdshipin.com:2096/TVOD/iptv.php?id=hoytv
+HOY77,https://php.jdshipin.com:2096/TVOD/iptv.php?id=hoytv2
+HOY78,http://cdn.163189.xyz/163189/hoy78
 凤凰中文,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhzw
 凤凰中文,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhzw2
 凤凰资讯,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhzx
 凤凰资讯,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhzx2
 凤凰香港,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhhk
 凤凰香港,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhhk2
-美亚电影,https://php.jdshipin.com:2096/TVOD/iptv.php?id=meiya
 重温经典,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cwjd
 广东珠江,https://php.jdshipin.com:2096/TVOD/iptv.php?id=gdzj
 广东体育,https://php.jdshipin.com:2096/TVOD/iptv.php?id=gdty
@@ -534,7 +532,7 @@ HOY剧集台,http://cdn.163189.xyz/163189/hoyjj
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
-凤凰咨询,http://feilong123.vip/409990236/hktv.php?id=1
+凤凰资讯,http://feilong123.vip/409990236/hktv.php?id=1
 凤凰香港,http://feilong123.vip/409990236/hktv.php?id=2
 凤凰中文,http://feilong123.vip/409990236/hktv.php?id=3
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
@@ -645,7 +643,6 @@ CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
 龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
 /
 中天新闻,https://my5353.com/ztxw#rtmp://ai.unispc.com/live/nb-py-ztxw
-唐NTD,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 寰宇新闻,http://rihou.cc:555/tv/寰宇新闻
 东森新闻,http://rihou.cc:555/tv/东森新闻
@@ -736,10 +733,6 @@ KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
 美國城市衛視,http://38.64.72.148/hls/modn/list/4028/playlist.m3u8
 
 
-/
-⬇️不稳定,1
-HOY76,https://cdn11.163189.xyz/163189/hoy76
-HOY76,http://iptv.4666888.xyz/iptv2A.php?id=87
 🚀港澳台频,#genre#
 加载慢耐心等待,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 凤凰中文,http://r.jdshipin.com/cCCzW
@@ -4383,21 +4376,21 @@ RNA,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 强森电影,http://cfss.cc/cdn/huya/21059581.flv
 金庸武侠,http://cfss.cc/cdn/huya/11342435.flv
 永夜星河,http://cfss.cc/cdn/huya/23734169.flv
-电影_武侠,http://cfss.cc/cdn/huya/11342427.flv
-电影_玄幻,http://cfss.cc/cdn/huya/11342414.flv
-电影_国产,http://cfss.cc/cdn/huya/11352973.flv
-电影_洪金宝,http://cfss.cc/cdn/huya/11279251.flv
-电影_斯坦森,http://cfss.cc/cdn/huya/21059588.flv
-电影_功夫片,http://cfss.cc/cdn/huya/11352941.flv
-剧集_老三国,http://cfss.cc/cdn/huya/11602081.flv
+武侠,http://cfss.cc/cdn/huya/11342427.flv
+玄幻,http://cfss.cc/cdn/huya/11342414.flv
+国产,http://cfss.cc/cdn/huya/11352973.flv
+洪金宝,http://cfss.cc/cdn/huya/11279251.flv
+斯坦森,http://cfss.cc/cdn/huya/21059588.flv
+功夫片,http://cfss.cc/cdn/huya/11352941.flv
+老三国,http://cfss.cc/cdn/huya/11602081.flv
 猫和老鼠动漫,http://cfss.cc/cdn/huya/11352879.flv
-电影_不挤影院,http://cfss.cc/cdn/huya/11352897.flv
-电影_许氏三杰,http://cfss.cc/cdn/huya/11602033.flv
-电影_高分动作,http://cfss.cc/cdn/huya/11352884.flv
-电影_欢笑影院,http://cfss.cc/cdn/huya/11352894.flv
-电影_国产悬疑,http://cfss.cc/cdn/huya/11342395.flv
-电影_黑帮斗争,http://cfss.cc/cdn/huya/11342419.flv
-电影_喜乐影院,http://cfss.cc/cdn/huya/21059580.flv
+不挤影院,http://cfss.cc/cdn/huya/11352897.flv
+许氏三杰,http://cfss.cc/cdn/huya/11602033.flv
+高分动作,http://cfss.cc/cdn/huya/11352884.flv
+欢笑影院,http://cfss.cc/cdn/huya/11352894.flv
+国产悬疑,http://cfss.cc/cdn/huya/11342395.flv
+黑帮斗争,http://cfss.cc/cdn/huya/11342419.flv
+喜乐影院,http://cfss.cc/cdn/huya/21059580.flv
 亮剑,http://cfss.cc/cdn/huya/30080238.flv
 雪豹,http://cfss.cc/cdn/huya/29580970.flv
 名侦探柯南剧场版,http://cfss.cc/cdn/huya/30080236.flv
@@ -5111,6 +5104,7 @@ w_400,https://live.ottiptv.cc/yy/1354693629
 楚留香,https://live.ottiptv.cc/huya/20969124
 
 🎬综艺频道,#genre#
+放不了多按几次OK,https://live.ottiptv.cc/huya/21969336
 李子柒,https://live.ottiptv.cc/huya/21969336
 韩国综艺,https://live.ottiptv.cc/huya/11336725
 男生女生向前冲,https://live.ottiptv.cc/huya/30021042
