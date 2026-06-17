@@ -2095,11 +2095,200 @@ ICS频道,http://218.1.208.13:7777/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8
 潼南综合,http://183.230.184.51:65500/tntv1.m3u8
 港台频道,#genre#
-
-信号维护中,https://i.uik.cc/view.php/80a2428a2411659f9ca9a39efd55dc69.mp4
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk
+SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
+SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
+astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
+TntSports1,http://iptv.4666888.xyz/iptv2A.php?id=3
+智林體育,http://iptv.4666888.xyz/iptv2A.php?id=5
+JSPORTS1,http://iptv.4666888.xyz/iptv2A.php?id=6
+SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=62
+鳳凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
+TVB黃金華劇,http://iptv.4666888.xyz/iptv2A.php?id=34
+TVB翡翠(馬來),http://iptv.4666888.xyz/iptv2A.php?id=28
+TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+千禧經典,http://iptv.4666888.xyz/iptv2A.php?id=22
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+TVB-獎門人,http://iptv.4666888.xyz/iptv2A.php?id=31
+TVB-金曲,http://iptv.4666888.xyz/iptv2A.php?id=57
+RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+TVB娛樂新聞,http://iptv.4666888.xyz/iptv2A.php?id=36
+MYTV黃金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
+TVB翡翠劇集,http://iptv.4666888.xyz/iptv2A.php?id=33
+澳視澳門,http://iptv.4666888.xyz/iptv2A.php?id=41
+中國電影,http://iptv.4666888.xyz/iptv2A.php?id=61
+TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
+非凡新聞,http://iptv.4666888.xyz/iptv2A.php?id=44
+民視,http://iptv.4666888.xyz/iptv2A.php?id=55
+華藝中文,http://iptv.4666888.xyz/iptv2A.php?id=37
+愛奇藝,http://iptv.4666888.xyz/iptv2A.php?id=21
+靖洋戲劇,http://iptv.4666888.xyz/iptv2A.php?id=42
+靖天電影,http://iptv.4666888.xyz/iptv2A.php?id=56
+東森電影,http://iptv.4666888.xyz/iptv2A.php?id=48
+緯來電影,http://iptv.4666888.xyz/iptv2A.php?id=54
+龍華電影,http://iptv.4666888.xyz/iptv2A.php?id=45
+龍華洋片,http://iptv.4666888.xyz/iptv2A.php?id=60
+風雲恐怖電影,http://iptv.4666888.xyz/iptv2A.php?id=59
+ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
+梦工场动漫,http://iptv.4666888.xyz/iptv2A.php?id=40
+DuckTV兒童卡通,http://iptv.4666888.xyz/iptv2A.php?id=39
+MOMO親子,http://iptv.4666888.xyz/iptv2A.php?id=49
+金光布袋戲,http://iptv.4666888.xyz/iptv2A.php?id=38
+民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
+民視影劇,http://iptv.4666888.xyz/iptv2A.php?id=53
+TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
+臺視綜合,http://iptv.4666888.xyz/iptv2A.php?id=51
+東森綜合2,http://iptv.4666888.xyz/iptv2A.php?id=58
+八度空間,http://iptv.4666888.xyz/iptv2A.php?id=52
+韓流美食料理秀,http://iptv.4666888.xyz/iptv2A.php?id=63
+娛樂百分百,http://iptv.4666888.xyz/iptv2A.php?id=64
+綜藝大贏家,http://iptv.4666888.xyz/iptv2A.php?id=65
 
 全球频道,#genre# 
-信号维护中,https://i.uik.cc/view.php/80a2428a2411659f9ca9a39efd55dc69.mp4
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+RT新闻,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+RT纪录,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+美国·彭博财经,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+加拿大·Global新闻,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+KCBS-TV CBS 2 (Los Angeles CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2637.ts
+KNBC-TV NBC 4 (Los Angeles CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2453.ts
+KTLA-TV CW 5 (Los Angeles CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/87547.ts
+KABC-TV ABC 7 (Los Angeles CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2684.ts
+KCAL-TV CBS/Ind. 9 (Los Angeles CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/87548.ts
+KTTV-TV FOX 11 (Los Angeles CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2550.ts
+KCOP-TV MyNetworkTV 13 (FOX 11+) (Los Angeles CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2478.ts
+KSWB-TV FOX 5/69 (San Diego CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2534.ts
+KNSD-TV NBC 7/39 (San Diego CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2439.ts
+KFMB-TV CBS 8.1 (CBS 8+) (San Diego CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2623.ts
+KFMB-DT CW/MyNetworkTV 8.2 (San Diego CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/446862.ts
+KGTV-TV ABC 10 (San Diego CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2670.ts
+KUSI-TV Ind. 51 (San Diego CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/710371.ts
+印度Ayushu,http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+印度9Bharatvarsh,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
+西班牙DW Español ,https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+墨西哥Alcarria TV,http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
+芬兰Alfa,https://irrtv2.digitacdn.net/live/ott/irrtv/playlist.m3u8?organizationId=229401409&suiteItemId=230439940
+卡塔尔Al Jazeera Arabic,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+俄罗斯极限电影,http://ef90a6cd.rossteleccom.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/14158/index.m3u8
+俄罗斯Russia Today,https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+俄罗斯ACTPA,http://streaming.astrakhan.ru/astrakhan24/tracks-v3a1/mono.m3u8
+18,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
+俄罗斯News max,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+俄罗斯HOPE,http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+俄罗斯OCKO,http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+俄罗斯OCKO2,http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+俄罗斯UNIVER,http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
+俄罗斯ACT,http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+俄罗斯GITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+半岛新闻,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8#https://live-hls-v3-aje.getaj.net/AJE-V3/01.m3u8#https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+伊朗新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+COZI TV SD,http://108.181.20.255:27347/livehttpplay?channel_id=23000
+TELEXITOS SD,http://108.181.20.255:27347/livehttpplay?channel_id=23001
+TELEMUNDO WEST HD,http://108.181.20.255:27347/livehttpplay?channel_id=23002
+TELEMUNDO EAST HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23003
+TELEMUNDO MOUNTAIN HD,http://108.181.20.255:27347/livehttpplay?channel_id=23004
+GOLF CHANNEL HD,http://108.181.20.255:27347/livehttpplay?channel_id=23005
+UNIVERSAL KIDS HD,http://108.181.20.255:27347/livehttpplay?channel_id=23006
+TV ONE HD,http://108.181.20.255:27347/livehttpplay?channel_id=23007
+E! WEST HD,http://108.181.20.255:27347/livehttpplay?channel_id=23008
+MTV WEST HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23009
+NICK EAST HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23010
+MTV HITS HD,http://108.181.20.255:27347/livehttpplay?channel_id=23011
+PARAMOUND  WEST HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23012
+PARAMOUND CANADÁ HD,http://108.181.20.255:27347/livehttpplay?channel_id=23013
+LOGO EAST HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23014
+CMT WEST HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23015
+AFN prime pacific HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23016
+AFN family HD,http://108.181.20.255:27347/livehttpplay?channel_id=23017
+AFN movie HD,http://108.181.20.255:27347/livehttpplay?channel_id=23018
+AFN spectrum HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23019
+AFN sports HD,http://108.181.20.255:27347/livehttpplay?channel_id=23020
+AFN sports 2 HD,http://108.181.20.255:27347/livehttpplay?channel_id=23021
+LAS ESTRELLAS HD,http://108.181.20.255:27347/livehttpplay?channel_id=23022
+LAS ESTRELLAS HD -1HORA,http://108.181.20.255:27347/livehttpplay?channel_id=23023
+LAS ESTRELLAS HD -2HORA,http://108.181.20.255:27347/livehttpplay?channel_id=23024
+CANAL 5 HD,http://108.181.20.255:27347/livehttpplay?channel_id=23025
+CANAL 5 HD -1 HORA ,http://108.181.20.255:27347/livehttpplay?channel_id=23026
+NU9VE HD,http://108.181.20.255:27347/livehttpplay?channel_id=23027
+AZTECA1 HD,http://108.181.20.255:27347/livehttpplay?channel_id=23028
+AZTECA1 HD -HORAS ,http://108.181.20.255:27347/livehttpplay?channel_id=23029
+ADN 40 HD,http://108.181.20.255:27347/livehttpplay?channel_id=23030
+a mas+HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23031
+SKYSPORTS LA LIGA(DEMO),http://108.181.20.255:27347/livehttpplay?channel_id=23032
+FutTV HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23033
+truTV HD,http://108.181.20.255:27347/livehttpplay?channel_id=23034
+DREAMWORKS HD,http://108.181.20.255:27347/livehttpplay?channel_id=23035
+GOLDEN HD,http://108.181.20.255:27347/livehttpplay?channel_id=23036
+Europa/europa HD,http://108.181.20.255:27347/livehttpplay?channel_id=23037
+GOLDEN EDGE HD,http://108.181.20.255:27347/livehttpplay?channel_id=23038
+GOLDEN PREMIER HD,http://108.181.20.255:27347/livehttpplay?channel_id=23039
+ÚNICABLE HD,http://108.181.20.255:27347/livehttpplay?channel_id=23040
+BANDAMAX HD,http://108.181.20.255:27347/livehttpplay?channel_id=23041
+TELEMUNDO HD,http://108.181.20.255:27347/livehttpplay?channel_id=23042
+DISTRITO COMEDIA HD,http://108.181.20.255:27347/livehttpplay?channel_id=23043
+NICK JR HD,http://108.181.20.255:27347/livehttpplay?channel_id=23044
+CARTOON NETWORK HD,http://108.181.20.255:27347/livehttpplay?channel_id=23045
+GOLDEN HD,http://108.181.20.255:27347/livehttpplay?channel_id=23046
+GOLDEN EDGE HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23047
+TUDN MX HD,http://108.181.20.255:27347/livehttpplay?channel_id=23048
+HBO FAMILY HD,http://108.181.20.255:27347/livehttpplay?channel_id=23049
+UNIVERSAL PREMIER HD,http://108.181.20.255:27347/livehttpplay?channel_id=23050
+UNIVERSAL CINEMA HD,http://108.181.20.255:27347/livehttpplay?channel_id=23051
+UNIVERSAL CRIME HD,http://108.181.20.255:27347/livehttpplay?channel_id=23052
+UNIVERSAL REALITYKIT HD,http://108.181.20.255:27347/livehttpplay?channel_id=23053
+FOX PREMIUM HD,http://108.181.20.255:27347/livehttpplay?channel_id=23054
+FOX SPORTS 3 HD,http://108.181.20.255:27347/livehttpplay?channel_id=23055
+GOLTV HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23056
+Hallmark East HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23057
+Hallmark West HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23058
+Hallmark Movie East HD,http://108.181.20.255:27347/livehttpplay?channel_id=23059
+Hallmark Movie west HD,http://108.181.20.255:27347/livehttpplay?channel_id=23060
+Hallmark Drama HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23061
+BET Caribe HD,http://108.181.20.255:27347/livehttpplay?channel_id=23062
+BET Canadá HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23063
+BET East HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23064
+BET Her Caribe HD,http://108.181.20.255:27347/livehttpplay?channel_id=23065
+BET BET West HD,http://108.181.20.255:27347/livehttpplay?channel_id=23066
+OXYGEN West HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23067
+OXYGEN EAST HD,http://108.181.20.255:27347/livehttpplay?channel_id=23068
+USA HD,http://108.181.20.255:27347/livehttpplay?channel_id=23069
+BRAVO HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23070
+SyFy East HD,http://108.181.20.255:27347/livehttpplay?channel_id=23071
+MGM+HD,http://108.181.20.255:27347/livehttpplay?channel_id=23072
+MGM+WEST HD,http://108.181.20.255:27347/livehttpplay?channel_id=23073
+MGM+HITS HD,http://108.181.20.255:27347/livehttpplay?channel_id=23074
+MGM+MARQUE HD,http://108.181.20.255:27347/livehttpplay?channel_id=23075
+MGM+DRIVE HD,http://108.181.20.255:27347/livehttpplay?channel_id=23076
+CMT EAST HD,http://108.181.20.255:27347/livehttpplay?channel_id=23077
+MTV EAST HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23078
+NICK WEST HD,http://108.181.20.255:27347/livehttpplay?channel_id=23079
+VH1 WEST HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23080
+MTV LIVE HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23081
+PARAMOUND EAST HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23082
+COMEDY WEST HD,http://108.181.20.255:27347/livehttpplay?channel_id=23083
+REVOLT HD,http://108.181.20.255:27347/livehttpplay?channel_id=23084
+Story HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23085
+UNIVERSO EAST HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23086
+UNIVERSO WEST HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23087
+UNIVISION EAST HD,http://108.181.20.255:27347/livehttpplay?channel_id=23088
+UNIVISION WEST HD,http://108.181.20.255:27347/livehttpplay?channel_id=23089
+GALAVISION EAST HD,http://108.181.20.255:27347/livehttpplay?channel_id=23090
+GALAVISION WEST HD,http://108.181.20.255:27347/livehttpplay?channel_id=23091
+UNIVISION TUDN USA HD,http://108.181.20.255:27347/livehttpplay?channel_id=23092
+UNIMAS EAST HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23093
+UNIMAS WEST HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23094
+Pac-12 Network HD,http://108.181.20.255:27347/livehttpplay?channel_id=23095
+MAVTV HD WEST,http://108.181.20.255:27347/livehttpplay?channel_id=23096
+HGTV HD WEST,http://108.181.20.255:27347/livehttpplay?channel_id=23097
+FOOD NETWORK HD WEST,http://108.181.20.255:27347/livehttpplay?channel_id=23098
+TRAVEL CHANNEL HD WEST,http://108.181.20.255:27347/livehttpplay?channel_id=23099
 虎牙轮播,#genre#
 黄渤,http://cfss.cc/cdn/huya/11352876.flv
 沈腾,http://cfss.cc/cdn/huya/11601968.flv
