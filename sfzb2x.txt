@@ -935,6 +935,7 @@ BBC_Earth,http://iptv.4666888.xyz/iptv2A.php?id=53
 靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
 东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
 🌈4G台湾,#genre#
+加载慢耐心等待,https://4gtv.158.qzz.io/163189/57170774-e
 民視第一台,https://4gtv.158.qzz.io/163189/57170774-ef9b-4091-94fb-55f6faf13691/
 民視第一台,https://4gtv.158.qzz.io/163189/4e693d45-7ab4-4894-a983-fb494ad9a0f7/
 民視第一台,https://4gtv.158.qzz.io/163189/371b5477-368d-43c5-ad69-f8b56c40c6ca/
@@ -13596,7 +13597,7 @@ SixDegree,https://cfss.cc/api/kg/13221831.mp4
 6,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 7,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 8,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
-香蕉,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
+9,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
 韩国女团01,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
 韩国女团02,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
 韩国女团03,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
