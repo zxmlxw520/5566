@@ -3,8 +3,8 @@
 //永久免费꙰严禁商业꙰仅供测试꙰违者自负!꙰//       18  98  168
 
 //来源网络，免费分享，请勿追究，谢谢！//
-06.11更新公告,#genre#
-测试频道更新,http://cfss.cc/cdn/du/85894.flv
+6.19端午快乐,#genre#
+频道更新,http://cfss.cc/cdn/du/85894.flv
 套餐选择,https://gh-proxy.org/https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/6%E6%9C%881%E6%97%A5(1).mp4
 🎵点歌台,http://cfss.cc/cdn/du/85894.flv
 🎵周杰伦MV,http://cfss.cc/cdn/du/122402.flv
@@ -13588,7 +13588,15 @@ SixDegree,https://cfss.cc/api/kg/13221831.mp4
 ❥35,https://188sp.711888.xyz/188/video.php
 ❥36,https://api.e1e1.top/whole/w.php 
 ❥37,https://xn--vusr00g.v.nxog.top/m/tv/xjj.php?id=0
-
+1,rtmp://112.29.121.74/live/易發TV-jyt
+2,rtmp://112.29.121.74/live/易發TV-xjt
+3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+4,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+5,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+6,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+7,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+8,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+香蕉,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
 韩国女团01,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
 韩国女团02,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
 韩国女团03,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
