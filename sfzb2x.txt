@@ -70,7 +70,11 @@ kix,https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
 1905国外,http://115.190.194.179:82/1905.php?id=1905b
 淘电影,http://36.110.54.118:866/hls/21/index.m3u8
 淘剧场,http://36.110.54.118:866/hls/20/index.m3u8
-
+美亚电影,http://rihou.cc:555/tv/美亚电影
+NOW爆谷,http://rihou.cc:555/tv/爆谷台
+NOW星影,http://rihou.cc:555/tv/星影台
+中国电影,http://gat.xyys.site/cdnlive.php?mode=play;id=c5f0c4c714a85562b87f44d500725691;token=CADtQqrhvJcKnfMGNgqMrhDsYuV86aY7
+PopC电影,http://gat.xyys.site/cdnlive.php?mode=play;id=ab975bfc34c6545486c0a9fd1c187f45;token=CADtQqrhvJcKnfMGNgqMrhDsYuV86aY7
 CHC动作电影,http://rihou.cc:555/tv/CHC动作电影
 CHC影迷电影,http://rihou.cc:555/tv/CHC影迷电影
 CHC家庭影院,http://rihou.cc:555/tv/CHC家庭影院
@@ -510,7 +514,7 @@ TVB Plus,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbp
 VIUTV,https://php.jdshipin.com:2096/TVOD/iptv.php?id=viutv
 VIUTV,https://php.jdshipin.com:2096/TVOD/iptv.php?id=viutv2
 HOY76,https://cdn11.163189.xyz/163189/hoy76
-HOY76,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vTXCuW&tk=aUcnTVRl3MU0
+HOY76,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1xorRl&tk=B9eddFxBG9JM
 HOY77,https://php.jdshipin.com:2096/TVOD/iptv.php?id=hoytv
 HOY77,https://php.jdshipin.com:2096/TVOD/iptv.php?id=hoytv2
 HOY78,http://cdn.163189.xyz/163189/hoy78
@@ -641,9 +645,9 @@ CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
 龙华日韩,http://cdn8.163189.xyz/163189/lhrh
 龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
 /
-广东珠江HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Jqcosr&tk=aUcnTVRl3MU0
-寰宇新聞台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JP9JTo&tk=aUcnTVRl3MU0
-中天新聞台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=G8vMmy&tk=aUcnTVRl3MU0
+
+寰宇新聞台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JP9JTo&tk=B9eddFxBG9JM
+中天新聞台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=G8vMmy&tk=B9eddFxBG9JM
 中天新闻,https://my5353.com/ztxw#rtmp://ai.unispc.com/live/nb-py-ztxw
 新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 寰宇新闻,http://rihou.cc:555/tv/寰宇新闻
@@ -668,11 +672,7 @@ BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStud
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 NBA1,http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
 天映频道马来西亚,http://o11.163189.xyz/stream/live/typd/
-动物星球台湾,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ahxc1T&tk=aUcnTVRl3MU0
-Asia,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MARKH5&tk=aUcnTVRl3MU0
-DMAX,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PhaSIn&tk=aUcnTVRl3MU0
-EVE,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6ucXZ3&tk=aUcnTVRl3MU0
-Science,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ltRrBn&tk=aUcnTVRl3MU0
+
 APETITO,https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
 AURA,https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
 FITRAH,https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
@@ -906,23 +906,7 @@ HOY资讯台,http://push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
 澳视卫星,http://push.cdn1.hls123.de:8080/streams/gese9d57376/index.m3u8
 澳门莲花,http://push.cdn1.hls123.de:8080/streams/8nsrl4s4evv/index.m3u8
 重温经典,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8
-中天新闻,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=AvU3jH&tk=aUcnTVRl3MU0
-中天綜合,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2S87Cs&tk=aUcnTVRl3MU0
-中天娛樂,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HcxCjh&tk=aUcnTVRl3MU0
-好萊塢電影,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EkM0xN&tk=aUcnTVRl3MU0
-龍祥時代,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YqWNsE&tk=aUcnTVRl3MU0
-CINEMAX,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KW7vwE&tk=aUcnTVRl3MU0
-MTV Live,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GR0Zgy&tk=aUcnTVRl3MU0
-東森電影,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Q25LQZ&tk=aUcnTVRl3MU0
-東森洋片,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bX4x6g&tk=aUcnTVRl3MU0
-東森綜合,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1aT0UX&tk=aUcnTVRl3MU0
-東森戲劇,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TYFi9Y&tk=aUcnTVRl3MU0
-東森幼幼,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=93oXD1&tk=aUcnTVRl3MU0
-緯來日本,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7lfgT2&tk=aUcnTVRl3MU0
-緯來體育,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WvaIRk&tk=aUcnTVRl3MU0
-緯來綜合,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=REnUT0&tk=aUcnTVRl3MU0
-緯來戲劇,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lrtwpL&tk=aUcnTVRl3MU0
-緯來育樂,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=G4L5QG&tk=aUcnTVRl3MU0
+
 翡翠台 A,http://www.kaniptv.cn/ua3.php?etoken=TmHDCyjKw5dbtzfIW163Ttp4R7wzoCaPknMYnC9Bl1LmCQ6CB9ASCyfqUM3Vto4NkWsTPul%2FG497JmrtrQddSHp8FpRVH3UCDbiEpezqrzvKrP1imf06nxUy9SI4fXfMkdhmu6tJFc7AdJtWgspo%2BFN2zFSLBeETp9uhVRe%2FstDhW3qXC4P9xNoa%2F%2FFMo20vWIDv9OzE%2BrYoWcGDtnrOOnxldRtSVfWop3aMfWkfs2u4yRjBLT5CJEEpKqheo880VXXcvemhhGjxo9thb%2FMyaxu0Xu7RRAclBpj6bPV6bSNLkKOokRCtKBi8Nz5JcKZNGSUMFQLwqcBJ%2BXMhrPbR1g%3D%3D
 翡翠台 B,http://www.kaniptv.cn/ua3.php?etoken=MZkgbVUZJ9sKeS%2Fv%2BfZzS6M7YbX%2FGxmcER5hgJYAqz1jxMLf1uBcuIKydc5A2nPul1IvwyesydX6MwcVTz9i5tLhhc8Pxn%2BHTooWwhDzMWMdhSpcJbjqMaycxJfAfA5QNtHuPtMJgyzk089oUNKXLOH9cxvhwLNxugsvp%2BElr1EtEsxcDODhe2AYN30S54i3I0UgMB1YJNN35ZJoryFmmrw%2BPt2FxqHdWS5wuUa5PR%2FV8CqZgYw6II%2BoJn9C9KGV5T7gSYY7Ql0MUS4CXWrJmmsPVfKbu3mivm2pWAzR%2Fp1hPmy17sfNBgx6YcR1c65wICZ%2FrhNsILyTb9yYKUBamA%3D%3D
 无线新闻 A,http://www.kaniptv.cn/ua3.php?etoken=JN4oP6EQ3pxYlJJm1Icq9y82ye%2BvjM1EWXsx2Y8cIWRTvJSwr8MI7uwVVFe31eG8mfoxv7toSZq9Mn2Yi2FfLCaEP8IsVQBjLyHIxjMJ03qDXhrScayywqjzt%2F7FKqtLJ5%2BQCm6NK7s942NF0kdHufegr%2F8HQ7Q4AMaOjP48GnN7E01xFI2NkTtXblRRGmPS7FYASOE6Sp7%2FzpOOp8B66QlRaxTUYzuU00qxjGUVCerv8tbiGAT4frhk2D20KnRTs1Ctqpkul0SPelPmvoP3ZXfHT4Fd0S6T7Hp8EJARsZj9RPqHTTXPfWzNv3B%2Bn8%2FyNUJ9go7TQJMRezrEDbFQkw%3D%3D
