@@ -1997,7 +1997,10 @@ ICS频道,http://218.1.208.13:7777/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8
 潼南综合,http://183.230.184.51:65500/tntv1.m3u8
-港台频道,#genre#
+获取密码,#genre#
+夸克网盘获取,https://i.uik.cc/view.php/a2980eb44891ae8d2dfede1e04a92451.mp4
+
+港台频道_778899,#genre#
 
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
@@ -2163,7 +2166,7 @@ Now星影,http://rihou.cc:555/tv/[Hv]Now星影
 重温经典,https://cdn6.163189.xyz/163189/cwjd
 
 
-全球频道,#genre# 
+全球频道_778899,#genre# 
 News max,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 RT新闻,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 RT纪录,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
