@@ -2000,7 +2000,7 @@ ICS频道,http://218.1.208.13:7777/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1
 获取密码,#genre#
 夸克网盘获取,https://i.uik.cc/view.php/a2980eb44891ae8d2dfede1e04a92451.mp4
 
-港台频道_778899,#genre#
+港台频道_668855,#genre#
 
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
@@ -2166,7 +2166,7 @@ Now星影,http://rihou.cc:555/tv/[Hv]Now星影
 重温经典,https://cdn6.163189.xyz/163189/cwjd
 
 
-全球频道_778899,#genre# 
+全球频道_668855,#genre# 
 News max,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 RT新闻,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 RT纪录,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
@@ -8661,7 +8661,7 @@ SixDegree,https://cfss.cc/api/kg/13221831.mp4
 半兽人,https://cfss.cc/api/kg/757003.mp4
 瓦解,https://txmov2.a.kwimgs.com/upic/2025/05/18/18/BMjAyNTA1MTgxODM3NDdfMTA1MDEwOTk4Ml8xNjQ2MDE0MjY0NjVfMl8z_b_Bbfb62e6b9d724cd45a3ed462e4c16f39.mp4
 秘密花园,https://k0u3cydy43yaz.djvod.ndcimgs.com/bs2/photo-video-mz/5225864605208445410_36e3cffbcde751f5_4169_sl200hd15.mp4
-欣赏频道_778899,#genre#
+欣赏频道_668855,#genre#
 画面比例调原始,1
 赵本删不删,http://live.nctv.top/douyu1.php?id=9837104
 车模颜值大赏,http://live.nctv.top/douyu1.php?id=10118209
