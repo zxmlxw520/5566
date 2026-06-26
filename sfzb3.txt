@@ -483,28 +483,6 @@ TVB明珠台,http://115.44.140.5:18180/TV00000000000000000035@HHZT
 RTHK31,http://115.44.140.5:18180/TV00000000000000000019@HHZT
 RTHK32,http://115.44.140.5:18180/TV00000000000000000017@HHZT
 viutv,http://115.44.140.5:18180/TV00000000000000000037@HHZT
-翡翠台,http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
-明珠台,http://push.cdn1.hls123.de:8080/streams/89a8p45a15e/index.m3u8
-TVB Plus,http://push.cdn1.hls123.de:8080/streams/gw8n98gubb4/index.m3u8
-无线新闻,http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
-极限电影台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GJSQxh&tk=B9eddFxBG9JM
-TVB星河,http://push.cdn1.hls123.de:8080/streams/hbiwgswysds/index.m3u8
-华丽翡翠台,http://push.cdn1.hls123.de:8080/streams/n6dnsi33w2e/index.m3u8
-ViuTV,http://push.cdn1.hls123.de:8080/streams/iewbjlpp9v/index.m3u8
-ViuTVsix,http://push.cdn1.hls123.de:8080/streams/5lthhpr4cx3/index.m3u8
-Now新闻台,http://push.cdn1.hls123.de:8080/streams/zed7kdzyh1/index.m3u8
-HOY TV,http://push.cdn1.hls123.de:8080/streams/dguce4v9b69/index.m3u8
-HOY资讯台,http://push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
-极限电影台,p3p://94.130.51.14:19906/6109e9bb0005fd87fd9ce5ea2c1f18d3
-凤凰中文,http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
-凤凰资讯,http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
-凤凰香港,http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
-澳视澳门,http://push.cdn1.hls123.de:8080/streams/2r8ba88ujh6/index.m3u8
-澳视卫星,http://push.cdn1.hls123.de:8080/streams/gese9d57376/index.m3u8
-澳门莲花,http://push.cdn1.hls123.de:8080/streams/8nsrl4s4evv/index.m3u8
-重温经典,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8
-
-
 HOY76,https://cdn11.163189.xyz/163189/hoy76
 HOY77,https://php.jdshipin.com:2096/TVOD/iptv.php?id=hoytv
 HOY77,https://php.jdshipin.com:2096/TVOD/iptv.php?id=hoytv2
@@ -602,28 +580,73 @@ KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
 
 
 
-🚀港澳风云,#genre#
-翡翠台,http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
-明珠台,http://push.cdn1.hls123.de:8080/streams/89a8p45a15e/index.m3u8
-TVB Plus,http://push.cdn1.hls123.de:8080/streams/gw8n98gubb4/index.m3u8
-无线新闻,http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
-TVB星河,http://push.cdn1.hls123.de:8080/streams/hbiwgswysds/index.m3u8
-Now618,http://free.frp.vip:10092/player.php?id=lt/K/NowSports618
-华丽翡翠台,http://push.cdn1.hls123.de:8080/streams/n6dnsi33w2e/index.m3u8
-ViuTV,http://push.cdn1.hls123.de:8080/streams/iewbjlpp9v/index.m3u8
-ViuTVsix,http://push.cdn1.hls123.de:8080/streams/5lthhpr4cx3/index.m3u8
-Now新闻台,http://push.cdn1.hls123.de:8080/streams/zed7kdzyh1/index.m3u8
-HOY TV,http://push.cdn1.hls123.de:8080/streams/dguce4v9b69/index.m3u8
-HOY资讯台,http://push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
-极限电影台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GJSQxh&tk=aUcnTVRl3MU0
-凤凰中文,http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
-凤凰资讯,http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
-凤凰香港,http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
-澳视澳门,http://push.cdn1.hls123.de:8080/streams/2r8ba88ujh6/index.m3u8
-澳视卫星,http://push.cdn1.hls123.de:8080/streams/gese9d57376/index.m3u8
-澳门莲花,http://push.cdn1.hls123.de:8080/streams/8nsrl4s4evv/index.m3u8
-重温经典,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8
 
+
+🚀港澳风云,#genre#
+凤凰中文,http://115.44.140.5:18180/TV00000000000000000008@HHZT
+凤凰资讯,http://115.44.140.5:18180/TV00000000000000000009@HHZT
+凤凰香港,http://115.44.140.5:18180/TV00000000000000000024@HHZT
+TVB翡翠台,http://115.44.140.5:18180/TV00000000000000000032@HHZT
+TVB无线新闻台,http://115.44.140.5:18180/TV00000000000000000034@HHZT
+TVB明珠台,http://115.44.140.5:18180/TV00000000000000000035@HHZT
+RTHK31,http://115.44.140.5:18180/TV00000000000000000019@HHZT
+RTHK32,http://115.44.140.5:18180/TV00000000000000000017@HHZT
+viutv,http://115.44.140.5:18180/TV00000000000000000037@HHZT
+鳳凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
+黄金华剧,http://iptv.4666888.xyz/iptv2A.php?id=34
+翡翠台,https://rtmp.play.live.tieba.com/live/DwFQG0j26sdShfv9TETFGOHDMhOZNJdCW9pDTHlOHS6xkOIqYjvSWJdZFnXpMTG5pRLZC4YywdrJD9ZjngXAdwYF.flv
+无线新闻,https://rtmp.play.live.tieba.com/live/zaNAD4IWI45hM2InUxuW7Y3sHrPehS5t8MuVmUEYGSG42Wqe5l0AwVPihxoRjBqvuPBbXGEUuQzGvlMUyD1llbYa.flv
+TVB PLUS ,https://rtmp.play.live.tieba.com/live/IrYNUBAIZfBSRtoPy8yr3vDIxdFKn9nc4slBW93ipYXzxmWFYvYepSDH8hpyQSLEvQ409AVRFN3p9HUuo3325yIo.flv
+明珠台,https://rtmp.play.live.tieba.com/live/3XNVCyhT4Af2im0lSIUMEnzDTtqrUWeGWBrro6LCcwqnMyp3sTJvvc16Fzl06a3BjzCpjnLseuHK8A2pTefakuAJ.flv
+HOY77 1,https://rtmp.play.live.tieba.com/live/OdlbWoN9KhgS5wZ6DDL3qMI2dBVh8Zvr1yoKz8zREgVeCxtYvAEdGrCp9nHZFOGImAX96cOEJM1sjPFf3m4rkifC.flv
+HOY78 1,https://rtmp.play.live.tieba.com/live/dCukhP7swVJHnZklbVnktxvH8HsVCV6l9biujifxIx7nRmdVPRQaiPHTeXbUBCZLMnP0Js45nIyJok2lQ0vHoXGm.flv
+TVB翡翠,http://iptv.4666888.xyz/iptv2A.php?id=28
+TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=22
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+HOY78,http://iptv.4666888.xyz/iptv2A.php?id=31
+RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+TVB娱乐,http://iptv.4666888.xyz/iptv2A.php?id=36
+黃金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
+翡翠剧集,http://iptv.4666888.xyz/iptv2A.php?id=33
+澳視澳門,http://iptv.4666888.xyz/iptv2A.php?id=41
+TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
+非凡直播,http://iptv.4666888.xyz/iptv2A.php?id=44
+民视,http://iptv.4666888.xyz/iptv2A.php?id=55
+華藝中文,http://iptv.4666888.xyz/iptv2A.php?id=37
+爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=21
+SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
+SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
+astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
+TntSports3,http://iptv.4666888.xyz/iptv2A.php?id=3
+we,http://iptv.4666888.xyz/iptv2A.php?id=5
+博斯運動1,http://iptv.4666888.xyz/iptv2A.php?id=6
+臺灣戲劇,http://iptv.4666888.xyz/iptv2A.php?id=42
+EYE戏剧,http://iptv.4666888.xyz/iptv2A.php?id=56
+緯來電影,http://iptv.4666888.xyz/iptv2A.php?id=40
+東森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
+龍華电影,http://iptv.4666888.xyz/iptv2A.php?id=45
+民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
+TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
+美亚电影(台),http://iptv.4666888.xyz/iptv2A.php?id=30
+東森洋片,http://iptv.4666888.xyz/iptv2A.php?id=45
+爱尔达综合,http://iptv.4666888.xyz/iptv2A.php?id=49
+ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
+JET综合,http://iptv.4666888.xyz/iptv2A.php?id=51
+八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
+BBC_Earth,http://iptv.4666888.xyz/iptv2A.php?id=53
+中视经典,http://iptv.4666888.xyz/iptv2A.php?id=54
+韓流美食料理秀,http://iptv.4666888.xyz/iptv2A.php?id=63 
+娛樂百分百,http://iptv.4666888.xyz/iptv2A.php?id=64 
+綜藝大贏家,http://iptv.4666888.xyz/iptv2A.php?id=65
+東森綜合2,http://iptv.4666888.xyz/iptv2A.php?id=58
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8?txiptv&playlive
+中国电影,http://iptv.4666888.xyz/iptv2A.php?id=61
+靖洋戏剧,http://iptv.4666888.xyz/iptv2A.php?id=42
+靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
+东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
 翡翠台 A,http://www.kaniptv.cn/ua3.php?etoken=TmHDCyjKw5dbtzfIW163Ttp4R7wzoCaPknMYnC9Bl1LmCQ6CB9ASCyfqUM3Vto4NkWsTPul%2FG497JmrtrQddSHp8FpRVH3UCDbiEpezqrzvKrP1imf06nxUy9SI4fXfMkdhmu6tJFc7AdJtWgspo%2BFN2zFSLBeETp9uhVRe%2FstDhW3qXC4P9xNoa%2F%2FFMo20vWIDv9OzE%2BrYoWcGDtnrOOnxldRtSVfWop3aMfWkfs2u4yRjBLT5CJEEpKqheo880VXXcvemhhGjxo9thb%2FMyaxu0Xu7RRAclBpj6bPV6bSNLkKOokRCtKBi8Nz5JcKZNGSUMFQLwqcBJ%2BXMhrPbR1g%3D%3D
 翡翠台 B,http://www.kaniptv.cn/ua3.php?etoken=MZkgbVUZJ9sKeS%2Fv%2BfZzS6M7YbX%2FGxmcER5hgJYAqz1jxMLf1uBcuIKydc5A2nPul1IvwyesydX6MwcVTz9i5tLhhc8Pxn%2BHTooWwhDzMWMdhSpcJbjqMaycxJfAfA5QNtHuPtMJgyzk089oUNKXLOH9cxvhwLNxugsvp%2BElr1EtEsxcDODhe2AYN30S54i3I0UgMB1YJNN35ZJoryFmmrw%2BPt2FxqHdWS5wuUa5PR%2FV8CqZgYw6II%2BoJn9C9KGV5T7gSYY7Ql0MUS4CXWrJmmsPVfKbu3mivm2pWAzR%2Fp1hPmy17sfNBgx6YcR1c65wICZ%2FrhNsILyTb9yYKUBamA%3D%3D
 无线新闻 A,http://www.kaniptv.cn/ua3.php?etoken=JN4oP6EQ3pxYlJJm1Icq9y82ye%2BvjM1EWXsx2Y8cIWRTvJSwr8MI7uwVVFe31eG8mfoxv7toSZq9Mn2Yi2FfLCaEP8IsVQBjLyHIxjMJ03qDXhrScayywqjzt%2F7FKqtLJ5%2BQCm6NK7s942NF0kdHufegr%2F8HQ7Q4AMaOjP48GnN7E01xFI2NkTtXblRRGmPS7FYASOE6Sp7%2FzpOOp8B66QlRaxTUYzuU00qxjGUVCerv8tbiGAT4frhk2D20KnRTs1Ctqpkul0SPelPmvoP3ZXfHT4Fd0S6T7Hp8EJARsZj9RPqHTTXPfWzNv3B%2Bn8%2FyNUJ9go7TQJMRezrEDbFQkw%3D%3D
