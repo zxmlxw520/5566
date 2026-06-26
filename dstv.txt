@@ -2002,9 +2002,6 @@ ICS频道,http://218.1.208.13:7777/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1
 
 港台频道_668855,#genre#
 
-凤凰中文,https://cdn6.163189.xyz/163189/fhzw
-凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
-凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 翡翠台,http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
 明珠台,http://push.cdn1.hls123.de:8080/streams/89a8p45a15e/index.m3u8
 TVB Plus,http://push.cdn1.hls123.de:8080/streams/gw8n98gubb4/index.m3u8
@@ -2025,23 +2022,7 @@ HOY资讯台,http://push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
 澳视卫星,http://push.cdn1.hls123.de:8080/streams/gese9d57376/index.m3u8
 澳门莲花,http://push.cdn1.hls123.de:8080/streams/8nsrl4s4evv/index.m3u8
 重温经典,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8
-中天新闻,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=AvU3jH&tk=aUcnTVRl3MU0
-中天綜合,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2S87Cs&tk=aUcnTVRl3MU0
-中天娛樂,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HcxCjh&tk=aUcnTVRl3MU0
-好萊塢電影,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EkM0xN&tk=aUcnTVRl3MU0
-龍祥時代,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YqWNsE&tk=aUcnTVRl3MU0
-CINEMAX,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KW7vwE&tk=aUcnTVRl3MU0
-MTV Live,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GR0Zgy&tk=aUcnTVRl3MU0
-東森電影,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Q25LQZ&tk=aUcnTVRl3MU0
-東森洋片,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bX4x6g&tk=aUcnTVRl3MU0
-東森綜合,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1aT0UX&tk=aUcnTVRl3MU0
-東森戲劇,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TYFi9Y&tk=aUcnTVRl3MU0
-東森幼幼,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=93oXD1&tk=aUcnTVRl3MU0
-緯來日本,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7lfgT2&tk=aUcnTVRl3MU0
-緯來體育,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WvaIRk&tk=aUcnTVRl3MU0
-緯來綜合,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=REnUT0&tk=aUcnTVRl3MU0
-緯來戲劇,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lrtwpL&tk=aUcnTVRl3MU0
-緯來育樂,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=G4L5QG&tk=aUcnTVRl3MU0
+
 翡翠台 A,http://www.kaniptv.cn/ua3.php?etoken=TmHDCyjKw5dbtzfIW163Ttp4R7wzoCaPknMYnC9Bl1LmCQ6CB9ASCyfqUM3Vto4NkWsTPul%2FG497JmrtrQddSHp8FpRVH3UCDbiEpezqrzvKrP1imf06nxUy9SI4fXfMkdhmu6tJFc7AdJtWgspo%2BFN2zFSLBeETp9uhVRe%2FstDhW3qXC4P9xNoa%2F%2FFMo20vWIDv9OzE%2BrYoWcGDtnrOOnxldRtSVfWop3aMfWkfs2u4yRjBLT5CJEEpKqheo880VXXcvemhhGjxo9thb%2FMyaxu0Xu7RRAclBpj6bPV6bSNLkKOokRCtKBi8Nz5JcKZNGSUMFQLwqcBJ%2BXMhrPbR1g%3D%3D
 翡翠台 B,http://www.kaniptv.cn/ua3.php?etoken=MZkgbVUZJ9sKeS%2Fv%2BfZzS6M7YbX%2FGxmcER5hgJYAqz1jxMLf1uBcuIKydc5A2nPul1IvwyesydX6MwcVTz9i5tLhhc8Pxn%2BHTooWwhDzMWMdhSpcJbjqMaycxJfAfA5QNtHuPtMJgyzk089oUNKXLOH9cxvhwLNxugsvp%2BElr1EtEsxcDODhe2AYN30S54i3I0UgMB1YJNN35ZJoryFmmrw%2BPt2FxqHdWS5wuUa5PR%2FV8CqZgYw6II%2BoJn9C9KGV5T7gSYY7Ql0MUS4CXWrJmmsPVfKbu3mivm2pWAzR%2Fp1hPmy17sfNBgx6YcR1c65wICZ%2FrhNsILyTb9yYKUBamA%3D%3D
 无线新闻 A,http://www.kaniptv.cn/ua3.php?etoken=JN4oP6EQ3pxYlJJm1Icq9y82ye%2BvjM1EWXsx2Y8cIWRTvJSwr8MI7uwVVFe31eG8mfoxv7toSZq9Mn2Yi2FfLCaEP8IsVQBjLyHIxjMJ03qDXhrScayywqjzt%2F7FKqtLJ5%2BQCm6NK7s942NF0kdHufegr%2F8HQ7Q4AMaOjP48GnN7E01xFI2NkTtXblRRGmPS7FYASOE6Sp7%2FzpOOp8B66QlRaxTUYzuU00qxjGUVCerv8tbiGAT4frhk2D20KnRTs1Ctqpkul0SPelPmvoP3ZXfHT4Fd0S6T7Hp8EJARsZj9RPqHTTXPfWzNv3B%2Bn8%2FyNUJ9go7TQJMRezrEDbFQkw%3D%3D
@@ -2097,73 +2078,6 @@ TVBS新闻,http://jnzq.ohoyee.com:9080/live/332123-tvbsxw.m3u8
 DAZN-体育,rtmp://f13h.mine.nu/sat/tv731
 DAZN-体育,rtmp://f13h.mine.nu/sat/tv741
 momo'tv,rtmp://f13h.mine.nu/sat/tv761
-
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰香港,http://r.jdshipin.com/yDoTN
-凤凰香港,http://rihou.cc:555/tv/[SX]凤凰香港
-凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
-凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
-凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
-凤凰香港,http://r.jdshipin.com/yDoTN
-香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8$官网
-环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8$官网
-龙华电影,https://cdn8.163189.xyz/163189/lhdy
-
-龙华电影,http://cdn8.163189.xyz/163189/lhdy
-龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
-龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
-龙华经典,https://cdn8.163189.xyz/163189/lhjd
-龙华经典,http://cdn8.163189.xyz/163189/lhjd
-
-龙华日韩,https://cdn8.163189.xyz/163189/lhrh
-龙华日韩,http://cdn8.163189.xyz/163189/lhrh
-龙华偶像,https://cdn8.163189.xyz/163189/lhox
-龙华偶像,http://cdn8.163189.xyz/163189/lhox
-翡翠台,http://o11.163189.xyz/stream/tvb/fct/
-翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
-龙华电影,http://rihou.cc:555/tv/[Pd]龙华电影
-龙华经典,http://rihou.cc:555/tv/[Pd]龙华经典
-龙华偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
-龙华日韩,http://rihou.cc:555/tv/[Pd]龙华日韩
-龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
-Now星影,http://rihou.cc:555/tv/[Hv]Now星影
-新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
-
-
-中天新闻,http://rihou.cc:555/tv/[Hk]中天新闻
-中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
-中天新闻,http://rihou.cc:555/tv/[ST]中天新闻
-中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
-中天新闻,http://222.128.55.152:9080/live/fc.m3u8
-中天新闻,https://my5353.com/ztxw#rtmp://ai.unispc.com/live/nb-py-ztxw
-寰宇新闻,http://rihou.cc:555/tv/寰宇新闻
-
-
-有线新闻,https://cdn.163189.xyz/163189/hoy78
-有线综合,https://cdn6.163189.xyz/163189/hoy
-有线亚剧,https://cdn2.163189.xyz/163189/hoyjj
-无线新闻,https://cdn6.163189.xyz/163189/wxxw
-无线新闻,https://cdn6.163189.xyz/163189/wxxw
-无线新闻,https://smt.1678520.xyz/smt3.2.3.php?id=inews_twn
-无线新闻,https://hls.iill.top/api/TVB-News/index.m3u8
-无线翡翠,https://cdn6.163189.xyz/163189/fct
-无线翡翠4K,https://cdn6.163189.xyz/163189/fct4k
-无线华丽,https://cdn6.163189.xyz/163189/hlfct
-无线明珠,https://cdn6.163189.xyz/163189/mzt
-无线星河,https://cdn6.163189.xyz/163189/tvbxh
-无线功夫,https://cdn6.163189.xyz/163189/yzwx
-澳视澳门,https://cdn6.163189.xyz/163189/asam
-澳视澳门,https://cdn6.163189.xyz/163189/asam
-澳视卫星,https://cdn6.163189.xyz/163189/as
-澳门体育,https://cdn6.163189.xyz/163189/amty
-澳门体育,http://cdn6.163189.xyz/163189/amty
-澳门综艺,https://cdn6.163189.xyz/163189/amzy
-澳门综艺,http://cdn6.163189.xyz/163189/amzy
-澳门莲花,https://cdn6.163189.xyz/163189/amlh
-央视综合,https://cdn6.163189.xyz/163189/cctv1
-重温经典,https://cdn6.163189.xyz/163189/cwjd
 
 
 全球频道_668855,#genre# 
