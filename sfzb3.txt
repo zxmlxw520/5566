@@ -474,6 +474,15 @@ CHC动作电影,https://live.264788.xyz/channel/chcdongzuodianying?streamid=87c1
 有资源了会更新,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 /
 凤凰资讯,http://live2.rxip.sc96655.com/live/test2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+凤凰中文,http://115.44.140.5:18180/TV00000000000000000008@HHZT
+凤凰资讯,http://115.44.140.5:18180/TV00000000000000000009@HHZT
+凤凰香港,http://115.44.140.5:18180/TV00000000000000000024@HHZT
+TVB翡翠台,http://115.44.140.5:18180/TV00000000000000000032@HHZT
+TVB无线新闻台,http://115.44.140.5:18180/TV00000000000000000034@HHZT
+TVB明珠台,http://115.44.140.5:18180/TV00000000000000000035@HHZT
+RTHK31,http://115.44.140.5:18180/TV00000000000000000019@HHZT
+RTHK32,http://115.44.140.5:18180/TV00000000000000000017@HHZT
+viutv,http://115.44.140.5:18180/TV00000000000000000037@HHZT
 翡翠台,http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
 明珠台,http://push.cdn1.hls123.de:8080/streams/89a8p45a15e/index.m3u8
 TVB Plus,http://push.cdn1.hls123.de:8080/streams/gw8n98gubb4/index.m3u8
@@ -487,7 +496,6 @@ Now新闻台,http://push.cdn1.hls123.de:8080/streams/zed7kdzyh1/index.m3u8
 HOY TV,http://push.cdn1.hls123.de:8080/streams/dguce4v9b69/index.m3u8
 HOY资讯台,http://push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
 极限电影台,p3p://94.130.51.14:19906/6109e9bb0005fd87fd9ce5ea2c1f18d3
-香蕉台,p3p://94.130.51.14:19906/60626a760005067e6f5bbecb5816771e
 凤凰中文,http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
 凤凰资讯,http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
 凤凰香港,http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
@@ -505,7 +513,18 @@ HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
 HBO精选,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 HBO喜剧,http://23.237.104.106:8080/USA_HBO_COMEDY/tracks-v1a1/mono.m3u8
 HBO王牌,http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
-
+中视,http://220.135.241.47:8301/0.ts
+华视,http://220.135.241.47:8318/0.ts
+华视,http://220.135.241.47:8317/0.ts
+台视,http://211.72.174.95:8112/0.ts
+民视,http://211.72.174.95:8115/0.ts
+公视,http://220.135.241.47:8305/0.ts
+公视,http://211.72.174.95:8116/0.ts
+民视新闻台,http://211.72.174.95:8117/0.ts
+台视新闻,http://220.135.241.47:8314/0.ts
+台视财经,http://220.135.241.47:8315/0.ts
+有线18台,http://124.244.129.167:9004/0.ts
+有线18台,http://qingyi.7766.org:9004/0.ts
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 香港国际卫视,http://player4.juyun.tv/camera/158562106.m3u8
 
