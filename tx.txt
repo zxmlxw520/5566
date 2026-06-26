@@ -1,8 +1,4 @@
 ⚽世界杯⚽,#genre#
-爱尔达体育,https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
-澳门体育,https://live.wxinxi.com/live/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
-广东体育,https://live.wxinxi.com/live/66598858_hp1c4fyp3xqzgn9huoj2v8dbaa92nvpm.m3u8
-CCTV5体育,https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
 风云足球,http://173.208.187.18:82/live/fyzq.m3u8?jsbt=1760355398&jsbk=d838949ce8ba43fabfa8e16a02449bcf
 风云足球,http://173.208.187.18:82/live/fyzq.m3u8?jsbt=1760496962&jsbk=5b91869c876cff30aa885075cffa7b45
 劲爆体育,http://live2.rxip.sc96655.com/live/lqhxjcHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
@@ -663,6 +659,220 @@ CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
 寰宇新闻,http://rihou.cc:555/tv/寰宇新闻
 民视新闻,http://rihou.cc:555/tv/民视新闻
 台湾生活,http://rihou.cc:555/tv/台湾生活
+
+🌏全球直播🌏_996996,#genre#
+News max,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+RT新闻,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+RT纪录,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+美国·彭博财经,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+加拿大·Global新闻,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+KCBS-TV CBS 2 (Los Angeles CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2637.ts
+KNBC-TV NBC 4 (Los Angeles CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2453.ts
+KTLA-TV CW 5 (Los Angeles CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/87547.ts
+KABC-TV ABC 7 (Los Angeles CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2684.ts
+KCAL-TV CBS/Ind. 9 (Los Angeles CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/87548.ts
+KTTV-TV FOX 11 (Los Angeles CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2550.ts
+KCOP-TV MyNetworkTV 13 (FOX 11+) (Los Angeles CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2478.ts
+KSWB-TV FOX 5/69 (San Diego CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2534.ts
+KNSD-TV NBC 7/39 (San Diego CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2439.ts
+KFMB-TV CBS 8.1 (CBS 8+) (San Diego CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2623.ts
+KFMB-DT CW/MyNetworkTV 8.2 (San Diego CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/446862.ts
+KGTV-TV ABC 10 (San Diego CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2670.ts
+KUSI-TV Ind. 51 (San Diego CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/710371.ts
+KESQ-TV ABC 3 (Palm Springs CA),http://nocable.cc:8080/live/darriusthomas115@gmail.com/darriusthomas115@2025/121235.ts
+KDFX-CA FOX 11/33 (Palm Springs CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/696419.ts
+KMIR-TV NBC 36 (Palm Springs CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89444.ts
+KTVU-TV FOX 2 (San Francisco CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2533.ts
+KRON-TV CW 4 (San Francisco CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/597171.ts
+KGO-TV ABC 7 (San Francisco CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2669.ts
+KNTV-TV NBC 10 (San Francisco CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2438.ts
+KICU-TV MyNetworkTV 36 (FOX 2+) (San Francisco CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89459.ts
+KPYX-TV/KBCW-TV Ind. 44 (KPIX+) (San Francisco CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/34433.ts
+KCRA-TV NBC 3 (Sacramento CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2440.ts
+KXTV-TV ABC 10 (Sacramento CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2674.ts
+KOVR-TV CBS 13 (Stockton/Sacramento CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2625.ts
+KTXL-TV FOX 40 (Sacramento CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2537.ts
+KMAX-TV CW 31 (Sacramento CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89447.ts
+KSEE-TV NBC 24 (Fresno CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89432.ts
+KMPH-TV FOX 26 (Fresno CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/434317.ts
+KFSN-TV ABC 30 (Fresno CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2688.ts
+KGPE-TV CBS 47 (Fresno CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89431.ts
+WFRE-TV CW 59 (Fresno CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/629104.ts
+KGET-TV NBC 17 (Bakerfield CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89427.ts
+KERO-TV ABC 23 (Bakerfield CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/512981.ts
+KBAK-TV CBS 29 (Bakerfield CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89426.ts
+KBFX-CD FOX 58 (Bakerfield CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/512982.ts
+KEYT-TV ABC 3 (Santa Barbara CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/446727.ts
+KION-TV CBS 5/46 (Monterey CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89441.ts
+WCBS-TV CBS 2 (New York NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89712.ts
+WNBC-TV NBC 4 (New York NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89714.ts
+WNYW-TV FOX 5 (New York NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2544.ts
+WABC-TV ABC 7 (New York NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3606.ts
+WWOR-TV MyNetworkTV 9 (FOX 5+) (New York NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/597173.ts
+WPIX-TV CW 11 (PIX 11+) (New York NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/93093.ts
+WLNY-TV CBS/Ind. 10/55 (New York NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89717.ts
+WBBM-TV CBS 2 (Chicago IL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2648.ts
+WMAQ-TV NBC 5 (Chicago IL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2464.ts
+WLS-TV ABC 7 (Chicago IL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2695.ts
+WGN-TV CW 9 (Chicago IL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/85340.ts
+WFLD-TV FOX 32 (Chicago IL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2567.ts
+WPWR-TV MyNetworkTV 50 (FOX+) (Chicago IL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/92927.ts
+WJBK-TV FOX 2 (Detroit MI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2558.ts
+WDIV-TV NBC 4 (Detroit MI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2459.ts
+WXYZ-TV ABC 7 (Detroit MI),https://fl1.moveonjoy.com/MI_DETROIT_ABC/mpegts
+WKBD-TV CW 50 (Detroit MI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89623.ts
+WWJ-TV CBS 62 (Detroit MI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/88065.ts
+WCCO-TV CBS 4 (Minneapolis/St. Paul MN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2634.ts
+KSTP-TV ABC 5 (Minneapolis/St. Paul MN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2673.ts
+KMSP-TV FOX 9 (Minneapolis/St. Paul MN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2547.ts
+KARE-TV NBC 11 (Minneapolis/St. Paul MN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2450.ts
+WUCW-TV CW 23 (Minneapolis/St. Paul MN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38311.ts
+KYW-TV CBS 3 (Philadelphia PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2629.ts
+WPVI-TV ABC 6 (Philadelphia PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2678.ts
+WCAU-TV NBC 10 (Philadelphia PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2445.ts
+WHPL-TV CW 17 (Philadelphia PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/433308.ts
+WTXF-TV FOX 29 (Philadelphia PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2540.ts
+WPSG-TV Ind. Philly 57 (Philadelphia PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/34426.ts
+WBZ-TV CBS 4 (Boston MA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/88036.ts
+WCVB-TV ABC 5 (Boston MA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2697.ts
+WBTS-LD NBC 10 (Boston MA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2467.ts
+WFXT-CD FOX 25 (Boston MA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2570.ts
+WSBK-TV Ind. 38 (Boston MA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/92926.ts
+WLVI-TV CW 56 (Boston MA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/629809.ts
+KDKA-TV CBS 2 (Pittsburgh PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2627.ts
+WTAE-TV ABC 4 (Pittsburgh PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2676.ts
+WPXI-TV NBC 11 (Pittsburgh PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2443.ts
+WPCW-TV CW 19 (KDKA+) (Pittsburgh PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/34432.ts
+WPGH-CD FOX 53 (Pittsburgh PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2538.ts
+WICU-TV NBC 12 (Erie PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/510266.ts
+WJET-TV ABC 24 (Erie PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/510265.ts
+WSEE-TV CBS 35.1 (Erie PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/510267.ts
+WSEE-DT CW 35.2 (Erie PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/510264.ts
+WFXP-CD TV FOX 66 (Hartford CT),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/510268.ts
+WFSB-TV CBS 3 (Hartford CT),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/629116.ts
+WTNH-TV ABC 8 (Hartford CT),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2693.ts
+WVIT-TV NBC 30 (Hartford CT),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2456.ts
+WTIC-CD TV FOX 61 (Hartford CT),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2556.ts
+WFOR-TV CBS 4 (Miami FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2636.ts
+WTVJ-TV NBC 6 (Miami FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2452.ts
+WSVN-TV FOX 7 (Miami FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3641.ts
+WPLG-TV ABC 10 (Miami FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3605.ts
+WBFS-TV CW/MyNetworkTV 33 (Miami FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38327.ts
+WSFL-TV CW/Ind. 39 (Miami FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/433867.ts
+WFLA-TV NBC 8 (Tampa Bay FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/59890.ts
+WTVT-TV FOX 13 (Tampa Bay FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2504.ts
+WFTS-TV ABC 28 (Tampa Bay FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2666.ts
+WTOG-TV Ind. 44 (Tampa Bay FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89505.ts
+WESH-TV NBC 2 (Orlando FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89484.ts
+WKMG-TV CBS 6 (Orlando FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2630.ts
+WFTV-TV ABC 9 (Orlando FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2679.ts
+WKCF-TV CW 18 (Orlando FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/333488.ts
+WOFL-TV FOX 35 (Orlando FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2541.ts
+WACX-TV 55.1 SuperChannel Orlando (Orlando FL),https://632c1f303ef2e.streamlock.net/live/live/playlist.m3u8
+WRBW-TV MyNetworkTV 65 (FOX 35+) (Orlando FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/383407.ts
+WNBW-DT NBC 9 (Gainsville FL),https://fl1.moveonjoy.com/FL_Gainesville_NBC/mpegts
+WCJB-TV ABC 20 (Gainsville FL),https://fl1.moveonjoy.com/FL_GAINESVILLE_ABC/mpegts
+WOGX-TV FOX 51 (Ocala/Gainsville FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89499.ts
+WWSB-TV ABC 7 (Sarasota FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/112252.ts
+KOB-TV NBC 4 (Albuquerque NM),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/77964.ts
+KOAT-TV ABC 7 (Albuquerque NM),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38302.ts
+KRQE-TV CBS 13.1 (Albuquerque NM),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/77965.ts
+KRQE-TV FOX 13.2 (Albuquerque NM),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89695.ts
+KDBC-TV CBS 4 (El Paso TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89826.ts
+KVIA-TV ABC 7 (El Paso TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38309.ts
+KTSM-TV NBC 9 (El Paso TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89827.ts
+KFOX-TV FOX 14 (El Paso TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/566739.ts
+KIII-TV ABC 3 (Corpus Christi TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/721023.ts
+KRIS-TV NBC 6 (Corpus Christi TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89823.ts
+KZTV-TV CBS 10 (Corpus Christi TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89822.ts
+KCBD-TV NBC 11 (Lubbock TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38305.ts
+KLBK-TV CBS 13 (Lubbock TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38304.ts
+KAMC-TV ABC 28 (Lubbock TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38303.ts
+KJTV-TV FOX 34 (Lubbock TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89843.ts
+KCWX-TV MyNetworkTV 2 (San Antonio TX),http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+WOAI-TV NBC 4.1 (San Antonio TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89853.ts
+KENS-TV CBS 5 (San Antonio TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2624.ts
+KSAT-TV ABC 12 (San Antonio TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2671.ts
+KABB-TV FOX 29 (San Antonio TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2535.ts
+KMYS-TV CW 35 & WOAI-DT 4.2 (San Antonio TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/629971.ts
+KDFW-TV FOX 4 (Ft. Worth/Dallas TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89824.ts
+KXAS-TV NBC 5 (Ft. Worth/Dallas TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2461.ts
+WFAA-TV ABC 8 (Ft. Worth/Dallas TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2692.ts
+KTVT-TV CBS 11 (Ft. Worth/Dallas TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2645.ts
+KTXA-TV Ind. 21 (Ft. Worth/Dallas TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38295.ts
+KDFI-TV MyNetworkTV/FOX 27 (More27) (Ft. Worth/Dallas TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/597158.ts
+KDAFF-TV CW 39 (Ft. Worth/Dallas TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/597161.ts
+KPRC-TV NBC 2 (Houston TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2455.ts
+KHOU-TV CBS 8 (Houston TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2640.ts
+KTRK-TV ABC 13 (Houston TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2687.ts
+KTXH-TV MyNetworkTV 20 (My20 Vision) (Houston TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/50091.ts
+KRIV-TV FOX 26 (Houston TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89836.ts
+KIAH-TV CW 39 (Houston TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/643838.ts
+KTBC-TV FOX 7 (Austin TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38241.ts
+KVUE-TV ABC 24 (Austin TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38241.ts
+KXAN-TV NBC 36 (Austin TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/85342.ts
+KEYE-TV CBS 42 (Austin TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/85343.ts
+WWL-TV CBS 4 (New Orleans LA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2632.ts
+WDSU-TV NBC 6 (New Orleans LA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2448.ts
+WVUE-TV FOX 8 (New Orleans LA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2545.ts
+WGNO-TV ABC 26 (New Orleans LA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/510034.ts
+WBRZ-TV ABC 2 (Baton Rouge LA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38252.ts
+WAFB-TV CBS 9 (Baton Rouge LA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38253.ts
+WVLA-TV NBC 33 (Baton Rouge LA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89590.ts
+WGMB-TV FOX 44 (Baton Rouge LA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89589.ts
+KTBS-TV ABC 3 (Shreveport LA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38325.ts
+KTAL-TV NBC 6 (Shreveport LA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89602.ts
+KSLA-TV CBS 12 (Shreveport LA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89600.ts
+KMSS-TV FOX 33 (Shreveport LA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89601.ts
+KTVK-TV 3TV CBS/Ind. 3 (Phoenix AZ),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38298.ts
+KPHO-TV CBS 5 (Phoenix AZ),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2628.ts
+KSAZ-TV FOX 10.1 (Phoenix AZ),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2539.ts
+KSAZ-DT FOX Xtra 10.2/KUTP-TV MyNetworkTV 45 (Phoenix AZ),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/600290.ts
+KPNX-TV NBC 12 (Phoenix AZ),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2444.ts
+KNXV-TV ABC 15 (Phoenix AZ),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2677.ts
+KVOA-TV NBC 4 (Tucson AZ),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89422.ts
+KGUN-TV ABC 9 (Tucson AZ),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/600301.ts
+KMSB-TV FOX 11 (Tucson AZ),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89421.ts
+KOLD-TV CBS 13 (Tucson AZ),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89420.ts
+KSNV-TV NBC 3 (Las Vegas NV),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38257.ts
+KVVU-TV FOX 5 (Las Vegas NV),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89699.ts
+KLAS-TV CBS 8 (Las Vegas NV),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89700.ts
+KTNV-TV ABC 13 (Las Vegas NV),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38255.ts
+KVCW-TV CW 33 (Las Vegas NV),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/34441.ts
+WJXT-TV 4 Ind. (Jacksonville FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/607668.ts
+WTLV-TV NBC 12 (Jacksonville FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2454.ts
+WCWJ-TV CW 17 (Jacksonville FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/607669.ts
+WJXX-TV ABC 25 (Jacksonville FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38245.ts
+WFOX-TV FOX 30 (Jacksonville FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89491.ts
+WJAX-TV CBS 47 (Jacksonville FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89490.ts
+WPTV-TV NBC 5 (West Palm Beach FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89512.ts
+WPEC-TV CBS 12 (West Palm Beach FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89510.ts
+WPBF-TV ABC 25 (West Palm Beach FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/672344.ts
+WFLX-TV FOX 29 (West Palm Beach FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89511.ts
+WTVX-TV CW 34 (West Palm Beach FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/630216.ts
+WFTX-TV FOX 4 (Naples FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89482.ts
+WZVN-TV ABC 7 (Naples FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38258.ts
+WINK-TV CBS 11 (Naples FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89486.ts
+WBBH-TV NBC 20 (Naples FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89487.ts
+KARK-TV NBC 4 (Litlle Rock AR),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89411.ts
+KATV-TV ABC 7 (Litlle Rock AR),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/525686.ts
+KTHV-TV CBS 11 (Litlle Rock AR),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89409.ts
+KLRT-TV FOX 16 (Litlle Rock AR),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89410.ts
+WBRC-TV FOX 6 (Birmingham AL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/75346.ts
+WVTM-TV NBC 13 (Birmingham AL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/75348.ts
+WIAT-TV CBS 42 (Birmingham AL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/75347.ts
+WABM-TV ABC 68 (Birmingham AL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38263.ts
+WHNT-TV CBS 19 (Huntsville AL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/75356.ts
+WAAY-TV ABC 31 (Huntsville AL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38262.ts
+WAFF-TV NBC 48 (Huntsville AL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/75355.ts
+WZDX-TV FOX 54 (Huntsville AL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/75354.ts
+KTVI-TV FOX 2 (St. Louis MO),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2505.ts
+KMOV-TV CBS 4 (St. Louis MO),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN
 🎸DJ舞曲🎸,#genre#
 
 慢摇dj舞曲,https://vd2.bdstatic.com/mda-mkpi5r0xe92ja446/sc/cae_h264/1637775035132431598/mda-mkpi5r0xe92ja446.mp4
@@ -935,7 +1145,7 @@ DJ苦了累了听听歌,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_
 车载DJ殇雪,https://vd3.bdstatic.com/mda-mhve4gb9hi8cstzk/1080p/cae_h264/1630319514896018158/mda-mhve4gb9hi8cstzk.mp4
 心在跳情在烧,https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/cae_h264/1630406994590156367/mda-mhwf07t27w3gi1y7.mp4
 
-🔞生活频道🔞_996996,#genre#
+💋生活频道💋_1818,#genre#
 🔞1,rtmp://112.29.121.74/live/易發TV-jyt
 🔞2,rtmp://112.29.121.74/live/易發TV-xjt
 🔞3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
@@ -945,3 +1155,115 @@ DJ苦了累了听听歌,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_
 🔞松2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 🔞松3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 🔞香蕉,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
+豆传媒.DG56785.夏云.兄乱抽的,https://t33.cdn2020.com/video/m3u8/2026/01/20/3c534750/index.m3u8
+豆传媒.DG56784.夏云.感医生下惑暴富小,https://t33.cdn2020.com/video/m3u8/2025/12/31/3b03be1c/index.m3u8
+豆传媒.DG56783.喵喵.少的极致惑任你玩,https://t33.cdn2020.com/video/m3u8/2025/12/31/01733c43/index.m3u8
+豆传媒.DG56782.喵喵.网红战非外被绑架内幕很惊,https://t33.cdn2020.com/video/m3u8/2025/12/31/724e4a57/index.m3u8
+豆传媒.DG56781.佳琦.一暴富后势力眼表秒变我的小,https://t33.cdn2020.com/video/m3u8/2025/12/31/e5e6c241/index.m3u8
+豆传媒.DG56780.佳琦.利成功拿下秘书,https://t33.cdn2020.com/video/m3u8/2025/12/31/066afff5/index.m3u8
+豆传媒.DG56779.子莹.探花的捞金之路偷拍风上门少,https://t33.cdn2020.com/video/m3u8/2025/12/27/bb2546f5/index.m3u8
+豆传媒.DG56778.梦悦.被老公的好兄弟玩弄有刺激又兴奋,https://t33.cdn2020.com/video/m3u8/2025/12/27/b1d7e58b/index.m3u8
+豆传媒.DG56777.梦悦.揭秘表未知的一面下的荡,https://t33.cdn2020.com/video/m3u8/2025/12/27/51bbb967/index.m3u8
+豆传媒.DG56774.小静.被闺蜜的父亲坏小,https://t33.cdn2020.com/video/m3u8/2025/12/14/18c3808e/index.m3u8
+豆传媒.DG56773.小静.乱家庭把后的让给了儿子,https://t33.cdn2020.com/video/m3u8/2025/12/14/a2a37b34/index.m3u8
+豆传媒.DG56772.林小漫.装惑小被满,https://t33.cdn2020.com/video/m3u8/2025/12/14/a7e121de/index.m3u8
+豆传媒.DG56771.林小漫.,https://t33.cdn2020.com/video/m3u8/2025/12/14/7228e9d3/index.m3u8
+豆传媒.DG56768.婷婷.拿捏隔壁美,https://t33.cdn2020.com/video/m3u8/2025/11/25/6255ff34/index.m3u8
+豆传媒.DG56767.婷婷.同城初尝校花的,https://t33.cdn2020.com/video/m3u8/2025/11/25/21a9bb50/index.m3u8
+豆传媒.DG5676.林沫.仆用征服她的粉蜜,https://t33.cdn2020.com/video/m3u8/2025/10/26/8e18dea3/index.m3u8
+豆传媒.DG5675.林沫.试驾小米YU7户外无车感销售,https://t33.cdn2020.com/video/m3u8/2025/10/26/aaea2fdc/index.m3u8
+豆传媒.IDG5674.林沫.探花奇遇记.意主播意外空降足引浆,https://t33.cdn2020.com/video/m3u8/2025/08/21/380350f0/index.m3u8
+豆传媒.IDG5673.林沫.外卖小翻身记.趁虚而直捣黄龙,https://t33.cdn2020.com/video/m3u8/2025/08/21/bea1f5c2/index.m3u8
+豆传媒.IDG5672.夏云.失业小子.被用计谋小子的,https://t33.cdn2020.com/video/m3u8/2025/08/15/d238802f/index.m3u8
+豆传媒.IDG5671.夏云.借宿表家.趁机打桩心心念念的婊,https://t33.cdn2020.com/video/m3u8/2025/08/15/3b9c1b7f/index.m3u8
+豆传媒.IDG5670.喵喵.工厂小伙.差阳错到美风介,https://t33.cdn2020.com/video/m3u8/2025/08/15/dc9cae48/index.m3u8
+豆传媒.IDG5669.喵喵.报复轨前.同城探花遇高冷小子,https://t33.cdn2020.com/video/m3u8/2025/08/15/d495dfcd/index.m3u8
+豆传媒.IDG5629.贝娜.用开发双马尾,https://av6k.com/uploads/allimg/2505/D-051306331H96e5229A1.jpg
+豆传媒.IDG5555.静怡.抖音网红美声甜呻吟很销魂,https://t33.cdn2020.com/video/m3u8/2025/01/11/7bd3d2d3/index.m3u8
+豆传媒.IDG5554.静怡.瑜伽少,https://t33.cdn2020.com/video/m3u8/2025/01/11/c752128d/index.m3u8
+豆传媒.IDG5553.婉婉.双向奔赴一激慰藉躁动的望,https://t33.cdn2020.com/video/m3u8/2025/01/05/2ca4cae1/index.m3u8
+豆传媒.IDG5552.婉婉.美儿媳偷偷和父亲激缠绵,https://t33.cdn2020.com/video/m3u8/2025/01/05/46a0f36d/index.m3u8
+豆传媒.IDG5551.小乔.婊你的真的很紧,https://t33.cdn2020.com/video/m3u8/2024/12/27/92f1a3dc/index.m3u8
+豆传媒.IDG5550.淋雪.荡小和我乱的秘密,https://t33.cdn2020.com/video/m3u8/2024/12/27/7b9ce101/index.m3u8
+豆传媒.IDG5549.淋雪.失意美被同事暴力抽,https://t33.cdn2020.com/video/m3u8/2024/12/27/cc0ae9bf/index.m3u8
+豆传媒.IDG5548.夏云.望友心不纯只认不认,https://t33.cdn2020.com/video/m3u8/2024/12/24/8821c7fa/index.m3u8
+豆传媒.IDG5547.夏云.风流公公儿媳干柴烈火疯狂做,https://t33.cdn2020.com/video/m3u8/2024/12/24/8012063d/index.m3u8
+豆传媒.IDG5546.莎梦.隔壁傲慢美沦为我的工具,https://t33.cdn2020.com/video/m3u8/2024/12/24/1790391a/index.m3u8
+豆传媒.IDG5545.莎梦.绿奴友设计路友被好兄弟,https://t33.cdn2020.com/video/m3u8/2024/12/24/755b6eac/index.m3u8
+豆传媒.IDG5544.喵喵.前友下和我再续缘只要688,https://t33.cdn2020.com/video/m3u8/2024/12/21/25c8851d/index.m3u8
+豆传媒.IDG5543.喵喵.感班主任和18岁学生的不秘密,https://t33.cdn2020.com/video/m3u8/2024/12/21/d0611955/index.m3u8
+豆传媒.IDG5542.靓靓.同城满足自己高潮的,https://t33.cdn2020.com/video/m3u8/2024/12/20/9544b73a/index.m3u8
+豆传媒.IDG5541.小曼.擦边主播被父亲到高潮不断,https://t33.cdn2020.com/video/m3u8/2024/12/14/5c52c8e9/index.m3u8
+豆传媒.IDG5540.小曼.未亡之不流外田,https://t33.cdn2020.com/video/m3u8/2024/12/14/05a3ae75/index.m3u8
+豆传媒.IDG5539.琦琦.彩礼30万只需899,https://t33.cdn2020.com/video/m3u8/2024/12/14/6fb711c9/index.m3u8
+豆传媒.IDG5538.靓靓.初恋学袜惑长腿,https://t33.cdn2020.com/video/m3u8/2024/12/14/f116506b/index.m3u8
+豆传媒.IDG5537.萧雅.儿媳不能怀孕只能公公催助孕,https://t33.cdn2020.com/video/m3u8/2024/12/14/ed09e9a7/index.m3u8
+豆传媒.IDG5536.萧雅.催让纯萝莉沦为望少,https://t33.cdn2020.com/video/m3u8/2024/12/14/83c509be/index.m3u8
+豆传媒.IDG5535.子沫.魔继父让儿成为胯下玩物,https://t33.cdn2020.com/video/m3u8/2024/12/07/e8716833/index.m3u8
+豆传媒.IDG5534.子沫.丈听隔壁老王他,https://t33.cdn2020.com/video/m3u8/2024/12/07/8c8a272c/index.m3u8
+豆传媒.IDG5533.可可.差寂寞来,https://t33.cdn2020.com/video/m3u8/2024/12/07/fe244055/index.m3u8
+豆传媒.IDG5532.可可.技术宅少无狂湿,https://t33.cdn2020.com/video/m3u8/2024/12/07/0f02130e/index.m3u8
+豆传媒.IDG5531.沐沐.父子床上前后夹击被晕的美家教,https://t33.cdn2020.com/video/m3u8/2024/12/07/f6ebb391/index.m3u8
+豆传媒.IDG5530.沐沐.弟弟的感友,https://t33.cdn2020.com/video/m3u8/2024/12/07/b92c0707/index.m3u8
+豆传媒.IDG5529.婉婉.干爹干干儿对荡不堪目,https://t33.cdn2020.com/video/m3u8/2024/11/17/20096f54/index.m3u8
+豆传媒.IDG5528.雅娜.漂亮相亲对像无内直流,https://t33.cdn2020.com/video/m3u8/2024/11/17/b241e55a/index.m3u8
+豆传媒.IDG5527.雅娜.开小米SU7极品潮喷少,https://t33.cdn2020.com/video/m3u8/2024/11/17/992b8444/index.m3u8
+豆传媒.IDG5526.梦琪.催精油按摩激发少对的渴望,https://t33.cdn2020.com/video/m3u8/2024/11/17/b1300873/index.m3u8
+豆传媒.IDG5525.小冰.你对我答不理我让你高潮迭起,https://t33.cdn2020.com/video/m3u8/2024/11/17/d7962df3/index.m3u8
+豆传媒.IDG5524.小冰.恶富二代下公司感文员,https://t33.cdn2020.com/video/m3u8/2024/11/14/1f7069cb/index.m3u8
+豆传媒.IDG5523.小冰.强力伟增重新挽回望,https://t33.cdn2020.com/video/m3u8/2024/11/14/4c279a51/index.m3u8
+豆传媒.IDG5522.小柒.跟踪狂发上门泻火,https://t33.cdn2020.com/video/m3u8/2024/11/27/28a110f7/index.m3u8
+豆传媒.IDG5521.小柒.小侄的蜜被巴叔叔,https://t33.cdn2020.com/video/m3u8/2024/11/27/6e111a1d/index.m3u8
+豆传媒.IDG5520.皮皮.感秘书私下为老板解决生理需求,https://t33.cdn2020.com/video/m3u8/2024/11/08/d5a972ec/index.m3u8
+豆传媒.IDG5519.皮皮.抖音小网红,https://t33.cdn2020.com/video/m3u8/2024/11/08/32ae357e/index.m3u8
+豆传媒.IDG5518.婉婉.独居公公伟加持强儿媳,https://t33.cdn2020.com/video/m3u8/2024/11/08/53d2c4f8/index.m3u8
+豆传媒.IDG5517.小曼.催下绝美秘书主动又荡的舔,https://t33.cdn2020.com/video/m3u8/2024/11/08/a9e3664e/index.m3u8
+豆传媒.IDG5516.小曼.激成功让老板娘臣服于胯下,https://t33.cdn2020.com/video/m3u8/2024/11/08/cda61e1e/index.m3u8
+豆传媒.IDG5515.芳芳.偶遇好兄弟的感美娇,https://t33.cdn2020.com/video/m3u8/2024/11/01/16d06a2f/index.m3u8
+豆传媒.IDG5514.芳芳.儿子的班主任被我成功,https://t33.cdn2020.com/video/m3u8/2024/11/01/8b64a99e/index.m3u8
+豆传媒.IDG5513.小轩.强力伟征服痴小子,https://t33.cdn2020.com/video/m3u8/2024/11/01/893ce990/index.m3u8
+豆传媒.IDG5512.小轩.催让冷淡弟弟,https://t33.cdn2020.com/video/m3u8/2024/11/01/38d8acae/index.m3u8
+豆传媒.IDG5511.莉娜.外表甜美学生荡体服务,https://t33.cdn2020.com/video/m3u8/2024/10/27/89cb35c1/index.m3u8
+豆传媒.IDG5510.莉娜.也有天,https://t33.cdn2020.com/video/m3u8/2024/10/27/9c879a34/index.m3u8
+豆传媒.IDG5509.雅娜.外卖员极品少到潮喷,https://t33.cdn2020.com/video/m3u8/2024/10/27/d00b0623/index.m3u8
+豆传媒.IDG5508.雅娜.极品尤物36D空,https://t33.cdn2020.com/video/m3u8/2024/10/27/7f336043/index.m3u8
+豆传媒.IDG5507.夏云.年轻小恋上帅气儿子的巴,https://t33.cdn2020.com/video/m3u8/2024/10/12/91d19f8b/index.m3u8
+豆传媒.IDG5506.如意.毕业工作成为老板的专属奴,https://t33.cdn2020.com/video/m3u8/2024/10/12/9e6df41e/index.m3u8
+豆传媒.IDG5505.如意.都市打工深下班兼职上门服务,https://t33.cdn2020.com/video/m3u8/2024/10/17/65c9cfad/index.m3u8
+豆传媒.IDG5504.莉娜.送外卖遇到的心动神居然在卖,https://t33.cdn2020.com/video/m3u8/2024/10/12/d061708a/index.m3u8
+豆传媒.IDG5503.莉娜.为了弟弟的生活费被劫匪,https://t33.cdn2020.com/video/m3u8/2024/10/16/fdddadcd/index.m3u8
+豆传媒.IDG5502.小婧.下催朋友的感小娇,https://t33.cdn2020.com/video/m3u8/2024/10/16/14cdbb7e/index.m3u8
+豆传媒.IDG5501.小叶.和好兄弟一起3P美貌保姆,https://t33.cdn2020.com/video/m3u8/2024/10/17/a215ee1d/index.m3u8
+豆传媒.IDG5500.瑶瑶.一发魂下感台球陪练,https://t33.cdn2020.com/video/m3u8/2024/10/12/9a9a2537/index.m3u8
+豆传媒.IDG5499.瑶瑶.尾随多金少下财双收,https://t33.cdn2020.com/video/m3u8/2024/10/16/991ce152/index.m3u8
+豆传媒.IDG5498.小婧.用激发冷淡的友,https://t33.cdn2020.com/video/m3u8/2024/09/30/9c421bb3/index.m3u8
+豆传媒.IDG5497.小曼.琐惩罚漂亮室友,https://t33.cdn2020.com/video/m3u8/2024/10/01/e7983f34/index.m3u8
+豆传媒.IDG5496.小曼.下子和兄弟一起3P才刺激,https://t33.cdn2020.com/video/m3u8/2024/09/30/f2da8541/index.m3u8
+豆传媒.IDG5495.小柒.反差婊少前神后,https://t33.cdn2020.com/video/m3u8/2024/10/01/141fc77b/index.m3u8
+豆传媒.IDG5494.小柒.萝莉弟的极品小,https://t33.cdn2020.com/video/m3u8/2024/09/30/563642f5/index.m3u8
+豆传媒.IDG5493.文文.网车司机不良学生,https://t33.cdn2020.com/video/m3u8/2024/09/22/145816d5/index.m3u8
+豆传媒.IDG5492.文文.反差秘书下班兼职做上门服务,https://t33.cdn2020.com/video/m3u8/2024/09/25/bbf4b0d2/index.m3u8
+豆传媒.IDG5491.莹.小偷室强风,https://t33.cdn2020.com/video/m3u8/2024/09/22/db76fd4b/index.m3u8
+豆传媒.IDG5490.莹.失恋醉酒卖,https://t33.cdn2020.com/video/m3u8/2024/09/25/47a27bd1/index.m3u8
+豆传媒.IDG5489.惜月.引弟弟抠到潮喷,https://t33.cdn2020.com/video/m3u8/2024/09/25/d24c19c2/index.m3u8
+豆传媒.IDG5488.惜月.下惩罚偷轨的,https://t33.cdn2020.com/video/m3u8/2024/09/22/cce7746d/index.m3u8
+豆传媒.IDG5487.向珍.少自慰难消寂寞下修理工,https://t33.cdn2020.com/video/m3u8/2024/09/13/6373fa0f/index.m3u8
+豆传媒.IDG5486.林梦.户外私拍模特上门服务,https://t33.cdn2020.com/video/m3u8/2024/09/04/ed0ecc25/index.m3u8
+豆传媒.IDG5485.林梦.饥渴岳上平台卖求,https://t33.cdn2020.com/video/m3u8/2024/09/04/432063ed/index.m3u8
+豆传媒.IDG5484.向珍.不良老板下给员工换取签单,https://t33.cdn2020.com/video/m3u8/2024/09/04/fb18fa81/index.m3u8
+豆传媒.IDG5483.如烟.同城到老爸的风小,https://t33.cdn2020.com/video/m3u8/2024/09/04/aa89f5a3/index.m3u8
+豆传媒.IDG5482.如烟.小区保安愤少业主,https://t33.cdn2020.com/video/m3u8/2024/09/04/f7ee8667/index.m3u8
+豆传媒.IDG5481.琴.保镖到火难耐的总裁,https://t33.cdn2020.com/video/m3u8/2024/08/27/37707caf/index.m3u8
+豆传媒.IDG5480.琴.科医生下班后患者,https://t33.cdn2020.com/video/m3u8/2024/08/27/12f6ea63/index.m3u8
+豆传媒.IDG5479.佳玲.老公不在公公替我浇灭火,https://t33.cdn2020.com/video/m3u8/2024/08/27/81a73e36/index.m3u8
+豆传媒.IDG5478.佳玲.下垂涎之久的风韵嫂,https://t33.cdn2020.com/video/m3u8/2024/08/27/8033d290/index.m3u8
+豆传媒.IDG5477.梦柔.表心动神被拒一颗搞定,https://t33.cdn2020.com/video/m3u8/2024/08/22/db5ecce6/index.m3u8
+豆传媒.IDG5476.梦柔.强犯用催凌辱他,https://t33.cdn2020.com/video/m3u8/2024/08/22/76ad8e3e/index.m3u8
+豆传媒.IDG5475.半云.剧反转环卫工婊子,https://t33.cdn2020.com/video/m3u8/2024/08/22/26bae40d/index.m3u8
+豆传媒.IDG5474.半云.感业主被保安轻松拿捏,https://t33.cdn2020.com/video/m3u8/2024/08/22/eddbdb3a/index.m3u8
+豆传媒.IDG5473.妍姝.沦为好的奴隶,https://t33.cdn2020.com/video/m3u8/2024/08/16/558bba4d/index.m3u8
+豆传媒.IDG5472.妍姝.绿奴下友让兄弟一起玩3P,https://t33.cdn2020.com/video/m3u8/2024/08/16/5d06ba87/index.m3u8
+豆传媒.IDG5471.果果.网红主播线上装清纯线下变,https://t33.cdn2020.com/video/m3u8/2024/08/10/82f4a04a/index.m3u8
+豆传媒.IDG5470.果果.合租室友瑜伽竟然下接客,https://t33.cdn2020.com/video/m3u8/2024/08/10/6354969b/index.m3u8
+豆传媒.IDG5469.梦柔.留宿同学家他的寂寞小,https://t33.cdn2020.com/video/m3u8/2024/08/10/2b099269/index.m3u8
+豆传媒.IDG5468.梦柔.美术模特学生,https://t33.cdn2020.com/video/m3u8/2024/08/10/16c4ea10/index.m3u8
