@@ -16,11 +16,11 @@
 中国天气,http://60.223.72.64:8003/rtp/226.0.2.103:8736$山西联通
 每日经济,http://swiftplay.hxkjmedia.com/tv/spbW.m3u8
 澎湃景区,https://play-a2.quklive.com/live/1765245429980053.m3u8
-❤️CCTV4K,http://192.151.150.154/live/cctv4k.m3u8#http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-❤️CCTV8K,http://192.151.150.154/live/cctv8k.m3u8
-❤️CCTV16-4K,http://121.57.88.206:898/hls/16/index.m3u8
-❤️湖南卫视4K,http://rihou.cc:555/tv/湖南卫视4K
-❤️江苏卫视4K,http://rihou.cc:555/tv/江苏卫视4K
+❤️CCTV4K,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+❤️CCTV8K,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+❤️CCTV16-4K,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+❤️湖南卫视4K,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+❤️江苏卫视4K,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
 ❤️浙江卫视4K,http://rihou.cc:555/tv/浙江卫视4K
 ❤️东方卫视4K,http://rihou.cc:555/tv/东方卫视4K
 ❤️深圳卫视4K,http://rihou.cc:555/tv/szws
@@ -41,13 +41,13 @@
 淘萌宠
 经典电影,http://222.214.208.34:59901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 华语影院,http://222.214.208.34:59901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC动作电影,http://rihou.cc:555/tv/CHC动作电影
-CHC影迷电影,http://rihou.cc:555/tv/CHC影迷电影
-CHC家庭影院,http://rihou.cc:555/tv/CHC家庭影院
-短剧轮播,http://rihou.cc:555/tv/短剧
-电影轮播,http://rihou.cc:555/tv/电影轮播
+CHC动作电影,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+CHC影迷电影,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+CHC家庭影院,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+短剧轮播,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+电影轮播,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
 至臻4K,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=m
-经典鬼片3000部 https://yylunbo.ottiptv.cc/yy/29460894
+经典鬼片3000部 https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
  🎵点歌台,http://cfss.cc/cdn/du/85894.flv
  🎵周杰伦MV,http://cfss.cc/cdn/du/122402.flv
  🎵TDI广播电视台,https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
