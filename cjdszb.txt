@@ -16,8 +16,6 @@ QQ1032156285,https://gh-proxy.org/https://raw.githubusercontent.com/zxmlxw520/55
 监控软件是否偷跑流量,https://gh-proxy.org/https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/6%E6%9C%881%E6%97%A5(1).mp4
 🎵点歌台,http://cfss.cc/cdn/du/85894.flv
 🎵周杰伦MV,http://cfss.cc/cdn/du/122402.flv
-CCTV16,http://82.156.243.185:36888/av3a/cctv16n.m3u8
-cctv4k,http://82.156.243.185:36888/av3a/cctv4kn.m3u8
 🎵音乐快斗,http://cfss.cc/cdn/du/8324627.flv
 🎵音乐Wu哥,http://cfss.cc/cdn/du/8667755.flv
 🎵Music TV,https://secured.albportal.net:2083/AlbKanaleMusicTv/index.m3u8
