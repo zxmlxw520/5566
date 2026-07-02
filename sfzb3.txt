@@ -3,7 +3,7 @@
 //永久免费꙰严禁商业꙰仅供测试꙰违者自负!꙰//      
 
 //来源网络，免费分享，请勿追究，谢谢！//
-6.20更新公告,#genre#
+7.2更新公告,#genre#
 打赏长久使用,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 浏览器扫码下载,https://i.uik.cc/view.php/bd6a5299fa73e787fa8c59afd05e4ec0.mp4
 安装教程,https://cloud.7so.top/f/k8ADs5/anzhuangjiaocheng.mp4
@@ -20,13 +20,13 @@
 ❤️抖音女神,https://api.e1e1.top/crosswise/cw.php
 ❥韩国舞曲,https://xn--vusr00g.v.nxog.top/m/tv/xjj.php?id=0
 ❥法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-CCTV4K,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-CCTV4K,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-湖南4K,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-CCTV8K,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
+CCTV4K,http://192.151.150.154/live/cctv4k.m3u8#http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+湖南4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+CCTV8K,http://192.151.150.154/live/cctv8k.m3u8
 
-CCTV16,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-峨眉4K,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+CCTV16,http://121.57.88.206:898/hls/16/index.m3u8
+峨眉4K,http://live2.rxip.sc96655.com/live/emdy4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 湖南4K,http://rihou.cc:555/tv/湖南卫视4K
 江苏4K,http://rihou.cc:555/tv/江苏卫视4K
 浙江4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
@@ -51,55 +51,55 @@ CCTV16,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 深圳4K,https://cdn3.163189.xyz/163189/szws4k
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
-推流影院,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-东森电影,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-中国电影,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-靖洋戏剧,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-靖天电影,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-影迷数位电影,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-龙华电影,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-龙华洋片,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-恐怖电影,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-ROCK_Action,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-澳门莲花,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-天映频道,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-天映经典,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+推流影院,http://222.186.39.38:8000/587078/index.m3u8
+东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
+中国电影,http://iptv.4666888.xyz/iptv2A.php?id=61
+靖洋戏剧,http://iptv.4666888.xyz/iptv2A.php?id=42
+靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
+影迷数位电影,http://iptv.4666888.xyz/iptv2A.php?id=54
+龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
+龙华洋片,http://iptv.4666888.xyz/iptv2A.php?id=60
+恐怖电影,http://iptv.4666888.xyz/iptv2A.php?id=59
+ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
+澳门莲花,https://cdn6.163189.xyz/163189/amlh
+天映频道,http://o11.163189.xyz/stream/live/typd/
+天映经典,http://o11.163189.xyz/stream/live/ccm/
 kix,https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
-龙华电影,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-龙华经典,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-龙华偶像,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-龙华日韩,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-龙华戏剧,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-1905国内,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+龙华电影,http://cdn8.163189.xyz/163189/lhdy
+龙华经典,http://cdn8.163189.xyz/163189/lhjd
+龙华偶像,http://cdn8.163189.xyz/163189/lhox
+龙华日韩,http://cdn8.163189.xyz/163189/lhrh
+龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
+1905国内,http://115.190.194.179:82/1905.php?id=1905a
 1905国外,http://115.190.194.179:82/1905.php?id=1905b
-淘电影,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-淘剧场,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+淘电影,http://36.110.54.118:866/hls/21/index.m3u8
+淘剧场,http://36.110.54.118:866/hls/20/index.m3u8
 
-CHC动作电影,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-CHC影迷电影,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-CHC家庭影院,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-电影娱乐,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-绍兴影视,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-邵氏电影,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-邵氏武侠,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-邵氏喜剧,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-邵氏动作,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+CHC动作电影,http://rihou.cc:555/tv/CHC动作电影
+CHC影迷电影,http://rihou.cc:555/tv/CHC影迷电影
+CHC家庭影院,http://rihou.cc:555/tv/CHC家庭影院
+电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+邵氏电影,http://feilong123.vip/409990236/tv.php?id=ssdy
+邵氏武侠,http://feilong123.vip/409990236/tv.php?id=sswx
+邵氏喜剧,http://feilong123.vip/409990236/tv.php?id=ssxj
+邵氏动作,http://feilong123.vip/409990236/tv.php?id=ssdz
 
 💥热门定制,#genre#
 
-CHC动作电影,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-CHC影迷电影,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-CHC家庭影院,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-CHC家庭影院,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4streamid=793fab686a474d798d627cd73c70d613&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CHC家庭影院,https://lie.264788.xyz/channel/chcjiatingyingyuan?streamid=136f530a61d26dc0f670f39f05291586&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CHC影迷电影,https://lie.264788.xyz/channel/chcyingmidianying?streamid=cba6f50f29e98905aa48ac42cd5864c8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CHC影迷电影,https://lie.264788.xyz/channel/chcyingmidianying?streamid=af62547c4c8be0ef4a658f4b4853388f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CHC动作电影,https://lve.264788.xyz/channel/chcdongzuodianying?streamid=93acb2d859f1483a3fe6f3a46516506f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CHC动作电影,https://ive.264788.xyz/channel/chcdongzuodianying?streamid=87c13b6e841ed5039d4c2ce8f266f9ef&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-1905国内,http://15.190.194.179:82/1905.php?id=1905a
+CHC动作电影,http://rihou.cc:555/tv/CHC动作电影
+CHC影迷电影,http://rihou.cc:555/tv/CHC影迷电影
+CHC家庭影院,http://rihou.cc:555/tv/CHC家庭影院
+CHC家庭影院,https://live.264788.xyz/channel/chcjiatingyingyuan?streamid=793fab686a474d798d627cd73c70d613&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CHC家庭影院,https://live.264788.xyz/channel/chcjiatingyingyuan?streamid=136f530a61d26dc0f670f39f05291586&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CHC影迷电影,https://live.264788.xyz/channel/chcyingmidianying?streamid=cba6f50f29e98905aa48ac42cd5864c8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CHC影迷电影,https://live.264788.xyz/channel/chcyingmidianying?streamid=af62547c4c8be0ef4a658f4b4853388f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CHC动作电影,https://live.264788.xyz/channel/chcdongzuodianying?streamid=93acb2d859f1483a3fe6f3a46516506f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CHC动作电影,https://live.264788.xyz/channel/chcdongzuodianying?streamid=87c13b6e841ed5039d4c2ce8f266f9ef&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+1905国内,http://115.190.194.179:82/1905.php?id=1905a
 1905国外,http://115.190.194.179:82/1905.php?id=1905b
-经典电影,htp:/222214.208.34:59901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-华语影院,http://22.21.208.34:59901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+经典电影,http://222.214.208.34:59901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+华语影院,http://222.214.208.34:59901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 新剧追更⬇️,https://d6.qyshare.store/s/TBVWTxUNFQEGBQEDVQNRGgZUBQKFCVA50aKFCVA50wUKFCV
 家业,https://vip.ffzy-plays.com/20260517/53675_bddf54db/3000k/hls/mixed.m3u8$第1集
 家业,https://vip.ffzy-plays.com/20260517/53676_9ce42db3/3000k/hls/mixed.m3u8$第2集
@@ -473,260 +473,82 @@ CHC动作电影,https://ive.264788.xyz/channel/chcdongzuodianying?streamid=87c13
 都属于正常情况,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 有资源了会更新,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 /
-凤凰资讯,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-凤凰中文,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-凤凰资讯,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-凤凰香港,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-有线新闻,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-无线新闻,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-无线翡翠,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-无线华丽,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-无线明珠,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-无线星河,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-无线功夫,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-澳视澳门,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-澳视卫星,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-澳门体育,hhttps://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-澳门综艺,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-澳门莲花,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-央视综合,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-重温经典,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-龙华电影,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-龙华经典,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-龙华偶像,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-龙华日韩,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-龙华戏剧,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-CHU综合,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-CH5综合,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-CH8综合,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-八度空间,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-Now新闻台,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-翡翠台,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-翡翠台,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-明珠台,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-明珠台,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-TVB J1,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-TVB Plus,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-无线新闻,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-无线新闻,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-VIUTV,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-VIUTV,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-HOY76,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-HOY76,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-HOY77,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-HOY77,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-HOY78,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-HBO,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-HBO精选,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-HBO喜剧,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-HBO王牌,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-凤凰中文,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-凤凰中文,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-凤凰资讯,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-凤凰资讯,https://php33.jdshipin.com:2096/TVOD/iptv.php?id=fhzx2
-凤凰香港,https://php3.jdshipin.com:2096/TVOD/iptv.php?id=fhhk
-凤凰香港,https://php3.jd3shipin.com:2096/TVOD/iptv.php?id=fhhk2
-重温经典,https://php3.jdshipin.com:2096/TVOD/iptv.php?id=cwjd
-广东珠江,https://php.3jdshipin.com:2096/TVOD/iptv.php?id=gdzj
-广东体育,https://php.jd3shipin.com:2096/TVOD/iptv.php?id=gdty
-澳视澳门,https://php.j3dshipin.com:2096/TVOD/iptv.php?id=asam
-澳视卫星,https://ph3p.jdshipin.com:2096/TVOD/iptv.php?id=as
-凤凰资讯,https://cd3n6.163189.xyz/163189/fhzx
-凤凰香港,https://cd3n6.163189.xyz/163189/fhhk
-凤凰中文,https://cd3n6.163189.xyz/163189/fhzw
-凤凰资讯,http://feilo3ng123.vip/409990236/hktv.php?id=1
-凤凰香港,http://feilo3ng123.vip/409990236/hktv.php?id=2
-凤凰中文,http://fe3ilong123.vip/409990236/hktv.php?id=3
-香港面包台,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-香港国际卫视,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-翡翠台,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-翡翠台,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-翡翠台,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-TVB翡翠台,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-华丽翡翠台,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-TVB明珠台,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-TVB明珠台,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-TVB翡翠台,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-TVB PLUS,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-天映经典,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-翡翠剧集台,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-千禧经典台,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-天映频道,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-TVB星河,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-AOD,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-AEC,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-爱奇艺,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
-金光布袋戏,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-华藏卫视,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-三時繫念法會,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-网络念佛堂,https://sg1.a3mtb.de/liveedge/_definst_/smil:amtb.smil/chunklist_w1128537717_b428000.m3u8
-华文八套,https://franca3is-livews.cg3tn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-华文七套,https://ar3bic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-华文三套,https://esp3anol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-华文四套,https://engl3ish-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-华文五套,https://russia3n-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-华视,http://165.154.2263.214:50007/of-4gtv-4gtv041/index.m3u8?proxy=true
-越南-CTV,http://tv.ctvc3amau.vn/live/tv/tv.m3u8
-越南ANTV,http://antvlive.a33b5c6921.cdnviet.com/antv/chunklist.m3u8
-塞浦路斯中文,https://cdn.istoi3kona.com/ccnrtv/live/playlist.m3u8
-Plus即时,https://vdm6-hw.nbg3dsygs.com/live/h6-2.flv
-NOW新闻,https://cdn.163189.xy3z/163189/now
-ASTRO 欢喜台,http://o11.163189.3xyz/stream/live/hxt/
-八度空间,http://cdn6.163189.xyz/1363189/8tv
-CHANNEL 8,http://cdn6.163189.xyz3/163189/ch8
-CHANNEL 5,http://cdn6.163189.xyz/3163189/ch5
-重温经典,http://8.138.7.223/tv/cwjd.ph3p
-CHANNEL U,http://cdn6.163189.xyz/1633189/chu
-龙华电影,https://cdn8.163189.xyz/1631893/lhdy
-龙华电影,http://cdn8.163189.xyz/163189/lh3dy
-龙华戏剧,https://cdn8.163189.xyz/163189/lh3xj
-龙华戏剧,http://3cdn8.163189.xyz/163189/lhxj3
-龙华经典,https://3cdn8.163189.xyz/163189/lhjd
-龙华经典,http://cd3n8.163189.xyz/163189/lhjd
-龙华日韩,http://cdn38.163189.xyz/163189/lhrh
-龙华日韩,https://cdn38.163189.xyz/163189/lhrh
-龙华偶像,http://cdn8.3163189.xyz/163189/lhox
-龙华偶像,https://cdn8.3163189.xyz/163189/lhox
-有线综合,https://cdn6.13363189.xyz/163189/hoy
-无线新闻,https://cdn6.1633189.xyz/163189/wxxw
-有线亚剧,https://cdn2.1631389.xyz/163189/hoyjj
-无线新闻,https://cdn6.1631839.xyz/163189/wxxw
-无线翡翠,https://cdn6.1631893.xyz/163189/fct
-无线翡翠4K,https://cdn6.1631839.xyz/163189/fct4k
-无线华丽,https://cdn6.163189.xy3z/163189/hlfct
-无线明珠,https://cdn6.163189.xyz3/163189/mzt
-无线星河,https://cdn6.163189.xyz/3163189/tvbxh
-无线功夫,https://cdn6.163189.xyz/1363189/yzwx
-澳视澳门,https://cdn6.163189.xyz/1633189/asam
-澳视卫星,https://cdn6.163189.xyz/1633189/as
-澳视澳门,https://cdn6.163189.xyz/1631389/asam
-澳门体育,https://cdn6.163189.xyz/1631839/amty
-澳门体育,http://cdn6.163189.xyz/163189/3amty
-澳门综艺,https://cdn6.163189.xyz/163189/3amzy
-澳门综艺,http://cdn6.163189.xyz/163189/a333mzy
-澳门莲花,https://cdn6.163189.xyz/163189/am3lh
-央视综合,https://cdn6.163189.xyz/163189/cctv331
-凤凰中文,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-重温经典,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-凤凰资讯,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-凤凰香港,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-有线新闻,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-有线综合,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-有线亚剧,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-无线新闻,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-无线翡翠,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-无线华丽,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-无线明珠,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-无线星河,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-无线功夫,http://rih3ou.cc:555/tv/[Pd]无线功夫
-澳视澳门,http://riho3u.cc:555/tv/[Pd]澳视澳门
-澳视卫星,http://rihou3.cc:555/tv/[Pd]澳视卫星
-澳门体育,http://rihou.c3c:555/tv/[Pd]澳门体育
-澳门综艺,http://rihou.c3c:555/tv/[Pd]澳门综艺
-澳门莲花,http://rihou.c3c:555/tv/[Pd]澳门莲花
-央视综合,http://rihou.c3c:555/tv/[Pd]央视综合
-重温经典,http://rihou.cc3:555/tv/[Pd]重温经典
-龙华电影,http://rihou.3cc:5355/tv/[Pd]龙华电影
-龙华经典,http://riho3u.cc:555/tv/[Pd]龙华经典
-龙华偶像,http://riho3u.cc:555/tv/[Pd]龙华偶像
-龙华日韩,http://riho3u.cc:555/tv/[Pd]龙华日韩
-龙华戏剧,http://rih3ou.cc:555/tv/[Pd]龙华戏剧
-CHU综合,http://rih33ou.cc:555/tv/[Pd]CHU综合
-CH5综合,http://riho3u.cc:555/tv/[Pd]CH5综合
-CH8综合,http://rihou3.cc:555/tv/[Pd]CH8综合
-八度空间,http://rihou.c3c:555/tv/[Pd]八度空间
-龙华电影,http://cdn8.1363189.xyz/163189/lhdy
-龙华经典,http://cdn8.1363189.xyz/163189/lhjd
-龙华卡通,http://cdn8.1633189.xyz/163189/lhkt
-龙华偶像,http://cdn8.1633189.xyz/163189/lhox
-龙华日韩,http://cdn8.1631389.xyz/163189/lhrh
-龙华戏剧,http://cdn8.1631839.xyz/163189/lhxj
-/
-民視,https://4g.158.qzz.io/1633189/0294790909bc9b0e
-東森新聞台,https://4g.158.qzz.io3/163189/d7e9f69dcbba2a23
-TVBS新聞,https://4g.158.qzz.io/1363189/351e8567ea4a6f99
-中天新聞台,https://4g.158.qzz.io/1363189/60f5c767b807519a
-寰宇新聞台,https://4g.158.qzz.io/1633189/404c15e617dc9581
-TVBS,https://4g.158.qzz.io/163189/13bcf344d4a0ea28c
+凤凰资讯,http://live2.rxip.sc96655.com/live/test2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+凤凰中文,http://115.44.140.5:18180/TV00000000000000000008@HHZT
+凤凰资讯,http://115.44.140.5:18180/TV00000000000000000009@HHZT
+凤凰香港,http://115.44.140.5:18180/TV00000000000000000024@HHZT
+TVB翡翠台,http://115.44.140.5:18180/TV00000000000000000032@HHZT
+TVB无线新闻台,http://115.44.140.5:18180/TV00000000000000000034@HHZT
+TVB明珠台,http://115.44.140.5:18180/TV00000000000000000035@HHZT
+RTHK31,http://115.44.140.5:18180/TV00000000000000000019@HHZT
+RTHK32,http://115.44.140.5:18180/TV00000000000000000017@HHZT
+viutv,http://115.44.140.5:18180/TV00000000000000000037@HHZT
+HOY76,https://cdn11.163189.xyz/163189/hoy76
+HOY77,https://php.jdshipin.com:2096/TVOD/iptv.php?id=hoytv
+HOY77,https://php.jdshipin.com:2096/TVOD/iptv.php?id=hoytv2
+HOY78,http://cdn.163189.xyz/163189/hoy78
+HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
+HBO精选,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
+HBO喜剧,http://23.237.104.106:8080/USA_HBO_COMEDY/tracks-v1a1/mono.m3u8
+HBO王牌,http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
+中视,http://220.135.241.47:8301/0.ts
+华视,http://220.135.241.47:8318/0.ts
+华视,http://220.135.241.47:8317/0.ts
+台视,http://211.72.174.95:8112/0.ts
+民视,http://211.72.174.95:8115/0.ts
+公视,http://220.135.241.47:8305/0.ts
+公视,http://211.72.174.95:8116/0.ts
+民视新闻台,http://211.72.174.95:8117/0.ts
+台视新闻,http://220.135.241.47:8314/0.ts
+台视财经,http://220.135.241.47:8315/0.ts
+有线18台,http://124.244.129.167:9004/0.ts
+有线18台,http://qingyi.7766.org:9004/0.ts
+香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+香港国际卫视,http://player4.juyun.tv/camera/158562106.m3u8
 
-中天新闻,https://m4y5353.com/ztxw#rtmp://ai.unispc.com/live/nb-py-ztxw
-新唐人,https://ntd024.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
-寰宇新闻,http://rihou.4cc:555/tv/寰宇新闻
-东森新闻,http://rihou.c4c:555/tv/东森新闻
-三立新闻,https://4gtv.1548.qzz.io/163189/6fb8aec9-e4b2-4bed-8832-b5e9cce4a830/
-民视新闻,http://rihou.cc:5455/tv/民视新闻
-台湾生活,http://rihou.cc:5545/tv/台湾生活
-民视台湾,https://4gtv.158.qz4z.io/163189/e75ce7b6-beac-42b9-bb54-798f21e20a00/
-民视影剧,https://cdn12.178.in4devs.in/163189/73d93f1c22fa91d7
-公视戏剧,https://cdn12.178.ind4evs.in/163189/2973b910e7719c08
-彩昌影剧,https://cdn12.178.inde4vs.in/163189/0a6204ed0261460c
-靖天映画,https://cdn12.178.indev4s.in/163189/bd4752bd7828b2bf
-靖天电影,https://cdn12.178.indevs.4in/163189/ed33509e03e78c7a
-靖天戏剧,https://cdn12.178.indevs.in4/163189/177d541552f78003
-靖洋戏剧台,https://cdn12.178.indevs.i4n/163189/25084ef5a2662aad
-FGM,https://cdn12.178.indevs.in/1631489/a643783ec587540e
-amc电影,https://cdn12.178.indevs.in/1643189/0bcf9bb8c452e56a
-CinemaWorld,https://cdn12.178.indevs.i4n/163189/6086cfe7a9756110
-天映马来,http://o11.163189.xyz/stream/liv4e/typd/
-天映经典2,http://o11.163189.xyz/stream/liv4e/ccm/
-星河国语,http://o11.163189.xyz/stream/live/4tvbxh/
-千禧经典,http://o11.163189.xyz/stream/live/t4vbc/
-爱奇艺,http://4o11.163189.xyz/stream/live/iqiyi/
-Astro AOD,htt4p://o11.163189.xyz/stream/live/aod/
-Astro AEC,http:4//o11.163189.xyz/stream/live/aec/
-Astro QJ,http://o411.163189.xyz/stream/live/qj/
-欢喜台,http://o11.4163189.xyz/stream/live/hxt/
-影迷数位电影台,http4s://cdn12.178.indevs.in/163189/a643783ec587540e
-amc电影台,https://cd4n12.178.indevs.in/163189/0bcf9bb8c452e56a
-CinemaWorld,https://4cdn12.178.indevs.in/163189/6086cfe7a9756110
-My Cinema Europe,htt4ps://cdn12.178.indevs.in/163189/5bda99f1c049edef
-经典电影台,https://cdn142.178.indevs.in/163189/61b8ea35ffce4630
-CMusic,https://cdn12.17448.indevs.in/163189/d396cb84b6c89889
-DreamWorks梦工厂动画,htt4ps://cdn12.178.indevs.in/163189/10395eb942c5a9b9
-精选动漫台,https://cdn12.1784.indevs.in/163189/e1d66f74bd2d4894
-金光布袋戏,https://cdn12.178.i4ndevs.in/163189/5479c245d9d580b5
-美亚C+,http://ottproxy2.ist.ooo4/livehls/MOB-U1-NO/03.m3u8
-TITV,https://hc9lby9bzw8zcar.wc4etv.com/hls/titv.m3u8
-Taiwan+,https://fastly.live.brightc4ove.com/6385235869112/ap-northeast-
-Wild TV,https://dfhsahpa45kk2.clo4udfront.net/scheduler/scheduleMaster/476.m3u8
-BBC Earth,https://amg00793-amg004793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
-人间卫视,http://61.216.67.119:1935/blt4vhd/bltv1/chunklist_w1266569526.m3u8
-生命电视,http://61.216.67.119:1935/lifet4v/lifetv.stream/manifest.m3u8 
-唯心电视,http://mobile.ccdntech.com/tra4nscoder/_definst_/vod164_Live/live/playlist.m3u8
-NBA1,http://23.237.104.106:8080/USA_NB4A/tracks-v1a1/mono.m3u8
-天映频道马来西亚,http://o11.163189.xyz/str4eam/live/typd/
-APETITO,https://d1sq2slp9afh7o.cloudfront4.net/smil:apetito/chunklist_b2596000_slENG.m3u8
-AURA,https://d1sq2slp9afh7o.cloudfront.net4/smil:aura/chunklist_b2596000_slENG.m3u8
-FITRAH,https://d1sq2slp9afh7o.cloudfront.net4/smil:fitrah/chunklist_b2596000_slENG.m3u8
-JR.,https://d1sq2slp9afh7o.cloudfront.net/smil:j4r/chunklist_b2596000_slENG.m3u8
-LEAD,https://d1sq2slp9afh7o.cloudfront.net/smi4l:lead/chunklist_b2596000_slENG.m3u8
-ROLL4
-https:/4/d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
-SNAP4
-https:/4/d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
-RTM As4ean
-https://d425tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
-HBO,http:4//23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
-HBO精选,ht4tp://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
-4
-/4
-中旺電視,http://348.64.72.148/hls/modn/list/4010/playlist.m3u8
-東森中國台,http://438.64.72.148/hls/modn/list/2003/playlist.m3u8
-東森超視美洲台,http4://38.64.72.148/hls/modn/list/2013/playlist.m3u8
-東森美洲衛視,http://348.64.72.148/hls/modn/list/2015/playlist.m3u8
-東森美洲HD,http://38.464.72.148/hls/modn/list/2016/playlist.m3u8
-TVBS亞洲台,http://38.644.72.148:80/hls/modn/list/4005/playlist.m3u8
-TVBS新聞台,http://38.644.72.148/hls/modn/list/4027/playlist.m3u8
-民視新聞台,http://38.64.742.148/hls/modn/list/4012/playlist.m3u8
-台視新聞台,http://38.64.724.148/hls/modn/list/4013/playlist.m3u8
-深圳國際,http://38.64.72.1448/hls/modn/list/4007/playlist.m3u8
-海峽衛視,http://38.64.72.1484/hls/modn/list/4009/playlist.m3u8
-漢天衛視,http://38.64.72.148/4hls/modn/list/4025/playlist.m3u8
-KTSF26洛杉磯三藩市,http://38.464.72.148/hls/modn/list/4026/playlist.m3u8
-美國城市衛視,http://38.64.72.1448/hls/modn/list/4028/playlist.m3u8
-中旺電視,http://38.64.72.148/hls/4modn/list/4010/playlist.m3u8
-東森中國台,http://38.64.72.148/hls4/modn/list/2003/playlist.m3u8
+华藏卫视,https://sg1.amtb.de/liveedge/_definst_/smil:livetv.smil/chunklist_w1071093527_b828000.m3u8
+三時繫念法會,https://sg1.amtb.de/liveedge/_definst_/smil:sanshi_720p.smil/chunklist_w156722507_b828000.m3u8
+网络念佛堂,https://sg1.amtb.de/liveedge/_definst_/smil:amtb.smil/chunklist_w1128537717_b428000.m3u8
+华文八套,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+华文七套,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+华文三套,https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+华文四套,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+华文五套,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+华视,http://165.154.226.214:50007/of-4gtv-4gtv041/index.m3u8?proxy=true
+越南-CTV,http://tv.ctvcamau.vn/live/tv/tv.m3u8
+越南ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+塞浦路斯中文,https://cdn.istoikona.com/ccnrtv/live/playlist.m3u8
+
+
+寰宇新聞台,http://jnzq.ohoyee.com:9080/live/332123-hyxw.m3u8
+中天新聞台,rtmp://221.4.216.91/live/332123-ztxw
+
+新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
+美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+TITV,https://hc9lby9bzw8zcar.wcetv.com/hls/titv.m3u8
+Wild TV,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8 
+唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+天映频道马来西亚,http://o11.163189.xyz/stream/live/typd/
+APETITO,https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
+AURA,https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
+FITRAH,https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
+JR.,https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
+LEAD,https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
+ROLL
+https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
+SNAP
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
+RTM Asean
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
+HBO精选,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
+
+/
+中旺電視,http://38.64.72.148/hls/modn/list/4010/playlist.m3u8
+東森中國台,http://38.64.72.148/hls/modn/list/2003/playlist.m3u8
 東森超視美洲台,http://38.64.72.148/hls/modn/list/2013/playlist.m3u8
 東森美洲衛視,http://38.64.72.148/hls/modn/list/2015/playlist.m3u8
 東森美洲HD,http://38.64.72.148/hls/modn/list/2016/playlist.m3u8
@@ -736,183 +558,252 @@ TVBS新聞台,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
 台視新聞台,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 深圳國際,http://38.64.72.148/hls/modn/list/4007/playlist.m3u8
 海峽衛視,http://38.64.72.148/hls/modn/list/4009/playlist.m3u8
-漢天衛視,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-KTSF26洛杉磯三藩市,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-美國城市衛視,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-
-
+漢天衛視,http://38.64.72.148/hls/modn/list/4025/playlist.m3u8
+KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
+美國城市衛視,http://38.64.72.148/hls/modn/list/4028/playlist.m3u8
+中旺電視,http://38.64.72.148/hls/modn/list/4010/playlist.m3u8
+東森中國台,http://38.64.72.148/hls/modn/list/2003/playlist.m3u8
+東森超視美洲台,http://38.64.72.148/hls/modn/list/2013/playlist.m3u8
+東森美洲衛視,http://38.64.72.148/hls/modn/list/2015/playlist.m3u8
+東森美洲HD,http://38.64.72.148/hls/modn/list/2016/playlist.m3u8
+TVBS亞洲台,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+TVBS新聞台,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
+民視新聞台,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+台視新聞台,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+深圳國際,http://38.64.72.148/hls/modn/list/4007/playlist.m3u8
+海峽衛視,http://38.64.72.148/hls/modn/list/4009/playlist.m3u8
+漢天衛視,http://38.64.72.148/hls/modn/list/4025/playlist.m3u8
+KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
+美國城市衛視,http://38.64.72.148/hls/modn/list/4028/playlist.m3u8
 🚀港澳台频,#genre#
 加载慢耐心等待,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-凤凰中文,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-凤凰中文,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-凤凰资讯,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-凤凰香港,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-凤凰香港,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-凤凰中文,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-凤凰资讯,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-凤凰香港,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-凤凰香港,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-凤凰中文,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-凤凰资讯,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-凤凰香港,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-TVB翡翠,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-TVB明珠,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-TVB1,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-TVBJ,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-TVBDRA,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-香港卫视,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-环球电视,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-镜新闻台,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+凤凰中文,https://625179-46417c-1753.kylintv.tv/live/pxinhd_iphone.m3u8
+凤凰资讯,https://625179-46417c-1753.kylintv.tv/live/pxinhd_iphone.m3u8
+凤凰香港,https://625179-46417c-1753.kylintv.tv/live/pxhkus_iphone.m3u8
+凤凰中文,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1$广东移动
+凤凰资讯,http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1$广东移动
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰香港,http://rihou.cc:555/tv/[SX]凤凰香港
+凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
+凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
+凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
+凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk
 
-中天新闻,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-TVB PLUS,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-寰宇新闻,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-民视新闻,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-台视新闻,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-台湾生活,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-台视新闻,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-翡翠台,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-Now新闻,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-HOY77,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-VIUTV,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-TVB星河,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-TVB千禧经典,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-TVB武侠,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-爱奇艺,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-Astro AEC,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-Astro AOD,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-香港卫视频道,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-香港C+_-频道,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8$官网
+环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8$官网
+镜新闻台,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/81c30c93-82df-49c9-975c-61a17204cbba/1.m3u8
+
+中天新闻,https://my5353.com/ztxw#rtmp://ai.unispc.com/live/nb-py-ztxw
+TVB PLUS,http://o11.163189.xyz/stream/tvb/tvbp/
+寰宇新闻,http://rihou.cc:555/tv/寰宇新闻
+寰宇台湾,http://rihou.cc:555/tv/寰宇台湾
+民视新闻,http://rihou.cc:555/tv/民视新闻
+台视新闻,http://rihou.cc:555/tv/台视新闻 
+台湾生活,http://rihou.cc:555/tv/台湾生活
+TVBS,http://rihou.cc:555/tv/TVBS1
+台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
+翡翠台,http://o11.163189.xyz/stream/tvb/fct/
+华丽翡翠(新加坡),http://o11.163189.xyz/stream/live/jade/ 
+Now新闻 http://cdn.163189.xyz/163189/now
+HOY77,http://push.cdn1.hls123.de:8080/streams/dguce4v9b69/index.m3u8
+HOY78,http://push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
+ViuTV,https://cdn10.163189.xyz/163189/viu/
+TVB DRAMA,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbdrama-tvbanywhereus/playlist.m3u8
+TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
+TVB千禧经典,https://o11.163189.xyz/stream/live/tvbc/#https://smt.1678520.xyz/smt3.2.5.php?id=Tvbclassic
+TVB武侠 https://cdn6.163189.xyz/163189/yzwx
+爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
+Astro AEC,https://o11.163189.xyz/stream/live/aec/
+Astro AOD,https://o11.163189.xyz/stream/live/aod/
+香港卫视频道,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港C+_-频道,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
          
 /
-翡翠台,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-无线新闻,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-明珠台,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-TVB Plus,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-TVB Plus,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-TVB星河,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-TVB星河,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-华丽翡翠台,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-ViuTV,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-凤凰中文,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-凤凰资讯,http://r.jdshipi4n.com/0Rp07
-凤凰香港,http://r.jdshipin4.com/NfC0f
-澳视澳门,http://r.jdshipin.c4om/n2YZI
-澳门莲花,http://cdn6.1631849.xyz/163189/amlh
-HOY77,http://r.jdshipin.com42/sFw4S
-澳视澳门,http://r.jdshipin.com/22n2YZI
-澳视卫星,http://r.jdshipin.com/Q2FhCq
-广东珠江,http://r.jdshipin.com/sE25vO
-广东体育,http://r.jdshipin.com/LiY2dg
-广州综合,http://r.jdshipin.com/iR6G2q
-广州南国都市,http://r.jdship2in.com/n2WaZO
-广州综合,http://r.jdshipin.co2m/snhya
-广东珠江备,http://cdn2.1631829.xyz/163189/gdzj
-广东体育备,http://cdn2.1631892.xyz/163189/gdty
-海峡卫视,http://r.jdshipin.com/2WtYt3
-翡翠台,http://r.jdshipin.com/622WM7
-翡翠台,http://r.jdshipin.com/qrfb2g
-无线新闻,http://r.jdshipin.4com/Cku2Bd
-明珠台,http://r.jdshipin44.4com/ZQ4kN2
-TVB Plus,http://r.jdshipin.4com/ndGgS
-TVB Plus,http://r.j44dshipin.com/Nr5jq
-华丽翡翠台,http://r.j4dshipin.com/thuYX
-ViuTV,http://r.jdshipi4n.com/vSJvl
-凤凰中文,http://r.jdshi4pin.com/cCCzW
-凤凰资讯,http://r.jdship4in.com/0Rp07
-凤凰香港,http://r.jdshipin4.com/yDoTN
-凤凰香港,http://r.jdshipin.c4om/NfC0f
-澳视澳门,http://r.jdshipin.co4m/n2YZI
-TVBS亚洲,http://d2e1asnsl7b44r7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-凤凰电影频道,http://122.224.58.442:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-亚洲新闻台,http://d2e1asnsl7br74b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-Now新闻,http://cdn.163189.xyz/1463189/now
+翡翠台,http://cdn6.163189.xyz/163189/fct
+无线新闻,http://r.jdshipin.com/CkuBd
+明珠台,http://r.jdshipin.com/ZQ4kN
+TVB Plus,http://r.jdshipin.com/ndGgS
+TVB Plus,http://r.jdshipin.com/Nr5jq
+TVB星河,http://r.jdshipin.com/Voac4
+TVB星河,http://r.jdshipin.com/sXuuD
+华丽翡翠台,http://r.jdshipin.com/thuYX
+ViuTV,http://r.jdshipin.com/vSJvl
+ViuTV,http://r.jdshipin.com/TcKr2
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰香港,http://r.jdshipin.com/NfC0f
+澳视澳门,http://r.jdshipin.com/n2YZI
+澳门莲花,http://cdn6.163189.xyz/163189/amlh
+HOY77,http://r.jdshipin.com/sFw4S
+澳视澳门,http://r.jdshipin.com/n2YZI
+澳视卫星,http://r.jdshipin.com/QFhCq
+广东珠江,http://r.jdshipin.com/sE5vO
+广东体育,http://r.jdshipin.com/LiYdg
+广州综合,http://r.jdshipin.com/iR6Gq
+广州南国都市,http://r.jdshipin.com/nWaZO
+广州综合,http://r.jdshipin.com/snhya
+广东珠江备,http://cdn2.163189.xyz/163189/gdzj
+广东体育备,http://cdn2.163189.xyz/163189/gdty
+海峡卫视,http://r.jdshipin.com/WtYt3
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/qrfbg
+无线新闻,http://r.jdshipin.com/CkuBd
+明珠台,http://r.jdshipin.com/ZQ4kN
+TVB Plus,http://r.jdshipin.com/ndGgS
+TVB Plus,http://r.jdshipin.com/Nr5jq
+华丽翡翠台,http://r.jdshipin.com/thuYX
+ViuTV,http://r.jdshipin.com/vSJvl
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰香港,http://r.jdshipin.com/NfC0f
+澳视澳门,http://r.jdshipin.com/n2YZI
+TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+凤凰电影频道,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+亚洲新闻台,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+Now新闻,http://cdn.163189.xyz/163189/now
 /
-CGTN1,https://e44spanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-CGTN2,https://eng4lish-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-CGTN3,https://russi4an-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-CGTN4,https://arabic4-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-新唐人,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-中視,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-華視,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-公視,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-民視,http://2141.72.174.95:8115/0.ts
-台視,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-RTHK 31,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-RTHK 32,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+CGTN1,https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+CGTN2,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+CGTN3,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+CGTN4,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
+Taiwan+,https://fastly.live.brightcove.com/6385235869112/ap-northeast-1/6282251407001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWU4OWZvLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjI4MjI1MTQwNzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MjgyMjUxNDA3MDAxIl0sImp0aSI6IjYzODUyMzU4NjkxMTIifQ.4c-V1Ks3nBx9nRljtn5-jCNP_nLuWBbk-pw9BFWZfMQ/playlist-hls.m3u8
+新唐人,http://rihou.cc:555/tv/NTD
+中視,http://211.72.174.95:8113/0.ts
+華視,http://211.72.174.95:8114/0.ts
+公視,http://211.72.174.95:8116/0.ts
+民視,http://211.72.174.95:8115/0.ts
+台視,http://211.72.174.95:8112/0.ts
 
+民视,rtmp://f13h.mine.nu/sat/tv051
+台视,rtmp://f13h.mine.nu/sat/tv071
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+DAZN1,rtmp://f13h.mine.nu/sat/tv731
+DAZN2,rtmp://f13h.mine.nu/sat/tv741
+Love Nature 4K,http://rihou.cc:555/tv/LoveNature 
+Wild TV,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8 
+唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 
 🚀港澳风云,#genre#
-↓按两次OK可看,h
+凤凰中文,http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
+凤凰资讯,http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
+凤凰香港,http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
+翡翠台,http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
+翡翠台,http://api.kkhk.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
+明珠台,http://push.cdn1.hls123.de:8080/streams/89a8p45a15e/index.m3u8
+TVB Plus,http://push.cdn1.hls123.de:8080/streams/gw8n98gubb4/index.m3u8
+无线新闻,http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
+TVB星河,http://push.cdn1.hls123.de:8080/streams/hbiwgswysds/index.m3u8
+华丽翡翠台,http://push.cdn1.hls123.de:8080/streams/n6dnsi33w2e/index.m3u8
+ViuTV,http://push.cdn1.hls123.de:8080/streams/iewbjlpp9v/index.m3u8
+ViuTVsix,http://push.cdn1.hls123.de:8080/streams/5lthhpr4cx3/index.m3u8
+Now新闻台,http://push.cdn1.hls123.de:8080/streams/zed7kdzyh1/index.m3u8
+HOY TV,http://push.cdn1.hls123.de:8080/streams/dguce4v9b69/index.m3u8
+HOY资讯台,http://push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
 
-鳳凰中文,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-黄金华剧,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-翡翠台,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-无线新闻,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-TVB PLUS ,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-明珠台,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-HOY77 1,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-HOY78 1,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-TVB翡翠,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-TVB明珠,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-TVBJ1,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-TVB1,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-千禧经典,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-HOY77,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-HOY78,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-RTHK31,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-TVB娱乐,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-黃金翡翠,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-翡翠剧集,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-澳視澳門,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-TVBS新聞,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-非凡直播,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-民视,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-華藝中文,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-爱奇艺,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-SPOTV,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-SPOTV2,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-astroFootball,http://iptv.464466888.xyz/iptv2A.php?id=4
-TntSports3,http://iptv.46668848.xyz/iptv2A.php?id=3
-we,http://iptv.4666888.xyz/iptv42A.php?id=5
-博斯運動1,http://iptv.4666888.x4yz/iptv2A.php?id=6
-臺灣戲劇,http://iptv.4666888.xyz4/iptv2A.php?id=42
-EYE戏剧,http://iptv.4666888.xyz/i4ptv2A.php?id=56
-緯來電影,http://iptv.4666888.xyz/ip4tv2A.php?id=40
-東森电影,http://iptv.4666888.xyz/ipt4v2A.php?id=48
-龍華电影,http://iptv.4666888.xyz/iptv42A.php?id=45
-民視綜藝,http://iptv.4666888.xyz/iptv24A.php?id=46
-TVBS精采,http://iptv.4666888.xyz/iptv24A.php?id=47
-美亚电影(台),http://iptv.4666888.xyz/iptv42A.php?id=30
-東森洋片,http://iptv.4666888.xyz/iptv2A.p4hp?id=45
-爱尔达综合,http://iptv.4666888.xyz/iptv2A.4php?id=49
-ROCK_Action,http://iptv.4666888.xyz/iptv24A.php?id=50
-JET综合,http://iptv.4666888.xyz/iptv2A.php?4id=51
-八度空间,http://iptv.4666888.xyz/iptv2A.php?4id=52
-BBC_Earth,http://iptv.4666888.xyz/iptv2A.php44?id=53
-中视经典,http://iptv.4666888.xyz/iptv2A.php?id=454
+澳视澳门,http://push.cdn1.hls123.de:8080/streams/2r8ba88ujh6/index.m3u8
+澳视卫星,http://push.cdn1.hls123.de:8080/streams/gese9d57376/index.m3u8
+澳门莲花,http://push.cdn1.hls123.de:8080/streams/8nsrl4s4evv/index.m3u8
+重温经典,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8
+鳳凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
+黄金华剧,http://iptv.4666888.xyz/iptv2A.php?id=34
+翡翠台,https://rtmp.play.live.tieba.com/live/DwFQG0j26sdShfv9TETFGOHDMhOZNJdCW9pDTHlOHS6xkOIqYjvSWJdZFnXpMTG5pRLZC4YywdrJD9ZjngXAdwYF.flv
+无线新闻,https://rtmp.play.live.tieba.com/live/zaNAD4IWI45hM2InUxuW7Y3sHrPehS5t8MuVmUEYGSG42Wqe5l0AwVPihxoRjBqvuPBbXGEUuQzGvlMUyD1llbYa.flv
+TVB PLUS ,https://rtmp.play.live.tieba.com/live/IrYNUBAIZfBSRtoPy8yr3vDIxdFKn9nc4slBW93ipYXzxmWFYvYepSDH8hpyQSLEvQ409AVRFN3p9HUuo3325yIo.flv
+明珠台,https://rtmp.play.live.tieba.com/live/3XNVCyhT4Af2im0lSIUMEnzDTtqrUWeGWBrro6LCcwqnMyp3sTJvvc16Fzl06a3BjzCpjnLseuHK8A2pTefakuAJ.flv
+HOY77 1,https://rtmp.play.live.tieba.com/live/OdlbWoN9KhgS5wZ6DDL3qMI2dBVh8Zvr1yoKz8zREgVeCxtYvAEdGrCp9nHZFOGImAX96cOEJM1sjPFf3m4rkifC.flv
+HOY78 1,https://rtmp.play.live.tieba.com/live/dCukhP7swVJHnZklbVnktxvH8HsVCV6l9biujifxIx7nRmdVPRQaiPHTeXbUBCZLMnP0Js45nIyJok2lQ0vHoXGm.flv
+TVB翡翠,http://iptv.4666888.xyz/iptv2A.php?id=28
+TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=22
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+HOY78,http://iptv.4666888.xyz/iptv2A.php?id=31
+RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+TVB娱乐,http://iptv.4666888.xyz/iptv2A.php?id=36
+黃金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
+翡翠剧集,http://iptv.4666888.xyz/iptv2A.php?id=33
+澳視澳門,http://iptv.4666888.xyz/iptv2A.php?id=41
+TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
+非凡直播,http://iptv.4666888.xyz/iptv2A.php?id=44
+民视,http://iptv.4666888.xyz/iptv2A.php?id=55
+華藝中文,http://iptv.4666888.xyz/iptv2A.php?id=37
+爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=21
+SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
+SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
+astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
+TntSports3,http://iptv.4666888.xyz/iptv2A.php?id=3
+we,http://iptv.4666888.xyz/iptv2A.php?id=5
+博斯運動1,http://iptv.4666888.xyz/iptv2A.php?id=6
+臺灣戲劇,http://iptv.4666888.xyz/iptv2A.php?id=42
+EYE戏剧,http://iptv.4666888.xyz/iptv2A.php?id=56
+緯來電影,http://iptv.4666888.xyz/iptv2A.php?id=40
+東森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
+龍華电影,http://iptv.4666888.xyz/iptv2A.php?id=45
+民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
+TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
+美亚电影(台),http://iptv.4666888.xyz/iptv2A.php?id=30
+東森洋片,http://iptv.4666888.xyz/iptv2A.php?id=45
+爱尔达综合,http://iptv.4666888.xyz/iptv2A.php?id=49
+ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
+JET综合,http://iptv.4666888.xyz/iptv2A.php?id=51
+八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
+BBC_Earth,http://iptv.4666888.xyz/iptv2A.php?id=53
+中视经典,http://iptv.4666888.xyz/iptv2A.php?id=54
 韓流美食料理秀,http://iptv.4666888.xyz/iptv2A.php?id=63 
 娛樂百分百,http://iptv.4666888.xyz/iptv2A.php?id=64 
-綜藝大贏家,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-東森綜合2,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-三立戏剧,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-中国电影,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-靖洋戏剧,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-靖天电影,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-东森电影,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+綜藝大贏家,http://iptv.4666888.xyz/iptv2A.php?id=65
+東森綜合2,http://iptv.4666888.xyz/iptv2A.php?id=58
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8?txiptv&playlive
+中国电影,http://iptv.4666888.xyz/iptv2A.php?id=61
+靖洋戏剧,http://iptv.4666888.xyz/iptv2A.php?id=42
+靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
+东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
+
+中天新闻,https://my5353.com/ztxw
+中天新闻,http://jnzq.ohoyee.com:9080/live/332123-ztxw2.m3u8
+中天新闻,rtmp://media.atmsiot.com/live/ztxw
+镜新闻台,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/81c30c93-82df-49c9-975c-61a17204cbba/1.m3u8
+TVBS新闻,http://jnzq.ohoyee.com:9080/live/332123-tvbsxw.m3u8
+寰宇新闻,http://jnzq.ohoyee.com:9080/live/332123-hyxw.m3u8
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+DAZN-体育,rtmp://f13h.mine.nu/sat/tv731
+DAZN-体育,rtmp://f13h.mine.nu/sat/tv741
+momo'tv,rtmp://f13h.mine.nu/sat/tv761
 
 
 
 🇨🇳CCTV秒播,#genre#
 
-CHC动作,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-CHC影迷,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-CHC家庭,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-中文频道,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-资讯频道,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+CHC动作,http://live2.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CHC影迷,http://live2.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CHC家庭,http://live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+中文频道,http://live2.rxip.sc96655.com/live/test1_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+资讯频道,http://live2.rxip.sc96655.com/live/test2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 
 
-CCTV4K,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
 CCTV1,http://live2.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=10bd15e08aa7c4de538b767ae2618279a6213e3e
 CCTV2,http://live2.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=10bd15e08aa7c4de538b767ae2618279a6213e3e
 CCTV3,http://live2.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=10bd15e08aa7c4de538b767ae2618279a6213e3e
@@ -931,11 +822,11 @@ CCTV14,http://live2.rxip.sc96655.com/live/CCTV-14H265_4000.m3u8?E=1705159521&U=8
 CCTV15,http://live2.rxip.sc96655.com/live/CCTV-15-yyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 CCTV16,http://live2.rxip.sc96655.com/live/CCTV-16_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 CCTV17,http://live2.rxip.sc96655.com/live/CCTV-17_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-峨眉4K,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-动漫秀场,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-都市剧场,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+峨眉4K,http://live2.rxip.sc96655.com/live/emdy4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+动漫秀场,http://live2.rxip.sc96655.com/live/yybb-dmxc-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+都市剧场,http://live2.rxip.sc96655.com/live/yxfydsjcHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 财富天下,http://live2.rxip.sc96655.com/live/cftx_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-金鹰纪实,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+金鹰纪实,http://live2.rxip.sc96655.com/live/jyjsHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 金鹰卡通,http://live2.rxip.sc96655.com/live/jykt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 快乐垂钓,http://live2.rxip.sc96655.com/live/fyzqklcdHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 乐游频道,http://live2.rxip.sc96655.com/live/qjs-HDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
@@ -952,7 +843,7 @@ CCTV17,http://live2.rxip.sc96655.com/live/CCTV-17_4000.m3u8?E=1&U=1&A=1&K=1&P=1&
 四川新闻,http://live2.rxip.sc96655.com/live/SCTV-4H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 四川乡村,http://live2.rxip.sc96655.com/live/SCTV-kjSCTV-9-_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 四川科教,http://live2.rxip.sc96655.com/live/SCTV-ggSCTV-8_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-峨眉电影,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+峨眉电影,http://live2.rxip.sc96655.com/live/emdygqH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 北京卫视,http://live2.rxip.sc96655.com/live/bjwsH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
 湖南卫视,http://live2.rxip.sc96655.com/live/hnwsH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
 湖北卫视,http://live2.rxip.sc96655.com/live/hbwsH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
@@ -3250,454 +3141,575 @@ ICS频道,http://218.1.208.13:7777/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1
 
 🇰🇷韩国频道,#genre#
 国外加载慢,https://i.uik.cc/view.php/80bfa7db9c20f6a884fcc7cae7e36d04.mp4
-GCN24 Korean (720p),https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-GoodTV (1080p),https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+GCN24 Korean (720p)
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+GoodTV (1080p)
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
 
 /
-韩国教育台,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-韩国新闻,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-韩国中央台,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-韩国-EBS1,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-韩国|Ebs Kids,http://ebsonai4rios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-韩国|EBS1,http://ebsonairios.e4bs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
-韩国|EBS1,http://ebsonairios.e4bs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
-韩国|EBS2,http://ebsonair4ios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-韩国-EBS2,http://ebsonairi4os.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-韩国-EBSe,http://ebsonairio4s.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-韩国|EBSe,http://ebsonairios.4ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
-韩国-KCTV_HV2,http://119.77.496.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
-韩国-MBC综合频道,http://vod.m4pmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-AriangTV,http://amdlive-ch01.ctn4d.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-GS Shop,https://gstv-gsshop.gssho4p.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
-ABN TV (720p),https://vod2.abn.co.k4r/IPHONE/abn.m3u8
+韩国教育台,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+韩国中央台,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+韩国-EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+韩国|Ebs Kids,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+韩国|EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+韩国|EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+韩国|EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+韩国-EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+韩国-EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+韩国|EBSe,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+韩国-KCTV_HV2,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+韩国-MBC综合频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+AriangTV,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+ABN TV (720p),https://vod2.abn.co.kr/IPHONE/abn.m3u8
 
-E4BS1,http4://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-EBS2,http://4ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-EBSe,http://e4bsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-EBS1,http://eb4sonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-EBS2,http://ebs4onairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-EBS1,http://ebso4nairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
-EBS1,http://ebson4airios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
-EBSi,http://ebsonai4rios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-EBS+2,http://ebsona4irios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-KBS LIVE,http://kbs-d4okdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-Arirang,http://amdlive-4ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-TBS,https://cdntv.tbs.seo4ul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
-OUN,https://live.knou.ac.k4r/knou1/live1/playlist.m3u8
-TBS Seoul,https://cdntv.tbs.4seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-大田MBC,https://ns1.tjmbc.c4o.kr/live/myStream.sdp/playlist.m3u8
-木浦MBC,http://vod.mpmbc.c4o.kr:1935/live/encoder-tv/playlist.m3u8
-济州MBC,https://wowza.jejumb4c.com/live/tv_jejumbc/playlist.m3u8
-KFN,http://mediaworks.dema.mi4l.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-KOREA,http://amdlive.ctnd.com.e4dgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
-CJ OnStyle (540p),https://live-ch1.c4jonstyle.net/cjmalllive/stream2/playlist.m3u8
-GCN24 Korean (720p),http://liveko244-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
-GoodTV (1080p),http://mobliestream4.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
-Gugbang TV (1080p) [Not 24/7],http:/4/mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-Lotte OneTV (720p),https://onetvhlslive4.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
-MBC,http://211.33.246.4:32954/cj_live/m4yStream.sdp/chunklist_w517347500.m3u8
-MBC Jeju (제주 MBC) (352p) [Not 24/7],ht4tps://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-MBC Mokpo (목포 MBC) (720p) [Not 24/7],4http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-MBC Yeosu (여수 MBC) (1080p) [Not 24/7],h4ttps://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-NHTV (720p),http://nonghyup.flive.skcdn.com4/nonghyup/_definst_/nhlive/playlist.m3u8
-Shopping NT (720p),https://live.shoppingntmal4l.com/live/10011.m3u8
-tvchosun2,http://onair2.cdn.tvchosun.com/origi4n2/_definst_/tvchosun_s3/playlist.m3u8
-tvchosun,http://onair.cdn.tvchosun.com/origin1/4_definst_/tvchosun_s1/playlist.m3u8
-KCTV,http://119.77.96.184:1935/chn05/chn05/chu4nklist_w1306745753.m3u8
-EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/t4ablet500k/ebs2tablet500k.index.m3u8?
-JTV,http://61.85.197.53:1935/jtv_live/myStream/chun4klist_w1542137203.m3u8
-KCTV,http://119.77.96.184:1935/chn05/chn05/chunkli4st_w644291506.m3u8
-C,http://112.175.51.214:1935/live/myStream/playlist.m43u8
-TV,https://stream.ads.ottera.tv/playlist.m3u8?network_i4d=595
-EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/_de4finst_/tablet500k/chunklist_w1965791004.m3u8
-韩国EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet5400k/tablet500k/playlist.m3u8?zshijd
-韩国EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/table4t500k/ebs2tablet500k.index.m3u8?zshijd
-Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang4_1ch/smil:arirang_1ch.smil/chunklist.m3u8
-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u4
-声优广播,http://www.uniqueradio.jp/agplayerf/hls/Active.m3u48
-KCTV,http://119.77.96.4184:1935/chn05/chn05/chunklist.m3u8
-CJB,http://1.222.207.80:41935/live/cjbtv/chunklist_w1357270949.m3u8
-Arirang,http://amdlive.ct4nd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
-BBS佛教广播,http://bbstv.c4louducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
-Arirang,https://amdlive-ch041-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-HBTV,http://hoabinhtvlive.7446b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
-ANTV,http://antvlive.ab5c69214.cdnviet.com/antv/chunklist.m3u8
-Arirang Radio,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-BTN,http://btn.nowcdn.co.kr/btn4/btnlive01/playlist.m3u8
-CPBC,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-EBS-KIDS,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-GCN教会,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-韩国音乐,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+EBSi,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+EBS+2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+KBS LIVE,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+TBS,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
+OUN,https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+大田MBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+木浦MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+济州MBC,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+KFN,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+KOREA,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
+CJ OnStyle (540p),https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+GCN24 Korean (720p),http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+GoodTV (1080p),http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+Gugbang TV (1080p) [Not 24/7],http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+Lotte OneTV (720p),https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
+MBC,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
+MBC Jeju (제주 MBC) (352p) [Not 24/7],https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+MBC Mokpo (목포 MBC) (720p) [Not 24/7],http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+MBC Yeosu (여수 MBC) (1080p) [Not 24/7],https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+NHTV (720p),http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+Shopping NT (720p),https://live.shoppingntmall.com/live/10011.m3u8
+tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+tvchosun,http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?
+JTV,http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+C,http://112.175.51.214:1935/live/myStream/playlist.m3u8
+TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+韩国EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
+韩国EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u
+声优广播,http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
+CJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+Arirang Radio,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+BTN,http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
+CPBC,http://onair1.cpbc.co.kr:1935/tv/smil:live.smil/playlist.m3u8
+EBS-KIDS,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
+GCN教会,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
+韩国音乐,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 
 🇯🇵日本频道,#genre# 
 需要梯子,1
-日本日テレNEWS24,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-NHK,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-群马テレビ,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-ウェザーニュース,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-Tokyo MX 1,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-Tokyo MX 2,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-MX Live,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-Weather News,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-WeatherNews,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+日本日テレNEWS24,http://iptv.zkbhj.com/tv/url/go?id=729942d34e8518d7d5d61c380136549bf2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+Space Shower TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+NHK,https://nhk4.mov3.co/hls/nhk.m3u8
+群马テレビ,https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
+ウェザーニュース,https://movie.mcas.jp/mcas/wn1_2/master.m3u8
+Tokyo MX 1,https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+Tokyo MX 2,https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+MX Live,https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+WeatherNews,https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 QVC Japan,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-Shop Channel,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
 🇺🇸美国频道,#genre# 
 国外加载慢,https://i.uik.cc/view.php/80bfa7db9c20f6a884fcc7cae7e36d04.mp4
-News max,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-CNN,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+News max,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-CNA新闻,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-RT新闻,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-RT纪录,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-美国·彭博财经,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-加拿大·Global新闻,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-美·红牛运动,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-KCBS-TV CBS 2 (Los Angeles CA),https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-KNBC-TV NBC 4 (Los Angeles CA),http://s.rocketdns.info:8080/live/Z43nXfkOnf0/Madt8rUvmN/2453.ts
-KTLA-TV CW 5 (Los Angeles CA),http://s.rocketdns.info:8080/live/Z3n4XfkOnf0/Madt8rUvmN/87547.ts
-KABC-TV ABC 7 (Los Angeles CA),http://s.rocketdns.info:8080/live/Z3n4XfkOnf0/Madt8rUvmN/2684.ts
-KCAL-TV CBS/Ind. 9 (Los Angeles CA),http://s.rocketdns.info:8080/live/Z43nXfkOnf0/Madt8rUvmN/87548.ts
-KTTV-TV FOX 11 (Los Angeles CA),http://s.rocketdns.info:8080/live/Z3nXf4kOnf0/Madt8rUvmN/2550.ts
-KCOP-TV MyNetworkTV 13 (FOX 11+) (Los Angeles CA),http://s.rocketdns.4info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2478.ts
-KSWB-TV FOX 5/69 (San Diego CA),http://s.rocketdns.info:8080/live/Z3nXfk4Onf0/Madt8rUvmN/2534.ts
-KNSD-TV NBC 7/39 (San Diego CA),http://s.rocketdns.info:8080/live/Z3nXfkO4nf0/Madt8rUvmN/2439.ts
-KFMB-TV CBS 8.1 (CBS 8+) (San Diego CA),http://s.rocketdns.info:8080/live/Z34nXfkOnf0/Madt8rUvmN/2623.ts
-KFMB-DT CW/MyNetworkTV 8.2 (San Diego CA),http://s.rocketdns.info:8080/liv4e/Z3nXfkOnf0/Madt8rUvmN/446862.ts
-KGTV-TV ABC 10 (San Diego CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/M4adt8rUvmN/2670.ts
-KUSI-TV Ind. 51 (San Diego CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Mad4t8rUvmN/710371.ts
-KESQ-TV ABC 3 (Palm Springs CA),http://nocable.cc:8080/live/darriusthomas115@g4mail.com/darriusthomas115@2025/121235.ts
-KDFX-CA FOX 11/33 (Palm Springs CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/4Madt8rUvmN/696419.ts
-KMIR-TV NBC 36 (Palm Springs CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Mad4t8rUvmN/89444.ts
-KTVU-TV FOX 2 (San Francisco CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt84rUvmN/2533.ts
-KRON-TV CW 4 (San Francisco CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8r4UvmN/597171.ts
-KGO-TV ABC 7 (San Francisco CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rU4vmN/2669.ts
-KNTV-TV NBC 10 (San Francisco CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8r4UvmN/2438.ts
-KICU-TV MyNetworkTV 36 (FOX 2+) (San Francisco CA),http://s.rocketdns.info:8080/live/Z34nXfkOnf0/Madt8rUvmN/89459.ts
-KPYX-TV/KBCW-TV Ind. 44 (KPIX+) (San Francisco CA),http://s.rocketdns.info:8080/live/Z3nX4fkOnf0/Madt8rUvmN/34433.ts
-KCRA-TV NBC 3 (Sacramento CA),http://s.rocketdns.info:80480/live/Z3nXfkOnf0/Madt8rUvmN/2440.ts
-KXTV-TV ABC 10 (Sacramento CA),http://s.rocketdns.info:80480/live/Z3nXfkOnf0/Madt8rUvmN/2674.ts
-KOVR-TV CBS 13 (Stockton/Sacramento CA),http://s.rocketdn4s.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2625.ts
-KTXL-TV FOX 40 (Sacramento CA),http://s.rocketdns.info:8080/4live/Z3nXfkOnf0/Madt8rUvmN/2537.ts
-KMAX-TV CW 31 (Sacramento CA),http://s.rocketdns.info:8080/l4ive/Z3nXfkOnf0/Madt8rUvmN/89447.ts
-KSEE-TV NBC 24 (Fresno CA),http://s.rocketdns.info:8080/live/Z3n4XfkOnf0/Madt8rUvmN/89432.ts
-KMPH-TV FOX 26 (Fresno CA),http://s.rocketdns.info:8080/live/Z3n4XfkOnf0/Madt8rUvmN/434317.ts
-KFSN-TV ABC 30 (Fresno CA),http://s.rocketdns.info:8080/live/Z3nXf4kOnf0/Madt8rUvmN/2688.ts
-KGPE-TV CBS 47 (Fresno CA),http://s.rocketdns.info:8080/live/Z3nXfk4Onf0/Madt8rUvmN/89431.ts
-WFRE-TV CW 59 (Fresno CA),http://s.rocketdns.info:8080/live/Z3nXfkO4nf0/Madt8rUvmN/629104.ts
-KGET-TV NBC 17 (Bakerfield CA),http://s.rocketdns.info:8080/live/Z3nXf4kOnf0/Madt8rUvmN/89427.ts
-KERO-TV ABC 23 (Bakerfield CA),http://s.rocketdns.info:8080/live/Z3nXfk4Onf0/Madt8rUvmN/512981.ts
-KBAK-TV CBS 29 (Bakerfield CA),http://s.rocketdns.info:8080/live/Z3nXfkO4nf0/Madt8rUvmN/89426.ts
-KBFX-CD FOX 58 (Bakerfield CA),http://s.rocketdns.info:8080/live/Z3nXfkOn4f0/Madt8rUvmN/512982.ts
-KEYT-TV ABC 3 (Santa Barbara CA),http://s.rocketdns.info:8080/live/Z3nXfkO4nf0/Madt8rUvmN/446727.ts
-KION-TV CBS 5/46 (Monterey CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf40/Madt8rUvmN/89441.ts
-WCBS-TV CBS 2 (New York NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/M4adt8rUvmN/89712.ts
-WNBC-TV NBC 4 (New York NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/M4adt8rUvmN/89714.ts
-WNYW-TV FOX 5 (New York NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Ma4dt8rUvmN/2544.ts
-WABC-TV ABC 7 (New York NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt48rUvmN/3606.ts
-WWOR-TV MyNetworkTV 9 (FOX 5+) (New York NY),http://s.rocketdns.info:8080/live4/Z3nXfkOnf0/Madt8rUvmN/597173.ts
-WPIX-TV CW 11 (PIX 11+) (New York NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf04/Madt8rUvmN/93093.ts
-WLNY-TV CBS/Ind. 10/55 (New York NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/4Madt8rUvmN/89717.ts
-WBBM-TV CBS 2 (Chicago IL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvm4N/2648.ts
-WMAQ-TV NBC 5 (Chicago IL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvm4N/2464.ts
-WLS-TV ABC 7 (Chicago IL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/26495.ts
-WGN-TV CW 9 (Chicago IL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/853440.ts
-WFLD-TV FOX 32 (Chicago IL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/25467.ts
-WPWR-TV MyNetworkTV 50 (FOX+) (Chicago IL),http://s.rocketdns.info:8080/live/Z3nXfkOnf04/Madt8rUvmN/92927.ts
-WJBK-TV FOX 2 (Detroit MI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2558.t4s
-WDIV-TV NBC 4 (Detroit MI),http://s.ro4cketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2459.ts
-WXYZ-TV ABC 7 (Detroit MI),https://fl1.4moveonjoy.com/MI_DETROIT_ABC/mpegts
-WKBD-TV CW 50 (Detroit MI),http://s.roc4ketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89623.ts
-WWJ-TV CBS 62 (Detroit MI),http://s.rocke4tdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/88065.ts
-WCCO-TV CBS 4 (Minneapolis/St. Paul MN)4,http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2634.ts
-KSTP-TV ABC 5 (Minneapolis/St. Paul MN),ht4tp://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2673.ts
-KMSP-TV FOX 9 (Minneapolis/St. Paul MN),ht4tp://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2547.ts
-KARE-TV NBC 11 (Minneapolis/St. Paul MN),htt4p://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2450.ts
-WUCW-TV CW 23 (Minneapolis/St. Paul MN),htt4p://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38311.ts
-KYW-TV CBS 3 (Philadelphia PA),http://s.rocketdn4s.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2629.ts
-WPVI-TV ABC 6 (Philadelphia PA),http://s.rocketdn4s.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2678.ts
-WCAU-TV NBC 10 (Philadelphia PA),http://s.rocketd4ns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2445.ts
-WHPL-TV CW 17 (Philadelphia PA),http://s.rocketdns.4info:8080/live/Z3nXfkOnf0/Madt8rUvmN/433308.ts
-WTXF-TV FOX 29 (Philadelphia PA),http://s.rocketdns.i4nfo:8080/live/Z3nXfkOnf0/Madt8rUvmN/2540.ts
-WPSG-TV Ind. Philly 57 (Philadelphia PA),http://s.rocket4dns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/34426.ts
-WBZ-TV CBS 4 (Boston MA),http://s.rocketdns.info:8080/4live/Z3nXfkOnf0/Madt8rUvmN/88036.ts
-WCVB-TV ABC 5 (Boston MA),http://s.rocketdns.info:80804/live/Z3nXfkOnf0/Madt8rUvmN/2697.ts
-WBTS-LD NBC 10 (Boston MA),http://s.rocketdns.info:80804/live/Z3nXfkOnf0/Madt8rUvmN/2467.ts
-WFXT-CD FOX 25 (Boston MA),http://s.rocketdns.info:8080/4live/Z3nXfkOnf0/Madt8rUvmN/2570.ts
-WSBK-TV Ind. 38 (Boston MA),http://s.rocketdns.info:8080/liv4e/Z3nXfkOnf0/Madt8rUvmN/92926.ts
-WLVI-TV CW 56 (Boston MA),http://s.rocketdns.info:8080/live/4Z3nXfkOnf0/Madt8rUvmN/629809.ts
-KDKA-TV CBS 2 (Pittsburgh PA),http://s.rocketdns.info:8080/live4/Z3nXfkOnf0/Madt8rUvmN/2627.ts
-WTAE-TV ABC 4 (Pittsburgh PA),http://s.rocketdns.info:8080/live/4Z3nXfkOnf0/Madt8rUvmN/2676.ts
-WPXI-TV NBC 11 (Pittsburgh PA),http://s.rocketdns.info:8080/live/4Z3nXfkOnf0/Madt8rUvmN/2443.ts
-WPCW-TV CW 19 (KDKA+) (Pittsburgh PA),http://s.rocketdns.info:84080/live/Z3nXfkOnf0/Madt8rUvmN/34432.ts
-WPGH-CD FOX 53 (Pittsburgh PA),http://s.rocketdns.info:8080/live/Z43nXfkOnf0/Madt8rUvmN/2538.ts
-WICU-TV NBC 12 (Erie PA),http://s.rocketdns.info:8080/live/Z3nXfkOn4f0/Madt8rUvmN/510266.ts
-WJET-TV ABC 24 (Erie PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf04/Madt8rUvmN/510265.ts
-WSEE-TV CBS 35.1 (Erie PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf40/Madt8rUvmN/510267.ts
-WSEE-DT CW 35.2 (Erie PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf04/Madt8rUvmN/510264.ts
-WFXP-CD TV FOX 66 (Hartford CT),http://s.rocketdns.info:8080/live/Z3nXf4kOnf0/Madt8rUvmN/510268.ts
-WFSB-TV CBS 3 (Hartford CT),http://s.rocketdns.info:8080/live/Z3nXfkOnf04/Madt8rUvmN/629116.ts
-WTNH-TV ABC 8 (Hartford CT),http://s.rocketdns.info:8080/live/Z3nXfkOnf04/Madt8rUvmN/2693.ts
-WVIT-TV NBC 30 (Hartford CT),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/4Madt8rUvmN/2456.ts
-WTIC-CD TV FOX 61 (Hartford CT),http://s.rocketdns.info:8080/live/Z3nXfkOnf40/Madt8rUvmN/2556.ts
-WFOR-TV CBS 4 (Miami FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt48rUvmN/2636.ts
-WTVJ-TV NBC 6 (Miami FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt84rUvmN/2452.ts
-WSVN-TV FOX 7 (Miami FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8r4UvmN/3641.ts
-WPLG-TV ABC 10 (Miami FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8r4UvmN/3605.ts
-WBFS-TV CW/MyNetworkTV 33 (Miami FL),http://s.rocketdns.info:8080/live/Z3nXfk4Onf0/Madt8rUvmN/38327.ts
-WSFL-TV CW/Ind. 39 (Miami FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt84rUvmN/433867.ts
-WFLA-TV NBC 8 (Tampa Bay FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8r4UvmN/59890.ts
-WTVT-TV FOX 13 (Tampa Bay FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8r4UvmN/2504.ts
-WFTS-TV ABC 28 (Tampa Bay FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rU4vmN/2666.ts
-WTOG-TV Ind. 44 (Tampa Bay FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUv4mN/89505.ts
-WESH-TV NBC 2 (Orlando FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/489484.ts
+RT新闻,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+RT纪录,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+美国·彭博财经,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+加拿大·Global新闻,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+KCBS-TV CBS 2 (Los Angeles CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2637.ts
+KNBC-TV NBC 4 (Los Angeles CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2453.ts
+KTLA-TV CW 5 (Los Angeles CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/87547.ts
+KABC-TV ABC 7 (Los Angeles CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2684.ts
+KCAL-TV CBS/Ind. 9 (Los Angeles CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/87548.ts
+KTTV-TV FOX 11 (Los Angeles CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2550.ts
+KCOP-TV MyNetworkTV 13 (FOX 11+) (Los Angeles CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2478.ts
+KSWB-TV FOX 5/69 (San Diego CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2534.ts
+KNSD-TV NBC 7/39 (San Diego CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2439.ts
+KFMB-TV CBS 8.1 (CBS 8+) (San Diego CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2623.ts
+KFMB-DT CW/MyNetworkTV 8.2 (San Diego CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/446862.ts
+KGTV-TV ABC 10 (San Diego CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2670.ts
+KUSI-TV Ind. 51 (San Diego CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/710371.ts
+KESQ-TV ABC 3 (Palm Springs CA),http://nocable.cc:8080/live/darriusthomas115@gmail.com/darriusthomas115@2025/121235.ts
+KDFX-CA FOX 11/33 (Palm Springs CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/696419.ts
+KMIR-TV NBC 36 (Palm Springs CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89444.ts
+KTVU-TV FOX 2 (San Francisco CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2533.ts
+KRON-TV CW 4 (San Francisco CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/597171.ts
+KGO-TV ABC 7 (San Francisco CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2669.ts
+KNTV-TV NBC 10 (San Francisco CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2438.ts
+KICU-TV MyNetworkTV 36 (FOX 2+) (San Francisco CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89459.ts
+KPYX-TV/KBCW-TV Ind. 44 (KPIX+) (San Francisco CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/34433.ts
+KCRA-TV NBC 3 (Sacramento CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2440.ts
+KXTV-TV ABC 10 (Sacramento CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2674.ts
+KOVR-TV CBS 13 (Stockton/Sacramento CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2625.ts
+KTXL-TV FOX 40 (Sacramento CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2537.ts
+KMAX-TV CW 31 (Sacramento CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89447.ts
+KSEE-TV NBC 24 (Fresno CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89432.ts
+KMPH-TV FOX 26 (Fresno CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/434317.ts
+KFSN-TV ABC 30 (Fresno CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2688.ts
+KGPE-TV CBS 47 (Fresno CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89431.ts
+WFRE-TV CW 59 (Fresno CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/629104.ts
+KGET-TV NBC 17 (Bakerfield CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89427.ts
+KERO-TV ABC 23 (Bakerfield CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/512981.ts
+KBAK-TV CBS 29 (Bakerfield CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89426.ts
+KBFX-CD FOX 58 (Bakerfield CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/512982.ts
+KEYT-TV ABC 3 (Santa Barbara CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/446727.ts
+KION-TV CBS 5/46 (Monterey CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89441.ts
+WCBS-TV CBS 2 (New York NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89712.ts
+WNBC-TV NBC 4 (New York NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89714.ts
+WNYW-TV FOX 5 (New York NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2544.ts
+WABC-TV ABC 7 (New York NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3606.ts
+WWOR-TV MyNetworkTV 9 (FOX 5+) (New York NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/597173.ts
+WPIX-TV CW 11 (PIX 11+) (New York NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/93093.ts
+WLNY-TV CBS/Ind. 10/55 (New York NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89717.ts
+WBBM-TV CBS 2 (Chicago IL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2648.ts
+WMAQ-TV NBC 5 (Chicago IL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2464.ts
+WLS-TV ABC 7 (Chicago IL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2695.ts
+WGN-TV CW 9 (Chicago IL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/85340.ts
+WFLD-TV FOX 32 (Chicago IL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2567.ts
+WPWR-TV MyNetworkTV 50 (FOX+) (Chicago IL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/92927.ts
+WJBK-TV FOX 2 (Detroit MI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2558.ts
+WDIV-TV NBC 4 (Detroit MI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2459.ts
+WXYZ-TV ABC 7 (Detroit MI),https://fl1.moveonjoy.com/MI_DETROIT_ABC/mpegts
+WKBD-TV CW 50 (Detroit MI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89623.ts
+WWJ-TV CBS 62 (Detroit MI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/88065.ts
+WCCO-TV CBS 4 (Minneapolis/St. Paul MN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2634.ts
+KSTP-TV ABC 5 (Minneapolis/St. Paul MN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2673.ts
+KMSP-TV FOX 9 (Minneapolis/St. Paul MN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2547.ts
+KARE-TV NBC 11 (Minneapolis/St. Paul MN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2450.ts
+WUCW-TV CW 23 (Minneapolis/St. Paul MN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38311.ts
+KYW-TV CBS 3 (Philadelphia PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2629.ts
+WPVI-TV ABC 6 (Philadelphia PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2678.ts
+WCAU-TV NBC 10 (Philadelphia PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2445.ts
+WHPL-TV CW 17 (Philadelphia PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/433308.ts
+WTXF-TV FOX 29 (Philadelphia PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2540.ts
+WPSG-TV Ind. Philly 57 (Philadelphia PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/34426.ts
+WBZ-TV CBS 4 (Boston MA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/88036.ts
+WCVB-TV ABC 5 (Boston MA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2697.ts
+WBTS-LD NBC 10 (Boston MA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2467.ts
+WFXT-CD FOX 25 (Boston MA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2570.ts
+WSBK-TV Ind. 38 (Boston MA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/92926.ts
+WLVI-TV CW 56 (Boston MA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/629809.ts
+KDKA-TV CBS 2 (Pittsburgh PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2627.ts
+WTAE-TV ABC 4 (Pittsburgh PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2676.ts
+WPXI-TV NBC 11 (Pittsburgh PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2443.ts
+WPCW-TV CW 19 (KDKA+) (Pittsburgh PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/34432.ts
+WPGH-CD FOX 53 (Pittsburgh PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2538.ts
+WICU-TV NBC 12 (Erie PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/510266.ts
+WJET-TV ABC 24 (Erie PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/510265.ts
+WSEE-TV CBS 35.1 (Erie PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/510267.ts
+WSEE-DT CW 35.2 (Erie PA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/510264.ts
+WFXP-CD TV FOX 66 (Hartford CT),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/510268.ts
+WFSB-TV CBS 3 (Hartford CT),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/629116.ts
+WTNH-TV ABC 8 (Hartford CT),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2693.ts
+WVIT-TV NBC 30 (Hartford CT),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2456.ts
+WTIC-CD TV FOX 61 (Hartford CT),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2556.ts
+WFOR-TV CBS 4 (Miami FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2636.ts
+WTVJ-TV NBC 6 (Miami FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2452.ts
+WSVN-TV FOX 7 (Miami FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3641.ts
+WPLG-TV ABC 10 (Miami FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3605.ts
+WBFS-TV CW/MyNetworkTV 33 (Miami FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38327.ts
+WSFL-TV CW/Ind. 39 (Miami FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/433867.ts
+WFLA-TV NBC 8 (Tampa Bay FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/59890.ts
+WTVT-TV FOX 13 (Tampa Bay FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2504.ts
+WFTS-TV ABC 28 (Tampa Bay FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2666.ts
+WTOG-TV Ind. 44 (Tampa Bay FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89505.ts
+WESH-TV NBC 2 (Orlando FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89484.ts
 WKMG-TV CBS 6 (Orlando FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2630.ts
-WFTV-TV ABC 9 (Orlando FL),http://s.4rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2679.ts
-WKCF-TV CW 18 (Orlando FL),http://s.r4ocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/333488.ts
-WOFL-TV FOX 35 (Orlando FL),http://s.r4ocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2541.ts
-WACX-TV 55.1 SuperChannel Orlando (O4rlando FL),https://632c1f303ef2e.streamlock.net/live/live/playlist.m3u8
-WRBW-TV MyNetworkTV 65 (FOX 35+) (O4rlando FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/383407.ts
-WNBW-DT NBC 9 (Gainsville FL),https://fl1.4moveonjoy.com/FL_Gainesville_NBC/mpegts
-WCJB-TV ABC 20 (Gainsville FL),https://fl1.m4oveonjoy.com/FL_GAINESVILLE_ABC/mpegts
-WOGX-TV FOX 51 (Ocala/Gainsville FL),http:/4/s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89499.ts
-WWSB-TV ABC 7 (Sarasota FL),http://s.rocketd4ns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/112252.ts
-KOB-TV NBC 4 (Albuquerque NM),http://s.rock4etdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/77964.ts
-KOAT-TV ABC 7 (Albuquerque NM),http://s.rock4etdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38302.ts
-KRQE-TV CBS 13.1 (Albuquerque NM),http://s.roc4ketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/77965.ts
-KRQE-TV FOX 13.2 (Albuquerque NM),http://s.rock4etdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89695.ts
-KDBC-TV CBS 4 (El Paso TX),http://s.rocketdns.info:84080/live/Z3nXfkOnf0/Madt8rUvmN/89826.ts
-KVIA-TV ABC 7 (El Paso TX),http://s.rocketdns.info:80480/live/Z3nXfkOnf0/Madt8rUvmN/38309.ts
-KTSM-TV NBC 9 (El Paso TX),http://s.rocketdns.info:80480/live/Z3nXfkOnf0/Madt8rUvmN/89827.ts
-KFOX-TV FOX 14 (El Paso TX),http://s.rocketdns.info:80480/live/Z3nXfkOnf0/Madt8rUvmN/566739.ts
-KIII-TV ABC 3 (Corpus Christi TX),http://s.rocketdns.info:48080/live/Z3nXfkOnf0/Madt8rUvmN/721023.ts
-KRIS-TV NBC 6 (Corpus Christi TX),http://s.rocketdns.info:48080/live/Z3nXfkOnf0/Madt8rUvmN/89823.ts
-KZTV-TV CBS 10 (Corpus Christi TX),http://s.rocketdns.info:48080/live/Z3nXfkOnf0/Madt8rUvmN/89822.ts
-KCBD-TV NBC 11 (Lubbock TX),http://s.rocketdns.info:8080/4live/Z3nXfkOnf0/Madt8rUvmN/38305.ts
-KLBK-TV CBS 13 (Lubbock TX),http://s.rocketdns.info:8080/liv4e/Z3nXfkOnf0/Madt8rUvmN/38304.ts
-KAMC-TV ABC 28 (Lubbock TX),http://s.rocketdns.info:8080/liv4e/Z3nXfkOnf0/Madt8rUvmN/38303.ts
-KJTV-TV FOX 34 (Lubbock TX),http://s.rocketdns.info:8080/live/Z43nXfkOnf0/Madt8rUvmN/89843.ts
-KCWX-TV MyNetworkTV 2 (San Antonio TX),http://65.36.6.216:19435/live/kcwx.smil/playlist.m3u8
-WOAI-TV NBC 4.1 (San Antonio TX),http://s.rocketdns.info:8080/liv4e/Z3nXfkOnf0/Madt8rUvmN/89853.ts
-KENS-TV CBS 5 (San Antonio TX),http://s.rocketdns.info:8080/live/Z43nXfkOnf0/Madt8rUvmN/2624.ts
-KSAT-TV ABC 12 (San Antonio TX),http://s.rocketdns.info:8080/live/Z43nXfkOnf0/Madt8rUvmN/2671.ts
-KABB-TV FOX 29 (San Antonio TX),http://s.rocketdns.info:8080/live/Z34nXfkOnf0/Madt8rUvmN/2535.ts
-KMYS-TV CW 35 & WOAI-DT 4.2 (San Antonio TX),http://s.rocketdns.in4fo:8080/live/Z3nXfkOnf0/Madt8rUvmN/629971.ts
-KDFW-TV FOX 4 (Ft. Worth/Dallas TX),http://s.rocketdns.info:8080/live/Z43nXfkOnf0/Madt8rUvmN/89824.ts
-KXAS-TV NBC 5 (Ft. Worth/Dallas TX),http://s.rocketdns.info:8080/live/Z3n4XfkOnf0/Madt8rUvmN/2461.ts
-WFAA-TV ABC 8 (Ft. Worth/Dallas TX),http://s.rocketdns.info:8080/live/Z3n4XfkOnf0/Madt8rUvmN/2692.ts
-KTVT-TV CBS 11 (Ft. Worth/Dallas TX),http://s.rocketdns.info:8080/live/Z3nX4fkOnf0/Madt8rUvmN/2645.ts
-KTXA-TV Ind. 21 (Ft. Worth/Dallas TX),http://s.rocketdns.info:8080/live/Z3nXf4kOnf0/Madt8rUvmN/38295.ts
-KDFI-TV MyNetworkTV/FOX 27 (More27) (Ft. Worth/Dallas TX),http://s.rocket4dns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/597158.ts
-KDAFF-TV CW 39 (Ft. Worth/Dallas TX),http://s.rocketdns.info:8080/live/Z3nXfk4Onf0/Madt8rUvmN/597161.ts
-KPRC-TV NBC 2 (Houston TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Mad4t8rUvmN/2455.ts
-KHOU-TV CBS 8 (Houston TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt48rUvmN/2640.ts
-KTRK-TV ABC 13 (Houston TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt84rUvmN/2687.ts
-KTXH-TV MyNetworkTV 20 (My20 Vision) (Houston TX),http://s.rocketdns.info:8080/l4ive/Z3nXfkOnf0/Madt8rUvmN/50091.ts
-KRIV-TV FOX 26 (Houston TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUv4mN/89836.ts
-KIAH-TV CW 39 (Houston TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvm4N/643838.ts
-KTBC-TV FOX 7 (Austin TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/348241.ts
-KVUE-TV ABC 24 (Austin TX),http://s.rocketdns.4info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38241.ts
-KXAN-TV NBC 36 (Austin TX),http://s.rocketdns.i4nfo:8080/live/Z3nXfkOnf0/Madt8rUvmN/85342.ts
-KEYE-TV CBS 42 (Austin TX),http://s.rocketdns.inf4o:8080/live/Z3nXfkOnf0/Madt8rUvmN/85343.ts
-WWL-TV CBS 4 (New Orleans LA),http://s.rocketdn4s.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2632.ts
-WDSU-TV NBC 6 (New Orleans LA),http://s.rocketdn4s.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2448.ts
-WVUE-TV FOX 8 (New Orleans LA),http://s.rocketdns.2info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2545.ts
-WGNO-TV ABC 26 (New Orleans LA),http://s.rocketdns2.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/510034.ts
-WBRZ-TV ABC 2 (Baton Rouge LA),http://s.rocketdns.inf2o:8080/live/Z3nXfkOnf0/Madt8rUvmN/38252.ts
-WAFB-TV CBS 9 (Baton Rouge LA),http://s.rocketdns.info2:8080/live/Z3nXfkOnf0/Madt8rUvmN/38253.ts
-WVLA-TV NBC 33 (Baton Rouge LA),http://s.rocketdns.info2:8080/live/Z3nXfkOnf0/Madt8rUvmN/89590.ts
-WGMB-TV FOX 44 (Baton Rouge LA),http://s.rocketdns.info:28080/live/Z3nXfkOnf0/Madt8rUvmN/89589.ts
-KTBS-TV ABC 3 (Shreveport LA),http://s.rocketdns.info:8080/li2ve/Z3nXfkOnf0/Madt8rUvmN/38325.ts
-KTAL-TV NBC 6 (Shreveport LA),http://s.rocketdns.info:8080/liv2e/Z3nXfkOnf0/Madt8rUvmN/89602.ts
-KSLA-TV CBS 12 (Shreveport LA),http://s.rocketdns.info:8080/liv2e/Z3nXfkOnf0/Madt8rUvmN/89600.ts
-KMSS-TV FOX 33 (Shreveport LA),http://s.rocketdns.info:8080/liv2e/Z3nXfkOnf0/Madt8rUvmN/89601.ts
-KTVK-TV 3TV CBS/Ind. 3 (Phoenix AZ),http://s.rocketdns.info:80802/live/Z3nXfkOnf0/Madt8rUvmN/38298.ts
-KPHO-TV CBS 5 (Phoenix AZ),http://s.rocketdns.info:8080/live/Z3nX2fkOnf0/Madt8rUvmN/2628.ts
-KSAZ-TV FOX 10.1 (Phoenix AZ),http://s.rocketdns.info:8080/live/Z3n4XfkOnf0/Madt8rUvmN/2539.ts
-KSAZ-DT FOX Xtra 10.2/KUTP-TV MyNetworkTV 45 (Phoenix AZ),http:4//s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/600290.ts
-KPNX-TV NBC 12 (Phoenix AZ),http://s.rocketdns.info:8080/live/Z3nXfk4Onf0/Madt8rUvmN/2444.ts
-KNXV-TV ABC 15 (Phoenix AZ),http://s.rocketdns.info:8080/live/Z3nXfkO4nf0/Madt8rUvmN/2677.ts
-KVOA-TV NBC 4 (Tucson AZ),http://s.rocketdns.info:8080/live/Z3nXfkOnf04/Madt8rUvmN/89422.ts
-KGUN-TV ABC 9 (Tucson AZ),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/4Madt8rUvmN/600301.ts
-KMSB-TV FOX 11 (Tucson AZ),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/4Madt8rUvmN/89421.ts
-KOLD-TV CBS 13 (Tucson AZ),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/M4adt8rUvmN/89420.ts
-KSNV-TV NBC 3 (Las Vegas NV),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/4Madt8rUvmN/38257.ts
-KVVU-TV FOX 5 (Las Vegas NV),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/M4adt8rUvmN/89699.ts
-KLAS-TV CBS 8 (Las Vegas NV),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Mad4t8rUvmN/89700.ts
-KTNV-TV ABC 13 (Las Vegas NV),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Ma4dt8rUvmN/38255.ts
-KVCW-TV CW 33 (Las Vegas NV),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Mad4t8rUvmN/34441.ts
-WJXT-TV 4 Ind. (Jacksonville FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt84rUvmN/607668.ts
-WTLV-TV NBC 12 (Jacksonville FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt48rUvmN/2454.ts
-WCWJ-TV CW 17 (Jacksonville FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt844rUvmN/607669.ts
+WFTV-TV ABC 9 (Orlando FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2679.ts
+WKCF-TV CW 18 (Orlando FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/333488.ts
+WOFL-TV FOX 35 (Orlando FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2541.ts
+WACX-TV 55.1 SuperChannel Orlando (Orlando FL),https://632c1f303ef2e.streamlock.net/live/live/playlist.m3u8
+WRBW-TV MyNetworkTV 65 (FOX 35+) (Orlando FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/383407.ts
+WNBW-DT NBC 9 (Gainsville FL),https://fl1.moveonjoy.com/FL_Gainesville_NBC/mpegts
+WCJB-TV ABC 20 (Gainsville FL),https://fl1.moveonjoy.com/FL_GAINESVILLE_ABC/mpegts
+WOGX-TV FOX 51 (Ocala/Gainsville FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89499.ts
+WWSB-TV ABC 7 (Sarasota FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/112252.ts
+KOB-TV NBC 4 (Albuquerque NM),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/77964.ts
+KOAT-TV ABC 7 (Albuquerque NM),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38302.ts
+KRQE-TV CBS 13.1 (Albuquerque NM),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/77965.ts
+KRQE-TV FOX 13.2 (Albuquerque NM),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89695.ts
+KDBC-TV CBS 4 (El Paso TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89826.ts
+KVIA-TV ABC 7 (El Paso TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38309.ts
+KTSM-TV NBC 9 (El Paso TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89827.ts
+KFOX-TV FOX 14 (El Paso TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/566739.ts
+KIII-TV ABC 3 (Corpus Christi TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/721023.ts
+KRIS-TV NBC 6 (Corpus Christi TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89823.ts
+KZTV-TV CBS 10 (Corpus Christi TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89822.ts
+KCBD-TV NBC 11 (Lubbock TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38305.ts
+KLBK-TV CBS 13 (Lubbock TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38304.ts
+KAMC-TV ABC 28 (Lubbock TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38303.ts
+KJTV-TV FOX 34 (Lubbock TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89843.ts
+KCWX-TV MyNetworkTV 2 (San Antonio TX),http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+WOAI-TV NBC 4.1 (San Antonio TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89853.ts
+KENS-TV CBS 5 (San Antonio TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2624.ts
+KSAT-TV ABC 12 (San Antonio TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2671.ts
+KABB-TV FOX 29 (San Antonio TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2535.ts
+KMYS-TV CW 35 & WOAI-DT 4.2 (San Antonio TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/629971.ts
+KDFW-TV FOX 4 (Ft. Worth/Dallas TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89824.ts
+KXAS-TV NBC 5 (Ft. Worth/Dallas TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2461.ts
+WFAA-TV ABC 8 (Ft. Worth/Dallas TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2692.ts
+KTVT-TV CBS 11 (Ft. Worth/Dallas TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2645.ts
+KTXA-TV Ind. 21 (Ft. Worth/Dallas TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38295.ts
+KDFI-TV MyNetworkTV/FOX 27 (More27) (Ft. Worth/Dallas TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/597158.ts
+KDAFF-TV CW 39 (Ft. Worth/Dallas TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/597161.ts
+KPRC-TV NBC 2 (Houston TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2455.ts
+KHOU-TV CBS 8 (Houston TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2640.ts
+KTRK-TV ABC 13 (Houston TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2687.ts
+KTXH-TV MyNetworkTV 20 (My20 Vision) (Houston TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/50091.ts
+KRIV-TV FOX 26 (Houston TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89836.ts
+KIAH-TV CW 39 (Houston TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/643838.ts
+KTBC-TV FOX 7 (Austin TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38241.ts
+KVUE-TV ABC 24 (Austin TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38241.ts
+KXAN-TV NBC 36 (Austin TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/85342.ts
+KEYE-TV CBS 42 (Austin TX),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/85343.ts
+WWL-TV CBS 4 (New Orleans LA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2632.ts
+WDSU-TV NBC 6 (New Orleans LA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2448.ts
+WVUE-TV FOX 8 (New Orleans LA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2545.ts
+WGNO-TV ABC 26 (New Orleans LA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/510034.ts
+WBRZ-TV ABC 2 (Baton Rouge LA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38252.ts
+WAFB-TV CBS 9 (Baton Rouge LA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38253.ts
+WVLA-TV NBC 33 (Baton Rouge LA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89590.ts
+WGMB-TV FOX 44 (Baton Rouge LA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89589.ts
+KTBS-TV ABC 3 (Shreveport LA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38325.ts
+KTAL-TV NBC 6 (Shreveport LA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89602.ts
+KSLA-TV CBS 12 (Shreveport LA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89600.ts
+KMSS-TV FOX 33 (Shreveport LA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89601.ts
+KTVK-TV 3TV CBS/Ind. 3 (Phoenix AZ),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38298.ts
+KPHO-TV CBS 5 (Phoenix AZ),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2628.ts
+KSAZ-TV FOX 10.1 (Phoenix AZ),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2539.ts
+KSAZ-DT FOX Xtra 10.2/KUTP-TV MyNetworkTV 45 (Phoenix AZ),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/600290.ts
+KPNX-TV NBC 12 (Phoenix AZ),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2444.ts
+KNXV-TV ABC 15 (Phoenix AZ),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2677.ts
+KVOA-TV NBC 4 (Tucson AZ),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89422.ts
+KGUN-TV ABC 9 (Tucson AZ),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/600301.ts
+KMSB-TV FOX 11 (Tucson AZ),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89421.ts
+KOLD-TV CBS 13 (Tucson AZ),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89420.ts
+KSNV-TV NBC 3 (Las Vegas NV),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38257.ts
+KVVU-TV FOX 5 (Las Vegas NV),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89699.ts
+KLAS-TV CBS 8 (Las Vegas NV),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89700.ts
+KTNV-TV ABC 13 (Las Vegas NV),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38255.ts
+KVCW-TV CW 33 (Las Vegas NV),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/34441.ts
+WJXT-TV 4 Ind. (Jacksonville FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/607668.ts
+WTLV-TV NBC 12 (Jacksonville FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2454.ts
+WCWJ-TV CW 17 (Jacksonville FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/607669.ts
 WJXX-TV ABC 25 (Jacksonville FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38245.ts
-WFOX-TV FOX 30 (Jacksonville FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rU4vmN/89491.ts
-WJAX-TV CBS 47 (Jacksonville FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvm4N/89490.ts
-WPTV-TV NBC 5 (West Palm Beach FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8r4UvmN/89512.ts
-WPEC-TV CBS 12 (West Palm Beach FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8r4UvmN/89510.ts
-WPBF-TV ABC 25 (West Palm Beach FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rU4vmN/672344.ts
-WFLX-TV FOX 29 (West Palm Beach FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUv44mN/89511.ts
-WTVX-TV CW 34 (West Palm Beach FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvm4N/630216.ts
-WFTX-TV FOX 4 (Naples FL),http://4s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89482.ts4
-WZVN-TV ABC 7 (Naples FL),http://4s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38258.ts
-WINK-TV CBS 11 (Naples FL),http://s4.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89486.ts
-WBBH-TV NBC 20 (Naples FL),http://s4.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89487.ts
-KARK-TV NBC 4 (Litlle Rock AR),http://4s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89411.ts
-KATV-TV ABC 7 (Litlle Rock AR),http://s.4rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/525686.ts
-KTHV-TV CBS 11 (Litlle Rock AR),http://s.4rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89409.ts
-KLRT-TV FOX 16 (Litlle Rock AR),http://s.ro4cketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89410.ts
-WBRC-TV FOX 6 (Birmingham AL),http://s.r4ocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/75346.ts
-WVTM-TV NBC 13 (Birmingham AL),http://s.4rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/75348.ts
-WIAT-TV CBS 42 (Birmingham AL),http://s.roc4ketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/75347.ts
-WABM-TV ABC 68 (Birmingham AL),http://s.ro4cketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38263.ts
-WHNT-TV CBS 19 (Huntsville AL),http://s.rocket4dns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/75356.ts
-WAAY-TV ABC 31 (Huntsville AL),http://s.rocketd4ns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38262.ts
-WAFF-TV NBC 48 (Huntsville AL),http://s.rocketdn4s.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/75355.ts
-WZDX-TV FOX 54 (Huntsville AL),http://s.rocketdns4.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/75354.ts
-KTVI-TV FOX 2 (St. Louis MO),http://s.rocketdns.info4:8080/live/Z3nXfkOnf0/Madt8rUvmN/2505.ts
-KMOV-TV CBS 4 (St. Louis MO),http://s.rocketdns.info4:8080/live/Z3nXfkOnf0/Madt8rUvmN/2619.ts
-KSDK-TV NBC 5 (St. Louis MO),http://s.rocketdns.info:84080/live/Z3nXfkOnf0/Madt8rUvmN/2430.ts
-KPLR-TV CW 11 (St. Louis MO),http://s.rocketdns.info:80480/live/Z3nXfkOnf0/Madt8rUvmN/597163.ts
-KDNL-TV ABC 30 (St. Louis MO),http://s.rocketdns.info:80480/live/Z3nXfkOnf0/Madt8rUvmN/2667.ts
-KOMU-TV NBC 8.1 (Jefferson City MO),http://s.rocketdns.i4nfo:8080/live/Z3nXfkOnf0/Madt8rUvmN/38274.ts
-KOMU-DT CW+ 8.3 (Jefferson City MO),http://s.rocketdns.i4nfo:8080/live/Z3nXfkOnf0/Madt8rUvmN/629880.ts
-KRCG-TV CBS 13 (Jefferson City MO),http://s.rocketdns.info:48080/live/Z3nXfkOnf0/Madt8rUvmN/38272.ts
-KMIZ-TV ABC 17.1 (Jefferson City MO),http://s.rocketdns.info4:8080/live/Z3nXfkOnf0/Madt8rUvmN/38271.ts
-KMIZ-DT MyNetworkTV 17.3 (Jefferson City MO),http://cvtv.cv4alley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
-KQFX-TV FOX 22 (Jefferson City MO),http://s.rocketdns.info:80840/live/Z3nXfkOnf0/Madt8rUvmN/38273.ts
-KCTV-TV CBS 5 (Kansas City MO),http://s.rocketdns.info:8080/live4/Z3nXfkOnf0/Madt8rUvmN/2638.ts
-KMBC-TV ABC 9 (Kansas City MO),http://s.rocketdns.info:8080/live4/Z3nXfkOnf0/Madt8rUvmN/2685.ts
-WDAF-TV FOX 4 (Kansas City MO),http://s.rocketdns.info:8080/live/4Z3nXfkOnf0/Madt8rUvmN/2552.ts
-KCWE-TV CW 29 (Kansas City MO),http://s.rocketdns.info:8080/live/Z43nXfkOnf0/Madt8rUvmN/629896.ts
-KSHB-TV NBC 41 (Kansas City MO),http://s.rocketdns.info:8080/live/Z34nXfkOnf0/Madt8rUvmN/89644.ts
-KMCI-TV Ind./NBC 38 (Kansas City MO),http://cvtv.cvalley.net/hls/KMCI4IND/KMCIIND.m3u8
-KSMO-TV MyNetworkTV 62 (Kansas City MO),http://s.rocketdns.info:80840/live/Z3nXfkOnf0/Madt8rUvmN/38288.ts
-WREG-TV CBS 3 (Memphis TN),http://s.rocketdns.info:8080/live/Z3nXfkOn4f0/Madt8rUvmN/81884.ts
-WMC-TV NBC 5 (Memphis TN),http://s.rocketdns.info:8080/live/Z3nXfkOnf40/Madt8rUvmN/81883.ts
-WHBQ-TV FOX 13 (Memphis TN),http://s.rocketdns.info:8080/live/Z3nXfkOn4f0/Madt8rUvmN/81882.ts
-WYPL-TV 18 (Memphis TN),https://reflect-memphis.cablecast.tv/live-2/live/liv4e.m3u8
-WATN-TV ABC 24 (Memphis TN),http://s.rocketdns.info:8080/live/Z3nXfkOnf04/Madt8rUvmN/38251.ts
-WKRN-TV ABC 2 (Nashville TN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/M4adt8rUvmN/2681.ts
-WSMV-TV NBC 4 (Nashville TN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/M4adt8rUvmN/2449.ts
-WTVF-TV CBS 5 (Nashville TN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Mad4t8rUvmN/2633.ts
-WZTV-TV FOX 17.1 (Nashville TN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/M4adt8rUvmN/2546.ts
-WUXP-TV MyNetworkTV 30 (Nashville TN),http://kstv.us:8080/live/N427DpynGE/70449166651/49093.ts
-WNAB-TV CW 58 (Nashville TN),http://kstv.us:8080/live/N427DpynGE/7049166651/449091.ts
-WATE-TV ABC 6 (Knoxville TN),htt4p://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rU4vmN/620009.ts
-WVLT-TV CBS 8 (Knoxville TN),http:4//s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89802.ts
-WBIR-TV NBC 10 (Knoxville TN),http:4//s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89804.ts
-WTNZ-TV FOX 43 (Knoxville TN),http:/4/s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89803.ts
-WRCB-TV NBC 3 (Chattanooga TN),http4://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/74688.ts
-WTVC-TV ABC 9.1 (Chattanooga TN),http4://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/74690.ts
-WTVC-DT FOX 9.2 (Chattanooga TN),http:/4/s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/74689.ts
-WDEF-TV CBS 12 (Chattanooga TN),http://s.4rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89799.ts
-WSB-TV ABC 2 (Atlanta GA),http://s.rocketdn4s.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2699.ts
-WAGA-TV FOX 5 (Atlanta GA),http://s.rocketd4ns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2574.ts
-WXIA-TV NBC 11 (Atlanta GA),http://s.rocketdn4s.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2469.ts
-WPCH-TV Peachtree TV CW 17 (Atlanta GA),http4://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38244.ts
-WUPA-TV CBS 69 (Atlanta GA),http://s.rocketdns.i4nfo:8080/live/Z3nXfkOnf0/Madt8rUvmN/34430.ts
-WJBF-TV ABC 6 (Augusta GA),http://s.rocketdns.inf4o:8080/live/Z3nXfkOnf0/Madt8rUvmN/38284.ts
-WRDW-DT CBS 12 (Augusta GA),http://s.rocketdns.i4nfo:8080/live/Z3nXfkOnf0/Madt8rUvmN/89519.ts
-WAGT-TV NBC 26 (Augusta GA),http://s.rocketdns.in4fo:8080/live/Z3nXfkOnf0/Madt8rUvmN/89521.ts
-WFXG-TV FOX 54 (Augusta GA),http://s.rocketdns.info4:8080/live/Z3nXfkOnf0/Madt8rUvmN/89520.ts
-WRBL-DT CBS 3 (Columbus GA),http://s.rocketdns.info:48080/live/Z3nXfkOnf0/Madt8rUvmN/640216.ts
-WTVM-TV ABC 9 (Columbus GA),http://s.rocketdns.info:48080/live/Z3nXfkOnf0/Madt8rUvmN/600289.ts
-WLTZ-TV NBC 38 (Columbus GA),http://s.rocketdns.info:84080/live/Z3nXfkOnf0/Madt8rUvmN/89523.ts
-WTVX-TV FOX 54 (Columbus GA),http://s.rocketdns.info:80480/live/Z3nXfkOnf0/Madt8rUvmN/630216.ts
-WBTV-TV CBS 3 (Charlotte NC),http://s.rocketdns.info:8080/4live/Z3nXfkOnf0/Madt8rUvmN/2649.ts
-WSOC-TV ABC 9 (Charlotte NC),http://s.rocketdns.info:8080/l4ive/Z3nXfkOnf0/Madt8rUvmN/2696.ts
-WCNC-TV NBC 36 (Charlotte NC),http://s.rocketdns.info:8080/4live/Z3nXfkOnf0/Madt8rUvmN/2465.ts
-WJZY-TV FOX 46 (Charlotte NC),http://s.rocketdns.info:8080/liv4e/Z3nXfkOnf0/Madt8rUvmN/510776.ts
-WRAL-TV NBC 5 (Raleigh NC),http://s.rocketdns.info:8080/live/Z43nXfkOnf0/Madt8rUvmN/2441.ts
-WTVD-TV ABC 11 (Raleigh NC),http://s.rocketdns.info:8080/live/Z43nXfkOnf0/Madt8rUvmN/542959.ts
-WNCN-TV CBS 17 (Raleigh NC),http://s.rocketdns.info:8080/live/Z34nXfkOnf0/Madt8rUvmN/89668.ts
-WLFL-TV CW 22 (Raleigh NC),http://s.rocketdns.info:8080/live/Z3nXf4kOnf0/Madt8rUvmN/93154.ts
-WRAZ-TV FOX 50 (Raleigh NC),http://s.rocketdns.info:8080/live/Z3nXf4kOnf0/Madt8rUvmN/89672.ts
-KWGN-TV CW 2 (Denver CO),http://s.rocketdns.info:8080/live/Z3nXfkO4nf0/Madt8rUvmN/630653.ts
-KCNC-TV CBS 4 (Denver CO),http://s.rocketdns.info:8080/live/Z3nXfkOn4f0/Madt8rUvmN/2644.ts
-KMGH-TV ABC 7 (Denver CO),http://s.rocketdns.info:8080/live/Z3nXfkOn4f0/Madt8rUvmN/2691.ts
-KUSA-TV NBC 9 (Denver CO),http://s.rocketdns.info:8080/live/Z3nXfkOnf04/Madt8rUvmN/606993.ts
-KDVR-TV FOX 31 (Denver CO),http://s.rocketdns.info:8080/live/Z3nXfkOnf04/Madt8rUvmN/2560.ts
-KMTV-TV CBS 3 (Omaha NE),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/M4adt8rUvmN/89685.ts
-WOWT-TV NBC 6 (Omaha NE),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/M4adt8rUvmN/61809.ts
-KETV-TV ABC 13 (Omaha NE),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Mad4t8rUvmN/735645.ts
-KPTM-TV FOX 42 (Omaha NE),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt48rUvmN/61811.ts
-WRIC-TV ABC 8 (Richmond VA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt48rUvmN/38247.ts
+WFOX-TV FOX 30 (Jacksonville FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89491.ts
+WJAX-TV CBS 47 (Jacksonville FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89490.ts
+WPTV-TV NBC 5 (West Palm Beach FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89512.ts
+WPEC-TV CBS 12 (West Palm Beach FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89510.ts
+WPBF-TV ABC 25 (West Palm Beach FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/672344.ts
+WFLX-TV FOX 29 (West Palm Beach FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89511.ts
+WTVX-TV CW 34 (West Palm Beach FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/630216.ts
+WFTX-TV FOX 4 (Naples FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89482.ts
+WZVN-TV ABC 7 (Naples FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38258.ts
+WINK-TV CBS 11 (Naples FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89486.ts
+WBBH-TV NBC 20 (Naples FL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89487.ts
+KARK-TV NBC 4 (Litlle Rock AR),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89411.ts
+KATV-TV ABC 7 (Litlle Rock AR),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/525686.ts
+KTHV-TV CBS 11 (Litlle Rock AR),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89409.ts
+KLRT-TV FOX 16 (Litlle Rock AR),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89410.ts
+WBRC-TV FOX 6 (Birmingham AL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/75346.ts
+WVTM-TV NBC 13 (Birmingham AL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/75348.ts
+WIAT-TV CBS 42 (Birmingham AL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/75347.ts
+WABM-TV ABC 68 (Birmingham AL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38263.ts
+WHNT-TV CBS 19 (Huntsville AL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/75356.ts
+WAAY-TV ABC 31 (Huntsville AL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38262.ts
+WAFF-TV NBC 48 (Huntsville AL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/75355.ts
+WZDX-TV FOX 54 (Huntsville AL),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/75354.ts
+KTVI-TV FOX 2 (St. Louis MO),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2505.ts
+KMOV-TV CBS 4 (St. Louis MO),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2619.ts
+KSDK-TV NBC 5 (St. Louis MO),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2430.ts
+KPLR-TV CW 11 (St. Louis MO),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/597163.ts
+KDNL-TV ABC 30 (St. Louis MO),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2667.ts
+KOMU-TV NBC 8.1 (Jefferson City MO),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38274.ts
+KOMU-DT CW+ 8.3 (Jefferson City MO),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/629880.ts
+KRCG-TV CBS 13 (Jefferson City MO),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38272.ts
+KMIZ-TV ABC 17.1 (Jefferson City MO),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38271.ts
+KMIZ-DT MyNetworkTV 17.3 (Jefferson City MO),http://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
+KQFX-TV FOX 22 (Jefferson City MO),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38273.ts
+KCTV-TV CBS 5 (Kansas City MO),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2638.ts
+KMBC-TV ABC 9 (Kansas City MO),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2685.ts
+WDAF-TV FOX 4 (Kansas City MO),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2552.ts
+KCWE-TV CW 29 (Kansas City MO),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/629896.ts
+KSHB-TV NBC 41 (Kansas City MO),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89644.ts
+KMCI-TV Ind./NBC 38 (Kansas City MO),http://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8
+KSMO-TV MyNetworkTV 62 (Kansas City MO),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38288.ts
+WREG-TV CBS 3 (Memphis TN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/81884.ts
+WMC-TV NBC 5 (Memphis TN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/81883.ts
+WHBQ-TV FOX 13 (Memphis TN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/81882.ts
+WYPL-TV 18 (Memphis TN),https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8
+WATN-TV ABC 24 (Memphis TN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38251.ts
+WKRN-TV ABC 2 (Nashville TN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2681.ts
+WSMV-TV NBC 4 (Nashville TN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2449.ts
+WTVF-TV CBS 5 (Nashville TN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2633.ts
+WZTV-TV FOX 17.1 (Nashville TN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2546.ts
+WUXP-TV MyNetworkTV 30 (Nashville TN),http://kstv.us:8080/live/N427DpynGE/7049166651/49093.ts
+WNAB-TV CW 58 (Nashville TN),http://kstv.us:8080/live/N427DpynGE/7049166651/49091.ts
+WATE-TV ABC 6 (Knoxville TN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/620009.ts
+WVLT-TV CBS 8 (Knoxville TN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89802.ts
+WBIR-TV NBC 10 (Knoxville TN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89804.ts
+WTNZ-TV FOX 43 (Knoxville TN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89803.ts
+WRCB-TV NBC 3 (Chattanooga TN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/74688.ts
+WTVC-TV ABC 9.1 (Chattanooga TN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/74690.ts
+WTVC-DT FOX 9.2 (Chattanooga TN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/74689.ts
+WDEF-TV CBS 12 (Chattanooga TN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89799.ts
+WSB-TV ABC 2 (Atlanta GA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2699.ts
+WAGA-TV FOX 5 (Atlanta GA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2574.ts
+WXIA-TV NBC 11 (Atlanta GA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2469.ts
+WPCH-TV Peachtree TV CW 17 (Atlanta GA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38244.ts
+WUPA-TV CBS 69 (Atlanta GA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/34430.ts
+WJBF-TV ABC 6 (Augusta GA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38284.ts
+WRDW-DT CBS 12 (Augusta GA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89519.ts
+WAGT-TV NBC 26 (Augusta GA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89521.ts
+WFXG-TV FOX 54 (Augusta GA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89520.ts
+WRBL-DT CBS 3 (Columbus GA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/640216.ts
+WTVM-TV ABC 9 (Columbus GA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/600289.ts
+WLTZ-TV NBC 38 (Columbus GA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89523.ts
+WTVX-TV FOX 54 (Columbus GA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/630216.ts
+WBTV-TV CBS 3 (Charlotte NC),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2649.ts
+WSOC-TV ABC 9 (Charlotte NC),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2696.ts
+WCNC-TV NBC 36 (Charlotte NC),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2465.ts
+WJZY-TV FOX 46 (Charlotte NC),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/510776.ts
+WRAL-TV NBC 5 (Raleigh NC),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2441.ts
+WTVD-TV ABC 11 (Raleigh NC),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/542959.ts
+WNCN-TV CBS 17 (Raleigh NC),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89668.ts
+WLFL-TV CW 22 (Raleigh NC),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/93154.ts
+WRAZ-TV FOX 50 (Raleigh NC),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89672.ts
+KWGN-TV CW 2 (Denver CO),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/630653.ts
+KCNC-TV CBS 4 (Denver CO),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2644.ts
+KMGH-TV ABC 7 (Denver CO),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2691.ts
+KUSA-TV NBC 9 (Denver CO),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/606993.ts
+KDVR-TV FOX 31 (Denver CO),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2560.ts
+KMTV-TV CBS 3 (Omaha NE),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89685.ts
+WOWT-TV NBC 6 (Omaha NE),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/61809.ts
+KETV-TV ABC 13 (Omaha NE),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/735645.ts
+KPTM-TV FOX 42 (Omaha NE),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/61811.ts
+WRIC-TV ABC 8 (Richmond VA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38247.ts
+WWBT-TV NBC 12 (Richmond VA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89869.ts
+WRLH-TV FOX 35 (Richmond VA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/630652.ts
+WRC-TV NBC 4 (Washington DC),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2428.ts
+WTTG-TV FOX 5 (Washington DC),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2503.ts
+WJLA-TV ABC 7 (Washington DC),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2665.ts
+WUSA-TV CBS 9 (Washington DC),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/559692.ts
+WDVM-TV Ind. 25 (Washington DC),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/723847.ts
+WRDC-TV MyNetworkTV 28 (Washington DC),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2475.ts
+WCDW-TV CW 50 (Washington DC),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/630645.ts
+WMAR-TV ABC 2 (Baltimore MD),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2698.ts
+WBAL-TV NBC 11 (Baltimore MD),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2468.ts
+WJZ-TV CBS 13 (Baltimore MD),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2651.ts
+WBFF-TV FOX 45 (Baltimore MD),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2572.ts
+WNUV-TV CW 54 (Baltimore MD),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/34434.ts
+KUTV-TV CBS 2 (Salt Lake City UT),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89862.ts
+KTVX-TV ABC 4 (Salt Lake City UT),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2672.ts
+KSL-TV NBC 5 (Salt Lake City UT),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/591882.ts
+KSTU-TV FOX 13 (Salt Lake City UT),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2536.ts
+KFOR-TV NBC 4 (Oklahoma City OK),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/42490.ts
+KOCO-TV ABC 5 (Oklahoma City OK),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38268.ts
+KWTV-TV CBS 9 (Oklahoma City OK),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/42488.ts
+KOKH-TV FOX 25 (Oklahoma City OK),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/42489.ts
+KOCB-TV CW 34 (Oklahoma City OK),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/34444.ts
+WCMH-TV NBC 4 (Columbus OH),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/51092.ts
+WSYX-TV ABC 6 (Columbus OH),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/112254.ts
+WBNS-TV CBS 10 (Columbus OH),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2646.ts
+WWHO-TV CW 53 (Columbus OH),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/629939.ts
+WKYC-TV NBC 3 (Cleveland OH),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2462.ts
+WEWS-TV ABC 5 (Cleveland OH),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2694.ts
+WJW-TV FOX 8 (Cleveland OH),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2566.ts
+WOIO CBS 19 (Cleveland OH),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2647.ts
+WLWT-TV NBC 5 (Cincinnati OH),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2463.ts
+WCPO-TV ABC 9 (Cincinnati OH),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/62431.ts
+WKRC-TV CBS 12 (Cincinnati OH),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/30136.ts
+WSTR-TV MyNetworkTV 64 (Cincinnati OH),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/433309.ts
+WDTN-TV NBC 2 (Dayton OH),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/70149.ts
+WHIO-TV CBS 7 (Dayton OH),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/70151.ts
+WKEF-TV ABC 22 (Dayton OH),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38322.ts
+WRGT-TV FOX 45 (Dayton OH),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/70150.ts
+WTOL-TV CBS 7 (Toledo OH),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89738.ts
+WTVG-TV ABC 13 (Toledo OH),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/564741.ts
+WNWO-TV NBC 24 (Toledo OH),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89740.ts
+WUPW-TV FOX 36 (Toledo OH),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89739.ts
+WLIO-TV NBC 8 (Lima OH),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89735.ts
+WTTV-TV CBS 4 (Indianapolis IN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/61807.ts
+WRTV-TV ABC 6 (Indianapolis IN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2686.ts
+WTHR-TV NBC 13 (Indianapolis IN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/56256.ts
+WXIN-TV FOX 59 (Indianapolis IN),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2554.ts
+WGRZ-TV NBC 2 (Buffalo NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2466.ts
+WIVB-TV CBS 4 (Buffalo NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/30133.ts
+WKBW-TV ABC 7 (Buffalo NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38280.ts
+WNLO-TV CW 23 (Buffalo NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3048.ts
+WUTV-TV FOX 29 (Buffalo NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/446824.ts
+WNYO-TV MyNetworkTV 49 (Buffalo NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38281.ts
+WRGB-TV CBS 6 (Albany NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89720.ts
+WTEN-TV ABC 10 (Albany NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/64027.ts
+WNYT-TV NBC 13 (Albany NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/63932.ts
+WCWN-TV CW 15 (Albany NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/34440.ts
+WXXA-TV FOX 23 (Albany NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/63931.ts
+WSTM-TV NBC 3 (Syracuse NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38314.ts
+WTVH-TV CBS 5 (Syracuse NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/87037.ts
+WSYR-TV ABC 9 (Syracuse  NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38313.ts
+WSYT-TV FOX 68 (Syracuse NY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/87038.ts
+WCSH-TV NBC 6 (Portland ME),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89617.ts
+WGME-TV CBS 13 (Portland ME),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89616.ts
+WPFO-TV FOX 23 (Portland ME),http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/2163.ts
+KATU-TV ABC 2 (Portland OR),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2675.ts
+KOIN-TV CBS 6 (Portland OR),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89760.ts
+KGW-TV NBC 8 (Portland OR),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2442.ts
+KPTV-TV FOX 12 (Portland OR),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89761.ts
+WLBT-TV NBC 3 (Jackson MS),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/102602.ts
+WJTV-TV CBS 12.1 (Jackson MS),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/102600.ts
+WJTV-DT CW 12.2 (Jackson MS),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/629826.ts
+WAPT-TV ABC 16 (Jackson MS),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/565748.ts
+WDBD-TV FOX 40 (Jackson MS),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/102601.ts
+WISC-TV CBS 3 (Madison WI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89895.ts
+WMTV-TV NBC 15 (Madison WI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89896.ts
+WKOW-TV ABC 27 (Madison WI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38321.ts
+WMSN-TV FOX 47 (Madison WI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/529233.ts
+WTMJ-TV NBC 4 (Milwaukee WI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89899.ts
+WITI-TV FOX 6 (Milwaukee WI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2548.ts
+WVTV-TV CW 18 (Milwaukee WI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38328.ts
+WISN-TV ABC 12 (Milwaukee WI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2682.ts
+WDJT-TV CBS 58 (Milwaukee WI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2635.ts
+WBAY-TV ABC 2 (Green Bay WI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38282.ts
+WFRV-TV CBS 5 (Green Bay WI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89890.ts
+WLUK-TV FOX 11 (Green Bay WI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2557.ts
+WCWF-TV CW 14 (Green Bay WI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38283.ts
+WBGA-TV NBC 26 (Green Bay WI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/631821.ts
+KOMO-TV ABC 4 (Seattle WA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2668.ts
+KING-TV NBC 5 (Seattle WA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2437.ts
+KIRO-TV CBS 7 (Seattle WA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2621.ts
+KSTW-TV Ind. 11 (Seattle WA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/34428.ts
+KCPQ-TV FOX 13 (Seattle WA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89885.ts
+KZJO-TV FOX 13+/MyNetworkTV 22 (Seattle WA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/730458.ts
+KUNS-TV CW 51 (Seattle WA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/597174.ts
+WAVE-TV NBC 3 (Louisville KY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/70148.ts
+WHAS-TV ABC 11 (Louisville KY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38240.ts
+WLKY-TV CBS 32 (Louisville KY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/93167.ts
+WDRB-TV FOX 41 (Louisville KY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/70147.ts
+WLEX-TV NBC 18 (Lexington KY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/93171.ts
+WKYT-TV CBS 27.1 (Lexington KY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/93166.ts
+WKYT-DT CW 27.2 (Lexington KY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/629725.ts
+WTVQ-TV ABC 36 (Lexington KY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38296.ts
+WDKY-TV FOX 56 (Lexington KY),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89580.ts
+KTVM-TV NBC 20 (Butte MT),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89661.ts
+KTVQ-TV CBS 2 (Billings MT),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/555994.ts
+KHMT-TV FOX 4 (Billings MT),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/555995.ts
+KSVI-TV ABC 6 (Billings MT),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/555996.ts
+KLUR-TV NBC 8 (Billings MT),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89660.ts
+KTUU-TV NBC 2 (Anchorage AK),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38320.ts
+KTBY-TV FOX 4 (Anchorage AK),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38319.ts
+KYUR-TV ABC 13 (Anchorage AK),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38317.ts
+KTVA-TV CBS 22 (Anchorage AK),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38318.ts
+KHON-TV FOX 2.1 (Honolulu HI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89531.ts
+KHON-DT CW 2.2 (Honolulu HI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/629649.ts
+KITV-TV ABC 4 (Honolulu HI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38312.ts
+KGMB-TV CBS 5 (Honolulu HI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89530.ts
+KHNL-TV NBC 13 (Honolulu HI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89532.ts
 
-
-Fox weather,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-Go2Travel,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-Cable News Network,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-Pac-12 Network,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+Fox weather,https://247wlive.foxweather.com/stream/index_1280x720.m3u8
+Go2Travel,https://go2thls.wns.live/hls/stream.m3u8
+Cable News Network,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+Pac-12 Network,https://pac12-samsungus.amagi.tv/playlist480_p.m3u8
 
 
 
 
 🗽国外频道,#genre# 
 国外加载慢,https://i.uik.cc/view.php/80bfa7db9c20f6a884fcc7cae7e36d04.mp4
-越南ANTV,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-印度Ayushu,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-印度9Bharatvarsh,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-西班牙DW Español ,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-墨西哥Alcarria TV,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-芬兰Alfa,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp49940
-卡塔尔Al Jazeera Arabic,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-俄罗斯极限电影,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-俄罗斯Russia Today,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-俄罗斯ACTPA,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-18,http://5ddfc48289114.streamlock.net/CHsoom/4LIVE/playist.m3u8
-俄罗斯News max,http://nmxlive.akamaized.net/hls/l4ive/529965/Live_1/index.m3u8
-俄罗斯HOPE,http://tvhope.cdnvideo.ru/tvhope-pull/t4vhope_1/playlist.m3u8
-俄罗斯OCKO,http://ocko-live.ssl.cdn.cra.cz/channels/o4cko/playlist/cze/live_hq.m3u8
-俄罗斯OCKO2,http://ocko-live.ssl.cdn.cra.cz/channels/o4cko_gold/playlist/cze/live_hq.m3u8
-俄罗斯UNIVER,http://cdn.universmotri.ru/live/hq.sdp/ch4unklist_w1792531.m3u8
-俄罗斯ACT,http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sd4p/playlist.m3u8
-俄罗斯GITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m34u8
-半岛新闻,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8#http4s://live-hls-v3-aje.getaj.net/AJE-V3/01.m3u8#https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-半岛新闻,https://live-hls-web-aje.getaj.net/4AJE/01.m3u8
-伊朗新闻,http://live-hls-web-aja.getaj.net/AJ4A/02.m3u8
-COZI TV SD,http://108.181.20.255:27347/liveh4ttpplay?channel_id=23000
-TELEXITOS SD,http://108.181.20.255:27347/live4httpplay?channel_id=23001
-TELEMUNDO WEST HD,http://108.181.20.255:274347/livehttpplay?channel_id=23002
-TELEMUNDO EAST HD ,http://108.181.20.255:273447/livehttpplay?channel_id=23003
-TELEMUNDO MOUNTAIN HD,http://108.181.20.2545:27347/livehttpplay?channel_id=23004
-GOLF CHANNEL HD,http://108.181.20.255:27347/liv4ehttpplay?channel_id=23005
-UNIVERSAL KIDS HD,http://108.181.20.255:27347/liv4ehttpplay?channel_id=23006
-TV ONE HD,http://108.181.20.255:27347/livehttpplay?4channel_id=23007
-E! WEST HD,http://108.181.20.255:27347/livehttpplay?c4hannel_id=23008
-MTV WEST HD ,http://108.181.20.255:27347/livehttpplay4?channel_id=23009
-NICK EAST HD ,http://108.181.20.255:27347/livehttpplay?4channel_id=23010
-MTV HITS HD,http://108.181.20.255:27347/livehttpplay?ch4annel_id=23011
-PARAMOUND  WEST HD ,http://108.181.20.255:27347/liveh4ttpplay?channel_id=23012
-PARAMOUND CANADÁ HD,http://108.181.20.255:27347/live4httpplay?channel_id=23013
-LOGO EAST HD ,http://108.181.20.255:27347/livehttpplay?cha44nnel_id=23014
-CMT WEST HD ,http://108.181.20.255:27347/livehttpplay?chann4el_id=23015
-AFN prime pacific HD ,http://108.181.20.255:27347/livehttpplay?c4hannel_id=23016
-AFN family HD,http://108.181.20.255:27347/livehttpplay?channel_i4d=23017
-AFN movie HD,http://108.181.20.255:27347/livehttpplay?channel_id4=23018
-AFN spectrum HD ,http://108.181.20.255:27347/livehttpplay?channel4_id=23019
-AFN sports HD,http://108.181.20.255:27347/livehttpplay?channel_id=243020
-AFN sports 2 HD,http://108.181.20.255:27347/livehttpplay?channel_id=423021
-LAS ESTRELLAS HD,http://108.181.20.255:27347/livehttpplay?channel_id4=23022
-LAS ESTRELLAS HD -1HORA,http://108.181.20.255:27347/livehttpplay?cha4nnel_id=23023
-LAS ESTRELLAS HD -2HORA,http://108.181.20.255:27347/livehttpplay?chan4nel_id=23024
-CANAL 5 HD,http://108.181.20.255:27347/livehttpplay?channel_id=230254
-CANAL 5 HD -1 HORA ,http://108.181.20.255:27347/livehttpplay?channel_i4d=23026
-NU9VE HD,http://108.181.20.255:27347/livehttpplay4?channel_id=23027
-AZTECA1 HD,http://108.181.20.255:27347/livehttppla4y?channel_id=23028
-AZTECA1 HD -HORAS ,http://108.181.20.255:27347/liv4ehttpplay?channel_id=23029
-ADN 40 HD,http://108.181.20.255:27347/livehttpplay?c4hannel_id=23030
-a mas+HD ,http://108.181.20.255:27347/livehttpplay?ch4annel_id=23031
-SKYSPORTS LA LIGA(DEMO),http://108.181.20.255:273474/livehttpplay?channel_id=23032
-FutTV HD ,http://108.181.20.255:27347/livehttpplay?chan4nel_id=23033
-truTV HD,http://108.181.20.255:27347/livehttpplay?channe4l_id=23034
-DREAMWORKS HD,http://108.181.20.255:27347/livehttpplay4?channel_id=23035
-GOLDEN HD,http://108.181.20.255:27347/livehttpplay?chann4el_id=23036
-Europa/europa HD,http://108.181.20.255:27347/livehttpplay?c4hannel_id=23037
-GOLDEN EDGE HD,http://108.181.20.255:27347/livehttpplay?ch4annel_id=23038
-GOLDEN PREMIER HD,http://108.181.20.255:27347/livehttpplay?4channel_id=23039
-ÚNICABLE HD,http://108.181.20.255:27347/livehttpplay?channel_i4d=23040
-BANDAMAX HD,http://108.181.20.255:27347/livehttpplay?channel_4id=23041
+越南ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+印度Ayushu,http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+印度9Bharatvarsh,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
+西班牙DW Español ,https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+墨西哥Alcarria TV,http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
+芬兰Alfa,https://irrtv2.digitacdn.net/live/ott/irrtv/playlist.m3u8?organizationId=229401409&suiteItemId=230439940
+卡塔尔Al Jazeera Arabic,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+俄罗斯极限电影,http://ef90a6cd.rossteleccom.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/14158/index.m3u8
+俄罗斯Russia Today,https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+俄罗斯ACTPA,http://streaming.astrakhan.ru/astrakhan24/tracks-v3a1/mono.m3u8
+18,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
+俄罗斯News max,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+俄罗斯HOPE,http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+俄罗斯OCKO,http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+俄罗斯OCKO2,http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+俄罗斯UNIVER,http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
+俄罗斯ACT,http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+俄罗斯GITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+半岛新闻,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8#https://live-hls-v3-aje.getaj.net/AJE-V3/01.m3u8#https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+伊朗新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+COZI TV SD,http://108.181.20.255:27347/livehttpplay?channel_id=23000
+TELEXITOS SD,http://108.181.20.255:27347/livehttpplay?channel_id=23001
+TELEMUNDO WEST HD,http://108.181.20.255:27347/livehttpplay?channel_id=23002
+TELEMUNDO EAST HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23003
+TELEMUNDO MOUNTAIN HD,http://108.181.20.255:27347/livehttpplay?channel_id=23004
+GOLF CHANNEL HD,http://108.181.20.255:27347/livehttpplay?channel_id=23005
+UNIVERSAL KIDS HD,http://108.181.20.255:27347/livehttpplay?channel_id=23006
+TV ONE HD,http://108.181.20.255:27347/livehttpplay?channel_id=23007
+E! WEST HD,http://108.181.20.255:27347/livehttpplay?channel_id=23008
+MTV WEST HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23009
+NICK EAST HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23010
+MTV HITS HD,http://108.181.20.255:27347/livehttpplay?channel_id=23011
+PARAMOUND  WEST HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23012
+PARAMOUND CANADÁ HD,http://108.181.20.255:27347/livehttpplay?channel_id=23013
+LOGO EAST HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23014
+CMT WEST HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23015
+AFN prime pacific HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23016
+AFN family HD,http://108.181.20.255:27347/livehttpplay?channel_id=23017
+AFN movie HD,http://108.181.20.255:27347/livehttpplay?channel_id=23018
+AFN spectrum HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23019
+AFN sports HD,http://108.181.20.255:27347/livehttpplay?channel_id=23020
+AFN sports 2 HD,http://108.181.20.255:27347/livehttpplay?channel_id=23021
+LAS ESTRELLAS HD,http://108.181.20.255:27347/livehttpplay?channel_id=23022
+LAS ESTRELLAS HD -1HORA,http://108.181.20.255:27347/livehttpplay?channel_id=23023
+LAS ESTRELLAS HD -2HORA,http://108.181.20.255:27347/livehttpplay?channel_id=23024
+CANAL 5 HD,http://108.181.20.255:27347/livehttpplay?channel_id=23025
+CANAL 5 HD -1 HORA ,http://108.181.20.255:27347/livehttpplay?channel_id=23026
+NU9VE HD,http://108.181.20.255:27347/livehttpplay?channel_id=23027
+AZTECA1 HD,http://108.181.20.255:27347/livehttpplay?channel_id=23028
+AZTECA1 HD -HORAS ,http://108.181.20.255:27347/livehttpplay?channel_id=23029
+ADN 40 HD,http://108.181.20.255:27347/livehttpplay?channel_id=23030
+a mas+HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23031
+SKYSPORTS LA LIGA(DEMO),http://108.181.20.255:27347/livehttpplay?channel_id=23032
+FutTV HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23033
+truTV HD,http://108.181.20.255:27347/livehttpplay?channel_id=23034
+DREAMWORKS HD,http://108.181.20.255:27347/livehttpplay?channel_id=23035
+GOLDEN HD,http://108.181.20.255:27347/livehttpplay?channel_id=23036
+Europa/europa HD,http://108.181.20.255:27347/livehttpplay?channel_id=23037
+GOLDEN EDGE HD,http://108.181.20.255:27347/livehttpplay?channel_id=23038
+GOLDEN PREMIER HD,http://108.181.20.255:27347/livehttpplay?channel_id=23039
+ÚNICABLE HD,http://108.181.20.255:27347/livehttpplay?channel_id=23040
+BANDAMAX HD,http://108.181.20.255:27347/livehttpplay?channel_id=23041
 TELEMUNDO HD,http://108.181.20.255:27347/livehttpplay?channel_id=23042
 DISTRITO COMEDIA HD,http://108.181.20.255:27347/livehttpplay?channel_id=23043
 NICK JR HD,http://108.181.20.255:27347/livehttpplay?channel_id=23044
@@ -3876,19 +3888,19 @@ EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.inde
 JTV,http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
 KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 C,http://112.175.51.214:1935/live/myStream/playlist.m3u8
-EBS少儿,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-韩国EBS1,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-韩国EBS2,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-Arirang,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+韩国EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
+韩国EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
 KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u
-声优广播,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-KCTV,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-CJB,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-CPBC,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-EBS-KIDS,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-GCN教会,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-韩国音乐,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-RNA,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+声优广播,http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
+CJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+CPBC,http://onair1.cpbc.co.kr:1935/tv/smil:live.smil/playlist.m3u8
+EBS-KIDS,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
+GCN教会,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
+韩国音乐,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+RNA,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 
 
 📺中国风景,#genre#
@@ -3928,7 +3940,8 @@ RNA,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 重庆渝中李子坝,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
 🎬电影轮播,#genre#
-
+电影_警匪,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352886
+电影_警匪,http://81.70.100.25:3366/lunbo/huya.php?id=11352886
 电影_海盗,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059595
 电影_海盗,http://81.70.100.25:3366/lunbo/huya.php?id=21059595
 电影_赛车,http://tv.zimtv.cn/tv/player/api/huya.php?id=11279247
@@ -4816,12 +4829,12 @@ w_400,https://live.ottiptv.cc/yy/1354693629
 
 🎬综艺频道,#genre#
 放不了多按几次OK,https://live.ottiptv.cc/huya/21969336
-李子柒,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-韩国综艺,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-男生女生向前冲,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-极限挑战专场,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-青春环游记专场,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
-五十公里桃花坞专场,https://i.uik.cc/view.php/3754db09ef65ab437ea605c0318afc61.mp4
+李子柒,https://live.ottiptv.cc/huya/21969336
+韩国综艺,https://live.ottiptv.cc/huya/11336725
+男生女生向前冲,https://live.ottiptv.cc/huya/30021042
+极限挑战专场,https://live.ottiptv.cc/huya/29982632
+青春环游记专场,https://live.ottiptv.cc/huya/30080246
+五十公里桃花坞专场,https://live.ottiptv.cc/huya/29465869
 高能少年团专场,https://live.ottiptv.cc/huya/29982609
 二十四小时专场,https://live.ottiptv.cc/huya/29982610
 哈哈哈哈哈专场,https://live.ottiptv.cc/huya/30080247
