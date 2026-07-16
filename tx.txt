@@ -533,7 +533,7 @@ CCTV17,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 青海卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws
 吉林卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
 黑龙江卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
-🚀港澳台🚀_996996,#genre#
+🚀港澳台🚀_996,#genre#
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
@@ -697,7 +697,7 @@ Wild TV,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8 
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 
-🌏全球直播🌏_996996,#genre#
+🌏全球直播🌏_996,#genre#
 News max,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
@@ -1256,7 +1256,7 @@ DJ苦了累了听听歌,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_
 车载DJ殇雪,https://vd3.bdstatic.com/mda-mhve4gb9hi8cstzk/1080p/cae_h264/1630319514896018158/mda-mhve4gb9hi8cstzk.mp4
 心在跳情在烧,https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/cae_h264/1630406994590156367/mda-mhwf07t27w3gi1y7.mp4
 
-💋生活频道💋_996996,#genre#
+💋生活频道💋_996,#genre#
 惊艳1,rtmp://112.29.121.74/live/易發TV-jyt
 香蕉2,rtmp://112.29.121.74/live/易發TV-xjt
 惊艳2,http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
