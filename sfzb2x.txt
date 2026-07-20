@@ -22,6 +22,8 @@ CCTV8K,http://192.151.150.154/live/cctv8k.m3u8
 CCTV16,http://121.57.88.206:898/hls/16/index.m3u8
 峨眉4K,http://live2.rxip.sc96655.com/live/emdy4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 峨眉电影,http://222.214.208.34:59901/tsfile/live/1004_1.m3u8
+峨眉电影,http://112.19.31.13:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+峨眉电影,http://118.122.144.115:8888/newlive/live/hls/32/live.m3u8$四川电信酒店
 峨眉电影,http://183.220.20.17:4321/udp/239.11.0.11:5140$四川移动
 湖南4K,http://rihou.cc:555/tv/湖南卫视4K
 江苏4K,http://rihou.cc:555/tv/江苏卫视4K
