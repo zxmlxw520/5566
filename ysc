@@ -1,7 +1,10 @@
 {
   "urls": [
     
-   
+   {
+      "url": "http://xn--dkw0c.y.nxog.top/",
+      "name": "🚀小脑斧线路"
+    },
     {
       "url": "https://13395.kstore.space/影视仓/星空影仓.json",
       "name": "🚀星空影仓"
@@ -10,10 +13,7 @@
       "url": "https://jiekou.netlify.app/svip.json",
       "name": "🚀拾光线路"
     },
-    {
-      "url": "https://6492.kstore.space/xnf/xnf.json",
-      "name": "🚀小脑斧线路"
-    },
+    
     {
       "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
       "name": "🚀心魔线路"
