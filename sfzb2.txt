@@ -362,27 +362,7 @@ Wild TV,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 
 
 🚀港澳风云,#genre#
-凤凰中文,http://49.232.143.177:80/pyxg/hmy.php?id=鳳凰中文備&key=***
-凤凰资讯,http://49.232.143.177:80/pyxg/hmy.php?id=鳳凰資訊備&key=***
-凤凰香港,http://49.232.143.177:80/pyxg/hmy.php?id=鳳凰香港&key=***
-中視,http://49.232.143.177:80/pyxg/hmy.php?id=中視&key=***
-華視,http://49.232.143.177:80/pyxg/hmy.php?id=華視&key=***
-台視,http://49.232.143.177:80/pyxg/hmy.php?id=台視&key=***
-三立台灣,http://49.232.143.177:80/pyxg/hmy.php?id=三立台灣&key=***
-TVBS,http://49.232.143.177:80/pyxg/hmy.php?id=TVBS備&key=***
-中天新聞,http://49.232.143.177:80/pyxg/hmy.php?id=中天新聞備&key=***
-東森新聞,http://49.232.143.177:80/pyxg/hmy.php?id=東森新聞備&key=***
-華視新聞,http://49.232.143.177:80/pyxg/hmy.php?id=華視新聞&key=***
-中視新聞,http://49.232.143.177:80/pyxg/hmy.php?id=中視新聞&key=***
-台視新聞,http://49.232.143.177:80/pyxg/hmy.php?id=台視新聞&key=***
-民視新聞,http://49.232.143.177:80/pyxg/hmy.php?id=民視新聞&key=***
-TVBS新聞,http://49.232.143.177:80/pyxg/hmy.php?id=TVBS新聞&key=***
-三立新聞,http://49.232.143.177:80/pyxg/hmy.php?id=三立新聞&key=***
-年代新聞,http://49.232.143.177:80/pyxg/hmy.php?id=年代新聞&key=***
-壹新聞,http://49.232.143.177:80/pyxg/hmy.php?id=壹新聞&key=***
-非凡新聞,http://49.232.143.177:80/pyxg/hmy.php?id=非凡新聞&key=***
-鏡新聞,http://49.232.143.177:80/pyxg/hmy.php?id=鏡新聞&key=***
-環宇台灣,http://49.232.143.177:80/pyxg/hmy.php?id=環宇台灣&key=***
+
 
 凤凰中文,https://cdn.qd.je/163189.php?id=fhzw
 凤凰资讯,https://cdn.qd.je/163189.php?id=fhzx 
