@@ -336,11 +336,6 @@ CGTN-法,http://go.bkpcp.top/mg/cgtnf
 凤凰中文,https://cdn.qd.je/163189.php?id=fhzw
 凤凰资讯,https://cdn.qd.je/163189/fhzx
 凤凰香港,https://cdn.qd.je/163189/fhhk
-凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
-凤凰香港,http://rihou.cc:555/tv/[SX]凤凰香港
-凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
-凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
-凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
@@ -436,6 +431,7 @@ TVB Plus,https://smt.1678520.xyz/163189/tvbp
 东森电影,https://smt.1678520.xyz/163189/dsdy
 东森戏剧,https://smt.1678520.xyz/163189/dsxj
 东森洋片,https://smt.1678520.xyz/163189/dsyp
+中天新闻,http://hsjky.com.cn:8081/live/999ztxw.m3u8
 中天新闻,rtmp://ai.gdjs.net.cn/live/332000-ztxw2
 中天新闻,rtmp://media.atmsiot.com/live/ztxw
 
