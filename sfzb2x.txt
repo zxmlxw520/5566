@@ -31,12 +31,9 @@ CCTV16,http://121.57.88.206:898/hls/16/index.m3u8
 浙江4K,http://rihou.cc:555/tv/浙江卫视4K
 东方4K,http://rihou.cc:555/tv/东方卫视4K
 深圳4K,http://rihou.cc:555/tv/szws 
-北京4K,http://rihou.cc:555/tv/北京卫视4K
 广东4K,http://192.151.150.154/live/gdtvs3.m3u8
 广东4K,http://rihou.cc:555/tv/广东卫视4K
-四川4K,http://rihou.cc:555/tv/四川卫视4K 
 山东4K,http://rihou.cc:555/tv/山东卫视 
-河南4K,http://rihou.cc:555/tv/河南卫视4K
 东方4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 湖南4K,http://go.061899.xyz/mg/hunws
 东方4K,http://go.061899.xyz/mg/dfws
@@ -49,7 +46,6 @@ CCTV16,http://121.57.88.206:898/hls/16/index.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 深圳4K,https://cdn3.163189.xyz/163189/szws4k
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
-推流影院,http://222.186.39.38:8000/587078/index.m3u8
 东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
 中国电影,http://iptv.4666888.xyz/iptv2A.php?id=61
 靖洋戏剧,http://iptv.4666888.xyz/iptv2A.php?id=42
@@ -57,7 +53,6 @@ CCTV16,http://121.57.88.206:898/hls/16/index.m3u8
 影迷数位电影,http://iptv.4666888.xyz/iptv2A.php?id=54
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 龙华洋片,http://iptv.4666888.xyz/iptv2A.php?id=60
-恐怖电影,http://iptv.4666888.xyz/iptv2A.php?id=59
 ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
 星影台,http://ok.zoho.to//i/?T=星影台
 天映频道,
@@ -77,13 +72,6 @@ ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
 家庭,http://route.079915.xyz:4022/rtp/239.3.1.93:4120
 精选,http://route.079915.xyz:4022/rtp/239.3.1.74:4120
 经典,http://route.079915.xyz:4022/rtp/239.3.1.195:9024
-龙华电影,http://cdn8.163189.xyz/163189/lhdy
-龙华经典,http://cdn8.163189.xyz/163189/lhjd
-龙华偶像,http://cdn8.163189.xyz/163189/lhox
-龙华日韩,http://cdn8.163189.xyz/163189/lhrh
-CHC动作电影,http://rihou.cc:555/tv/CHC动作电影
-CHC影迷电影,http://rihou.cc:555/tv/CHC影迷电影
-CHC家庭影院,http://rihou.cc:555/tv/CHC家庭影院
 电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 
@@ -99,7 +87,7 @@ CHC家庭影院,http://rihou.cc:555/tv/CHC家庭影院
 /
 凤凰资讯,http://live2.rxip.sc96655.com/live/test2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 凤凰中文,https://cdn.qd.je/163189.php?id=fhzw
-凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
+凤凰香港,https://cdn.qd.je/163189/fhhk
 TVB翡翠台,https://cdn.qd.je/163189/fct
 TVB无线新闻台,https://cdn.qd.je/163189.php?id=wxxw
 TVB Plus,https://cdn.qd.je/163189/tvbp
