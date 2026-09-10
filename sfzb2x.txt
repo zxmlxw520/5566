@@ -117,7 +117,7 @@ momo'tv,rtmp://f13h.mine.nu/sat/tv761
 有线18台,http://qingyi.7766.org:9004/0.ts
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 香港国际卫视,http://player4.juyun.tv/camera/158562106.m3u8
-
+悟道法师,https://tw2.amtb.de/liveedge/_definst_/smil:wdmaster.smil/playlist.m3u8
 华藏卫视,https://sg1.amtb.de/liveedge/_definst_/smil:livetv.smil/chunklist_w1071093527_b828000.m3u8
 三時繫念法會,https://sg1.amtb.de/liveedge/_definst_/smil:sanshi_720p.smil/chunklist_w156722507_b828000.m3u8
 华文四套,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
