@@ -13,12 +13,7 @@
 🎵音乐Wu哥,http://cfss.cc/cdn/du/8667755.flv
 🎵Music TV,https://secured.albportal.net:2083/AlbKanaleMusicTv/index.m3u8
 ❤️4K视频,http://xjj1.716888.xyz/fenlei/4k/4k.php
-4K电影,http://45.192.97.170:8880/play/442.m3u8
-CHC动作,http://45.192.97.170:8880/play/443.m3u8
-CHC家庭,http://45.192.97.170:8880/play/444.m3u8
-CHC影迷,http://45.192.97.170:8880/play/445.m3u8
-凤凰中文,http://45.192.97.170:8880/play/447.m3u8
-凤凰资讯,http://45.192.97.170:8880/play/446.m3u8
+
 
 ❥韩国舞曲,https://xn--vusr00g.v.nxog.top/m/tv/xjj.php?id=0
 ❥法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
@@ -73,9 +68,12 @@ CCTV16,http://121.57.88.206:898/hls/16/index.m3u8
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
-
+翡翠台,http://120.237.39.10:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
+翡翠台,http://222.128.55.152:9080/live/gdfc.m3u8
 翡翠台,http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv
+翡翠台4K,https://cdn3.indevs.in/stream/tvb/fct4k/ 
 TVBPlus,http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
+明珠台,http://120.238.84.45:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 HOY76,http://173.208.234.146/live/hoy76.m3u8
 HOY77,http://play.wenxiang.cn/live/43dc6fc9b1af5af8ec332f3c88b95e4a.flv
 HOY78,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
@@ -675,6 +673,24 @@ CCTV13,http://74.91.26.218:82/live/cctv13hd.m3u8
 
 📺电信专区,#genre#
 按右找不卡的,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+CCTV1综合,http://204.12.221.218:8181/3m1080p/cctv1.m3u8
+CCTV2财经,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
+CCTV3综艺,http://204.12.221.218:8181/3m1080p/cctv3.m3u8
+CCTV4中文国际,http://204.12.221.218:8181/3m1080p/cctv4.m3u8
+CCTV5体育,http://204.12.221.218:8181/3m1080p/cctv5.m3u8
+CCTV5+,http://204.12.221.218:8181/3m1080p/cctv5p.m3u8
+CCTV6电影,http://204.12.221.218:8181/3m1080p/cctv6.m3u8
+CCTV7国防军事,http://204.12.221.218:8181/3m1080p/cctv7.m3u8
+CCTV8电视剧,http://204.12.221.218:8181/3m1080p/cctv8.m3u8
+CCTV9纪录,http://204.12.221.218:8181/3m1080p/cctv9.m3u8
+CCTV10科教,http://204.12.221.218:8181/3m1080p/cctv10.m3u8
+CCTV11戏曲,http://204.12.221.218:8181/3m1080p/cctv11.m3u8
+CCTV12社会与法,http://204.12.221.218:8181/3m1080p/cctv12.m3u8
+CCTV13新闻,http://204.12.221.218:8181/3m1080p/cctv13.m3u8
+CCTV14少儿,http://204.12.221.218:8181/3m1080p/cctv14.m3u8
+CCTV15音乐,http://204.12.221.218:8181/3m1080p/cctv15.m3u8
+CCTV16奥林匹克,http://204.12.221.218:8181/3m1080p/cctv16.m3u8
+CCTV17农业农村,http://204.12.221.218:8181/3m1080p/cctv17.m3u8
 CCTV1综合,http://222.214.208.34:59901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://222.214.208.34:59901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3综艺,http://222.214.208.34:59901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
