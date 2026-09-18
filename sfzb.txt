@@ -2490,9 +2490,7 @@ DJ苦了累了听听歌,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_
 一半疯了,https://txmov2.a.kwimgs.com/upic/2023/06/26/13/BMjAyMzA2MjYxMzEwNDhfMjk4Mjk3ODMxOF8xMDY0ODAxMTIxNTdfMl8z_b_B8c230eb7bad8f8cf5a9baf8c13d7800d.mp4?clientCacheKey=3x8redaakre6nhe_b.mp4&tt=b&di=75b3b1ea&bp=10000
 那个谁,https://alimov2.a.kwimgs.com/upic/2023/05/26/11/BMjAyMzA1MjYxMTEyMDJfMjk4Mjk3ODMxOF8xMDM5NjY4MjE1OTBfMl8z_b_Bcc6eb6ccadec6fb846db0e43bebd553d.mp4?clientCacheKey=3x9jrbwim3x3tug_b.mp4&tt=b&di=75b3b1ea&bp=10000
 你是不是,https://alimov2.a.kwimgs.com/upic/2023/02/03/16/BMjAyMzAyMDMxNjI3NDlfMTExMTg2MTk3MV85NTMzODk2MTIzNV8yXzM=_b_B40be00d450a3206ac365e0670ab2789b.mp4?
-📺四川频道,#genre#
-
-四川卫视,http://live2.rxip.sc96655.com/live/scwsH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+📡四川频道,#genre#
 
 成都简阳新闻综合,http://jypull.jianyangrongmei.cn/live/fb9eea7d019310009e23a40200000000/playlist.m3u8?wsSecret=27502e2ade19ed4f0c73f2d43a9547b3&wsTime=2019657600
 成都简阳新闻综合,http://jypull.jianyangrongmei.cn/live/fb9eea7d019310009e23a40200000000.flv?wsSecret=63f700d781b82eaf42b4fa7e83212737&wsTime=2019657600
@@ -2630,7 +2628,7 @@ DJ苦了累了听听歌,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_
 江津新闻综合,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
 巴中1,https://bzrmtlive.bzitv.cn/live/240726Bztv001001/hls.m3u8
 巴中2,https://bzrmtlive.bzitv.cn/live/240726Bztv002002/hls.m3u8
-📺河南河北,#genre#
+📡河北频道,#genre#
 河南卫视,
 河南新闻,
 河南电视剧,
@@ -2812,7 +2810,7 @@ DJ苦了累了听听歌,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_
 
 
 
-📺吉林频道,#genre#
+📡吉林频道,#genre#
 吉林卫视,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
 吉林卫视,http://tvbox6.icu/tv/jlntv.php?id=jlws
 吉林都市,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8
@@ -2869,40 +2867,19 @@ DJ苦了累了听听歌,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_
 延边龙井综合,http://stream8.jlntv.cn/ljtv/playlist.m3u8
 延边汪清综合,http://stream5.jlntv.cn/wq/playlist.m3u8
 
-📺黑龙江频,#genre#
+📡黑龙江频,#genre#
 
 
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8
 哈尔滨影,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
-黑龙江新闻,http://112.99.193.34:9901/tsfile/live/1024_1.m3u8$黑龙江电信
-黑龙江影视,http://112.99.193.34:9901/tsfile/live/1020_1.m3u8$黑龙江电信
-黑龙江文体,http://112.99.193.34:9901/tsfile/live/1022_1.m3u8$黑龙江电信
-黑龙江都市,http://112.99.193.34:9901/tsfile/live/1023_1.m3u8$黑龙江电信
-黑龙江少儿,http://112.99.193.34:9901/tsfile/live/1026_1.m3u8$黑龙江电信
-黑龙江新闻,http://218.8.87.96:4000/udp/229.58.190.16:5000$黑龙江联通
-黑龙江影视,http://218.8.87.96:4000/udp/229.58.190.14:5000$黑龙江联通
-黑龙江文体,http://218.8.87.96:4000/udp/229.58.190.30:5000$黑龙江联通
-黑龙江少儿,http://218.8.87.96:4000/udp/229.58.190.39:5000$黑龙江联通
-黑龙江农业,http://218.8.87.96:4000/udp/229.58.190.7:5000$黑龙江联通
-黑龙江都市,http://218.8.87.96:4000/udp/229.58.190.34:5000$黑龙江联通
-黑龙江新闻,http://111.43.126.240:9003/hls/10/index.m3u8$黑龙江移动
-黑龙江都市,http://111.43.126.240:9003/hls/9/index.m3u8$黑龙江移动
-黑龙江影视,http://111.43.126.240:9003/hls/7/index.m3u8$黑龙江移动
-黑龙江公共,http://111.43.126.240:9003/hls/11/index.m3u8$黑龙江移动
-黑龙江少儿,http://111.43.126.240:9003/hls/12/index.m3u8$黑龙江移动
+
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
-📺山东山西,#genre#
+📡山东频道,#genre#
 山东卫视,http://zh.sqitv.com:888/hls/49/index.m3u8 
-山西卫视,http://rihou.cc:555/tv/山西卫视
-山西黄河,http://113.26.251.182:8009/hls/24/index.m3u8
-山西经济与科技,http://113.26.251.182:8009/hls/20/index.m3u8
-山西影视,http://113.26.251.182:8009/hls/21/index.m3u8
-山西社会与法治,http://113.26.251.182:8009/hls/22/index.m3u8
-山西文体生活,http://113.26.251.182:8009/hls/23/index.m3u8
 烟台影视,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
 烟台科技,http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8
 烟台综合,http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8
@@ -2931,7 +2908,7 @@ DJ苦了累了听听歌,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_
 山西黄河,http://123.174.106.183:8888/udp/239.1.1.2:8002$山西电信
 山西经济与科技,http://123.174.106.183:8888/udp/239.1.1.3:8003$山西电信
 武乡融媒体,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
-📺陕西频道,#genre#
+📡陕西频道,#genre#
 陕西卫视,http://112.46.105.20:8009/hls/17/index.m3u8$陕西移动
 陕西一套,http://112.46.105.20:8009/hls/18/index.m3u8$陕西移动#
 陕西二套,http://112.46.105.20:8009/hls/19/index.m3u8$陕西移动#
@@ -2976,7 +2953,7 @@ DJ苦了累了听听歌,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_
 安康2,rtmp://pili-live-rtmp.akrt.cn/akapptv/ggpdhd?sign=dd39ce413172524ec4b75f011676bf8e&t=67cadb96
 安康3,rtmp://pili-live-rtmp.akrt.cn/akapptv/jypdhd?sign=e188ec1947aea13ed2ed8d08053ffc11&t=67cadb96
 
-📺湖北湖南,#genre#
+📡湖北湖南,#genre#
 
 十堰经济,https://p8.vzan.com/slowlive/701367497774448672/live.m3u8
 荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8$官网源
@@ -3018,7 +2995,7 @@ DJ苦了累了听听歌,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_
 快乐购,http://218.77.84.102:85/tsfile/live/155/2010_1.m3u8?key=txiptv$湖南/永州/电信
 湖南教育,http://218.77.84.102:85/tsfile/live/156/2011_1.m3u8?key=txiptv$湖南/永州/电信
 湖南国际,http://192.151.150.154/live/hngj.m3u8
-📺江苏频道,#genre#
+📡江苏频道,#genre#
 苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
@@ -3170,7 +3147,7 @@ DJ苦了累了听听歌,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_
 泗洪新闻综合频道,http://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe.m3u8
 涟水电视台综合频道,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
 镇江综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0
-📺浙江频道,#genre#
+📡浙江频道,#genre#
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$浙江官方   
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$浙江官方 
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8$浙江官方
@@ -3357,7 +3334,7 @@ DJ苦了累了听听歌,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_
 上虞频道,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 杭州余杭平安,http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
 杭州余杭未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
-📺重庆贵州,#genre#
+📡重庆频道,#genre#
 重庆卫视,http://124.116.183.146:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 巴南综合,http://live.cqbntv.com/bnmc/tv0709.m3u8
 璧山综合,http://222.179.42.129:8181/hls1.m3u8
@@ -3393,6 +3370,7 @@ DJ苦了累了听听歌,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_
 重庆音乐现场,http://home.scanflove.com:7788/rtp/235.254.198.77:1584$重庆cmc3+
 重庆高网电影,http://home.scanflove.com:7788/rtp/235.254.198.95:1656$重庆cmc3+
 石阡新闻,http://cmsrtmp.todcy.cn/live/154/c6cc918d93fc47b1ad882de4c80eb496/c6cc918d93fc47b1ad882de4c80eb496.m3u8?hls_ctx=73750h84
+📡贵州频道,#genre#
 贵州公共,http://xzh.gzoa.top:8881/rtp/238.255.2.2:5999
 贵州影视,http://xzh.gzoa.top:8881/rtp/238.255.2.3:5999
 贵州大众,http://xzh.gzoa.top:8881/rtp/238.255.2.4:5999
@@ -3431,7 +3409,7 @@ DJ苦了累了听听歌,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_
 黔南1,rtmp://tv.qntv.net/channellive/ch1
 黔南2,rtmp://tv.qntv.net/channellive/ch
 
-📺安徽江西,#genre#
+📡安徽频道,#genre#
 广德新闻综合,https://live.gdtv.ah.cn/live/newsTV.m3u8
 广德生活频道,https://live.gdtv.ah.cn/live/shenghuoTV.m3u8
 蒙城新闻综合,https://p2hs.vzan.com/200263/698384284379943742/live.m3u8?zbid=200263&tpid=1914190744
@@ -3465,12 +3443,9 @@ DJ苦了累了听听歌,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_
 赣州公共,https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526334096251.m3u8$官网线路
 赣州教育,https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526335287668.m3u8$官网线路
 赣州新闻,https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526329228525.m3u8$官网线路
-📺广东频道,#genre#
+📡广东频道,#genre#
 
-广东珠江,http://cdn2.163189.xyz/163189/gdzj
-广东体育,http://cdn2.163189.xyz/163189/gdty
-广州综合,https://cdn13.178.indevs.in/163189/b13471c5de99d1c7
-广州南国都市,https://cdn15.163189.xyz/163189/90871926591ebcbc
+
 东莞综合,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
@@ -3503,14 +3478,8 @@ DJ苦了累了听听歌,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-📺海南福建,#genre#
-海南卫视,http://47.108.20.161:8866/hainan/hainan.php?id=hnws
-三沙卫视,http://47.108.20.161:8866/hainan/hainan.php?id=ssws
-海南新闻,http://47.108.20.161:8866/hainan/hainan.php?id=xwpd
-海南自贸,http://47.108.20.161:8866/hainan/hainan.php?id=jjpd
-海南社会与法,http://47.108.20.161:8866/hainan/hainan.php?id=ggpd
-海南文旅,http://47.108.20.161:8866/hainan/hainan.php?id=wlpd
-海南少儿,http://47.108.20.161:8866/hainan/hainan.php?id=sepd
+📡海南福建,#genre#
+
 海南新闻,http://153.0.171.163:85/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$海南/三亚/联通
 海南社会与法,http://153.0.171.163:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0$海南/三亚/联通
 海南文旅,http://153.0.171.163:85/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$海南/三亚/联通
@@ -3532,8 +3501,8 @@ DJ苦了累了听听歌,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_
 福建新闻,http://110.80.17.38:9999/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 福建旅游,http://110.80.17.38:9999/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 福州新闻,https://live.zohi.tv/video/s10001-fztv-1/index.m3u8
-🎪内蒙古,#genre#
-内蒙古卫视,http://rihou.cc:555/tv/内蒙古卫视   
+📡内蒙频道,#genre#
+
 内蒙古蒙语卫视,http://play1-qk.nmtv.cn/live/2315general.m3u8
 内蒙古新闻综合,http://play1-qk.nmtv.cn/live/2316general.m3u8
 内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/2319general.m3u8
@@ -3571,7 +3540,7 @@ DJ苦了累了听听歌,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_
 兵团十四师昆玉综合,http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8
 准格尔综合,http://121.199.48.54/live1/tianma.m3u8?ip=zge.nmgcyy.com.cn&id=25&app=com.qnktv.tvhd&version=1.4.0&mac=l1:1l:l1:1l:l1:1l&nwtime=1777265181&sign=a39f3272ca878f5444ce295d4cc4b79b&ev=20260214
 
-📺广西频道,#genre#
+📡广西频道,#genre#
 南宁新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
 南宁新闻综合,rtmp://live.gxrb.com.cn/tv/nntv
 南宁新闻综合,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
@@ -3590,7 +3559,7 @@ DJ苦了累了听听歌,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_
 南宁影视,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 南宁新闻,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁文旅,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
-📺新疆频道,#genre#
+📡新疆频道,#genre#
 新疆TV1,http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
 新疆TV2,http://110.153.180.106:55555/out_2/index.m3u8
 新疆TV3,http://110.153.180.106:55555/out_3/index.m3u8
@@ -3628,7 +3597,7 @@ DJ苦了累了听听歌,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_
 新星综合,http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 
-📺上海频道,#genre#
+📡上海频道,#genre#
 东方卫视4K,http://k.061899.xyz/k.php?id=dfws
 魔都眼,http://123.207.224.130:123/shanghai/kankan.php
 第一财经,http://123.207.224.130:123/shanghai/caijing.php?id=dycj
@@ -3649,7 +3618,7 @@ ICS频道,http://218.1.208.13:7777/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1
 
 
 
-📺辽宁频道,#genre#
+📡辽宁频道,#genre#
 
 辽宁都市,http://60.18.212.76:9527/rtp/232.0.0.42:8856
 辽宁体育,http://60.18.212.76:9527/rtp/232.0.0.66:8820
@@ -3681,7 +3650,7 @@ ICS频道,http://218.1.208.13:7777/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1
 临江综合,http://stream8.jlntv.cn/linjiang/playlist.m3u8
 辉南综合,http://stream5.jlntv.cn/hn/playlist.m3u8
 柳河综合,http://stream5.jlntv.cn/lh/playlist.m3u8
-📺甘肃频道,#genre#
+📡甘肃频道,#genre#
 
 
 永昌综合,https://play.kankanlive.com/live/1652755738635915.m3u8
@@ -3713,7 +3682,7 @@ ICS频道,http://218.1.208.13:7777/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1
 公共应急,rtmp://livein.gstv.com.cn/49048r/2v86i8
 少儿频道,rtmp://livein.gstv.com.cn/49048r/oj57of
 
-📡其他地方,#genre#
+📡藏族频道,#genre#
 藏语卫视,http://123.207.224.130:123/xizang/xizang.php?id=xzzy
 影视文化,http://123.207.224.130:123/xizang/xizang.php?id=xzys
 拉萨综合,rtmp://tv.lasatv.cn/channellive/lszhpd
@@ -3751,7 +3720,7 @@ ICS频道,http://218.1.208.13:7777/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1
 西宁新闻,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 西宁生活,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
 
-🌄 风景频道,#genre#
+🌄 中国风景,#genre#
 
 2025-9-3阅兵,http://jx.999315.xyz/yzzy/20250903/20785_ad349260/index.m3u8
 正义必胜晚会,http://jx.999315.xyz/yzzy/20250905/21018_6395ac11/index.m3u8
