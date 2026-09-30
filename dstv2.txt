@@ -1459,7 +1459,7 @@ CINEMAX
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 
 翡翠台,http://211.97.63.3:3443/hls/541/index.m3u8
-
+无线新闻台,rtmp://school.3class.cc/live/yifaTV-125
 TVBPlus,https://cdn3.indevs.in/stream/tvb/tvbp/
 明珠台,http://120.238.84.45:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
