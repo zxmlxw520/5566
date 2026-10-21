@@ -5,6 +5,8 @@
 //来源网络，免费分享，请勿追究，谢谢！//
 10.16秋意浓,#genre#
 打赏长久使用,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+画面卡顿试试,http://cfss.cc/cdn/du/85894.flv
+设置IJK软解,http://cfss.cc/cdn/du/85894.flv
 使用说明,https://i.uik.cc/view.php/1ed303e4a0660aaa857bf0a4bee37fb9.mp4
 浏览器扫码下载,https://i.uik.cc/view.php/bd6a5299fa73e787fa8c59afd05e4ec0.mp4
 安装教程,https://cloud.7so.top/f/k8ADs5/anzhuangjiaocheng.mp4
@@ -24,7 +26,7 @@
 CCTV4K http://192.151.150.154/live/cctv4k.m3u8#http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 湖南4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 峨眉电影,http://118.122.144.115:8888/newlive/live/hls/32/live.m3u8
-湖南4K,http://rihou.cc:555/tv/湖南卫视4K
+
 深圳4K,http://192.187.124.34:81/live/szws4k.m3u8
 江苏4K,http://192.187.124.34:81/live/jsws4k.m3u8
 四川4K,http://192.187.124.34:81/live/scws4k.m3u8
@@ -58,10 +60,7 @@ CCTV4K http://192.151.150.154/live/cctv4k.m3u8#http://38.75.136.137:98/gslb/dsdq
 淘Baby,http://mingjd.cn:7077/udp/239.3.1.238:8001$北京联通
 淘萌宠,http://mingjd.cn:7077/udp/239.3.1.102:8001$北京联通
 谍战剧场,http://120.237.39.10:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&down=1
-4K电影,http://45.192.97.170:8880/play/548.m3u8
-动作电影,http://45.192.97.170:8880/play/549.m3u8
-家庭影院,http://45.192.97.170:8880/play/550.m3u8
-影迷电影,http://45.192.97.170:8880/play/551.m3u8
+
 CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8
 CHC影迷电影,http://mg.cttv.vip/952383261#http://112.27.5.218:9901/tsfile/live/faacts/1038_1.m3u8
 CHC家庭影院,http://120.238.84.45:9901/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -78,7 +77,8 @@ CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
 
 
 🚀测试频道,#genre#
-卡顿按右换线路,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+加载慢多等一下,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+推荐IJK软解,http://cfss.cc/cdn/du/85894.flv
 能收到这些频道,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 实属不易,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 卡顿不稳定黑屏,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
@@ -94,19 +94,19 @@ CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 翡翠台,http://211.97.63.3:3443/hls/541/index.m3u8
 TVBPlus,https://cdn3.indevs.in/stream/tvb/tvbp/
-TVBPlus,http://cdn3.123.rr.kg/stream/tvb/tvbp/
 天映新加坡,https://10.fast.hidns.vip/163189/typd/
 天映经典,https://10.fast.hidns.vip/163189/ccm/
 天映经典,http://cdn3.123.rr.kg/stream/live/ccm/
-明珠台,http://cdn3.123.rr.kg/stream/tvb/mzt/
+明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
 華麗翡翠台,https://cdn3.indevs.in/stream/live/jade/
 華麗翡翠台(新加坡),https://cdn3.indevs.in/stream/live/jade/
 TVB星河,https://10.fast.hidns.vip/163189/xinghe/
-TVB DRAMA翡翠剧集台,http://cdn6.123.rr.kg/163189/tvbd
-TVB1,http://cdn6.123.rr.kg/163189/tvb1
-TVB J1,http://cdn6.123.rr.kg/163189/j1
-无線新闻,http://cdn6.123.rr.kg/163189/wxxw
-娱乐新闻台,http://cdn6.123.rr.kg/163189/ylxw
+TVB DRAMA翡翠剧集台,http://cc.123.rr.kg/163189/tvbd
+TVB1,http://cc.123.rr.kg/163189/tvb1
+TVB J1,http://cc.123.rr.kg/163189/j1
+无线新闻台,http://cc.123.rr.kg/163189/wxxwt
+无线新闻台,http://cc.123.rr.kg/163189/wxxw
+娱乐新闻台,http://cc.123.rr.kg/163189/ylxw
 VIUTV,https://cdn.123.rr.kg/163189/viu
 Astro AOD,https://cdn3.indevs.in/stream/live/aod/
 Astro AEC,https://cdn3.indevs.in/stream/live/aec/
@@ -119,9 +119,9 @@ TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
 千禧经典台,https://cdn3.indevs.in/stream/live/tvbc/
 TVBPlus,https://cdn3.indevs.in/stream/tvb/tvbp/
 明珠台,http://120.238.84.45:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
-HOY76,http://45.192.97.170:8880/play/619.m3u8
-HOY76,https://cdn11.163189.xyz/163189/hoy76
+
+HOY76 EXO软解,https://cdn11.163189.xyz/163189/hoy76
+
 HOY76,http://bziyunshao.synology.me:8891/bysid/76
 HOY77,https://fast.hidns.vip/163189/hoy
 HOY78,https://fast.hidns.vip/163189/hoy78
@@ -431,66 +431,7 @@ NatGeo Wild
 生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8 
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 
-清风港台备用,#genre#
-凤凰资讯,http://45.192.97.170:8880/play/65.m3u8
-凤凰中文,http://45.192.97.170:8880/play/66.m3u8
-凤凰香港,http://45.192.97.170:8880/play/67.m3u8
-香港卫视,http://45.192.97.170:8880/play/68.m3u8
-凤凰中文,http://45.192.97.170:8880/play/69.m3u8
-凤凰资讯,http://45.192.97.170:8880/play/70.m3u8
-凤凰香港,http://45.192.97.170:8880/play/71.m3u8
-凤凰美洲,http://159.75.4.149:99/清风/iptv.php?token=34abb01fd234bd0a96bde85b6d580ff8&ch=0926f63947af8af2
-TVB 翡翠台,http://159.75.4.149:99/清风/iptv.php?token=34abb01fd234bd0a96bde85b6d580ff8&ch=eff503d8f5fef7c8
-TVB 明珠台,http://159.75.4.149:99/清风/iptv.php?token=34abb01fd234bd0a96bde85b6d580ff8&ch=fab1fbf300ec90a9
-TVB 无线新闻台,http://159.75.4.149:99/清风/iptv.php?token=34abb01fd234bd0a96bde85b6d580ff8&ch=4677277b628dfde9
-TVB 翡翠台(香港時區),http://159.75.4.149:99/清风/iptv.php?token=34abb01fd234bd0a96bde85b6d580ff8&ch=8f5af89785c01d25
-TVB 翡翠台(香港時區),http://159.75.4.149:99/清风/iptv.php?token=34abb01fd234bd0a96bde85b6d580ff8&ch=d8c4b8899ae2e240
-TVB 翡翠台(香港時區 普通话),http://159.75.4.149:99/清风/iptv.php?token=34abb01fd234bd0a96bde85b6d580ff8&ch=6e504e8c843ae20e
-TVB 翡翠台(澳新時區),http://159.75.4.149:99/清风/iptv.php?token=34abb01fd234bd0a96bde85b6d580ff8&ch=8e45453602d08b44
-TVB 翡翠台(澳新時區),http://159.75.4.149:99/清风/iptv.php?token=34abb01fd234bd0a96bde85b6d580ff8&ch=a50618ee6ee5a748
-TVB 翡翠台(澳新時區 普通话),http://159.75.4.149:99/清风/iptv.php?token=34abb01fd234bd0a96bde85b6d580ff8&ch=e895eeeaa82bfd2f
-TVB 翡翠台(英國時區),http://159.75.4.149:99/清风/iptv.php?token=34abb01fd234bd0a96bde85b6d580ff8&ch=e772304971d358fc
-TVB 翡翠台(英國時區),http://159.75.4.149:99/清风/iptv.php?token=34abb01fd234bd0a96bde85b6d580ff8&ch=a43c6d6e898ca170
-TVB 翡翠台(英國時區 普通话),http://159.75.4.149:99/清风/iptv.php?token=34abb01fd234bd0a96bde85b6d580ff8&ch=e23ec699eaf96177
-TVB 翡翠台(美加東岸時區),http://159.75.4.149:99/清风/iptv.php?token=34abb01fd234bd0a96bde85b6d580ff8&ch=ae0a99d6531c9350
-TVB 翡翠台(美加東岸時區),http://159.75.4.149:99/清风/iptv.php?token=34abb01fd234bd0a96bde85b6d580ff8&ch=382c63d8fbdabe77
-TVB 翡翠台(美加東岸時區 普通话),http://159.75.4.149:99/清风/iptv.php?token=34abb01fd234bd0a96bde85b6d580ff8&ch=e2173980e93f86a5
-TVB 翡翠台(美加西岸時區),http://159.75.4.149:99/清风/iptv.php?token=34abb01fd234bd0a96bde85b6d580ff8&ch=80059f1199477159
-TVB 翡翠台(美加西岸時區),http://159.75.4.149:99/清风/iptv.php?token=34abb01fd234bd0a96bde85b6d580ff8&ch=15691b97b668781e
-TVB 翡翠台(美加西岸時區 普通话),http://159.75.4.149:99/清风/iptv.php?token=34abb01fd234bd0a96bde85b6d580ff8&ch=bb3b20d5a41b9c7a
-TVB 生活台,http://159.75.4.149:99/清风/iptv.php?token=34abb01fd234bd0a96bde85b6d580ff8&ch=5e04018d0263f933
-TVB Plus,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=1a74e9ff1ca29e3b
-HOY 76,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=50b3b0521f912656
-HOY 77,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=9a77dacaeed0019d
-HOY 78,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=8048902ad70b9265
-RTHK 31,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=d23c91cb47595b02
-RTHK 32,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=8f903674430d994e
-ViuTV,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=48ad0efb38e0a09c
-ViuTV6,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=7ca6cbff46d1cca4
-有线18台,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=fd4672b142fcb0a8
-无线18台,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=dbc3107b923d7517
-美亚电影,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=a681cec8f710dc84
-美亚电影 [国],http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=6eec98b631093c30
-TVB功夫台,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=409dc28567405f54
-TVB功夫台 [国],http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=de165ae63776a9e6
-TVB星河频道,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=9710b06937d33141
-TVB星河频道 [国],http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=2b05e50993a15c1b
-中国电影频道,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=863896a097d139de
-Now星影,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=a63c766ba52ffdaa
-Now爆谷,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=d992e484800c61d3
-Now劇集台,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=244b11fbbd84c5ab
-Now爆谷,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=fba4dea5bad40852
-Now爆谷台,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=b4c935b47b013c5d
-Now财经台,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=801f42fae0614273
-Now新闻台,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=28c202077de4dc9c
-Now直播台,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=9c781b01ebd67f88
-Now英超1台,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=a9a53b9e4da071e5
-NowSports1,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=aa06e5b799b96a4a
-NowSports2,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=b68c31525498816a
-NowSports3,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=d5d8806221ed0dd6
-NowSports4,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=8b5a142659a2307a
-NowSports5,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=fed0fb7031a89dab
-NowSports6,http://159.75.4.149:99/清风/iptv.php?
+
 🇨🇳CCTV咪咕,#genre#
 CCTV1,http://45.192.97.170:8880/play/1.m3u8
 CCTV2,http://45.192.97.170:8880/play/2.m3u8
@@ -593,45 +534,143 @@ CETV-1,http://45.192.97.170:8880/play/133.m3u8
 📺电信专区,#genre#
 按右找不卡的,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
 
-CCTV1综合,http://82.156.245.233:30008/608807420
-CCTV2财经,http://82.156.245.233:30008/631780532
-CCTV3综艺,http://82.156.245.233:30008/624878271
-CCTV4中文国际,http://82.156.245.233:30008/631780421
-CCTV5体育,http://82.156.245.233:30008/641886683
-CCTV5+体育赛事,http://82.156.245.233:30008/641886773
-CCTV6电影,http://82.156.245.233:30008/624878396
-CCTV7国防军事,http://82.156.245.233:30008/673168121
-CCTV8电视剧,http://82.156.245.233:30008/624878356
-CCTV9纪录,http://82.156.245.233:30008/673168140
-CCTV10科教,http://82.156.245.233:30008/624878405
-CCTV11戏曲,http://82.156.245.233:30008/667987558
-CCTV12社会与法,http://82.156.245.233:30008/673168185
-CCTV13新闻,http://82.156.245.233:30008/608807423
-CCTV14少儿,http://82.156.245.233:30008/624878440
-CCTV15音乐,http://82.156.245.233:30008/673168223
-CCTV17农业农村,http://82.156.245.233:30008/673168256
-东方卫视,http://82.156.245.233:30008/651632648
-江苏卫视,http://82.156.245.233:30008/623899368
-广东卫视,http://82.156.245.233:30008/608831231
-北京卫视,http://82.156.245.233:30008/630287636
-辽宁卫视,http://82.156.245.233:30008/630291707
-河北卫视,http://82.156.245.233:30008/962042070
-江西卫视,http://82.156.245.233:30008/783847495
-河南卫视,http://82.156.245.233:30008/790187291
-陕西卫视,http://82.156.245.233:30008/738910838
-大湾区卫视,http://82.156.245.233:30008/608917627
-湖北卫视,http://82.156.245.233:30008/947472496
-吉林卫视,http://82.156.245.233:30008/947472500
-青海卫视,http://82.156.245.233:30008/947472506
-东南卫视,http://82.156.245.233:30008/849116810
-海南卫视,http://82.156.245.233:30008/947472502
-海峡卫视,http://82.156.245.233:30008/849119120
-中国农林卫视,http://82.156.245.233:30008/956904896
-兵团卫视,http://82.156.245.233:30008/956923145
-宁夏卫视,http://82.156.245.233:30008/738910535
-重庆卫视,http://82.156.245.233:30008/738910914
-三沙卫视,http://82.156.245.233:30008/961023778
-黑龙江卫视,http://82.156.245.233:30008/738906901
+CCTV1,http://45.192.97.170:8880/play/327.m3u8
+CCTV2,http://45.192.97.170:8880/play/328.m3u8
+CCTV3,http://45.192.97.170:8880/play/329.m3u8
+CCTV4,http://45.192.97.170:8880/play/330.m3u8
+CCTV5,http://45.192.97.170:8880/play/331.m3u8
+CCTV5+,http://45.192.97.170:8880/play/332.m3u8
+CCTV6,http://45.192.97.170:8880/play/333.m3u8
+CCTV7,http://45.192.97.170:8880/play/334.m3u8
+CCTV8,http://45.192.97.170:8880/play/335.m3u8
+CCTV9,http://45.192.97.170:8880/play/336.m3u8
+CCTV10,http://45.192.97.170:8880/play/337.m3u8
+CCTV11,http://45.192.97.170:8880/play/338.m3u8
+CCTV12,http://45.192.97.170:8880/play/339.m3u8
+CCTV13,http://45.192.97.170:8880/play/340.m3u8
+CCTV14,http://45.192.97.170:8880/play/341.m3u8
+CCTV15,http://45.192.97.170:8880/play/342.m3u8
+CCTV16,http://45.192.97.170:8880/play/343.m3u8
+CCTV17,http://45.192.97.170:8880/play/344.m3u8
+CCTV4K超高清,http://45.192.97.170:8880/play/345.m3u8
+CCTV8K超高清,http://45.192.97.170:8880/play/346.m3u8
+CHC动作电影,http://45.192.97.170:8880/play/347.m3u8
+CHC影迷电影,http://45.192.97.170:8880/play/348.m3u8
+CHC家庭影院,http://45.192.97.170:8880/play/349.m3u8
+重温经典,http://45.192.97.170:8880/play/350.m3u8
+CCTV-电视指南,http://45.192.97.170:8880/play/351.m3u8
+CCTV-第一剧场,http://45.192.97.170:8880/play/352.m3u8
+CCTV-风云剧场,http://45.192.97.170:8880/play/353.m3u8
+CCTV-风云音乐,http://45.192.97.170:8880/play/354.m3u8
+CCTV-风云足球,http://45.192.97.170:8880/play/355.m3u8
+CCTV-高尔夫网球,http://45.192.97.170:8880/play/356.m3u8
+CCTV-兵器科技,http://45.192.97.170:8880/play/357.m3u8
+CCTV-女性时尚,http://45.192.97.170:8880/play/358.m3u8
+CCTV-世界地理,http://45.192.97.170:8880/play/359.m3u8
+CCTV-怀旧剧场,http://45.192.97.170:8880/play/360.m3u8
+CCTV-央视台球,http://45.192.97.170:8880/play/361.m3u8
+CCTV1,http://45.192.97.170:8880/play/362.m3u8
+CCTV2,http://45.192.97.170:8880/play/363.m3u8
+CCTV3,http://45.192.97.170:8880/play/364.m3u8
+CCTV4,http://45.192.97.170:8880/play/365.m3u8
+CCTV5,http://45.192.97.170:8880/play/366.m3u8
+CCTV6,http://45.192.97.170:8880/play/367.m3u8
+CCTV7,http://45.192.97.170:8880/play/368.m3u8
+CCTV8,http://45.192.97.170:8880/play/369.m3u8
+CCTV9,http://45.192.97.170:8880/play/370.m3u8
+CCTV10,http://45.192.97.170:8880/play/371.m3u8
+CCTV11,http://45.192.97.170:8880/play/372.m3u8
+CCTV12,http://45.192.97.170:8880/play/373.m3u8
+CCTV13,http://45.192.97.170:8880/play/374.m3u8
+CCTV14,http://45.192.97.170:8880/play/375.m3u8
+CCTV15,http://45.192.97.170:8880/play/376.m3u8
+CCTV16,http://45.192.97.170:8880/play/377.m3u8
+CCTV17,http://45.192.97.170:8880/play/378.m3u8
+CCTV5+,http://45.192.97.170:8880/play/379.m3u8
+CCTV4K超高清,http://45.192.97.170:8880/play/380.m3u8
+CCTV8K超高清,http://45.192.97.170:8880/play/381.m3u8
+CHC动作电影,http://45.192.97.170:8880/play/382.m3u8
+CHC影迷电影,http://45.192.97.170:8880/play/383.m3u8
+CHC家庭影院,http://45.192.97.170:8880/play/384.m3u8
+重温经典,http://45.192.97.170:8880/play/385.m3u8
+CCTV-电视指南,http://45.192.97.170:8880/play/386.m3u8
+CCTV-第一剧场,http://45.192.97.170:8880/play/387.m3u8
+CCTV-风云剧场,http://45.192.97.170:8880/play/388.m3u8
+CCTV-风云音乐,http://45.192.97.170:8880/play/389.m3u8
+CCTV-风云足球,http://45.192.97.170:8880/play/390.m3u8
+CCTV-高尔夫网球,http://45.192.97.170:8880/play/391.m3u8
+CCTV-兵器科技,http://45.192.97.170:8880/play/392.m3u8
+CCTV-女性时尚,http://45.192.97.170:8880/play/393.m3u8
+CCTV-世界地理,http://45.192.97.170:8880/play/394.m3u8
+CCTV-怀旧剧场,http://45.192.97.170:8880/play/395.m3u8
+CCTV-央视台球,http://45.192.97.170:8880/play/396.m3u8
+湖南卫视,http://45.192.97.170:8880/play/397.m3u8
+湖南卫视,http://45.192.97.170:8880/play/398.m3u8
+河北卫视,http://45.192.97.170:8880/play/399.m3u8
+山东卫视,http://45.192.97.170:8880/play/400.m3u8
+天津卫视,http://45.192.97.170:8880/play/401.m3u8
+东方卫视,http://45.192.97.170:8880/play/402.m3u8
+深圳卫视,http://45.192.97.170:8880/play/403.m3u8
+安徽卫视,http://45.192.97.170:8880/play/404.m3u8
+北京卫视,http://45.192.97.170:8880/play/405.m3u8
+广东卫视,http://45.192.97.170:8880/play/406.m3u8
+河南卫视,http://45.192.97.170:8880/play/407.m3u8
+江苏卫视,http://45.192.97.170:8880/play/408.m3u8
+江苏卫视,http://45.192.97.170:8880/play/409.m3u8
+浙江卫视,http://45.192.97.170:8880/play/410.m3u8
+东方卫视,http://45.192.97.170:8880/play/411.m3u8
+广东卫视,http://45.192.97.170:8880/play/412.m3u8
+东南卫视,http://45.192.97.170:8880/play/413.m3u8
+湖南卫视,http://45.192.97.170:8880/play/414.m3u8
+重庆卫视,http://45.192.97.170:8880/play/415.m3u8
+海峡卫视,http://45.192.97.170:8880/play/416.m3u8
+湖北卫视,http://45.192.97.170:8880/play/417.m3u8
+辽宁卫视,http://45.192.97.170:8880/play/418.m3u8
+江西卫视,http://45.192.97.170:8880/play/419.m3u8
+陕西卫视,http://45.192.97.170:8880/play/420.m3u8
+宁夏卫视,http://45.192.97.170:8880/play/421.m3u8
+甘肃卫视,http://45.192.97.170:8880/play/422.m3u8
+青海卫视,http://45.192.97.170:8880/play/423.m3u8
+新疆卫视,http://45.192.97.170:8880/play/424.m3u8
+河南卫视,http://45.192.97.170:8880/play/425.m3u8
+吉林卫视,http://45.192.97.170:8880/play/426.m3u8
+兵团卫视,http://45.192.97.170:8880/play/427.m3u8
+西藏卫视,http://45.192.97.170:8880/play/428.m3u8
+安徽卫视,http://45.192.97.170:8880/play/429.m3u8
+北京卫视,http://45.192.97.170:8880/play/430.m3u8
+兵团卫视,http://45.192.97.170:8880/play/431.m3u8
+重庆卫视,http://45.192.97.170:8880/play/432.m3u8
+大湾区卫视(国际版),http://45.192.97.170:8880/play/433.m3u8
+东方卫视,http://45.192.97.170:8880/play/434.m3u8
+东南卫视,http://45.192.97.170:8880/play/435.m3u8
+广东卫视,http://45.192.97.170:8880/play/436.m3u8
+甘肃卫视,http://45.192.97.170:8880/play/437.m3u8
+广西卫视,http://45.192.97.170:8880/play/438.m3u8
+贵州卫视,http://45.192.97.170:8880/play/439.m3u8
+河南卫视,http://45.192.97.170:8880/play/440.m3u8
+湖北卫视,http://45.192.97.170:8880/play/441.m3u8
+河北卫视,http://45.192.97.170:8880/play/442.m3u8
+黑龙江卫视,http://45.192.97.170:8880/play/443.m3u8
+湖南卫视,http://45.192.97.170:8880/play/444.m3u8
+吉林卫视,http://45.192.97.170:8880/play/445.m3u8
+江苏卫视,http://45.192.97.170:8880/play/446.m3u8
+江西卫视,http://45.192.97.170:8880/play/447.m3u8
+辽宁卫视,http://45.192.97.170:8880/play/448.m3u8
+大湾区卫视,http://45.192.97.170:8880/play/449.m3u8
+内蒙古卫视,http://45.192.97.170:8880/play/450.m3u8
+宁夏卫视,http://45.192.97.170:8880/play/451.m3u8
+青海卫视,http://45.192.97.170:8880/play/452.m3u8
+四川卫视,http://45.192.97.170:8880/play/453.m3u8
+山东卫视,http://45.192.97.170:8880/play/454.m3u8
+陕西卫视,http://45.192.97.170:8880/play/455.m3u8
+三沙卫视,http://45.192.97.170:8880/play/456.m3u8
+山西卫视,http://45.192.97.170:8880/play/457.m3u8
+深圳卫视,http://45.192.97.170:8880/play/458.m3u8
+天津卫视,http://45.192.97.170:8880/play/459.m3u8
+新疆卫视,http://45.192.97.170:8880/play/460.m3u8
+厦门卫视,http://45.192.97.170:8880/play/461.m3u8
+云南卫视,http://45.192.97.170:8880/play/462.m3u8
+浙江卫视,http://45.192.97.170:8880/play/463.m3u8
 
 
 📺移动专区,#genre#
@@ -11167,48 +11206,48 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 网球王子,http://cfss.cc/cdn/huya/11352882.flv
 🏓体育频道,#genre# 
 请在公告页打赏,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
-睛彩篮球,http://45.192.97.170:8880/play/918.m3u8
-睛彩青少,http://45.192.97.170:8880/play/919.m3u8
-睛彩广场舞,http://45.192.97.170:8880/play/920.m3u8
-睛彩竞技,http://45.192.97.170:8880/play/921.m3u8
-咪咕视频-1,http://45.192.97.170:8880/play/922.m3u8
-咪咕视频-2,http://45.192.97.170:8880/play/923.m3u8
-咪咕视频-3,http://45.192.97.170:8880/play/924.m3u8
-咪咕视频-4,http://45.192.97.170:8880/play/925.m3u8
-咪咕视频-5,http://45.192.97.170:8880/play/926.m3u8
-咪咕视频-6,http://45.192.97.170:8880/play/927.m3u8
-咪咕视频-7,http://45.192.97.170:8880/play/928.m3u8
-咪咕视频-8,http://45.192.97.170:8880/play/929.m3u8
-咪咕视频-9,http://45.192.97.170:8880/play/930.m3u8
-咪咕视频-10,http://45.192.97.170:8880/play/931.m3u8
-咪咕视频-11,http://45.192.97.170:8880/play/932.m3u8
-咪咕视频-12,http://45.192.97.170:8880/play/933.m3u8
-咪咕视频-13,http://45.192.97.170:8880/play/934.m3u8
-咪咕视频-14,http://45.192.97.170:8880/play/935.m3u8
-咪咕视频-15,http://45.192.97.170:8880/play/936.m3u8
-咪咕视频-16,http://45.192.97.170:8880/play/937.m3u8
-咪咕视频-24,http://45.192.97.170:8880/play/938.m3u8
-咪咕视频-25,http://45.192.97.170:8880/play/939.m3u8
-咪咕视频-26,http://45.192.97.170:8880/play/940.m3u8
-咪咕视频-27,http://45.192.97.170:8880/play/941.m3u8
-咪咕视频-28,http://45.192.97.170:8880/play/942.m3u8
-咪咕视频-29,http://45.192.97.170:8880/play/943.m3u8
-咪咕视频-30,http://45.192.97.170:8880/play/944.m3u8
-咪咕视频-31,http://45.192.97.170:8880/play/945.m3u8
-咪咕视频-32,http://45.192.97.170:8880/play/946.m3u8
-咪咕视频-33,http://45.192.97.170:8880/play/947.m3u8
-咪咕视频-34,http://45.192.97.170:8880/play/948.m3u8
-咪咕视频-35,http://45.192.97.170:8880/play/949.m3u8
-咪咕视频-36,http://45.192.97.170:8880/play/950.m3u8
-咪咕视频-37,http://45.192.97.170:8880/play/951.m3u8
-咪咕视频-38,http://45.192.97.170:8880/play/952.m3u8
-咪咕视频-39,http://45.192.97.170:8880/play/953.m3u8
-咪咕视频-40,http://45.192.97.170:8880/play/954.m3u8
-咪咕视频-41,http://45.192.97.170:8880/play/955.m3u8
-咪咕视频-42,http://45.192.97.170:8880/play/956.m3u8
-咪咕视频-43,http://45.192.97.170:8880/play/957.m3u8
-咪咕视频-44,http://45.192.97.170:8880/play/958.m3u8
-咪咕视频-45,http://45.192.97.170:8880/play/959.m3u8
+睛彩篮球,http://45.192.97.170:8880/play/464.m3u8
+睛彩青少,http://45.192.97.170:8880/play/465.m3u8
+睛彩广场舞,http://45.192.97.170:8880/play/466.m3u8
+睛彩竞技,http://45.192.97.170:8880/play/467.m3u8
+咪咕视频-1,http://45.192.97.170:8880/play/468.m3u8
+咪咕视频-2,http://45.192.97.170:8880/play/469.m3u8
+咪咕视频-3,http://45.192.97.170:8880/play/470.m3u8
+咪咕视频-4,http://45.192.97.170:8880/play/471.m3u8
+咪咕视频-5,http://45.192.97.170:8880/play/472.m3u8
+咪咕视频-6,http://45.192.97.170:8880/play/473.m3u8
+咪咕视频-7,http://45.192.97.170:8880/play/474.m3u8
+咪咕视频-8,http://45.192.97.170:8880/play/475.m3u8
+咪咕视频-9,http://45.192.97.170:8880/play/476.m3u8
+咪咕视频-10,http://45.192.97.170:8880/play/477.m3u8
+咪咕视频-11,http://45.192.97.170:8880/play/478.m3u8
+咪咕视频-12,http://45.192.97.170:8880/play/479.m3u8
+咪咕视频-13,http://45.192.97.170:8880/play/480.m3u8
+咪咕视频-14,http://45.192.97.170:8880/play/481.m3u8
+咪咕视频-15,http://45.192.97.170:8880/play/482.m3u8
+咪咕视频-16,http://45.192.97.170:8880/play/483.m3u8
+咪咕视频-24,http://45.192.97.170:8880/play/484.m3u8
+咪咕视频-25,http://45.192.97.170:8880/play/485.m3u8
+咪咕视频-26,http://45.192.97.170:8880/play/486.m3u8
+咪咕视频-27,http://45.192.97.170:8880/play/487.m3u8
+咪咕视频-28,http://45.192.97.170:8880/play/488.m3u8
+咪咕视频-29,http://45.192.97.170:8880/play/489.m3u8
+咪咕视频-30,http://45.192.97.170:8880/play/490.m3u8
+咪咕视频-31,http://45.192.97.170:8880/play/491.m3u8
+咪咕视频-32,http://45.192.97.170:8880/play/492.m3u8
+咪咕视频-33,http://45.192.97.170:8880/play/493.m3u8
+咪咕视频-34,http://45.192.97.170:8880/play/494.m3u8
+咪咕视频-35,http://45.192.97.170:8880/play/495.m3u8
+咪咕视频-36,http://45.192.97.170:8880/play/496.m3u8
+咪咕视频-37,http://45.192.97.170:8880/play/497.m3u8
+咪咕视频-38,http://45.192.97.170:8880/play/498.m3u8
+咪咕视频-39,http://45.192.97.170:8880/play/499.m3u8
+咪咕视频-40,http://45.192.97.170:8880/play/500.m3u8
+咪咕视频-41,http://45.192.97.170:8880/play/501.m3u8
+咪咕视频-42,http://45.192.97.170:8880/play/502.m3u8
+咪咕视频-43,http://45.192.97.170:8880/play/503.m3u8
+咪咕视频-44,http://45.192.97.170:8880/play/504.m3u8
+咪咕视频-45,http://45.192.97.170:8880/play/505.m3u8
 JJ斗地主,http://47.92.94.193:10086/huya/hy.php?hy=152698
 斯诺克,http://47.92.94.193:10086/huya/hy.php?hy=880214
 斯诺克,https://www.goodiptv.club/huya/880214
